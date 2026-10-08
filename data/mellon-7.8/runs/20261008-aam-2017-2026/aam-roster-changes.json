@@ -1,0 +1,742 @@
+[
+  {
+    "change": "added",
+    "collection_key": "ahsoka-101",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "ahsoka-108",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "removed",
+    "collection_key": "altered-carbon-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "change": "removed",
+    "collection_key": "altered-carbon-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "change": "removed",
+    "collection_key": "american-crime-story-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "change": "removed",
+    "collection_key": "american-crime-story-205",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "change": "added",
+    "collection_key": "and-just-like-that-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "and-just-like-that-211",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "arcane-02.1",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "arcane-02.2",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "arcane-02.3",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "army-of-the-dead",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "avatar-the-last-airbender-2024-02",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "beacon-23-101",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "beacon-23-108",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "beef-02",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "blue-eye-samurai-01",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "bluff",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "book-of-boba-fett-107",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "bridgerton-02",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "chilling-adventures-of-sabrina-01",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "citadel-101",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "citadel-106",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "removed",
+    "collection_key": "cowboy-bebop-2021-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "change": "added",
+    "collection_key": "dune-2021",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "eternals",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "expanse-04",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "expanse-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "expanse-203",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "expanse-204",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "expanse-210",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "expanse-213",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "expanse-301",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "expanse-313",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "expanse-501",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "expanse-510",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "expanse-601",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "expanse-606",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "fargo-501",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "fargo-510",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "for-all-mankind-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "for-all-mankind-210",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "for-all-mankind-301",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "for-all-mankind-401",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "for-all-mankind-410",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "for-all-mankind-501",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "gen-v-101",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "gen-v-108",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "gen-v-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "gen-v-206",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "glass-onion",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "goat-2026",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "godzilla-x-kong-the-new-empire",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "gray-man",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "guardians-of-the-galaxy-3",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "his-and-hers-2026-01",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "house-of-the-dragon-101",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "house-of-the-dragon-103",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "house-of-the-dragon-110",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "house-of-the-dragon-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "house-of-the-dragon-207",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "house-of-the-dragon-301",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "house-of-the-dragon-308",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "human-flow",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "into-the-badlands-203",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "removed",
+    "collection_key": "laid-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "change": "added",
+    "collection_key": "legend-of-aang-the-last-airbender",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "lego-star-wars-holiday-special-2020",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "loki-101",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "loki-106",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "loki-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "loki-206",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "maniac-01",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "masters-of-the-air-101",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "masters-of-the-air-108",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "matrix-resurrections",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "murder-at-the-end-of-the-world-101",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "murder-at-the-end-of-the-world-107",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "night-agent-02",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "night-agent-03",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "no-time-to-die",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "oa-02",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "old-man-107",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "old-man-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "one-piece-2023-02",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "pitt-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "pitt-213",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "prisoners-of-the-ghostland",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "reacher-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "reacher-208",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "reacher-301",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "reacher-307",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "reacher-401",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "she-ra-04",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "silo-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "silo-301",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "snowpiercer-209",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "snowpiercer-401",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "spider-man-across-the-spider-verse",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "spider-man-no-way-home",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "spider-noir-01",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "station-eleven-110",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "succession-210",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "succession-301",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "sugar-107",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "sugar-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "tokyo-vice-01",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "tokyo-vice-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "tokyo-vice-209",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "toy-story-5",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "removed",
+    "collection_key": "trese-01",
+    "reason": "usa-production-not-confirmed"
+  },
+  {
+    "change": "added",
+    "collection_key": "tron-ares",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "true-detective-301",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "true-detective-308",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "twisted-metal-01",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "umbrella-academy-01",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "umbrella-academy-02",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "walking-dead-1008",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "walking-dead-1124",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "walking-dead-709",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "walking-dead-710",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "walking-dead-713",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "walking-dead-716",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "walking-dead-801",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "walking-dead-807",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "walking-dead-811",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "walking-dead-816",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "walking-dead-908",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "walking-dead-916",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "warrior-310",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "westworld-201",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "westworld-203",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "westworld-205",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "westworld-207",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "westworld-210",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "westworld-301",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "westworld-308",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "westworld-401",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "westworld-408",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "wicked-2024",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "wicked-for-good-2025",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "witcher-02",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "witcher-03.1",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "witcher-03.2",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "witcher-04",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "yellowstone-210",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "yellowstone-505",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  },
+  {
+    "change": "added",
+    "collection_key": "you-04.2",
+    "reason": "expanded-aapi-threshold-2-no-citizenship-minimum"
+  }
+]

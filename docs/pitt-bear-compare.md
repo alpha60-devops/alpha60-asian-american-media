@@ -14,7 +14,7 @@ description: "Geographic and mobile-network comparison at matched sampling weeks
 <script defer src="../resources/izzi-weekly-graph-hover.js"></script>
 {:/}
 
-[AAPI-Led results](../index.html)
+[Asian American Media results](../index.html)
 
 # The Pitt and The Bear: India, Philippines, Australia
 

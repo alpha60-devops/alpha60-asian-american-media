@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "scope": "all selected roster and annual inputs; all itemized/weekly/aggregate values; all geographic inputs; all chart specifications",
+  "eligible_unique_works": 181,
+  "measured_cohort_entries": 181,
+  "geographic_inputs": 610,
+  "expanded_union_only_threshold_qualifiers": [
+    "bluff",
+    "book-of-boba-fett-107",
+    "chief-of-war-101",
+    "chief-of-war-107",
+    "moana-2"
+  ],
+  "weekly_points": 2637,
+  "graphs": 10,
+  "limitations": [
+    "2026 ITU normalization provisional",
+    "reviewed identity coverage is bounded",
+    "cross-object totals are sums, not globally unique viewers"
+  ],
+  "validator_sha256": "c7d8f2c9104478737424404aac4dea744a5f54b060d150a6ec6738f46a0a77e8"
+}

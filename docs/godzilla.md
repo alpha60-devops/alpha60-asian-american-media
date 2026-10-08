@@ -13,7 +13,7 @@ description: "Geographic and mobile-network comparison at matched sampling weeks
 <script defer src="../resources/mellon-7.6-analysis.js"></script>
 {:/}
 
-[AAPI-Led results](../index.html)
+[Asian American Media results](../index.html)
 
 # Godzilla and Monarch: Japan, USA, China and South Korea
 

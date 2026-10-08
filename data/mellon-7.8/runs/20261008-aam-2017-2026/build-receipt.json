@@ -1,0 +1,49 @@
+{
+  "counts": {
+    "eligible_unique_works": 181,
+    "geographic_rows": 181,
+    "measured_cohort_entries": 181,
+    "missing_checkpoints": 114,
+    "missing_inventory_works": 0,
+    "roster_added": 141,
+    "roster_removed": 7,
+    "selected_cohort_entries": 181,
+    "zero_us_citizen_eligible_works": 29
+  },
+  "metadata_artifact_digest": "0d9d571f472fa7d5e63581c34b46b874aa85a3262f963e8321d31ba6ebac2b1c",
+  "outputs": {
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-aggregate.csv": "af4938bf4ecf9721d65b4558a5b01fbae7c216bf88893aad3a9f073b48a9a922",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-aggregate.json": "cb1b5a527b271301bd477cb3ad628e5807a2f32839ea20a254f3073da890fb58",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-cohorts.csv": "20085adc27399c0136861635c7446f666c233b9bb0508f9757d48487c0e55175",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-cohorts.json": "00c178771a8aa080724b5c7aecac410a5e649b82b9c34eddaa071c7fc29c098a",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-coverage.csv": "fbf7b5bc9f65308cfd9191407ab33194648c83d1c039b47cae208fcab18bcb07",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-coverage.json": "6671f4919724f3becefd9fb230cc6434d36bb302eb4b1e15907388f1ece56533",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-eligible-roster.csv": "2d3b08ff26a8de2ea3a4ff6c724c80d73bf64c185d68161c3e61467b1482df3e",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-eligible-roster.json": "5c106ca18ddefbf7a58b07282bd10b9fc3582c5a0b6830f93e264881d116fbb5",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-exclusions.csv": "36d771dafb72e913120e093ca42961371d58cd2e789a994023555fb8fb7c4a58",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-exclusions.json": "601b252ebafa63ff2a1c0b55f57115152d4a6492a485364da9cd2328b987cd2c",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-geo-slices.csv": "0e7ded73f241281cf1a8716c544b8fd7a1b8973926ff6c2e141955957c11a8e6",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-geo-slices.json": "bdcd71322cacc9d1d885a394236990dd93907f172a8ff428a38432771cb7a66a",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-graph-ledger.json": "ce49c83fc25002a9b5fa935c70759fcb1d1b050bff4aa1074092230c37ab5610",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-itemized.csv": "56f2ffd9263640320d04d9594cec6a2e799caeb3601ef879355655ce4536cb44",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-itemized.json": "64eafa0276db425b9317c1fe18a1d83a7d23c74ce948653304780d525d02ae73",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-roster-changes.csv": "60f37bdd68d5ce78cef448c92482183e5a856391f27994010c32f2b4e84073d2",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-roster-changes.json": "b50dc3a19954c99722c762cd0f684cf466f9970c5a9072ab6b5efbf908e83acd",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-table-manifest.json": "ecc79231972342cea04d0724e5046e49b27b58bba8c221087bc0c0d880fdcf01",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-weekly.csv": "e7510a01fd7639d7c65fcf637ee4a2a89adf797352b5bce1290f9f59807be2e4",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/aam-weekly.json": "f8e2ec1613be43cde5642375e76a2e6efdabac53bff5275d3f579dcf138aab4a",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/geographic-source-manifest.json": "e9c8dc88f8616f2f23ccf709f0ed3f11e34f0851ca41c8ddb95ceb1f24d36d9d",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/graph-validation-receipt.json": "cdf74446158328df99117f5686423c4a153e562daebef0acab355bc91563764f",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/run-config.json": "519ff60743d82c4cf2e318df6f2afa0eea8228847f3e19684e6ebf2fdf88bdc9",
+    "data/mellon-7.8/runs/20261008-aam-2017-2026/selection-manifest.json": "82bab640b1dea0866815938a6c9ced04c667c3aaf07b50f35cc6a0f1b5025342"
+  },
+  "renderer_sha256": "03a716a4970ace69f3aa1fec377e468ed4a20641214e17195b13ff68f28f9bcb",
+  "run_id": "20261008-aam-2017-2026",
+  "script_sha256": "5ddd7897884bf0e0c44a6b62da30232b4319de1d9b3b2213320c189b64670229",
+  "shared_sources": {
+    "scripts/build-mellon-5-meta-collection.py": "2afe544c761a531bc8f6e14ff5cf6f74c6afaabd7f3dc6972b53520f43b3ff67",
+    "scripts/mellon-7.8-aam.css": "93490f2dd532babb7ed5b42709b4b320366fa4d77db324ad63c510f473d35807",
+    "scripts/mellon_animation_tables.py": "8fd2e294c9d369cfba29104a3f31451bd9c7752a29e1810dbfcf97678081a1a4",
+    "src/a60-collection-tabulate.h": "9e41b356fd17b018e03b865492f0b79f106de3a6eea86eeb98d8dc373ab0901b"
+  }
+}

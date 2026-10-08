@@ -1,0 +1,9 @@
+.table-container { overflow-x: auto; max-width: 100%; }
+.mellon-table thead th { font-family: inherit; font-size: 12px; line-height: 1.25; }
+.mellon-table thead th button { color: inherit; font: inherit; font-weight: inherit; }
+.mellon-table .column-primary, .mellon-table tbody th[scope="row"] { min-width: 30em; white-space: nowrap; }
+.mellon-table .column-compact { min-width: 4.5em; width: 4.5em !important; }
+.mellon-table[id$="-media-objects"] tbody th[scope="row"] { font-size: 11px; }
+.aam-graph { margin: 1.5rem 0; max-width: 100%; overflow-x: auto; }
+.aam-graph svg { display: block; width: 100%; height: auto; min-width: 760px; }
+.aam-graph figcaption { font-size: .9rem; }

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "AAPI-Led"
+title: "Asian American Media"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "Analysis of AAPI-Led peer-to-peer distribution"
+description: "Analysis of Asian American Media peer-to-peer distribution"
 ---
 
 
@@ -23,26 +23,25 @@ event as a file or archive. *Sharing* means the BitTorrent peer-to-peer file
 sharing protocol. This is part of the long-term [Alpha60](https://alpha60.co/)
 project.
 
-## AAPI-Led
+## Asian American Media
 
-Definition: Texts produced by US production companies (co-productions are acceptable as long as one major partner is a US company) that feature AAPI characters, actors, creators, and/or storylines. A text does not need all four (AAPI characters, actors, creators, and/or storylines) to qualify.
+Confirmed works in the expanded AAPI boundary with at least two qualifying
+actor/primary-creator credits and USA production. The union includes reviewed
+Asian diaspora and Native Hawaiian/Pacific Islander qualifications. The Asian
+reference set is Asia-28, including Macau and Taiwan. No U.S.-citizenship minimum
+applies. See the [set definition and current results](docs/aam.html).
 
-Edge cases to consider: Bojack Horseman - major AAPI character but no other meaningful AAPI involvement; it is VERY difficult, instinctively, to call Bojack Horsemen an AAPI-led text. And so while a text doesn’t need to meet all four AAPI criteria, it likely has to meet more than one… 
-
-This excludes: texts that are not produced by US production companies (regardless of AAPI involvement otherwise); texts that exclusively feature non-US Asian characters, actors, creators, and/or storylines (e.g. a Chinese-British actor would not be counted). 
-
-
-Sample dates: 2018 to 2026
+Annual cohorts: 2017 to 2026. Observation dates vary by media object.
 
 <div style="height: 50px;"></div>
-{% include aapi-media-objects-list.html %}
+{% include aam-media-objects-list.html %}
 <div style="height: 50px;"></div>
 
 
 ## Results, Commentary
-- [AAPI-Led](docs/aapi.html)
-- [AAPI and Asian-global: matched geographic comparisons](docs/asia-asian-where.html)
 - [Asia-28 regional rankings](https://alpha60-devops.github.io/alpha60-results/docs/region-top-asia-28.html)
+- [Asian American Media](docs/aam.html)
+- [AAPI and Asian-global: matched geographic comparisons](docs/asia-asian-where.html)
 - [The Pitt versus The Bear: India, Philippines and Australia](docs/pitt-bear-compare.html)
 - [Godzilla and Monarch: Japan, USA, China and South Korea](docs/godzilla.html)
 - [Fail: meta-compare aapi-led vs. white-led](https://github.com/bdekoz/alpha60/blob/main/docs/development/20260916_swarm_analysis_mellon_7.1_hex_space_cardinality_results.md)
@@ -54,12 +53,14 @@ Sample dates: 2018 to 2026
 
 ### Forms
 
-The files below are this group's published measurements. The itemized links
+The [Mellon 7.8 downloads](docs/aam.html#data-and-method) contain the current
+recomputed group analysis. The files below are earlier published examples; the
+expanded roster uses the annual sources pinned in the new selection manifest. The itemized links
 above open annual sample-cache audits, which may describe newer exports or
 different observation windows. Check the sample dates when comparing sources.
 
-Replace `<collection-key>` with a key from the group list above. Each form
-links to an example from this group's `data/` directory.
+Each form links to an existing example from this group's `data/` directory.
+Use the annual audit links above for measurements of newly included works.
 
 - [Cumulative measurements (JSON)](data/3-body-problem-01-cumulative.json)
   - `<collection-key>-cumulative.json` — Collection totals and cumulative summaries.

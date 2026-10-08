@@ -13,7 +13,7 @@ description: "Three matched 15-week pairs, current Asia-28 geography, and the hi
 <script defer src="../resources/mellon-7.6-analysis.js"></script>
 {:/}
 
-[AAPI-Led results](../index.html)
+[Asian American Media results](../index.html)
 
 # AAPI and Asian-global: matched geographic comparisons
 

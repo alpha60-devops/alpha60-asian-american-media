@@ -1,0 +1,52 @@
+[
+  {
+    "cohort_year": "2017",
+    "measured": 12,
+    "selected": 12
+  },
+  {
+    "cohort_year": "2018",
+    "measured": 14,
+    "selected": 14
+  },
+  {
+    "cohort_year": "2019",
+    "measured": 13,
+    "selected": 13
+  },
+  {
+    "cohort_year": "2020",
+    "measured": 7,
+    "selected": 7
+  },
+  {
+    "cohort_year": "2021",
+    "measured": 21,
+    "selected": 21
+  },
+  {
+    "cohort_year": "2022",
+    "measured": 22,
+    "selected": 22
+  },
+  {
+    "cohort_year": "2023",
+    "measured": 28,
+    "selected": 28
+  },
+  {
+    "cohort_year": "2024",
+    "measured": 26,
+    "selected": 26
+  },
+  {
+    "cohort_year": "2025",
+    "measured": 15,
+    "selected": 15
+  },
+  {
+    "cohort_year": "2026",
+    "measured": 23,
+    "selected": 23
+  }
+]
