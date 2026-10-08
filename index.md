@@ -76,7 +76,7 @@ Use the annual audit links above for measurements of newly included works.
   - `<collection-key>.json` — Descriptive source metadata.
 - [JSON field documentation](docs/data-json.2026.html)
 
-### [Source](https://github.com/alpha60-devops/alpha60-results-aapi-led/tree/main/data)
+### [Source](https://github.com/alpha60-devops/alpha60-asian-american-media/tree/main/data)
 
 
 {::nomarkdown}
