@@ -1,0 +1,2277 @@
+[
+  {
+    "cohort_year": 2017,
+    "collection_key": "americans-501",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "americans-513",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "blade-runner-2049",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "el-chapo-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "feud-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "feud-102",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "feud-108",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "game-of-thrones-701",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "game-of-thrones-702",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "game-of-thrones-703",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "game-of-thrones-705",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "game-of-thrones-706",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "game-of-thrones-707",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "good-fight-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "good-fight-105",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "good-fight-108",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "good-fight-110",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "handmaids-tale-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "handmaids-tale-105",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "house-of-cards-05",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "i-love-dick",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "narcos-03",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "screeners",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "sense8-02.1",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "star-trek-discovery-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "star-trek-discovery-104",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "star-trek-discovery-109",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "star-wars-last-jedi",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "stormy-daniels-2017",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "stranger-things-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "twin-peaks-310",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "twin-peaks-317",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "3-percent-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "altered-carbon-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "american-crime-story-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "american-crime-story-205",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "better-call-saul-406",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "black-panther",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "doctor-who-1101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "doctor-who-1105",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "glow-02",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "good-fight-202",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "good-fight-205",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "good-fight-210",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "good-fight-213",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "handmaids-tale-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "handmaids-tale-208",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "handmaids-tale-213",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "house-of-cards-06",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "legend-of-galactic-heroes-die-neue-these",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "luke-cage-02",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "marvelous-mrs-maisel-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "narcos-mexico-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "orange-is-the-new-black-06",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "orville-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "ozark-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "queen-of-the-south-301",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "queen-of-the-south-311",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "queen-of-the-south-313",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "random-acts-of-flyness-104",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "random-acts-of-flyness-106",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "romanoffs-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "romanoffs-104",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "romanoffs-108",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "sense8-02.2",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "star-trek-discovery-110",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "star-trek-discovery-115",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "bachelors-23-and-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "big-bang-theory-1223",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "big-little-lies-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "big-little-lies-207",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "black-monday-106",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "black-monday-110",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "cobra-kai-02",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "doctor-who-1200",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "dolemite-is-my-name",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "ferhat-ile-sirin",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "game-of-thrones-801",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "game-of-thrones-803",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "game-of-thrones-806",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "glow-03",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "good-fight-301",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "good-fight-310",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "high-flying-bird",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "i-am-the-night-103",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "i-am-the-night-106",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "kurulus-osman-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "love-death-robots-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "mandalorian-101",
+    "reason": "identity-evidence-unconfirmed; qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "mandalorian-102",
+    "reason": "identity-evidence-unconfirmed; qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "mandalorian-108",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "marvelous-mrs-maisel-03",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "orange-is-the-new-black-07",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "orville-206",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "orville-214",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "permanent-record",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "queen-of-the-south-407",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "queen-of-the-south-413",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "queer-eye-2018-04",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "star-trek-discovery-201",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "star-trek-discovery-206",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "star-trek-discovery-214",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "stranger-things-03",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "tales-of-the-city-2019",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "undone-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "watchmen-104",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "watchmen-109",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "alienist-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "altered-carbon-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "altered-carbon-resleeved",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "avenue-5-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "away-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "biohackers-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "black-is-king",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "blackaf-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "bojack-horseman-06",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "boys-201",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "boys-208",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "control-z-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "da-5-bloods",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "dark-03",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "doom-patrol-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "euphoria-special",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "folklore",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "good-fight-407",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "hamilton",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "happiest-season",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "high-fidelity-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "jamtara-sabka-number-ayega",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "lovebirds",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "lovecraft-country-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "lovecraft-country-110",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "mandalorian-201",
+    "reason": "identity-evidence-unconfirmed; qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "mandalorian-208",
+    "reason": "identity-evidence-unconfirmed; qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "narcos-mexico-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "queer-eye-2018-05",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "raised-by-wolves-110",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "solar-opposites-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "songbird",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "space-force-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "star-trek-discovery-305",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "star-trek-lower-decks-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "star-trek-picard-110",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "tales-from-the-loop-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "tenet",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "tiger-king-and-i",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "upload-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "vanguard",
+    "reason": "usa-production-not-confirmed"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "what-we-do-in-the-shadows-210",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "wonder-woman-1984",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "archer-1201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "beatles-get-back",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "black-monday-310",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "bliss",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "borats-american-lockdown",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "cinderella-2021",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "cobra-kai-03",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "cocaine-cowboys-the-kings-of-miami",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "coming-2-america",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "cowboy-bebop-2021-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "debris-113",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "detective-chinatown-3",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "dont-look-up",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "doom-patrol-301",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "doors",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "falcon-and-the-winter-soldier-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "falcon-and-the-winter-soldier-106",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "foundation-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "godzilla-vs-kong",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "good-fight-510",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "halston-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "harder-they-fall",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "intergalactic-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "invasion-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "love-death-robots-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "lupin-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "made-for-love-107",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "malcolm-and-marie",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "me-you-cant-see-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "mitchells-vs-the-machines",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "money-heist-05.1",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "money-heist-05.2",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "mother-android",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "narcos-mexico-03",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "no-sudden-move",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "one-night-in-miami",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "one-piece-95x",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "one-piece-98x",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "only-murders-in-the-building-110",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "oprah-meghan-harry",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "outer-banks-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "outside-the-wire",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "pacific-rim-the-black",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "pose-307",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "princess-switch-3",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "q-force-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "queen-of-the-south-510",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "space-sweepers",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "star-wars-visions-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "suicide-squad-2021",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "summer-of-soul",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "ted-lasso-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "tomorrow-war",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "ultra-city-smiths-106",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "underground-railroad-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "wandavision-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "wandavision-109",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "what-if-2021-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "y-the-last-man-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "yasuke-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "abbott-elementary-113",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "all-of-us-are-dead-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "all-the-old-knives",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "andor-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "andor-112",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "andy-warhol-diaries-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "archer-1308",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "atlanta-301",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "atlanta-310",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "atlanta-410",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "boys-301",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "boys-308",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "boys-presents-diabolical-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "enola-holmes-2",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "euphoria-208",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "flight-attendant-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "harley-quinn-301",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "inventing-anna-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "jeen-yuhs-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "kimi",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "kindred-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "marvelous-mrs-maisel-407",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "obi-wan-kenobi-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "obi-wan-kenobi-106",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "only-murders-in-the-building-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "only-murders-in-the-building-210",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "paper-girls-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "peripheral-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "peripheral-108",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "prehistoric-planet-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "prey",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "raised-by-wolves-201",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "raised-by-wolves-208",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "renaissance",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "rings-of-power-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "rings-of-power-108",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "roar-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "russian-doll-02",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "sandman-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "stranger-things-04.1",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "stranger-things-04.2",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "tales-of-the-jedi-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "undone-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "wednesday-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "witcher-blood-origin-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "yellowjackets-110",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "archer-1401",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "archer-1408",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "avatar-the-way-of-water",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "barbie",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "barry-401",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "bear-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "black-mirror-06",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "black-panther-wakanda-forever",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "changeling-108",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "consultant-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "curse-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "dungeons-and-dragons-honor-among-thieves",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "foundation-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "fubar-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "full-circle-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "hijack-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "hijack-107",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "idol-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "im-a-virgo-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "last-of-us-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "last-of-us-109",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "liaison-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "lupin-03",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "magic-mikes-last-dance",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "mandalorian-301",
+    "reason": "identity-evidence-unconfirmed; qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "mandalorian-308",
+    "reason": "identity-evidence-unconfirmed; qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "marvelous-mrs-maisel-501",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "minx-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "no-more-bets",
+    "reason": "usa-production-not-confirmed"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "only-murders-in-the-building-301",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "only-murders-in-the-building-310",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "oppenheimer",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "outer-banks-03",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "polite-society",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "power-105",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "power-109",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "prehistoric-planet-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "queen-charlotte-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "queer-eye-2018-07",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "super-mario-brothers-movie",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "they-cloned-tyrone",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "acolyte-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "acolyte-107",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "agatha-all-along-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "agatha-all-along-107",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "american-fiction",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "anora",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "apprentice-2024",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "bad-monkey-109",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "bear-03",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "beverly-hills-cop-axel-f",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "blink-twice",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "boy-and-the-heron",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "boys-401",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "diplomat-02",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "dune-2024",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "echo-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "emilia-perez",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "fallout-2024-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "fantasmas-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "feud-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "godzilla-minus-one",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "griselda-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "hit-man",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "inside-out-2",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "killer-2024",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "kingdom-of-the-planet-of-the-apes",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "madness-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "monsieur-spade-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "only-murders-in-the-building-401",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "only-murders-in-the-building-409",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "outer-range-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "penguin-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "penguin-107",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "rings-of-power-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "rings-of-power-207",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "road-house-2024",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "special-ops-lioness-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "squid-game-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "stormy",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "we-are-lady-parts-02",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "what-if-2021-03",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "wild-robot",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "alien-earth-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "alien-earth-106",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "american-primeval",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "american-revolution-2025",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "andor-112",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "andor-201",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "andor-210",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "bear-04",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "beatles-anthology",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "black-bag-2025",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "cobra-kai-06.3",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "common-side-effects-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "companion-2025",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "dan-da-dan-210",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "dark-winds-301",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "death-by-lightning",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "dope-thief-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "down-cemetery-road-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "duster-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "duster-106",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "eyes-of-wakanda-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "fallout-2024-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "frankenstein-2025",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "hacks-401",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "hacks-408",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "highest-2-lowest",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "invasion-301",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "ironheart-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "king-of-the-hill-14",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "last-of-us-201",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "last-of-us-206",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "long-story-short-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "love-death-robots-04",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "lowdown-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "mickey-17",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "mid-century-modern-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "minecraft-movie-2025",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "nouvelle-vague",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "one-battle-after-another",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "only-murders-in-the-building-501",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "only-murders-in-the-building-508",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "peacemaker-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "pluribus-107",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "predator-badlands",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "predator-killer-of-killers",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "prehistoric-planet-03",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "sean-combs-the-reckoning",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "severance-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "severance-209",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "sinners-2025",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "sly-lives",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "south-park-27",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "squid-game-03",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "star-wars-visions-03",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "stranger-things-05.1",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "stranger-things-05.2",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "studio-2025-101",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "superman-2025",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "weapons-2025",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "wednesday-02.1",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "wednesday-02.2",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "white-lotus-301",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "white-lotus-307",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "yellowjackets-201",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "your-friendly-neighborhood-spider-man-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "zero-day-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "acolyte-107",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "all-you-need-is-kill",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "backrooms-2026",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "bear-00",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "bear-05",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "beastars-03.2",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "beauty-108",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "boys-501",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "dark-winds-401",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "dinosaurs-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "drama-2026",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "enola-holmes-3",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "euphoria-301",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "fallout-2024-206",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "furious-2025",
+    "reason": "usa-production-not-confirmed"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "ghost-in-the-shell-2026-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "hijack-201",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "hoppers",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "industry-401",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "invite-2026",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "knight-of-the-seven-kingdoms-106",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "lanterns-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "legend-of-vox-machina-410",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "love-story-2026-107",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "man-on-the-run",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "mandalorian-and-grogu",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "mating-season-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "maul-shadow-lord-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "my-brilliant-career-2026-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "neagley-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "obsession-2025",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "olympics-2026",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "president-curtis-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "project-hail-mary",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "rick-and-morty-901",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "send-help",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "shards-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "slow-horses-601",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "star-city-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "star-wars-visions-the-ninth-jedi-01",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "stranger-things-05.3",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "stranger-things-tales-from-85-01",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "super-mario-galaxy-movie",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "testaments-101",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "widows-bay-108",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "world-cup-2026",
+    "reason": "no-reviewed-aapi-candidate"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "x-men-97-201",
+    "reason": "qualifying-credits-below-threshold"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "zootopia-2",
+    "reason": "qualifying-credits-below-threshold"
+  }
+]

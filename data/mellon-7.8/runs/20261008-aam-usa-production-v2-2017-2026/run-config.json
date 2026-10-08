@@ -1,0 +1,143 @@
+{
+  "approved_datestamp": "2026-10-08",
+  "baseline_roster": {
+    "path": "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-eligible-roster.json",
+    "repository": "alpha60-devops/alpha60-asian-american-media",
+    "revision": "59390826ef94f896ac9f0ec47eb7829b9625106d",
+    "sha256": "e38c457ec343ba37f3b65882a299f74916b779e93bce34f7a943ae16bc879989"
+  },
+  "cohorts": [
+    {
+      "data_tree": "2bd000514821abe68ab33940c1b293112dbe1ffa",
+      "inventory": "data/txt/year-2017-0-media-objects.txt",
+      "inventory_sha256": "ff1c69725cfb7ba0edfd30a3e118106cd8919a8dc5bda733b6e4d48a0793623c",
+      "json_directory": "data/json",
+      "repository": "alpha60-devops/alpha60-results-2017",
+      "revision": "a80b702633a86f58310c34f7aa67a196c381d7c8",
+      "root": "/home/bkoz/src/alpha60-results-2017",
+      "year": 2017
+    },
+    {
+      "data_tree": "503f9a2bf5cfc9ae36eca2eaac92b74980fa5047",
+      "inventory": "data/txt/year-2018-0-media-objects.txt",
+      "inventory_sha256": "25095eaa1947db6677564c10021b41566dc50f2fdf56a5c84d50e07f378b49b8",
+      "json_directory": "data/json",
+      "repository": "alpha60-devops/alpha60-results-2018",
+      "revision": "21b1d77fd7367f5ef6df7d4088632c0b837063a2",
+      "root": "/home/bkoz/src/alpha60-results-2018",
+      "year": 2018
+    },
+    {
+      "data_tree": "a69d678c1916ef04a4ec4c3795bfa64bfb751557",
+      "inventory": "data/txt/year-2019-0-media-objects.txt",
+      "inventory_sha256": "47ea3a01b0a20287fa2f79faa8b20868dc636e1c396f807b6f2fb08304f294c7",
+      "json_directory": "data/json",
+      "repository": "alpha60-devops/alpha60-results-2019",
+      "revision": "350a8fa8dd688b8853aff54af46cdc7da2af003b",
+      "root": "/home/bkoz/src/alpha60-results-2019",
+      "year": 2019
+    },
+    {
+      "data_tree": "86b8e7ec4c5f04c2a48f8e2c813cd1c2b1524450",
+      "inventory": "data/txt/year-2020-0-media-objects.txt",
+      "inventory_sha256": "daea811649b7ac8b21945533a078783bee52cb5cd21c3dbc8e614d418f471a77",
+      "json_directory": "data/json",
+      "repository": "alpha60-devops/alpha60-results-2020",
+      "revision": "8045ba9fc6f91e4af4ca0b3cee43a183656e116a",
+      "root": "/home/bkoz/src/alpha60-results-2020",
+      "year": 2020
+    },
+    {
+      "data_tree": "a169f31b2e37e24161ea24c275d41b1d0575d80b",
+      "inventory": "data/txt/year-2021-0-media-objects.txt",
+      "inventory_sha256": "bdda9265e7155c9e7de91b17eba6b0f4062dfe98ecbdff10019bb733589780cb",
+      "json_directory": "data/json",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "95af5fee975b04b25bad7f03aa5e1d571a939437",
+      "root": "/home/bkoz/src/alpha60-results-2021",
+      "year": 2021
+    },
+    {
+      "data_tree": "c5af0d1ffb7aaf7443e07625b293ff9def010964",
+      "inventory": "data/txt/year-2022-0-media-objects.txt",
+      "inventory_sha256": "38386383c7370623c8bd4e49e72a591f3c62c0e4fdf6d6872033f955be804ce3",
+      "json_directory": "data/json",
+      "repository": "alpha60-devops/alpha60-results-2022",
+      "revision": "56d118e937e9845c9fdf079af416f1436ff677ad",
+      "root": "/home/bkoz/src/alpha60-results-2022",
+      "year": 2022
+    },
+    {
+      "data_tree": "15e170265b6f55e6508ffe2fdd8d7793516e73a3",
+      "inventory": "data/txt/year-2023-0-media-objects.txt",
+      "inventory_sha256": "c20dc5d5885380b8f08c58df160bf84a648930dfacffd8c2eeba9a15da1c17ad",
+      "json_directory": "data/json",
+      "repository": "alpha60-devops/alpha60-results-2023",
+      "revision": "188eac9b11645cc48caa174c7785c554bf972402",
+      "root": "/home/bkoz/src/alpha60-results-2023",
+      "year": 2023
+    },
+    {
+      "data_tree": "05efe95a719f7d0abd31ecff726496459aa3c4d9",
+      "inventory": "data/txt/year-2024-0-media-objects.txt",
+      "inventory_sha256": "2c5fffb157bc15ac32b831f3b723dfca35c907e5d7e5095cb080970cc477fae9",
+      "json_directory": "data/json",
+      "repository": "alpha60-devops/alpha60-results-2024",
+      "revision": "92a3c99741588412cbc26644d1e3879b1d97740f",
+      "root": "/home/bkoz/src/alpha60-results-2024",
+      "year": 2024
+    },
+    {
+      "data_tree": "08af51c1650d959f3dea7997ad0fae2517e18c05",
+      "inventory": "data/txt/year-2025-0-media-objects.txt",
+      "inventory_sha256": "017e5665658a40791118316a434700125be51f69eb8e98e228bbbfcc5b8ae541",
+      "json_directory": "data/json",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "3f07b93850efbd8bd77d9bdf020ec04401bf4ac5",
+      "root": "/home/bkoz/src/alpha60-results-2025",
+      "year": 2025
+    },
+    {
+      "data_tree": "98851bf7c0fcfc84cd49dbde4becae508b7c551c",
+      "inventory": "data/txt/year-2026-0-media-objects.txt",
+      "inventory_sha256": "33a33da7e6201120a8b4038d2cf560c806a51e53ee6b4c9dd73365588375f6e1",
+      "json_directory": "data/json",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "1829a056d827cdf54c716a681e8d3a16a0944e7c",
+      "root": "/home/bkoz/src/alpha60-results-2026",
+      "year": 2026
+    }
+  ],
+  "geographic_config": "config/mellon-7.8/geographic-slices-v1.json",
+  "geographic_sha256": "fb8fbd023e7ba3bf8973622500fb5344b827ee84f9fa358c454cb44ff41603eb",
+  "itu": {
+    "path": "itu/facts_and_figures.json",
+    "provisional_years": [
+      2026
+    ],
+    "reference_year": 2025,
+    "revision": "594ca65c3df43fb0a8cb04c703d59b0a673eec0b",
+    "sha256": "302f0f874d5ed3ba2cb7f097c6d5eb3bcf153974087db90b0f5fcbdd16ccf685"
+  },
+  "measurement_freeze_note": "Published annual inventories and committed data trees verified unchanged on 2026-10-08. The ongoing 2026 Gold cache campaign is not a published annual inventory; Tales from 85 season 2 has no committed annual measurement entry at this freeze.",
+  "metadata": {
+    "baseline_revision": "9ec0481e9a0ad2bb05e648e964366b3755033c4e",
+    "definition_id": "h15-round3-20261008-v7",
+    "definitions_sha256": "fd81b49f0c0372aa46d45687a661be1fab2bfc79558ef0689bd0b7868f7ad147",
+    "report_sha256": "b31825e7a1c1a6390ed4b817ff2b4765e26f74f65c2f63a51029d85794516c76",
+    "repository": "alpha60-devops/alpha60-swarm-metadata",
+    "revision": "cb0a34076827ae64b0d68a8f17761ba5303ac374",
+    "usa_production_rule_sha256": "ab8d18b61204409daa6cf033a1b1ad0fb5d1ac79ca40d03f26a5db4e7beaec3e"
+  },
+  "method_version": "mellon-7.8-aam-v3",
+  "run_id": "20261008-aam-usa-production-v2-2017-2026",
+  "schema_version": "1.0.0",
+  "selection": {
+    "citizenship_filter_enabled": false,
+    "minimum_qualifying_credits": 2,
+    "minimum_us_citizens": null,
+    "require_usa_production": true,
+    "slice_key": "aapi-led",
+    "usa_production_rule": "usa-production-company-or-commissioner-or-platform-v2"
+  }
+}

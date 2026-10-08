@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "graphs": 10,
+  "series": 197,
+  "values_and_svg_coordinates_checked": 2805,
+  "labels_with_leaders": 60,
+  "validator_sha256": "b1614482a6b748b29cfd71c19deb93f727b663a70786e737af1cb40ed0a16ce4"
+}

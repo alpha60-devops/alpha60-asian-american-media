@@ -1,0 +1,1381 @@
+[
+  {
+    "cohort_year": 2017,
+    "collection_key": "expanse-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "expanse-203",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "expanse-204",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "expanse-210",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "expanse-213",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "into-the-badlands-203",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "walking-dead-709",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "walking-dead-710",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "walking-dead-713",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "walking-dead-716",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "walking-dead-801",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2017,
+    "collection_key": "walking-dead-807",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "chilling-adventures-of-sabrina-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "expanse-301",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "expanse-313",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "human-flow",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "into-the-badlands-308",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "maniac-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "walking-dead-811",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "walking-dead-816",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "walking-dead-908",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "westworld-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "westworld-203",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "westworld-205",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "westworld-207",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2018,
+    "collection_key": "westworld-210",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "expanse-04",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "killing-eve-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "killing-eve-208",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "oa-02",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "she-ra-04",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "succession-210",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "true-detective-301",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "true-detective-308",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "umbrella-academy-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "walking-dead-1008",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "walking-dead-916",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "wu-assassins-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2019,
+    "collection_key": "yellowstone-210",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "devs-108",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "expanse-501",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "japan-sinks",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "lego-star-wars-holiday-special-2020",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "mulan",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "umbrella-academy-02",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "westworld-301",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2020,
+    "collection_key": "westworld-308",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "army-of-the-dead",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "blade-runner-black-lotus-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "dune-2021",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "expanse-510",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "expanse-601",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "for-all-mankind-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "for-all-mankind-210",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "invincible-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "kung-fu-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "kung-fu-113",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "loki-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "loki-106",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "matrix-resurrections",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "no-time-to-die",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "prisoners-of-the-ghostland",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "raya-and-the-last-dragon",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "reservation-dogs-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "shadow-and-bone-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "snowpiercer-209",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "succession-301",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "trese-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2021,
+    "collection_key": "witcher-02",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "book-of-boba-fett-107",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "bridgerton-02",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "eternals",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "everything-everywhere-all-at-once",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "expanse-606",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "fistful-of-vengeance",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "for-all-mankind-301",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "glass-onion",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "gray-man",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "house-of-the-dragon-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "house-of-the-dragon-103",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "house-of-the-dragon-110",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "old-man-107",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "pantheon-108",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "reservation-dogs-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "spider-man-no-way-home",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "station-eleven-110",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "tokyo-vice-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "turning-red",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "walking-dead-1124",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "westworld-401",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "westworld-408",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2022,
+    "collection_key": "yellowstone-505",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "ahsoka-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "ahsoka-108",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "american-born-chinese-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "and-just-like-that-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "and-just-like-that-211",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "beacon-23-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "beacon-23-108",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "blue-eye-samurai-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "citadel-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "citadel-106",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "fargo-501",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "for-all-mankind-401",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "gen-v-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "gen-v-108",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "guardians-of-the-galaxy-3",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "invincible-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "loki-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "loki-206",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "monarch-legacy-of-monsters-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "murder-at-the-end-of-the-world-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "murder-at-the-end-of-the-world-107",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "reacher-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "reservation-dogs-301",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "reservation-dogs-310",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "spider-man-across-the-spider-verse",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "twisted-metal-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "warrior-310",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "witcher-03.1",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "witcher-03.2",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2023,
+    "collection_key": "you-04.2",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "3-body-problem-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "arcane-02.1",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "arcane-02.2",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "arcane-02.3",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "avatar-the-last-airbender-2024-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "brothers-sun-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "fargo-510",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "for-all-mankind-410",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "godzilla-x-kong-the-new-empire",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "hit-monkey-02",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "house-of-the-dragon-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "house-of-the-dragon-207",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "interior-chinatown-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "laid-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "masters-of-the-air-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "masters-of-the-air-108",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "monarch-legacy-of-monsters-110",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "mr-and-mrs-smith-2024-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "old-man-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "reacher-208",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "shogun-2024-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "shogun-2024-110",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "silo-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "snowpiercer-401",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "sugar-107",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "tokyo-vice-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2024,
+    "collection_key": "tokyo-vice-209",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "ballard-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "chief-of-war-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "chief-of-war-107",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "gen-v-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "gen-v-206",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "invincible-301",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "lazarus-101",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "lazarus-108",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "lazarus-111",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "moana-2",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "night-agent-02",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "reacher-301",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "reacher-307",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "summer-i-turned-pretty-311",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "tron-ares",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "wicked-2024",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "wicked-for-good-2025",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2025,
+    "collection_key": "witcher-04",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "avatar-the-last-airbender-2024-02",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "beef-02",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "bluff",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "bridgerton-04.1",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "bridgerton-04.2",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "brothers-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "coyote-vs-acme",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "crew-girl-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "dang-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "for-all-mankind-501",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "goat-2026",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "his-and-hers-2026-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "house-of-the-dragon-301",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "house-of-the-dragon-308",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "invincible-401",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "legend-of-aang-the-last-airbender",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "lego-star-wars-the-mandalorian-2026",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "monarch-legacy-of-monsters-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "monarch-legacy-of-monsters-208",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "night-agent-03",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "one-piece-2023-02",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "pitt-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "pitt-213",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "reacher-401",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "season-2026-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "silo-301",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "spider-noir-01",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "sugar-201",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "toy-story-5",
+    "detail": [],
+    "measurement": "JSON",
+    "status": "available"
+  }
+]

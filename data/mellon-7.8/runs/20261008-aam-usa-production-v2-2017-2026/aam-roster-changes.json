@@ -1,0 +1,564 @@
+[
+  {
+    "after_counts": {
+      "actors": 1,
+      "creators": 2,
+      "unique_creators": 1,
+      "unique_people": 2
+    },
+    "after_usa_production": {
+      "baseline_notes": "Canada origin retained. Netflix commissioning is confirmed; Netflix Studios LLC U.S. domicile is confirmed separately, but its exact production role on this title is unresolved. Country alone cannot settle the full company assessment.",
+      "baseline_status": "unknown",
+      "baseline_value": null,
+      "country_qids": [],
+      "country_values": [
+        "Canada"
+      ],
+      "notes": "USA Production OR rule: commissioner:netflix:confirmed-title-relationship; platform:netflix:confirmed-title-relationship. Original country evidence retained; commissioner/platform evidence does not assert a producer credit.",
+      "qualification_basis": [
+        "commissioner:netflix:confirmed-title-relationship",
+        "platform:netflix:confirmed-title-relationship"
+      ],
+      "rule_id": "usa-production-company-or-commissioner-or-platform-v2",
+      "sources": [
+        {
+          "notes": "Canonical metadata country-of-origin values: Canada.",
+          "retrieved_datestamp": "2026-10-03",
+          "revision_id": null,
+          "source_type": "other",
+          "title": "Crew Girl",
+          "url": "https://www.netflix.com/title/81991578"
+        },
+        {
+          "notes": "Canadian-content production by GPM-CGL/Great Pacific, commissioned by Netflix.",
+          "retrieved_datestamp": "2026-10-08",
+          "revision_id": null,
+          "source_type": "official",
+          "url": "https://northsaanich.ca/wp-content/uploads/2025-06-19-10555-West-Saanich-Rd-TUP-2025-01-ADA.pdf"
+        },
+        {
+          "notes": "Exhibit 21.1: Netflix Studios LLC is a wholly owned U.S. subsidiary; no title credit established.",
+          "retrieved_datestamp": "2026-10-08",
+          "revision_id": null,
+          "source_type": "official",
+          "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001065280/99482238-46b2-4d0d-b292-40e6781bdf03.pdf"
+        },
+        {
+          "notes": "Netflix brand named; exact contracting subsidiary unresolved.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://northsaanich.ca/wp-content/uploads/2025-06-19-10555-West-Saanich-Rd-TUP-2025-01-ADA.pdf"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://help.netflix.com/en/node/134094"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/0001065280-26-000034-index.htm"
+        },
+        {
+          "notes": "Announced global Netflix premiere.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://blueantmedia.com/2026/07/netflix-sets-september-10-premiere-date-for-blue-ant-studios-crew-girl/"
+        }
+      ],
+      "status": "complete",
+      "value": true
+    },
+    "before_counts": {
+      "actors": 1,
+      "creators": 2,
+      "unique_creators": 1,
+      "unique_people": 2
+    },
+    "before_usa_production": {
+      "country_qids": [],
+      "country_values": [
+        "Canada"
+      ],
+      "notes": "Title producer role or domicile remains unresolved; non-U.S. origin and platform availability do not settle this company review.",
+      "sources": [
+        {
+          "notes": "Canonical metadata country-of-origin values: Canada.",
+          "retrieved_datestamp": "2026-10-03",
+          "revision_id": null,
+          "source_type": "other",
+          "title": "Crew Girl",
+          "url": "https://www.netflix.com/title/81991578"
+        },
+        {
+          "notes": "Canadian-content production by GPM-CGL/Great Pacific, commissioned by Netflix.",
+          "retrieved_datestamp": "2026-10-08",
+          "revision_id": null,
+          "source_type": "official",
+          "url": "https://northsaanich.ca/wp-content/uploads/2025-06-19-10555-West-Saanich-Rd-TUP-2025-01-ADA.pdf"
+        },
+        {
+          "notes": "Exhibit 21.1: Netflix Studios LLC is a wholly owned U.S. subsidiary; no title credit established.",
+          "retrieved_datestamp": "2026-10-08",
+          "revision_id": null,
+          "source_type": "official",
+          "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001065280/99482238-46b2-4d0d-b292-40e6781bdf03.pdf"
+        }
+      ],
+      "status": "unknown",
+      "value": null
+    },
+    "change": "added",
+    "collection_key": "crew-girl-01",
+    "reason": "usa-production-expanded-to-commissioner-or-platform"
+  },
+  {
+    "after_counts": {
+      "actors": 0,
+      "creators": 2,
+      "unique_creators": 2,
+      "unique_people": 2
+    },
+    "after_usa_production": {
+      "baseline_notes": "Resolved from explicit canonical-metadata or Wikidata country-of-origin evidence; production tags alone are not used.",
+      "baseline_status": "complete",
+      "baseline_value": false,
+      "country_qids": [
+        "Q17"
+      ],
+      "country_values": [],
+      "notes": "USA Production OR rule: platform:netflix:distribution_tags:netflix. Original country evidence retained; commissioner/platform evidence does not assert a producer credit.",
+      "qualification_basis": [
+        "platform:netflix:distribution_tags:netflix"
+      ],
+      "rule_id": "usa-production-company-or-commissioner-or-platform-v2",
+      "sources": [
+        {
+          "notes": "Direct non-deprecated P495 values: Q17.",
+          "retrieved_datestamp": "2026-09-14",
+          "revision_id": null,
+          "source_type": "wikidata",
+          "title": "Japan Sinks: 2020",
+          "url": "https://www.wikidata.org/wiki/Q97360834"
+        },
+        {
+          "notes": "Canonical title network/distributor evidence: distribution_tags=netflix; provider country from usa-production-company-or-commissioner-or-platform-v2.",
+          "source_type": "other",
+          "url": "https://en.wikipedia.org/wiki/Japan_Sinks:_2020"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://help.netflix.com/en/node/134094"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/0001065280-26-000034-index.htm"
+        }
+      ],
+      "status": "complete",
+      "value": true
+    },
+    "before_counts": {
+      "actors": 0,
+      "creators": 2,
+      "unique_creators": 2,
+      "unique_people": 2
+    },
+    "before_usa_production": {
+      "country_qids": [
+        "Q17"
+      ],
+      "country_values": [],
+      "notes": "Resolved from explicit canonical-metadata or Wikidata country-of-origin evidence; production tags alone are not used.",
+      "sources": [
+        {
+          "notes": "Direct non-deprecated P495 values: Q17.",
+          "retrieved_datestamp": "2026-09-14",
+          "revision_id": null,
+          "source_type": "wikidata",
+          "title": "Japan Sinks: 2020",
+          "url": "https://www.wikidata.org/wiki/Q97360834"
+        }
+      ],
+      "status": "complete",
+      "value": false
+    },
+    "change": "added",
+    "collection_key": "japan-sinks",
+    "reason": "usa-production-expanded-to-commissioner-or-platform"
+  },
+  {
+    "after_counts": {
+      "actors": 8,
+      "creators": 4,
+      "unique_creators": 2,
+      "unique_people": 10
+    },
+    "after_usa_production": {
+      "baseline_notes": "Resolved from explicit canonical-metadata or Wikidata country-of-origin evidence; production tags alone are not used.",
+      "baseline_status": "complete",
+      "baseline_value": false,
+      "country_qids": [
+        "Q17"
+      ],
+      "country_values": [],
+      "notes": "USA Production OR rule: platform:adult-swim:distribution_tags:adult swim us. Original country evidence retained; commissioner/platform evidence does not assert a producer credit.",
+      "qualification_basis": [
+        "platform:adult-swim:distribution_tags:adult swim us"
+      ],
+      "rule_id": "usa-production-company-or-commissioner-or-platform-v2",
+      "sources": [
+        {
+          "notes": "Direct non-deprecated P495 values: Q17.",
+          "retrieved_datestamp": "2026-09-14",
+          "revision_id": null,
+          "source_type": "wikidata",
+          "title": "Lazarus",
+          "url": "https://www.wikidata.org/wiki/Q121095142"
+        },
+        {
+          "notes": "Canonical title network/distributor evidence: distribution_tags=adult swim us; provider country from usa-production-company-or-commissioner-or-platform-v2.",
+          "source_type": "other",
+          "url": "https://en.wikipedia.org/wiki/Lazarus_(Japanese_TV_series)"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://www.adultswim.com/footer/legal/slim/terms-of-use.html"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://www.adultswim.com/footer/legal/slim/privacy.html"
+        }
+      ],
+      "status": "complete",
+      "value": true
+    },
+    "before_counts": {
+      "actors": 8,
+      "creators": 4,
+      "unique_creators": 2,
+      "unique_people": 10
+    },
+    "before_usa_production": {
+      "country_qids": [
+        "Q17"
+      ],
+      "country_values": [],
+      "notes": "Resolved from explicit canonical-metadata or Wikidata country-of-origin evidence; production tags alone are not used.",
+      "sources": [
+        {
+          "notes": "Direct non-deprecated P495 values: Q17.",
+          "retrieved_datestamp": "2026-09-14",
+          "revision_id": null,
+          "source_type": "wikidata",
+          "title": "Lazarus",
+          "url": "https://www.wikidata.org/wiki/Q121095142"
+        }
+      ],
+      "status": "complete",
+      "value": false
+    },
+    "change": "added",
+    "collection_key": "lazarus-101",
+    "reason": "usa-production-expanded-to-commissioner-or-platform"
+  },
+  {
+    "after_counts": {
+      "actors": 8,
+      "creators": 4,
+      "unique_creators": 2,
+      "unique_people": 10
+    },
+    "after_usa_production": {
+      "baseline_notes": "Resolved from explicit canonical-metadata or Wikidata country-of-origin evidence; production tags alone are not used.",
+      "baseline_status": "complete",
+      "baseline_value": false,
+      "country_qids": [
+        "Q17"
+      ],
+      "country_values": [],
+      "notes": "USA Production OR rule: platform:adult-swim:distribution_tags:adult swim us. Original country evidence retained; commissioner/platform evidence does not assert a producer credit.",
+      "qualification_basis": [
+        "platform:adult-swim:distribution_tags:adult swim us"
+      ],
+      "rule_id": "usa-production-company-or-commissioner-or-platform-v2",
+      "sources": [
+        {
+          "notes": "Direct non-deprecated P495 values: Q17.",
+          "retrieved_datestamp": "2026-09-14",
+          "revision_id": null,
+          "source_type": "wikidata",
+          "title": "Lazarus",
+          "url": "https://www.wikidata.org/wiki/Q121095142"
+        },
+        {
+          "notes": "Canonical title network/distributor evidence: distribution_tags=adult swim us; provider country from usa-production-company-or-commissioner-or-platform-v2.",
+          "source_type": "other",
+          "url": "https://en.wikipedia.org/wiki/Lazarus_(Japanese_TV_series)"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://www.adultswim.com/footer/legal/slim/terms-of-use.html"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://www.adultswim.com/footer/legal/slim/privacy.html"
+        }
+      ],
+      "status": "complete",
+      "value": true
+    },
+    "before_counts": {
+      "actors": 8,
+      "creators": 4,
+      "unique_creators": 2,
+      "unique_people": 10
+    },
+    "before_usa_production": {
+      "country_qids": [
+        "Q17"
+      ],
+      "country_values": [],
+      "notes": "Resolved from explicit canonical-metadata or Wikidata country-of-origin evidence; production tags alone are not used.",
+      "sources": [
+        {
+          "notes": "Direct non-deprecated P495 values: Q17.",
+          "retrieved_datestamp": "2026-09-14",
+          "revision_id": null,
+          "source_type": "wikidata",
+          "title": "Lazarus",
+          "url": "https://www.wikidata.org/wiki/Q121095142"
+        }
+      ],
+      "status": "complete",
+      "value": false
+    },
+    "change": "added",
+    "collection_key": "lazarus-108",
+    "reason": "usa-production-expanded-to-commissioner-or-platform"
+  },
+  {
+    "after_counts": {
+      "actors": 8,
+      "creators": 4,
+      "unique_creators": 2,
+      "unique_people": 10
+    },
+    "after_usa_production": {
+      "baseline_notes": "Resolved from explicit canonical-metadata or Wikidata country-of-origin evidence; production tags alone are not used.",
+      "baseline_status": "complete",
+      "baseline_value": false,
+      "country_qids": [
+        "Q17"
+      ],
+      "country_values": [],
+      "notes": "USA Production OR rule: platform:adult-swim:distribution_tags:adult swim us. Original country evidence retained; commissioner/platform evidence does not assert a producer credit.",
+      "qualification_basis": [
+        "platform:adult-swim:distribution_tags:adult swim us"
+      ],
+      "rule_id": "usa-production-company-or-commissioner-or-platform-v2",
+      "sources": [
+        {
+          "notes": "Direct non-deprecated P495 values: Q17.",
+          "retrieved_datestamp": "2026-09-14",
+          "revision_id": null,
+          "source_type": "wikidata",
+          "title": "Lazarus",
+          "url": "https://www.wikidata.org/wiki/Q121095142"
+        },
+        {
+          "notes": "Canonical title network/distributor evidence: distribution_tags=adult swim us; provider country from usa-production-company-or-commissioner-or-platform-v2.",
+          "source_type": "other",
+          "url": "https://en.wikipedia.org/wiki/Lazarus_(Japanese_TV_series)"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://www.adultswim.com/footer/legal/slim/terms-of-use.html"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://www.adultswim.com/footer/legal/slim/privacy.html"
+        }
+      ],
+      "status": "complete",
+      "value": true
+    },
+    "before_counts": {
+      "actors": 8,
+      "creators": 4,
+      "unique_creators": 2,
+      "unique_people": 10
+    },
+    "before_usa_production": {
+      "country_qids": [
+        "Q17"
+      ],
+      "country_values": [],
+      "notes": "Resolved from explicit canonical-metadata or Wikidata country-of-origin evidence; production tags alone are not used.",
+      "sources": [
+        {
+          "notes": "Direct non-deprecated P495 values: Q17.",
+          "retrieved_datestamp": "2026-09-14",
+          "revision_id": null,
+          "source_type": "wikidata",
+          "title": "Lazarus",
+          "url": "https://www.wikidata.org/wiki/Q121095142"
+        }
+      ],
+      "status": "complete",
+      "value": false
+    },
+    "change": "added",
+    "collection_key": "lazarus-111",
+    "reason": "usa-production-expanded-to-commissioner-or-platform"
+  },
+  {
+    "after_counts": {
+      "actors": 3,
+      "creators": 0,
+      "unique_creators": 0,
+      "unique_people": 3
+    },
+    "after_usa_production": {
+      "baseline_notes": "No explicit country-of-origin value was available in the bounded sources.",
+      "baseline_status": "unknown",
+      "baseline_value": null,
+      "country_qids": [],
+      "country_values": [],
+      "notes": "USA Production OR rule: platform:hulu:distribution_tags:hulu us. Original country evidence retained; commissioner/platform evidence does not assert a producer credit.",
+      "qualification_basis": [
+        "platform:hulu:distribution_tags:hulu us"
+      ],
+      "rule_id": "usa-production-company-or-commissioner-or-platform-v2",
+      "sources": [
+        {
+          "notes": "Canonical title network/distributor evidence: distribution_tags=hulu us; provider country from usa-production-company-or-commissioner-or-platform-v2.",
+          "source_type": "other",
+          "url": "https://en.wikipedia.org/wiki/The_Season"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://www.hulu.com/subscriber_agreement"
+        }
+      ],
+      "status": "complete",
+      "value": true
+    },
+    "before_counts": {
+      "actors": 3,
+      "creators": 0,
+      "unique_creators": 0,
+      "unique_people": 3
+    },
+    "before_usa_production": {
+      "country_qids": [],
+      "country_values": [],
+      "notes": "No explicit country-of-origin value was available in the bounded sources.",
+      "sources": [],
+      "status": "unknown",
+      "value": null
+    },
+    "change": "added",
+    "collection_key": "season-2026-01",
+    "reason": "usa-production-expanded-to-commissioner-or-platform"
+  },
+  {
+    "after_counts": {
+      "actors": 3,
+      "creators": 3,
+      "unique_creators": 3,
+      "unique_people": 6
+    },
+    "after_usa_production": {
+      "baseline_notes": "Resolved from explicit canonical-metadata or Wikidata country-of-origin evidence; production tags alone are not used.",
+      "baseline_status": "complete",
+      "baseline_value": false,
+      "country_qids": [
+        "Q334"
+      ],
+      "country_values": [],
+      "notes": "USA Production OR rule: platform:netflix:distribution_tags:netflix. Original country evidence retained; commissioner/platform evidence does not assert a producer credit.",
+      "qualification_basis": [
+        "platform:netflix:distribution_tags:netflix"
+      ],
+      "rule_id": "usa-production-company-or-commissioner-or-platform-v2",
+      "sources": [
+        {
+          "notes": "Direct non-deprecated P495 values: Q334.",
+          "retrieved_datestamp": "2026-09-14",
+          "revision_id": null,
+          "source_type": "wikidata",
+          "title": "Trese",
+          "url": "https://www.wikidata.org/wiki/Q107036301"
+        },
+        {
+          "notes": "Canonical title network/distributor evidence: distribution_tags=netflix; provider country from usa-production-company-or-commissioner-or-platform-v2.",
+          "source_type": "other",
+          "url": "https://en.wikipedia.org/wiki/Trese_(TV_series)"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://help.netflix.com/en/node/134094"
+        },
+        {
+          "notes": "Reviewed provider country; not audience territory.",
+          "retrieved_datestamp": "2026-10-08",
+          "source_type": "official",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/0001065280-26-000034-index.htm"
+        }
+      ],
+      "status": "complete",
+      "value": true
+    },
+    "before_counts": {
+      "actors": 3,
+      "creators": 3,
+      "unique_creators": 3,
+      "unique_people": 6
+    },
+    "before_usa_production": {
+      "country_qids": [
+        "Q334"
+      ],
+      "country_values": [],
+      "notes": "Resolved from explicit canonical-metadata or Wikidata country-of-origin evidence; production tags alone are not used.",
+      "sources": [
+        {
+          "notes": "Direct non-deprecated P495 values: Q334.",
+          "retrieved_datestamp": "2026-09-14",
+          "revision_id": null,
+          "source_type": "wikidata",
+          "title": "Trese",
+          "url": "https://www.wikidata.org/wiki/Q107036301"
+        }
+      ],
+      "status": "complete",
+      "value": false
+    },
+    "change": "added",
+    "collection_key": "trese-01",
+    "reason": "usa-production-expanded-to-commissioner-or-platform"
+  }
+]

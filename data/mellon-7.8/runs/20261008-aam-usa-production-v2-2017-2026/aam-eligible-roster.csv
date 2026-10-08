@@ -1,0 +1,198 @@
+collection_key,candidate_id,qualifying_actors,qualifying_creator_roles,qualifying_unique_people,usa_production,usa_citizens_for_information_only,qualification_basis,annual_cohorts,evidence_anchor
+3-body-problem-01,AAPI-001,6,3,8,True,3,"[""diaspora_relationship"", ""named_origin"", ""pacific_islander""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-001
+ahsoka-101,AAPI-006,3,0,3,True,2,"[""diaspora_relationship""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-006
+ahsoka-108,AAPI-007,3,0,3,True,2,"[""diaspora_relationship""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-007
+american-born-chinese-01,AAPI-009,7,1,8,True,4,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-009
+and-just-like-that-201,AAPI-012,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-012
+and-just-like-that-211,AAPI-013,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-013
+arcane-02.1,AAPI-019,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-019
+arcane-02.2,AAPI-020,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-020
+arcane-02.3,AAPI-021,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-021
+army-of-the-dead,AAPI-022,3,0,3,True,1,"[""diaspora_relationship"", ""named_origin""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-022
+avatar-the-last-airbender-2024-01,AAPI-026,8,2,10,True,6,"[""diaspora_relationship""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-026
+avatar-the-last-airbender-2024-02,AAPI-027,8,2,10,True,6,"[""diaspora_relationship""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-027
+ballard-01,AAPI-030,2,0,2,True,2,"[""identity""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-030
+beacon-23-101,AAPI-031,2,0,2,True,0,"[""diaspora_relationship""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-031
+beacon-23-108,AAPI-032,2,0,2,True,0,"[""diaspora_relationship""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-032
+beef-02,AAPI-033,10,1,11,True,9,"[""diaspora_relationship"", ""identity""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-033
+blade-runner-black-lotus-101,AAPI-037,0,5,2,True,0,"[""named_origin""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-037
+blue-eye-samurai-01,AAPI-039,6,1,7,True,5,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-039
+bluff,AAPI-040,2,0,2,True,0,"[""identity"", ""pacific_islander""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-040
+book-of-boba-fett-107,AAPI-041,2,0,2,True,1,"[""diaspora_relationship"", ""pacific_islander""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-041
+bridgerton-02,AAPI-048,7,0,7,True,0,"[""diaspora_relationship""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-048
+bridgerton-04.1,AAPI-049,7,0,7,True,0,"[""diaspora_relationship""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-049
+bridgerton-04.2,AAPI-050,7,0,7,True,0,"[""diaspora_relationship""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-050
+brothers-01,AAPI-314,2,0,2,True,1,"[""diaspora_relationship""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-314
+brothers-sun-01,AAPI-051,3,0,3,True,1,"[""diaspora_relationship"", ""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-051
+chief-of-war-101,AAPI-053,2,2,3,True,2,"[""diaspora_relationship"", ""pacific_islander""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-053
+chief-of-war-107,AAPI-054,2,2,3,True,2,"[""diaspora_relationship"", ""pacific_islander""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-054
+chilling-adventures-of-sabrina-01,AAPI-055,2,0,2,True,1,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-055
+citadel-101,AAPI-056,1,1,2,True,1,"[""diaspora_relationship"", ""identity""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-056
+citadel-106,AAPI-057,1,1,2,True,1,"[""diaspora_relationship"", ""identity""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-057
+coyote-vs-acme,AAPI-315,3,0,3,True,1,"[""diaspora_relationship""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-315
+crew-girl-01,AAPI-316,1,2,2,True,0,"[""diaspora_relationship""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-316
+dang-01,AAPI-317,2,0,2,True,2,"[""diaspora_relationship"", ""named_origin""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-317
+devs-108,AAPI-065,2,0,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2020],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-065
+dune-2021,AAPI-068,3,0,3,True,2,"[""diaspora_relationship"", ""named_origin"", ""pacific_islander""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-068
+eternals,AAPI-071,3,2,4,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-071
+everything-everywhere-all-at-once,AAPI-072,4,0,4,True,3,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-072
+expanse-04,AAPI-073,5,1,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-073
+expanse-201,AAPI-074,5,1,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2017],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-074
+expanse-203,AAPI-075,5,1,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2017],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-075
+expanse-204,AAPI-076,5,1,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2017],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-076
+expanse-210,AAPI-077,5,1,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2017],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-077
+expanse-213,AAPI-078,5,1,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2017],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-078
+expanse-301,AAPI-079,5,1,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-079
+expanse-313,AAPI-080,5,1,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-080
+expanse-501,AAPI-081,5,1,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2020],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-081
+expanse-510,AAPI-082,5,1,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-082
+expanse-601,AAPI-083,5,1,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-083
+expanse-606,AAPI-084,5,1,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-084
+fargo-501,AAPI-086,2,0,2,True,1,"[""diaspora_relationship""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-086
+fargo-510,AAPI-087,2,0,2,True,1,"[""diaspora_relationship""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-087
+fistful-of-vengeance,AAPI-088,5,0,5,True,1,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-088
+for-all-mankind-201,AAPI-089,2,0,2,True,2,"[""diaspora_relationship"", ""identity""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-089
+for-all-mankind-210,AAPI-090,2,0,2,True,2,"[""diaspora_relationship"", ""identity""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-090
+for-all-mankind-301,AAPI-091,2,0,2,True,2,"[""diaspora_relationship"", ""identity""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-091
+for-all-mankind-401,AAPI-092,2,0,2,True,2,"[""diaspora_relationship"", ""identity""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-092
+for-all-mankind-410,AAPI-093,2,0,2,True,2,"[""diaspora_relationship"", ""identity""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-093
+for-all-mankind-501,AAPI-094,2,0,2,True,2,"[""diaspora_relationship"", ""identity""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-094
+gen-v-101,AAPI-096,3,0,3,True,2,"[""diaspora_relationship""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-096
+gen-v-108,AAPI-097,3,0,3,True,2,"[""diaspora_relationship""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-097
+gen-v-201,AAPI-098,3,0,3,True,2,"[""diaspora_relationship""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-098
+gen-v-206,AAPI-099,3,0,3,True,2,"[""diaspora_relationship""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-099
+glass-onion,AAPI-100,2,0,2,True,1,"[""diaspora_relationship""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-100
+goat-2026,AAPI-103,2,0,2,True,2,"[""diaspora_relationship""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-103
+godzilla-x-kong-the-new-empire,AAPI-105,2,0,2,True,2,"[""diaspora_relationship"", ""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-105
+gray-man,AAPI-106,2,0,2,True,0,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-106
+guardians-of-the-galaxy-3,AAPI-107,2,0,2,True,1,"[""diaspora_relationship""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-107
+his-and-hers-2026-01,AAPI-113,2,0,2,True,2,"[""diaspora_relationship"", ""named_origin""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-113
+hit-monkey-02,AAPI-114,3,0,3,True,3,"[""diaspora_relationship"", ""identity""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-114
+house-of-the-dragon-101,AAPI-115,4,0,4,True,0,"[""diaspora_relationship"", ""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-115
+house-of-the-dragon-103,AAPI-116,4,0,4,True,0,"[""diaspora_relationship"", ""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-116
+house-of-the-dragon-110,AAPI-117,4,0,4,True,0,"[""diaspora_relationship"", ""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-117
+house-of-the-dragon-201,AAPI-118,4,0,4,True,0,"[""diaspora_relationship"", ""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-118
+house-of-the-dragon-207,AAPI-119,4,0,4,True,0,"[""diaspora_relationship"", ""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-119
+house-of-the-dragon-301,AAPI-120,4,0,4,True,0,"[""diaspora_relationship"", ""named_origin""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-120
+house-of-the-dragon-308,AAPI-121,4,0,4,True,0,"[""diaspora_relationship"", ""named_origin""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-121
+human-flow,AAPI-122,0,2,1,True,0,"[""identity""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-122
+interior-chinatown-01,AAPI-123,4,1,5,True,5,"[""diaspora_relationship"", ""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-123
+into-the-badlands-203,AAPI-124,2,1,3,True,2,"[""diaspora_relationship"", ""named_origin""]",[2017],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-124
+into-the-badlands-308,AAPI-125,2,1,3,True,2,"[""diaspora_relationship"", ""named_origin""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-125
+invincible-101,AAPI-127,2,0,2,True,2,"[""identity""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-127
+invincible-201,AAPI-128,2,0,2,True,2,"[""identity""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-128
+invincible-301,AAPI-129,2,0,2,True,2,"[""identity""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-129
+invincible-401,AAPI-130,2,0,2,True,2,"[""identity""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-130
+japan-sinks,AAPI-131,0,2,2,True,0,"[""named_origin""]",[2020],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-131
+killing-eve-201,AAPI-133,3,0,3,True,1,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-133
+killing-eve-208,AAPI-134,3,0,3,True,1,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-134
+kung-fu-101,AAPI-136,5,1,6,True,2,"[""diaspora_relationship"", ""named_origin""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-136
+kung-fu-113,AAPI-137,5,1,6,True,2,"[""diaspora_relationship"", ""named_origin""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-137
+laid-01,AAPI-138,1,2,2,True,1,"[""diaspora_relationship""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-138
+lazarus-101,AAPI-143,8,4,10,True,0,"[""named_origin""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-143
+lazarus-108,AAPI-144,8,4,10,True,0,"[""named_origin""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-144
+lazarus-111,AAPI-145,8,4,10,True,0,"[""named_origin""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-145
+legend-of-aang-the-last-airbender,AAPI-146,12,1,13,True,9,"[""diaspora_relationship"", ""identity"", ""named_origin"", ""pacific_islander""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-146
+lego-star-wars-holiday-special-2020,AAPI-147,2,0,2,True,2,"[""diaspora_relationship""]",[2020],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-147
+lego-star-wars-the-mandalorian-2026,AAPI-318,5,0,5,True,2,"[""diaspora_relationship"", ""pacific_islander""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-318
+loki-101,AAPI-148,2,0,2,True,2,"[""diaspora_relationship"", ""identity""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-148
+loki-106,AAPI-149,2,0,2,True,2,"[""diaspora_relationship"", ""identity""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-149
+loki-201,AAPI-150,2,0,2,True,2,"[""diaspora_relationship"", ""identity""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-150
+loki-206,AAPI-151,2,0,2,True,2,"[""diaspora_relationship"", ""identity""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-151
+maniac-01,AAPI-163,1,2,2,True,1,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-163
+masters-of-the-air-101,AAPI-164,1,1,2,True,1,"[""diaspora_relationship"", ""identity""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-164
+masters-of-the-air-108,AAPI-165,1,1,2,True,1,"[""diaspora_relationship"", ""identity""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-165
+matrix-resurrections,AAPI-167,3,0,3,True,0,"[""diaspora_relationship"", ""identity""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-167
+moana-2,AAPI-171,2,0,2,True,2,"[""identity"", ""pacific_islander""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-171
+monarch-legacy-of-monsters-101,AAPI-172,2,0,2,True,0,"[""named_origin""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-172
+monarch-legacy-of-monsters-110,AAPI-173,2,0,2,True,0,"[""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-173
+monarch-legacy-of-monsters-201,AAPI-174,2,0,2,True,0,"[""named_origin""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-174
+monarch-legacy-of-monsters-208,AAPI-175,2,0,2,True,0,"[""named_origin""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-175
+mr-and-mrs-smith-2024-01,AAPI-176,1,1,2,True,2,"[""diaspora_relationship"", ""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-176
+mulan,AAPI-177,6,0,6,True,4,"[""diaspora_relationship"", ""named_origin""]",[2020],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-177
+murder-at-the-end-of-the-world-101,AAPI-178,2,3,3,True,2,"[""diaspora_relationship"", ""named_origin""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-178
+murder-at-the-end-of-the-world-107,AAPI-179,2,3,3,True,2,"[""diaspora_relationship"", ""named_origin""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-179
+night-agent-02,AAPI-180,4,0,4,True,2,"[""diaspora_relationship"", ""identity"", ""pacific_islander""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-180
+night-agent-03,AAPI-181,4,0,4,True,2,"[""diaspora_relationship"", ""identity"", ""pacific_islander""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-181
+no-time-to-die,AAPI-183,0,2,1,True,1,"[""identity""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-183
+oa-02,AAPI-184,2,2,3,True,3,"[""diaspora_relationship""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-184
+old-man-107,AAPI-187,2,0,2,True,2,"[""diaspora_relationship"", ""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-187
+old-man-201,AAPI-188,2,0,2,True,2,"[""diaspora_relationship"", ""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-188
+one-piece-2023-02,AAPI-189,3,1,4,True,2,"[""diaspora_relationship"", ""named_origin""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-189
+pantheon-108,AAPI-190,3,0,3,True,2,"[""diaspora_relationship""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-190
+pitt-201,AAPI-193,4,0,4,True,3,"[""diaspora_relationship"", ""identity""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-193
+pitt-213,AAPI-194,4,0,4,True,3,"[""diaspora_relationship"", ""identity""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-194
+prisoners-of-the-ghostland,AAPI-199,0,2,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-199
+raya-and-the-last-dragon,AAPI-207,9,2,11,True,8,"[""diaspora_relationship"", ""identity""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-207
+reacher-201,AAPI-208,4,0,4,True,1,"[""diaspora_relationship"", ""named_origin""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-208
+reacher-208,AAPI-209,4,0,4,True,1,"[""diaspora_relationship"", ""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-209
+reacher-301,AAPI-210,4,0,4,True,1,"[""diaspora_relationship"", ""named_origin""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-210
+reacher-307,AAPI-211,4,0,4,True,1,"[""diaspora_relationship"", ""named_origin""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-211
+reacher-401,AAPI-212,4,0,4,True,1,"[""diaspora_relationship"", ""named_origin""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-212
+reservation-dogs-101,AAPI-213,1,1,2,True,0,"[""diaspora_relationship"", ""pacific_islander""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-213
+reservation-dogs-201,AAPI-214,1,1,2,True,0,"[""diaspora_relationship"", ""pacific_islander""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-214
+reservation-dogs-301,AAPI-215,1,1,2,True,0,"[""diaspora_relationship"", ""pacific_islander""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-215
+reservation-dogs-310,AAPI-216,1,1,2,True,0,"[""diaspora_relationship"", ""pacific_islander""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-216
+season-2026-01,AAPI-218,3,0,3,True,0,"[""diaspora_relationship""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-218
+shadow-and-bone-01,AAPI-219,3,1,4,True,1,"[""diaspora_relationship""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-219
+shang-chi-and-the-legend-of-the-ten-rings,AAPI-220,9,3,11,True,4,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-220
+she-ra-04,AAPI-221,4,0,4,True,4,"[""diaspora_relationship""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-221
+shogun-2024-101,AAPI-222,5,1,6,True,1,"[""diaspora_relationship"", ""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-222
+shogun-2024-110,AAPI-223,5,1,6,True,1,"[""diaspora_relationship"", ""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-223
+silo-201,AAPI-224,2,0,2,True,1,"[""diaspora_relationship""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-224
+silo-301,AAPI-225,2,0,2,True,1,"[""diaspora_relationship""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-225
+snowpiercer-209,AAPI-227,4,0,4,True,3,"[""diaspora_relationship""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-227
+snowpiercer-401,AAPI-228,4,0,4,True,3,"[""diaspora_relationship""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-228
+spider-man-across-the-spider-verse,AAPI-230,3,1,4,True,4,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-230
+spider-man-no-way-home,AAPI-231,2,0,2,True,1,"[""diaspora_relationship""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-231
+spider-noir-01,AAPI-232,2,0,2,True,1,"[""diaspora_relationship""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-232
+station-eleven-110,AAPI-246,1,1,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-246
+succession-210,AAPI-248,2,0,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-248
+succession-301,AAPI-249,2,0,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-249
+sugar-107,AAPI-250,2,0,2,True,2,"[""diaspora_relationship""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-250
+sugar-201,AAPI-251,2,0,2,True,2,"[""diaspora_relationship""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-251
+summer-i-turned-pretty-311,AAPI-252,4,2,5,True,5,"[""diaspora_relationship""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-252
+tokyo-vice-01,AAPI-257,6,0,6,True,0,"[""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-257
+tokyo-vice-201,AAPI-258,6,0,6,True,0,"[""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-258
+tokyo-vice-209,AAPI-259,6,0,6,True,0,"[""named_origin""]",[2024],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-259
+toy-story-5,AAPI-260,2,0,2,True,2,"[""diaspora_relationship""]",[2026],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-260
+trese-01,AAPI-261,3,3,6,True,2,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-261
+tron-ares,AAPI-262,2,0,2,True,2,"[""diaspora_relationship"", ""identity""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-262
+true-detective-301,AAPI-263,1,1,2,True,2,"[""diaspora_relationship"", ""identity""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-263
+true-detective-308,AAPI-264,1,1,2,True,2,"[""diaspora_relationship"", ""identity""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-264
+turning-red,AAPI-265,4,3,6,True,3,"[""diaspora_relationship"", ""identity""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-265
+twisted-metal-01,AAPI-266,0,2,2,True,1,"[""named_origin""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-266
+umbrella-academy-01,AAPI-267,2,0,2,True,1,"[""diaspora_relationship""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-267
+umbrella-academy-02,AAPI-268,2,0,2,True,1,"[""diaspora_relationship""]",[2020],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-268
+walking-dead-1008,AAPI-270,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-270
+walking-dead-1124,AAPI-271,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-271
+walking-dead-709,AAPI-272,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2017],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-272
+walking-dead-710,AAPI-273,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2017],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-273
+walking-dead-713,AAPI-274,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2017],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-274
+walking-dead-716,AAPI-275,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2017],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-275
+walking-dead-801,AAPI-276,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2017],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-276
+walking-dead-807,AAPI-277,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2017],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-277
+walking-dead-811,AAPI-278,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-278
+walking-dead-816,AAPI-279,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-279
+walking-dead-908,AAPI-280,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-280
+walking-dead-916,AAPI-281,2,0,2,True,1,"[""diaspora_relationship"", ""identity""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-281
+warrior-310,AAPI-282,3,0,3,True,1,"[""diaspora_relationship"", ""named_origin""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-282
+westworld-201,AAPI-289,1,1,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-289
+westworld-203,AAPI-290,1,1,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-290
+westworld-205,AAPI-291,1,1,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-291
+westworld-207,AAPI-292,1,1,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-292
+westworld-210,AAPI-293,1,1,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2018],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-293
+westworld-301,AAPI-294,1,1,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2020],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-294
+westworld-308,AAPI-295,1,1,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2020],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-295
+westworld-401,AAPI-296,1,1,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-296
+westworld-408,AAPI-297,1,1,2,True,1,"[""diaspora_relationship"", ""named_origin""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-297
+wicked-2024,AAPI-299,2,1,3,True,2,"[""diaspora_relationship"", ""named_origin""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-299
+wicked-for-good-2025,AAPI-300,2,1,3,True,2,"[""diaspora_relationship"", ""named_origin""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-300
+witcher-02,AAPI-302,3,0,3,True,0,"[""diaspora_relationship"", ""named_origin""]",[2021],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-302
+witcher-03.1,AAPI-303,3,0,3,True,0,"[""diaspora_relationship"", ""named_origin""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-303
+witcher-03.2,AAPI-304,3,0,3,True,0,"[""diaspora_relationship"", ""named_origin""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-304
+witcher-04,AAPI-305,3,0,3,True,0,"[""diaspora_relationship"", ""named_origin""]",[2025],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-305
+wu-assassins-01,AAPI-308,4,0,4,True,3,"[""diaspora_relationship"", ""identity"", ""named_origin""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-308
+yellowstone-210,AAPI-310,2,0,2,True,2,"[""diaspora_relationship""]",[2019],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-310
+yellowstone-505,AAPI-311,2,0,2,True,2,"[""diaspora_relationship""]",[2022],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-311
+you-04.2,AAPI-312,3,0,3,True,1,"[""diaspora_relationship""]",[2023],https://alpha60-devops.github.io/alpha60-results/docs/slices.html#AAPI-312

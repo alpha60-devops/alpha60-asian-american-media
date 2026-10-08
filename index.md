@@ -26,7 +26,9 @@ project.
 ## Asian American Media
 
 Confirmed works in the expanded AAPI boundary with at least two qualifying
-actor/primary-creator credits and USA production. The union includes reviewed
+actor/primary-creator credits and USA Production: a confirmed U.S. production
+company, commissioner, or platform, or existing confirmed U.S. production-country
+evidence. The union includes reviewed
 Asian diaspora and Native Hawaiian/Pacific Islander qualifications. The Asian
 reference set is Asia-28, including Macau and Taiwan. No U.S.-citizenship minimum
 applies. See the [set definition and current results](docs/aam.html).

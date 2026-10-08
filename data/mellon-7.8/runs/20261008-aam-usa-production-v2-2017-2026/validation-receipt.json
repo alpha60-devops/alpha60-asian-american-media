@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "scope": "all selected roster and annual inputs; all itemized/weekly/aggregate values; all geographic inputs; all chart specifications",
+  "eligible_unique_works": 197,
+  "measured_cohort_entries": 197,
+  "geographic_inputs": 660,
+  "expanded_union_only_threshold_qualifiers": [
+    "bluff",
+    "book-of-boba-fett-107",
+    "chief-of-war-101",
+    "chief-of-war-107",
+    "moana-2",
+    "reservation-dogs-101",
+    "reservation-dogs-201",
+    "reservation-dogs-301",
+    "reservation-dogs-310"
+  ],
+  "weekly_points": 2805,
+  "graphs": 10,
+  "limitations": [
+    "2026 ITU normalization provisional",
+    "reviewed identity coverage is bounded",
+    "cross-object totals are sums, not globally unique viewers"
+  ],
+  "validator_sha256": "57649c87635b9533fb11e3bc9001a20f6861112f3ef92e5e4c784f07c75130ef"
+}

@@ -1,0 +1,50 @@
+{
+  "counts": {
+    "eligible_unique_works": 197,
+    "geographic_rows": 197,
+    "measured_cohort_entries": 197,
+    "missing_checkpoints": 128,
+    "missing_inventory_works": 0,
+    "roster_added": 7,
+    "roster_removed": 0,
+    "selected_cohort_entries": 197,
+    "zero_us_citizen_eligible_works": 38
+  },
+  "metadata_artifact_digest": "793df5373bc2d8edbf649a0225ed35c312ec874016750715c0025fcf07ca2ff1",
+  "outputs": {
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-aggregate.csv": "d1b8025b6aa350e7f07e94c56e210a8bea89bee31de20ddbdea68b8531d343f0",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-aggregate.json": "34e99736be77c84eace164937ec7472fa010d9edf5fc0b36a5d8b071b685c280",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-cohorts.csv": "f3aa2ee4718102d17920767f4aeaa717bf8193ad82a62b311ab021805d122570",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-cohorts.json": "5ad57df14b723afa8c9b88347a32a77eacff8da4e1b675f571ee381dcfbb9768",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-coverage.csv": "c37b72e50fa88d446d23eedb92232d2463d959d4c32b8605b2db80998f439ddc",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-coverage.json": "212fda33f705e9c60aacdd2ad41d441f70bb27173e4eb817653de2d9d9f06b92",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-eligible-roster.csv": "a598ba7f7d7b45ca7dc8c8c757a572d957d07c28d764d43ffa436757cc834e18",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-eligible-roster.json": "cd3ef10204102dade397577896fb12dba62f22dfc7e77ddb44e81a7443c10e81",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-exclusions.csv": "7f006075ea4a60c8882a7d2bb47f463c21d643d878877c3a50c9e5316e441597",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-exclusions.json": "c7e574cdca2a40ef62a57f8416092a69ebe8b4909ed673e52231dd558f06975d",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-geo-slices.csv": "107761d717544def401dc08beec3ef885cc8488265110a7b28a4be62f0d69316",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-geo-slices.json": "10b1cf411cef36246962fac458e4e0075933fcc15ec300241af5ee6501770c07",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-graph-ledger.json": "afaf414a8149814f5cff4365decce6f3ff39fc3ce51030c974bdcc5524626766",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-itemized.csv": "36d5949da2fa8201ddd0a62f1de75e19430a5c912cbdc3a79c003cee9b6d46ed",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-itemized.json": "b808c4bd7a1590b4e1c04da6463df4195cee27112fd169f8a5a2ec58be471060",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-review-status.csv": "a05d2c85055fa8b10d416f095512474685da4a63a47939487d6934a43a9a4476",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-review-status.json": "82ce4b358ecaaf785e603a0a70c656a07c9430438a52369ffc9cbdfdc2d92048",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-roster-changes.csv": "5f0b47713438d5c9639261687ed3ad771f8b6bf5fdce29b1485acb9a94582218",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-roster-changes.json": "b9c5242aacb893eac269964f5cad4c0c3ca635f24572d78b086f1e9ae918d67e",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-table-manifest.json": "be370b591a4e6c7e2e8ba25204fa269d4f84a8c51f577aee95ccc8d310f58447",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-weekly.csv": "f1c1fcba930724fe9235acbf459a0c6ed4eea7cc06e96165699ae7726ab5edbe",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/aam-weekly.json": "e1f08d95a786a68989e63e393be60274f3c6def6060bbeec4c11e146a853fc5c",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/geographic-source-manifest.json": "d16f21aa33e4dd106658b855571a495f474a3e07bb866a8a77b7d88618fe4b8d",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/run-config.json": "4888555b7ad43c244579a1e2e9f92cb84763be9ad5da137f9367cd0f1045ebaa",
+    "data/mellon-7.8/runs/20261008-aam-usa-production-v2-2017-2026/selection-manifest.json": "603774ed199a6e78d0fd8b2d7b8fb083853db71d7da55495a2eec2bfffeefa32"
+  },
+  "renderer_sha256": "03a716a4970ace69f3aa1fec377e468ed4a20641214e17195b13ff68f28f9bcb",
+  "run_id": "20261008-aam-usa-production-v2-2017-2026",
+  "script_sha256": "c93450422968013107defbb7d2b626b563679c7403f2080b44b54e532b6f3034",
+  "shared_sources": {
+    "scripts/build-mellon-5-meta-collection.py": "2afe544c761a531bc8f6e14ff5cf6f74c6afaabd7f3dc6972b53520f43b3ff67",
+    "scripts/mellon-7.8-aam.css": "93490f2dd532babb7ed5b42709b4b320366fa4d77db324ad63c510f473d35807",
+    "scripts/mellon_animation_tables.py": "8fd2e294c9d369cfba29104a3f31451bd9c7752a29e1810dbfcf97678081a1a4",
+    "src/a60-collection-tabulate.h": "9e41b356fd17b018e03b865492f0b79f106de3a6eea86eeb98d8dc373ab0901b"
+  }
+}
