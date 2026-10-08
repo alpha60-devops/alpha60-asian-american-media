@@ -1,0 +1,180 @@
+[
+  {
+    "added_actors": [
+      "people/Q102141285.json",
+      "people/Q20090990.json"
+    ],
+    "added_creator_roles": [],
+    "after_counts": {
+      "actors": 2,
+      "creators": 0,
+      "unique_creators": 0,
+      "unique_people": 2
+    },
+    "before_counts": null,
+    "change": "added",
+    "collection_key": "brothers-01",
+    "reason": "new-representation-review-and-current-corpus"
+  },
+  {
+    "added_actors": [
+      "people/Q24250404.json",
+      "people/Q3558573.json",
+      "people/Q5386105.json"
+    ],
+    "added_creator_roles": [],
+    "after_counts": {
+      "actors": 3,
+      "creators": 0,
+      "unique_creators": 0,
+      "unique_people": 3
+    },
+    "before_counts": null,
+    "change": "added",
+    "collection_key": "coyote-vs-acme",
+    "reason": "new-representation-review-and-current-corpus"
+  },
+  {
+    "added_actors": [
+      "people/Q100724379.json",
+      "people/Q63381497.json"
+    ],
+    "added_creator_roles": [],
+    "after_counts": {
+      "actors": 2,
+      "creators": 0,
+      "unique_creators": 0,
+      "unique_people": 2
+    },
+    "before_counts": null,
+    "change": "added",
+    "collection_key": "dang-01",
+    "reason": "principal-credit-review-repair"
+  },
+  {
+    "added_actors": [],
+    "added_creator_roles": [
+      "people/Q6959303.json#developer",
+      "people/Q6959303.json#writer"
+    ],
+    "after_counts": {
+      "actors": 1,
+      "creators": 2,
+      "unique_creators": 1,
+      "unique_people": 2
+    },
+    "before_counts": {
+      "actors": 1,
+      "creators": 0,
+      "unique_creators": 0,
+      "unique_people": 1
+    },
+    "change": "added",
+    "collection_key": "laid-01",
+    "reason": "principal-credit-review-repair"
+  },
+  {
+    "added_actors": [
+      "people/Q2388576.json",
+      "people/Q254205.json",
+      "people/Q529851.json",
+      "people/Q5386105.json",
+      "people/Q7153868.json"
+    ],
+    "added_creator_roles": [],
+    "after_counts": {
+      "actors": 5,
+      "creators": 0,
+      "unique_creators": 0,
+      "unique_people": 5
+    },
+    "before_counts": null,
+    "change": "added",
+    "collection_key": "lego-star-wars-the-mandalorian-2026",
+    "reason": "new-representation-review-and-current-corpus"
+  },
+  {
+    "added_actors": [],
+    "added_creator_roles": [
+      "people/Q2388576.json#creator"
+    ],
+    "after_counts": {
+      "actors": 1,
+      "creators": 1,
+      "unique_creators": 1,
+      "unique_people": 2
+    },
+    "before_counts": {
+      "actors": 1,
+      "creators": 0,
+      "unique_creators": 0,
+      "unique_people": 1
+    },
+    "change": "added",
+    "collection_key": "reservation-dogs-101",
+    "reason": "sourced-person-identity-evidence-repair"
+  },
+  {
+    "added_actors": [],
+    "added_creator_roles": [
+      "people/Q2388576.json#creator"
+    ],
+    "after_counts": {
+      "actors": 1,
+      "creators": 1,
+      "unique_creators": 1,
+      "unique_people": 2
+    },
+    "before_counts": {
+      "actors": 1,
+      "creators": 0,
+      "unique_creators": 0,
+      "unique_people": 1
+    },
+    "change": "added",
+    "collection_key": "reservation-dogs-201",
+    "reason": "sourced-person-identity-evidence-repair"
+  },
+  {
+    "added_actors": [],
+    "added_creator_roles": [
+      "people/Q2388576.json#creator"
+    ],
+    "after_counts": {
+      "actors": 1,
+      "creators": 1,
+      "unique_creators": 1,
+      "unique_people": 2
+    },
+    "before_counts": {
+      "actors": 1,
+      "creators": 0,
+      "unique_creators": 0,
+      "unique_people": 1
+    },
+    "change": "added",
+    "collection_key": "reservation-dogs-301",
+    "reason": "sourced-person-identity-evidence-repair"
+  },
+  {
+    "added_actors": [],
+    "added_creator_roles": [
+      "people/Q2388576.json#creator"
+    ],
+    "after_counts": {
+      "actors": 1,
+      "creators": 1,
+      "unique_creators": 1,
+      "unique_people": 2
+    },
+    "before_counts": {
+      "actors": 1,
+      "creators": 0,
+      "unique_creators": 0,
+      "unique_people": 1
+    },
+    "change": "added",
+    "collection_key": "reservation-dogs-310",
+    "reason": "sourced-person-identity-evidence-repair"
+  }
+]

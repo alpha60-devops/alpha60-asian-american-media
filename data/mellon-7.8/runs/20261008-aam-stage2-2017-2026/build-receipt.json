@@ -1,0 +1,50 @@
+{
+  "counts": {
+    "eligible_unique_works": 190,
+    "geographic_rows": 190,
+    "measured_cohort_entries": 190,
+    "missing_checkpoints": 123,
+    "missing_inventory_works": 0,
+    "roster_added": 9,
+    "roster_removed": 0,
+    "selected_cohort_entries": 190,
+    "zero_us_citizen_eligible_works": 32
+  },
+  "metadata_artifact_digest": "c197552070342ccd8dcb40a9956b757455fdb70e99a619b7129f322d14a3bd99",
+  "outputs": {
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-aggregate.csv": "31f6c66378bf5597de8a0f98bddf57092d87951a7e51f1d20cf66a23d03d020c",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-aggregate.json": "459baf9487383cca5ebaefc251f4498a7e8034db0e2e3f829521f36b02b8f74a",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-cohorts.csv": "fa346e4f5d639009ceaa44fc85b1959ebbcaacb0629bf4f80b8bada32d841763",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-cohorts.json": "3f065d2ce5f7a59e196533343c0a220c4411edc6cd564ddbde1980f5a48d540f",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-coverage.csv": "0a8cfdc3c1e3ca2fed92f50117c5cf1906e5df414ed06641cebd14aebd2ab6ae",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-coverage.json": "04bd43f6f5cd21d0773acd92c9f206e3fa436febac0b00d1b8c64a612ef5ee27",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-eligible-roster.csv": "67bb9ed74e21263a0ad055eb8fcf03ebf784594f691942caf7e88aac2fa922dc",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-eligible-roster.json": "e38c457ec343ba37f3b65882a299f74916b779e93bce34f7a943ae16bc879989",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-exclusions.csv": "a5868d4c4799668edd4e31eff020c8f4d4d4929faf00e90af95a449fb34fd2ca",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-exclusions.json": "e1006582de61bca16036ac2fd24ed24f9ba14756fb797a7c493735af6da2e819",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-geo-slices.csv": "850ce95a132368c2f63ee261a6195c8cc4d59dfab9aa6d16d43b98a361418a1e",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-geo-slices.json": "3768d97addb7defdbf958ac4ececa0bd4f8607077d366005078f79923c3bc0d4",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-graph-ledger.json": "d04788b41a1b3cdf5fb8c910cd472584df263b5339cabe13fd2e7aec06a20ae7",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-itemized.csv": "e259477a0fdec7b242ddc44a29da46c077f739f39ab84d1ad365871a4fffd6f0",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-itemized.json": "0a70e0315047db3041b5d1c12ba172233fcdf0f4186b404e82d9926d6997d18d",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-review-status.csv": "d3c0cdd4ff50ff8db92b1123e63c3e57819206e8af8fc2b472d2e846d65cba33",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-review-status.json": "6549e711b6bc620abe3e2abc3ab0d65df3b12a458b887c5875bdb39c3c4685fe",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-roster-changes.csv": "828c2d07a40ca8d2882b80daa2e77f1994bfa489c631dd155d45fab2af490994",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-roster-changes.json": "59f9f51802ab8dd695da816f4708feeff6b7f4a90d63df5e931bbce2998342c1",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-table-manifest.json": "7a6c49d6a8905deddeae636369b3feaf6c32a8272f6e5b7cd27755660318565e",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-weekly.csv": "4003cee37c358fcbed0ccd3856e44e1eba87e76ce058e4c2a547bf3e1ef86f81",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/aam-weekly.json": "ad1938f2ddb7027d1426e51b2ddfc45f1d8733fb9e2d8ac6ae48930511a6cc59",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/geographic-source-manifest.json": "956fa30424a7eafd4e6c8de790ef976f1a6c1730d20346f35012dbd5fda30972",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/run-config.json": "85585b7464fb090015b1fcdbe84068c1f5b7526a5427084756c6357f8048b99f",
+    "data/mellon-7.8/runs/20261008-aam-stage2-2017-2026/selection-manifest.json": "e4c761c5272d64a1bcf72a3e9312cc16acaeecb85f42d9cc846fcfae34e0d420"
+  },
+  "renderer_sha256": "03a716a4970ace69f3aa1fec377e468ed4a20641214e17195b13ff68f28f9bcb",
+  "run_id": "20261008-aam-stage2-2017-2026",
+  "script_sha256": "0fd02c56c095f55ffc242e8a3529c984c6fa0a1b13be7d5bbc6b353fb5960f71",
+  "shared_sources": {
+    "scripts/build-mellon-5-meta-collection.py": "2afe544c761a531bc8f6e14ff5cf6f74c6afaabd7f3dc6972b53520f43b3ff67",
+    "scripts/mellon-7.8-aam.css": "93490f2dd532babb7ed5b42709b4b320366fa4d77db324ad63c510f473d35807",
+    "scripts/mellon_animation_tables.py": "8fd2e294c9d369cfba29104a3f31451bd9c7752a29e1810dbfcf97678081a1a4",
+    "src/a60-collection-tabulate.h": "9e41b356fd17b018e03b865492f0b79f106de3a6eea86eeb98d8dc373ab0901b"
+  }
+}
