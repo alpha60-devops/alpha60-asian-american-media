@@ -1,0 +1,1656 @@
+{
+  "status": "computed",
+  "weekly_rows": 4900,
+  "daily_rows": 11704,
+  "coverage_rows": 917,
+  "summary_rows": 560,
+  "daily_files": {
+    "godzilla-minus-one": 0,
+    "godzilla-x-kong-the-new-empire": 0,
+    "godzilla-vs-kong": 105,
+    "monarch-legacy-of-monsters-101": 104,
+    "monarch-legacy-of-monsters-110": 0,
+    "monarch-legacy-of-monsters-201": 105,
+    "monarch-legacy-of-monsters-208": 104
+  },
+  "issues": {
+    "godzilla-minus-one": [
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 1
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 2
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 3
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 4
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 5
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 6
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 7
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 8
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 9
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 10
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 11
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 12
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 13
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 14
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 15
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 16
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 17
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 18
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 19
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 20
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 21
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 22
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 23
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 24
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 25
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 26
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 27
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 28
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 29
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 30
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 31
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 32
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 33
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 34
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 35
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 36
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 37
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 38
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 39
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 40
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 41
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 42
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 43
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 44
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 45
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 46
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 47
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 48
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 49
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 50
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 51
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 52
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 53
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 54
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 55
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 56
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 57
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 58
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 59
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 60
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 61
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 62
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 63
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 64
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 65
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 66
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 67
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 68
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 69
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 70
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 71
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 72
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 73
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 74
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 75
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 76
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 77
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 78
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 79
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 80
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 81
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 82
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 83
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 84
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 85
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 86
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 87
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 88
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 89
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 90
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 91
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 92
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 93
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 94
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 95
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 96
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 97
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 98
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 99
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 100
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 101
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 102
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 103
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 104
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 105
+      }
+    ],
+    "godzilla-x-kong-the-new-empire": [
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 1
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 2
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 3
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 4
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 5
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 6
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 7
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 8
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 9
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 10
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 11
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 12
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 13
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 14
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 15
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 16
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 17
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 18
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 19
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 20
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 21
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 22
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 23
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 24
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 25
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 26
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 27
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 28
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 29
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 30
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 31
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 32
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 33
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 34
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 35
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 36
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 37
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 38
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 39
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 40
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 41
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 42
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 43
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 44
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 45
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 46
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 47
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 48
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 49
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 50
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 51
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 52
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 53
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 54
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 55
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 56
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 57
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 58
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 59
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 60
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 61
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 62
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 63
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 64
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 65
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 66
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 67
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 68
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 69
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 70
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 71
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 72
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 73
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 74
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 75
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 76
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 77
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 78
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 79
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 80
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 81
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 82
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 83
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 84
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 85
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 86
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 87
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 88
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 89
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 90
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 91
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 92
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 93
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 94
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 95
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 96
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 97
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 98
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 99
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 100
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 101
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 102
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 103
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 104
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 105
+      }
+    ],
+    "godzilla-vs-kong": [],
+    "monarch-legacy-of-monsters-101": [
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 78
+      }
+    ],
+    "monarch-legacy-of-monsters-110": [
+      {
+        "type": "missing-file",
+        "mode": "week",
+        "index": 22
+      },
+      {
+        "type": "missing-file",
+        "mode": "week",
+        "index": 23
+      },
+      {
+        "type": "missing-file",
+        "mode": "week",
+        "index": 24
+      },
+      {
+        "type": "missing-file",
+        "mode": "week",
+        "index": 25
+      },
+      {
+        "type": "missing-file",
+        "mode": "week",
+        "index": 26
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 1
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 2
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 3
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 4
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 5
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 6
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 7
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 8
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 9
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 10
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 11
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 12
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 13
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 14
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 15
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 16
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 17
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 18
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 19
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 20
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 21
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 22
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 23
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 24
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 25
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 26
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 27
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 28
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 29
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 30
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 31
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 32
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 33
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 34
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 35
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 36
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 37
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 38
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 39
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 40
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 41
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 42
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 43
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 44
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 45
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 46
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 47
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 48
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 49
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 50
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 51
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 52
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 53
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 54
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 55
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 56
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 57
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 58
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 59
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 60
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 61
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 62
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 63
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 64
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 65
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 66
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 67
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 68
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 69
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 70
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 71
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 72
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 73
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 74
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 75
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 76
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 77
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 78
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 79
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 80
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 81
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 82
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 83
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 84
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 85
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 86
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 87
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 88
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 89
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 90
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 91
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 92
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 93
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 94
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 95
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 96
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 97
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 98
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 99
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 100
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 101
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 102
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 103
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 104
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 105
+      }
+    ],
+    "monarch-legacy-of-monsters-201": [],
+    "monarch-legacy-of-monsters-208": [
+      {
+        "type": "missing-file",
+        "mode": "week",
+        "index": 25
+      },
+      {
+        "type": "missing-file",
+        "mode": "week",
+        "index": 26
+      },
+      {
+        "type": "missing-file",
+        "mode": "day",
+        "index": 71
+      }
+    ]
+  },
+  "historical_sha256": "754ce9dc481ae8876c46a68c8e9302dde01cc1e821ef6b67cea8975190adfc7e",
+  "limitations": [
+    "Film cumulative caches and weekly windows span the same 26 weeks but use different aggregation grains. Monarch pairs use their common available weeks: 24 for 201/208 and 21 for 201/110. Daily diagnostics cover the original first 105 days.",
+    "2024 daily geographic exports are unavailable at the selected latest source revisions.",
+    "H3 common masks may be sparse; missing and suppressed cells are not zeros."
+  ]
+}

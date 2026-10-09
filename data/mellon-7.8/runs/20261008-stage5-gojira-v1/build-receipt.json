@@ -1,0 +1,10 @@
+{
+  "python": "3.14.8",
+  "alpha60_base_revision": "81192d863965e25fe03e48216e2e5bd4735005df",
+  "native_compile": "scripts/compile-source.sh src/a60-carto-geo.cc a60-carto-geo-final.exe",
+  "software": {
+    "g++": "g++ (GCC) 16.2.1 20260819 (Red Hat 16.2.1-2)",
+    "inkscape": "Inkscape 1.4.4 (dcaf3e7d9e, 2026-05-05)",
+    "magick": "Version: ImageMagick 7.1.2-32 Q16-HDRI x86_64 24766 https://imagemagick.org"
+  }
+}

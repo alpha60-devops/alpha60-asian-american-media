@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "checks": {
+    "input_hashes": 607,
+    "raw_interval_reductions": 593,
+    "full_document_crosschecks": 7,
+    "weeks_rows": 4900,
+    "days_rows": 11704,
+    "pair_rows": 560,
+    "h3_cells": 8678,
+    "selected_city_values": 78
+  },
+  "limits": "Cache IP geolocation is checked by separate native accounting and database hash, not independently replicated."
+}

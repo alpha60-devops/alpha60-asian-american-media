@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "command": "jekyll build with the site config and local preview plugin config",
+  "jekyll_seconds": 2.708,
+  "viewport_widths": [
+    1440,
+    390
+  ],
+  "local_links_per_viewport": 68,
+  "historical_anchors": 14,
+  "chrome": "Google Chrome 155.0.8059.39",
+  "node": "v22.22.2"
+}

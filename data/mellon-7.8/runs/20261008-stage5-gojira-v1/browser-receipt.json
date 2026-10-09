@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "width": 1440,
+      "scroll": 1425,
+      "portraits": 4,
+      "maps": 4,
+      "graphs": 8,
+      "broken": [],
+      "localLinks": 68,
+      "status": "PASS",
+      "controls": [
+        "role",
+        "hosting",
+        "unavailable cells",
+        "keyboard focus",
+        "weekly series keyboard interaction"
+      ],
+      "highResolution": [
+        3840,
+        3840,
+        3840,
+        3840
+      ]
+    },
+    {
+      "width": 390,
+      "scroll": 375,
+      "portraits": 4,
+      "maps": 4,
+      "graphs": 8,
+      "broken": [],
+      "localLinks": 68,
+      "status": "PASS",
+      "controls": [
+        "role",
+        "hosting",
+        "unavailable cells",
+        "keyboard focus",
+        "weekly series keyboard interaction"
+      ],
+      "highResolution": [
+        3840,
+        3840,
+        3840,
+        3840
+      ]
+    }
+  ],
+  "status": "PASS"
+}

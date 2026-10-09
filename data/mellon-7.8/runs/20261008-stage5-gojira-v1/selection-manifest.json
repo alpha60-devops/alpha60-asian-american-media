@@ -1,0 +1,377 @@
+{
+  "run_id": "20261008-stage5-gojira-v1",
+  "created": "2026-10-08",
+  "policy": {
+    "pair_weeks": 26,
+    "cohort_weeks": 26,
+    "daily_keys": [
+      "godzilla-minus-one",
+      "godzilla-x-kong-the-new-empire",
+      "godzilla-vs-kong",
+      "monarch-legacy-of-monsters-101",
+      "monarch-legacy-of-monsters-110",
+      "monarch-legacy-of-monsters-201",
+      "monarch-legacy-of-monsters-208"
+    ],
+    "daily_days": 105,
+    "cohort_daily_days": 105,
+    "cell_country_values": true,
+    "city_keys": [
+      "godzilla-minus-one",
+      "godzilla-x-kong-the-new-empire",
+      "godzilla-vs-kong"
+    ]
+  },
+  "objects": [
+    {
+      "key": "godzilla-minus-one",
+      "label": "Godzilla Minus One",
+      "scope": "film",
+      "sample_year": 2024,
+      "sample_duration": "2024-05-02-to-2024-10-30",
+      "source_revision": "92a3c99741588412cbc26644d1e3879b1d97740f",
+      "companion_export_version": "2026-08-05",
+      "geolocation_version": "6:1777968300",
+      "coverage_notes": [
+        "- Hourly discontinuities: 1 (18 missing hours)",
+        "- Missing days: 0",
+        "- hourly gap: last `2024-07-10 05:03`, resumed `2024-07-11 00:03` — missing 18 hour(s)"
+      ],
+      "producer": {
+        "listed_credit_coverage_complete": false
+      }
+    },
+    {
+      "key": "godzilla-x-kong-the-new-empire",
+      "label": "The New Empire",
+      "scope": "film",
+      "sample_year": 2024,
+      "sample_duration": "2024-05-14-to-2024-11-11",
+      "source_revision": "92a3c99741588412cbc26644d1e3879b1d97740f",
+      "companion_export_version": "2026-08-05",
+      "geolocation_version": "6:1777968300",
+      "coverage_notes": [
+        "- Hourly discontinuities: 0 (0 missing hours)",
+        "- Missing days: 0"
+      ],
+      "producer": {
+        "listed_credit_coverage_complete": false
+      }
+    },
+    {
+      "key": "godzilla-vs-kong",
+      "label": "Godzilla vs. Kong",
+      "scope": "film",
+      "sample_year": 2021,
+      "sample_duration": "2021-03-31-to-2021-09-28",
+      "source_revision": "95af5fee975b04b25bad7f03aa5e1d571a939437",
+      "companion_export_version": "2026-08-05",
+      "geolocation_version": "6:1777968300",
+      "coverage_notes": [
+        "- missing Day index 113: `2021-07-21`"
+      ],
+      "producer": {
+        "listed_credit_coverage_complete": false
+      }
+    },
+    {
+      "key": "monarch-legacy-of-monsters-101",
+      "label": "Monarch 101–103",
+      "scope": "three episodes",
+      "sample_year": 2023,
+      "sample_duration": "2023-11-17-to-2024-05-17",
+      "source_revision": "188eac9b11645cc48caa174c7785c554bf972402",
+      "companion_export_version": "2026-08-05",
+      "geolocation_version": "6:1777968300",
+      "coverage_notes": [
+        "- Hourly discontinuities: 2 (25 missing hours)",
+        "- Missing days: 1",
+        "- hourly gap: last `2024-02-01 23:00`, resumed `2024-02-03 00:00` — missing 24 hour(s)",
+        "- hourly gap: last `2024-03-31 01:00`, resumed `2024-03-31 03:00` — missing 1 hour(s)",
+        "- missing day: `2024-02-02`"
+      ],
+      "producer": {
+        "listed_credit_coverage_complete": false
+      }
+    },
+    {
+      "key": "monarch-legacy-of-monsters-110",
+      "label": "Monarch 110",
+      "scope": "one episode",
+      "sample_year": 2024,
+      "sample_duration": "2024-01-12-to-2024-06-06",
+      "source_revision": "92a3c99741588412cbc26644d1e3879b1d97740f",
+      "companion_export_version": "2026-08-05",
+      "geolocation_version": "6:1777968300",
+      "coverage_notes": [
+        "- Hourly discontinuities: 3 (41 missing hours)",
+        "- Missing days: 0",
+        "- hourly gap: last `2024-03-31 01:06`, resumed `2024-03-31 03:06` — missing 1 hour(s)",
+        "- hourly gap: last `2024-04-20 06:06`, resumed `2024-04-21 00:06` — missing 17 hour(s)",
+        "- hourly gap: last `2024-04-21 00:06`, resumed `2024-04-22 00:06` — missing 23 hour(s)"
+      ],
+      "producer": {
+        "listed_credit_coverage_complete": false
+      }
+    },
+    {
+      "key": "monarch-legacy-of-monsters-201",
+      "label": "Monarch 201–203",
+      "scope": "three episodes",
+      "sample_year": 2026,
+      "sample_duration": "2026-02-27-to-2026-10-01",
+      "source_revision": "7010c0133d801413f9d507f6035eb7b9e011de79",
+      "companion_export_version": "2026-08-05",
+      "geolocation_version": "6:1777968300",
+      "coverage_notes": [
+        "- Hourly discontinuities: 3 (28 missing hours)",
+        "- Missing days: 1",
+        "- hourly gap: last `2026-03-29 01:02`, resumed `2026-03-29 03:02` — missing 1 hour(s)",
+        "- hourly gap: last `2026-05-27 22:02`, resumed `2026-05-28 00:14` — missing 1 hour(s)",
+        "- hourly gap: last `2026-07-03 22:02`, resumed `2026-07-05 01:02` — missing 26 hour(s)",
+        "- missing day: `2026-07-04`"
+      ],
+      "producer": {
+        "listed_credit_coverage_complete": false
+      }
+    },
+    {
+      "key": "monarch-legacy-of-monsters-208",
+      "label": "Monarch 208–210",
+      "scope": "three episodes",
+      "sample_year": 2026,
+      "sample_duration": "2026-04-17-to-2026-10-01",
+      "source_revision": "7010c0133d801413f9d507f6035eb7b9e011de79",
+      "companion_export_version": "2026-08-05",
+      "geolocation_version": "6:1777968300",
+      "coverage_notes": [
+        "- Hourly discontinuities: 3 (70 missing hours)",
+        "- Missing days: 1",
+        "Zero-length records are missing sampler observations. Their",
+        "- hourly gap: last `2026-06-25 23:06`, resumed `2026-06-27 17:06` — missing 41 hour(s)",
+        "- hourly gap: last `2026-08-12 03:06`, resumed `2026-08-13 06:06` — missing 26 hour(s)",
+        "- hourly gap: last `2026-09-30 22:06`, resumed `2026-10-01 02:06` — missing 3 hour(s)",
+        "- missing day: `2026-06-26`"
+      ],
+      "producer": {
+        "listed_credit_coverage_complete": false
+      }
+    }
+  ],
+  "pairs": [
+    {
+      "id": "films",
+      "keys": [
+        "godzilla-minus-one",
+        "godzilla-x-kong-the-new-empire"
+      ]
+    },
+    {
+      "id": "monarch",
+      "keys": [
+        "monarch-legacy-of-monsters-201",
+        "monarch-legacy-of-monsters-208"
+      ]
+    },
+    {
+      "id": "historical-film",
+      "keys": [
+        "godzilla-minus-one",
+        "godzilla-vs-kong"
+      ]
+    },
+    {
+      "id": "earlier-season",
+      "keys": [
+        "monarch-legacy-of-monsters-201",
+        "monarch-legacy-of-monsters-101"
+      ]
+    },
+    {
+      "id": "single-episode-context",
+      "keys": [
+        "monarch-legacy-of-monsters-201",
+        "monarch-legacy-of-monsters-110"
+      ]
+    }
+  ],
+  "regions": {
+    "africa-60": {
+      "country_codes": [
+        "AGO",
+        "ATF",
+        "BDI",
+        "BEN",
+        "BFA",
+        "BWA",
+        "CAF",
+        "CIV",
+        "CMR",
+        "COD",
+        "COG",
+        "COM",
+        "CPV",
+        "DJI",
+        "DZA",
+        "EGY",
+        "ERI",
+        "ESH",
+        "ETH",
+        "GAB",
+        "GHA",
+        "GIN",
+        "GMB",
+        "GNB",
+        "GNQ",
+        "IOT",
+        "KEN",
+        "LBR",
+        "LBY",
+        "LSO",
+        "MAR",
+        "MDG",
+        "MLI",
+        "MOZ",
+        "MRT",
+        "MUS",
+        "MWI",
+        "MYT",
+        "NAM",
+        "NER",
+        "NGA",
+        "REU",
+        "RWA",
+        "SDN",
+        "SEN",
+        "SHN",
+        "SLE",
+        "SOM",
+        "SSD",
+        "STP",
+        "SWZ",
+        "SYC",
+        "TCD",
+        "TGO",
+        "TUN",
+        "TZA",
+        "UGA",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+      ],
+      "label": "Africa-60",
+      "note": "Existing project country-code boundary.",
+      "source": {
+        "commit": "f66b35be517e49196823dbb893adb41fd6b3a600",
+        "definition_id": "h15-round3-20260924-v4",
+        "path": "resources/h15-v3/h15-v3.generated.json",
+        "repository": "alpha60-results",
+        "sha256": "6ca941371a8405ed21f7fb370348e574ae3e270dd913a6b0d2b0eeab704074ff",
+        "url": "https://github.com/alpha60-devops/alpha60-results/blob/f66b35be517e49196823dbb893adb41fd6b3a600/resources/h15-v3/h15-v3.generated.json"
+      }
+    },
+    "asia-28": {
+      "country_codes": [
+        "AFG",
+        "BGD",
+        "BRN",
+        "BTN",
+        "CHN",
+        "HKG",
+        "IDN",
+        "IND",
+        "IRN",
+        "JPN",
+        "KHM",
+        "KOR",
+        "LAO",
+        "LKA",
+        "MAC",
+        "MDV",
+        "MMR",
+        "MNG",
+        "MYS",
+        "NPL",
+        "PAK",
+        "PHL",
+        "PRK",
+        "SGP",
+        "THA",
+        "TLS",
+        "TWN",
+        "VNM"
+      ],
+      "label": "Asia-28",
+      "note": "Existing project country-code boundary.",
+      "source": {
+        "commit": "f66b35be517e49196823dbb893adb41fd6b3a600",
+        "definition_id": "h15-round3-20260924-v4",
+        "path": "resources/h15-v3/h15-v3.generated.json",
+        "repository": "alpha60-results",
+        "sha256": "6ca941371a8405ed21f7fb370348e574ae3e270dd913a6b0d2b0eeab704074ff",
+        "url": "https://github.com/alpha60-devops/alpha60-results/blob/f66b35be517e49196823dbb893adb41fd6b3a600/resources/h15-v3/h15-v3.generated.json"
+      }
+    },
+    "eur-27": {
+      "country_codes": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "label": "EUR-27",
+      "note": "Fixed current EU member-country ISO-3 codes for every sample year. GBR and separately coded territories are not added.",
+      "source": {
+        "source_updated_date": "2026-01-01",
+        "type": "official-EU-membership",
+        "url": "https://european-union.europa.eu/easy-read_en",
+        "verified_date": "2026-09-25"
+      }
+    },
+    "usa-can": {
+      "country_codes": [
+        "CAN",
+        "USA"
+      ],
+      "label": "USA + CAN",
+      "note": "Exactly USA and CAN; separately coded territories are not added.",
+      "source": {
+        "date": "2026-09-25",
+        "type": "approved-user-specification",
+        "url": "https://github.com/bdekoz/alpha60/blob/main/docs/development/20260925_alpha60_results_github_pages_v4.md"
+      }
+    }
+  },
+  "regions_sha256": "c48877aae1f4486cdc3e0e6807ee456c6f5da06a0f4811e7875eb8cee8324786",
+  "latest_policy": "Latest upstream main revisions checked before freeze; exact selected files hashed. GeoJSON embedded export version is separate from companion JSON version.",
+  "methods": {
+    "weekly": "pooled interval geographic weights / matching worldwide weights",
+    "h3": "mean of aligned weekly cell-share differences; exact country-assigned contributions; both sides observed every selected interval",
+    "daily": "observed day share and trailing mean of seven consecutive eligible days; no interpolation",
+    "timezone": "source date labels; exporter does not certify UTC",
+    "inference": "descriptive case comparisons, no work-level bootstrap or causal production-country claim"
+  }
+}

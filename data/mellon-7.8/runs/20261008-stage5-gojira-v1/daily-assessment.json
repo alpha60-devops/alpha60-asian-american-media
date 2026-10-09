@@ -1,0 +1,114 @@
+{
+  "decision": "Weekly presentation; validated daily data remain downloadable.",
+  "reason": "Daily Vs. Kong refines the late-April onset but confirms the sustained USA shift already visible in weeks four and five; it does not establish an event cause.",
+  "daily_evidence": [
+    {
+      "key": "godzilla-vs-kong",
+      "index": 28,
+      "dates": "2021-04-27",
+      "region": "USA",
+      "role": "downloaders",
+      "mode": "all",
+      "numerator": 72531,
+      "world": 582937,
+      "share": 12.4423393951662,
+      "eligible": true,
+      "mean7": 7.545585555701222
+    },
+    {
+      "key": "godzilla-vs-kong",
+      "index": 29,
+      "dates": "2021-04-28",
+      "region": "USA",
+      "role": "downloaders",
+      "mode": "all",
+      "numerator": 188214,
+      "world": 833369,
+      "share": 22.584713374267583,
+      "eligible": true,
+      "mean7": 9.958236963560692
+    },
+    {
+      "key": "godzilla-vs-kong",
+      "index": 30,
+      "dates": "2021-04-29",
+      "region": "USA",
+      "role": "downloaders",
+      "mode": "all",
+      "numerator": 214074,
+      "world": 897694,
+      "share": 23.847101573587437,
+      "eligible": true,
+      "mean7": 12.545115009658563
+    },
+    {
+      "key": "godzilla-vs-kong",
+      "index": 31,
+      "dates": "2021-04-30",
+      "region": "USA",
+      "role": "downloaders",
+      "mode": "all",
+      "numerator": 220296,
+      "world": 928165,
+      "share": 23.73457305543734,
+      "eligible": true,
+      "mean7": 15.076601029847208
+    },
+    {
+      "key": "godzilla-vs-kong",
+      "index": 32,
+      "dates": "2021-05-01",
+      "region": "USA",
+      "role": "downloaders",
+      "mode": "all",
+      "numerator": 206535,
+      "world": 891261,
+      "share": 23.173346528121392,
+      "eligible": true,
+      "mean7": 17.331023969254453
+    },
+    {
+      "key": "godzilla-vs-kong",
+      "index": 33,
+      "dates": "2021-05-02",
+      "region": "USA",
+      "role": "downloaders",
+      "mode": "all",
+      "numerator": 205313,
+      "world": 866851,
+      "share": 23.684923937331792,
+      "eligible": true,
+      "mean7": 19.58113620618075
+    },
+    {
+      "key": "godzilla-vs-kong",
+      "index": 34,
+      "dates": "2021-05-03",
+      "region": "USA",
+      "role": "downloaders",
+      "mode": "all",
+      "numerator": 209568,
+      "world": 871583,
+      "share": 24.044525879921935,
+      "eligible": true,
+      "mean7": 21.93021767769053
+    },
+    {
+      "key": "godzilla-vs-kong",
+      "index": 35,
+      "dates": "2021-05-04",
+      "region": "USA",
+      "role": "downloaders",
+      "mode": "all",
+      "numerator": 188479,
+      "world": 806473,
+      "share": 23.37077620701499,
+      "eligible": true,
+      "mean7": 23.491422936526067
+    }
+  ],
+  "weekly_shares": [
+    7.539720981046678,
+    24.411636041084982
+  ]
+}

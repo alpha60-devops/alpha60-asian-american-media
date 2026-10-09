@@ -1,0 +1,82 @@
+[
+  {
+    "key": "godzilla-minus-one",
+    "region": "JPN",
+    "role": "downloaders",
+    "world": 51101302,
+    "selected_supported": 775818,
+    "selected_unsupported": 1815,
+    "unlocated_world": 69152,
+    "outside_region_located": 50254517
+  },
+  {
+    "key": "godzilla-minus-one",
+    "region": "JPN",
+    "role": "uploaders",
+    "world": 3391751,
+    "selected_supported": 22581,
+    "selected_unsupported": 6,
+    "unlocated_world": 496,
+    "outside_region_located": 3368668
+  },
+  {
+    "key": "godzilla-minus-one",
+    "region": "asia-28",
+    "role": "downloaders",
+    "world": 51101302,
+    "selected_supported": 11569448,
+    "selected_unsupported": 23528,
+    "unlocated_world": 69152,
+    "outside_region_located": 39439174
+  },
+  {
+    "key": "godzilla-minus-one",
+    "region": "asia-28",
+    "role": "uploaders",
+    "world": 3391751,
+    "selected_supported": 981649,
+    "selected_unsupported": 72,
+    "unlocated_world": 496,
+    "outside_region_located": 2409534
+  },
+  {
+    "key": "godzilla-x-kong-the-new-empire",
+    "region": "JPN",
+    "role": "downloaders",
+    "world": 63771936,
+    "selected_supported": 828729,
+    "selected_unsupported": 0,
+    "unlocated_world": 86162,
+    "outside_region_located": 62857045
+  },
+  {
+    "key": "godzilla-x-kong-the-new-empire",
+    "region": "JPN",
+    "role": "uploaders",
+    "world": 6996596,
+    "selected_supported": 20689,
+    "selected_unsupported": 0,
+    "unlocated_world": 393,
+    "outside_region_located": 6975514
+  },
+  {
+    "key": "godzilla-x-kong-the-new-empire",
+    "region": "asia-28",
+    "role": "downloaders",
+    "world": 63771936,
+    "selected_supported": 15112113,
+    "selected_unsupported": 0,
+    "unlocated_world": 86162,
+    "outside_region_located": 48573661
+  },
+  {
+    "key": "godzilla-x-kong-the-new-empire",
+    "region": "asia-28",
+    "role": "uploaders",
+    "world": 6996596,
+    "selected_supported": 1981212,
+    "selected_unsupported": 0,
+    "unlocated_world": 393,
+    "outside_region_located": 5014991
+  }
+]

@@ -1,0 +1,3048 @@
+{
+  "inputs": [
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/json/godzilla-minus-one-cumulative.json",
+      "sha256": "d3b52accbda925a83df0597f74495050019da1ecf3593bd9ecce6eb6deb227bd"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "docs/itemized/godzilla-minus-one-sample-cache-audit.md",
+      "sha256": "6387e316bd0e787ea09992e553b1d16043b593ce125f5cd3930cc59415043f14"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/json/godzilla-x-kong-the-new-empire-cumulative.json",
+      "sha256": "f6dfccf29818a0084dcbd0b38e9e32ec20dc072e2bcb742d7d6799d07d32eedb"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "docs/itemized/godzilla-x-kong-the-new-empire-sample-cache-audit.md",
+      "sha256": "3f91f98421fb5b7b6dd0969468a8ba740a4df8fb9d8bbf520d6185a9e90dcb23"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/json/godzilla-vs-kong-cumulative.json",
+      "sha256": "8a8d4f279b3329fa99f60c3a672af0da67012ff8b8334617308e9de880b09142"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "docs/itemized/godzilla-vs-kong-sample-cache-audit.md",
+      "sha256": "bebb8babaad5f7df8ad77fa933b5dd91e9323c983da57c5074958c53723b964c"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/json/monarch-legacy-of-monsters-101-cumulative.json",
+      "sha256": "5e5d22086a5944d7e2b9e2ff69f9faacaf5b947552760aa979bdaee6167b5001"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "docs/itemized/monarch-legacy-of-monsters-101-sample-cache-audit.md",
+      "sha256": "b8e8d3a1dabb0a99c9f1e85b07c2480a209de7bedc5d3a2a9a18281415dee584"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/json/monarch-legacy-of-monsters-110-cumulative.json",
+      "sha256": "60d0621d365900ee9f43b81a36afc7cd2afef39ebf92bf1f133ece472897b8d6"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "docs/itemized/monarch-legacy-of-monsters-110-sample-cache-audit.md",
+      "sha256": "130afb2fb39b623ca50351f835ffe08f4075085b18ae55ff7eb0eabbba0e2b17"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/json/monarch-legacy-of-monsters-201-cumulative.json",
+      "sha256": "97ae4ab95e5bde77a8750031ad8276519b15fb682c55d835b24766800fe77690"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "docs/itemized/monarch-legacy-of-monsters-201-sample-cache-audit.md",
+      "sha256": "4f0971d294efa08889d7ff63b54c2e7e6784585df058299c5b9eda1cd6601003"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/json/monarch-legacy-of-monsters-208-cumulative.json",
+      "sha256": "1dafc22bef75ecbedfb4d02d41e5330abb936e0df9d709a810922e2d151128b5"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "docs/itemized/monarch-legacy-of-monsters-208-sample-cache-audit.md",
+      "sha256": "e4aeceb2f039e590d08c067d6b91e129e0fa3923cad015f01dbd110ee7f928d3"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00001.geojson.gz",
+      "sha256": "cae80798972f76c31766d098b1c612900623bc951add71e77108325a3500836f"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00002.geojson.gz",
+      "sha256": "f1b42d5bc142a14c4f9459c2919ae8bb71b40e45586765d8c0173e7ab0951e20"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00003.geojson.gz",
+      "sha256": "345ac14b8ef9d6b8507616e7e75ad4d6585b0caf5e372729c21dcc158245f6de"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00004.geojson.gz",
+      "sha256": "e5f8932176672e49a941cec4a89a01a10251ba8db408d9dc1242267969c78ca4"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00005.geojson.gz",
+      "sha256": "f2980a4841164c8dd9f713dcd843fecba6e4a890881c420aaea18cec22468cde"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00006.geojson.gz",
+      "sha256": "d66dcbafd1393d605e44266588a08b2401e3455a3b603d37e59e608b8117eec7"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00007.geojson.gz",
+      "sha256": "5ad5bd19bbb05bda2b817994914b15af35c6a489379f4a0ebde7ff79119bfe90"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00008.geojson.gz",
+      "sha256": "42c832797eef21e2e55a7ead018ff7d33c97d66494cb56ca96e30245d2d1f01e"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00009.geojson.gz",
+      "sha256": "719e4538ce67ee41f226715a1576c5963ddd640563671652121e7e78bef8d4d6"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00010.geojson.gz",
+      "sha256": "f5b023d869ebdc2dde9481dcac264e5d47341ae24e48cd5543ace2a238727bd3"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00011.geojson.gz",
+      "sha256": "1977d18d552e11c59d1c66988c7eaf1a8d0275f0c5115ca7fe17cbf10cf75563"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00012.geojson.gz",
+      "sha256": "8db4d083e871e9553b83a094e1b7632e72cf9bec73e3b4352621cbb04f17630a"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00013.geojson.gz",
+      "sha256": "a502400c4252124f5ceb90cd3a67b12e932a095e55c71e01ef93245b1477505d"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00014.geojson.gz",
+      "sha256": "315f71532790576e9c09d3331d3192624e58d7cd726a583b303404c5dc19d2ef"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00015.geojson.gz",
+      "sha256": "f7592eb3aec304a3bda9ea29a65305f772ea4869c3e39f62428a3f4f4588b3ab"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00016.geojson.gz",
+      "sha256": "5719d69ec442632e09d77cda556fd63e5bdcb953ed292d62d17963c2f9b97e69"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00017.geojson.gz",
+      "sha256": "948806704deb7e72cb26048e0ee8a803d336ee27908048da305a0246fcb59bed"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00018.geojson.gz",
+      "sha256": "4ef83ae4aa47afa6ab01ec795c6a742d8348e0c29972a85f1887b0d51652d013"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00019.geojson.gz",
+      "sha256": "3229d1d68109979a2e3534b1240b0520cd8c4e846fcd380bc3b37173cc754f67"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00020.geojson.gz",
+      "sha256": "cc8d7ea11c794beafab4af4fd05ab16025c1b5092250e7e968d9199d6b8cca4a"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00021.geojson.gz",
+      "sha256": "a3a0daa7fb9ba29e840709423b49f7ab187a9c4bb3f9915450b91037b27d4816"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00022.geojson.gz",
+      "sha256": "470893f38217dcdc8446ebe9de67f4ac8b07e4b62fa7717d8e73c4722cf5a27f"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00023.geojson.gz",
+      "sha256": "2d5d1f418387cd1ded8aaca6769422a427b418aaa810fdb500dcbdcb2d5b2f80"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00024.geojson.gz",
+      "sha256": "901a310e99bc83671f3ca333015c1091e9bc9e83076003f74f02ee9652f3f11f"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00025.geojson.gz",
+      "sha256": "e4a13b2a03d2cd4c086c5e1c3352714ab50847a93181115fcdbe947c09a69364"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-minus-one-week-00026.geojson.gz",
+      "sha256": "66ef0379b78c4d906f9b2c80840a03bf3ca456b7f4fba4b2f3d288e60025376a"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00001.geojson.gz",
+      "sha256": "276e453c1717f31d4e832acab50a77cf39df1845d10bf82d9117fea1c9acafce"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00002.geojson.gz",
+      "sha256": "6e2ad24f22c84bd4c2801f725793b58c0e75187fbe6b9e6cb3a1359c043cb30d"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00003.geojson.gz",
+      "sha256": "b0eebec1b9a03334ce77d82960fcacd3d38e15cd9255490da755ed50cdf6c3ca"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00004.geojson.gz",
+      "sha256": "db08d64b72da103929c317990d8932c6fdfef910eb649b394ad372f965f15688"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00005.geojson.gz",
+      "sha256": "4d8849f94416986fc01d37e9a79ef3341acff8ad16ea1d67b05dbbf062a624b7"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00006.geojson.gz",
+      "sha256": "dc24591ce06d97400f6e58febccc103f96396bb715b6ef246a3d99700fe3ba3b"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00007.geojson.gz",
+      "sha256": "0ab153e7b0973e571e560cbdf31f54cb296a4d3b99043652e46559ac3a89cc09"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00008.geojson.gz",
+      "sha256": "9b274b5a93b96cb3674493edfc5338ee77dd4dce437c37b4ca3cb987f47217b3"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00009.geojson.gz",
+      "sha256": "e5e43e04d0f1a165bd0c20e1f462040f038f3b65bb08a05fb5aff54921149cfb"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00010.geojson.gz",
+      "sha256": "a7578dd2aa8cd5994c1f9a038d2a58f9f11dfe26a958c76a1c8428bba92c10a3"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00011.geojson.gz",
+      "sha256": "8ba1f88740f1c0f0d5f251ccf65199246e2c81340fc8170d077a8df5b2ee52c0"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00012.geojson.gz",
+      "sha256": "de76f45a7f8627b3414f318a1eaa355ed0f7de446ed9e6f57cea7afa866bb151"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00013.geojson.gz",
+      "sha256": "348ded85abb02a262f598d20b050e5b8eb07b8c93f1ab999ea9a8b9ec345be14"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00014.geojson.gz",
+      "sha256": "67bb337f0e179c8dbdc3e3321c92ff4d569fc81f003a237b60f178bf56d5c3e2"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00015.geojson.gz",
+      "sha256": "1064483b3d23388876b25925ac83f366fc8075a0f7797f0b5235f0b01d671f30"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00016.geojson.gz",
+      "sha256": "038ac4a04711b3d3f0b55553cd8e80abd7143f25d80d8007a41fdcd6256a0403"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00017.geojson.gz",
+      "sha256": "50054b574ec669ca3e8ff263cc0b4569d6ba0a3a697b6e4856e4712ef244d6f6"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00018.geojson.gz",
+      "sha256": "fe279a099815ddfefdc23b106f46e815eca03cf31b7df682c938aa56ab476192"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00019.geojson.gz",
+      "sha256": "321f6fec31a1411ab0de846a9510121dc65bf4afe0138c56beb6e34844f6ea05"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00020.geojson.gz",
+      "sha256": "0c0a75b521bf5c0b6927ecba8f87846074620a72a863804473744d02c9c9600f"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00021.geojson.gz",
+      "sha256": "992a316571bfcfe35cde56df1effd5ec6483b67f35cffc0676a97972e715088e"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00022.geojson.gz",
+      "sha256": "4f98a951b9d88bb262cd47b973d0aa36077e751dd4d8934eda4dd91075ad156e"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00023.geojson.gz",
+      "sha256": "b146b1ed3cbd38ed2a25596dc910cb953f1477c98bf55c1dc8ff884a48bf39f1"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00024.geojson.gz",
+      "sha256": "bef3adf4a7f46d403e29efb3c98a370e5188933981710cc56bfe0ea233c4afc7"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00025.geojson.gz",
+      "sha256": "32dcc5f32fc4851e1092b6c5766fa50d1ec9e5b8ce21d2f8dd87a14d1e7aabb8"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/godzilla-x-kong-the-new-empire-week-00026.geojson.gz",
+      "sha256": "3b8b5290c210ad97c559ff6656bf32f76263bbe0ddd1aee1e16e92d72a8c6fbb"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00001.geojson.gz",
+      "sha256": "5eae05d3f2ce46ed8350ef3136ce220b2c26f14223900ebb287a8cde358530d4"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00002.geojson.gz",
+      "sha256": "3bcbe3ce9fed047b6fc2aec8dcab2f6ebf047c546b0bc726b0a0fbce5a48240a"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00003.geojson.gz",
+      "sha256": "716627df136ea93725ac88e0604aa36bbafb1005cc82deaa75ac5260fba47189"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00004.geojson.gz",
+      "sha256": "9804b922dbbb20a12999c238aff095327459cbd4ffaab8bd4895c6a79bc32682"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00005.geojson.gz",
+      "sha256": "0299c2bd40283f05ee88270817a5534592ea0dae6499c8d3c8b31dd533b0ec52"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00006.geojson.gz",
+      "sha256": "fef7fd7d45831e20f3e13d2dcd0fae7843e5fe3d51967dcdd226b6da1392374b"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00007.geojson.gz",
+      "sha256": "2a755003fa174ad8871496e24e144cea4e07a7a18fcc6ddd34c892d73508da90"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00008.geojson.gz",
+      "sha256": "1b61db34ad086258c9a4f0f3d9f874efa10fe29e08a8ba3b51c9b9433103b601"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00009.geojson.gz",
+      "sha256": "0d178f50036aff5c99ed414c31e74de079bedfdbf069dde479aa8dc52bd9ab03"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00010.geojson.gz",
+      "sha256": "575f2c0e5d67e0f47ef9f80319e0a8333114cb3918c2e013847db10aa9b857ca"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00011.geojson.gz",
+      "sha256": "8c160b0c93dedb0226e255357290d2ceef9613a620dc8cbe036c74cf3737b325"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00012.geojson.gz",
+      "sha256": "1b97e260fd7b413b34ea531ff366257e13badb9c3be2c996923afab8cc2a749e"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00013.geojson.gz",
+      "sha256": "1b2e9a7b79771c047c3a27d8ab2d8e86ec2b72ff511ad22712d979e288398509"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00014.geojson.gz",
+      "sha256": "dcc8b5398f2287013fd238975ab5d4a17205a7b9db138348fd91801d52421830"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00015.geojson.gz",
+      "sha256": "507659962d52c41a8be5bcdc32d6c68d7f1225e99a9b19d21982c9f92d6e614b"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00016.geojson.gz",
+      "sha256": "71184cca148854a405790ffa5b0e7262d805ed389881a25ee60b58963e0607c4"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00017.geojson.gz",
+      "sha256": "43486fa2c49394784dace45f9d252f3a1895893e99069ca6b21313334e0bc7e7"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00018.geojson.gz",
+      "sha256": "df1a06cc8ed8aa4bd1b7f4c94af71c6c180016916e9d19e6e72f1511fc394f07"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00019.geojson.gz",
+      "sha256": "6715b81e669ac64595f980d4b227bc2573596b86eaab94822ff242a73c74471e"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00020.geojson.gz",
+      "sha256": "710b01adede37509757ca08fbcf91e578a193ec23f325a275dadd5431c1fada6"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00021.geojson.gz",
+      "sha256": "8f4a1a455238726d2407533540c5b6f49a23dc2ecf99bf99bb0662afef7724bd"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00022.geojson.gz",
+      "sha256": "2c4da7c22689c4057e9209fe2f1d9fa73b438a7a3224723c814f8acec8c99386"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00023.geojson.gz",
+      "sha256": "ad098fb10710755cd322e065eaa9de67a4233d59ea92999738020096f1ff7c40"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00024.geojson.gz",
+      "sha256": "7551ed066c351b780696beb49ba03a38598c8d8c57fb98b0063dd556ed6fdc04"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00025.geojson.gz",
+      "sha256": "9eddd3ab8d449b755a206b84074c0cce093fa4f4092bf87cb711d8caa191c4cf"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.week/godzilla-vs-kong-week-00026.geojson.gz",
+      "sha256": "336cc0abf50e8da794d7e5fdc0b7fcf41d7842d15093484795257f09c60c9051"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00001.geojson.gz",
+      "sha256": "1838aa661f88f68b42f9e0152eb75d82b9231d6e834287f21d0226188a84cd01"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00002.geojson.gz",
+      "sha256": "89995279c31c3067a94d78426ecbb04a9a5c6396f3ba93928e5c9a57821c7c16"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00003.geojson.gz",
+      "sha256": "d50bfb34bc198fed3abae770b6e3aedf33ec9cfb1847f649fae15161f35843ac"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00004.geojson.gz",
+      "sha256": "564e5caf53314527d34644275fa43a17d62c8096c671701c5cc8e1dadaed17e1"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00005.geojson.gz",
+      "sha256": "458b1baddca729f07be0d028a24508b40b5f63ebe8dff652f3f6fe0352b8f101"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00006.geojson.gz",
+      "sha256": "55060b4f9f2086722346ca25307533e21c95916f8db7cd26eb5e41c59f17124e"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00007.geojson.gz",
+      "sha256": "463beca91b3c94bfd32544df6d38b18eccd670fc7a8bb6914a2e4d740230c682"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00008.geojson.gz",
+      "sha256": "0ac2db19f198751975e4c15a73c09f711a50989440c0d57164b91e7fdfeb7875"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00009.geojson.gz",
+      "sha256": "8437bf7b391ece9d973493f2897a1c8af7a5a6320c8b608b566de8338cc7d9b3"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00010.geojson.gz",
+      "sha256": "515f48081c7bcdd37df07527029331988549a1aa5bbea6cba745c7e893244485"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00011.geojson.gz",
+      "sha256": "eb2e133fcc2cd86dc7830e8e334d332a5d32fca4c6b53f6e76fb766b10fd6f52"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00012.geojson.gz",
+      "sha256": "17429c467e66c0cc78575b42590e0a0ccc608b5c0d33791562a0378ab165a47c"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00013.geojson.gz",
+      "sha256": "ea8613005c79a0100b3dff997a69fdd6f1333e704abebc6a9778e70539bd4b3f"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00014.geojson.gz",
+      "sha256": "a282112de7a7c808c1fcd8f189181035083d66d11da4d5b5d2110f76b24224e8"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00015.geojson.gz",
+      "sha256": "d113371563072e7cf090e9bac2dca1a0ba0225c99ea260a181777971d8390333"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00016.geojson.gz",
+      "sha256": "b6b3bfdf812e1728fd4195cb50e4529166cd7d16be74c5e501e756fde80d620a"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00017.geojson.gz",
+      "sha256": "fcfa8fd64b02adfb26986ed652a5990d11e2f2f69edd4332e895212652078db3"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00018.geojson.gz",
+      "sha256": "6be62bcbc044227e19b6d52bc12acfb15c0c85cf9923c31919e76af853f80b3e"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00019.geojson.gz",
+      "sha256": "114672916281decdd56279c583276835a043f7e42b973d9a3477aecc5c37f8ac"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00020.geojson.gz",
+      "sha256": "6c90b34ad320e2407a9e091c7ba63a987d8fe54525ec9db21b0c552dd48d75e3"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00021.geojson.gz",
+      "sha256": "57aa979c2e2cc55ac8ba4b8747515e810cc71984d2cea7890b09d263a8609839"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00022.geojson.gz",
+      "sha256": "ea344ec3a84e8abc60b1de4a75f44fe815fa37f682e1948b8faa1863398e8c3d"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00023.geojson.gz",
+      "sha256": "d2097c86546fb2cd042c6f5db9089e659f33d59749c92d6c760b7bfe1577a003"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00024.geojson.gz",
+      "sha256": "7a57a53a43da3bd7f1399f48d7a7d2ebf8741158e1dd1073793750c6daed7f47"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00025.geojson.gz",
+      "sha256": "12b9c0bc3d03c822028e2c38f2617b10dc278d8e1675f3ead960783a3ea6641f"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00026.geojson.gz",
+      "sha256": "a5668073aab78d06d13c87a6d4dd249aa62bd2bf5937b31cee2ee03775b0d851"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00027.geojson.gz",
+      "sha256": "76e59b9222535f54eb27e67d2e667012892316b9a90488d633b5f99eda46f709"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00028.geojson.gz",
+      "sha256": "cad458e2a3017fc97b5204c318a05b8cb3599f7940accc9124ff3f47c379fb6f"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00029.geojson.gz",
+      "sha256": "0c6c5bd6c8184c604dd1fcad7445f8f6442774ba8ce6ff1db7f4f2168519697e"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00030.geojson.gz",
+      "sha256": "b4ed884075299df7411b5bc1be6e2c4e1f64e46cedbb0c9c8cb61c9038eee995"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00031.geojson.gz",
+      "sha256": "c531d6c5d5f9ed71cfbf8b0082b00d51304e4978550772ea8b6d83266d95066b"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00032.geojson.gz",
+      "sha256": "e1df99c2599f2ab22962528a7fe21e69bb86aec5386ce542b2e13b539834791c"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00033.geojson.gz",
+      "sha256": "44558bd0850667f7d70cb2ca381f47a9a599e8225c60d88d094337280bdcf0cc"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00034.geojson.gz",
+      "sha256": "2ceb49797ca6fa9565834a59d6d65e7f20a91f531588b99604434a885365dd34"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00035.geojson.gz",
+      "sha256": "6e6e4c82dbec0cfe638b15797e7729d392502caafcc0eefee771397f504806de"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00036.geojson.gz",
+      "sha256": "143bd4dc82517ea80954764fa7a58948953e7b2998234e72f16274260d4a305e"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00037.geojson.gz",
+      "sha256": "602151f1b3d5ec50502a3988bf33fec86244dcb8f75cb96aaf0a974f382673bb"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00038.geojson.gz",
+      "sha256": "a699d6f5a4866f2eec6b6f647c93eec4b84c89f7d0f3c4ceba4c0fc61c2c5c04"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00039.geojson.gz",
+      "sha256": "5e0534ae17b941ce93464fad71fa9c7922586fba50f879c0c904c82b505a16a7"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00040.geojson.gz",
+      "sha256": "afa06616744e4238a2aa846f1c7f71b50a6155e15dde33b8d17f67e061437f1a"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00041.geojson.gz",
+      "sha256": "06eea8a684ec3bf91139bc5fe76637173234c8d1845b913130988c37e325e7f9"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00042.geojson.gz",
+      "sha256": "dc014911a1a4b6c0b5c682c7c2cee9d2cb0de22d67857b5d3edf4366ff1adcb2"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00043.geojson.gz",
+      "sha256": "dd441d3e30eb3b0c8a3fd3004c28b2e882c22c252496c173bdf96c89e9a2f621"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00044.geojson.gz",
+      "sha256": "59c61c559163d646681d3745d899b60273afb19cf7582420d12fac7d2c7341fb"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00045.geojson.gz",
+      "sha256": "405f7b49ea51ef3afed4b7a9104e49d979f42f88a8af17241a7d12020a49bca8"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00046.geojson.gz",
+      "sha256": "126554406ce9c0c0e56065f8abb17f9acdaa3c1dedcf713b96677daaad82383f"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00047.geojson.gz",
+      "sha256": "baba1a8c4ffc05126c8496ed72058822a5335eb5c27eaf9a0419c98a662eabca"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00048.geojson.gz",
+      "sha256": "8dd722795ff60f8acd6d982a7e22b7a2ae0c9d5aa9016372fe1471a7d4232232"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00049.geojson.gz",
+      "sha256": "0a9c7d20721010ba39af923d5796cafaf2c727dabfac693a839721477ea3f77a"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00050.geojson.gz",
+      "sha256": "ffdaeee794ffc89b6164ca2cf3bb2c723577e20fac564a9edbb0c4c696724c13"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00051.geojson.gz",
+      "sha256": "dee6ff9237e1b03cc3ec1dcc90aff925f769e6736cda11f6c74ef958051b1315"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00052.geojson.gz",
+      "sha256": "1fab63cee3d4c8f0094c83d982b99c1e856b3cff8241ce7d42d7debc984673b4"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00053.geojson.gz",
+      "sha256": "193ddeb21a1a238424b8c9f52534164f450adb4b42454f56dd80ba4c054866ed"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00054.geojson.gz",
+      "sha256": "72f78edab435998b400175cff894ee7c823767d64ef110986599aabc56bce55b"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00055.geojson.gz",
+      "sha256": "c271e6f0ab577c516d06b47130e7eccbdc9834e8e62da2ef05ef6e174c34f958"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00056.geojson.gz",
+      "sha256": "8a3f56e52043f22f3b8ee51c6b964184fdc6d03f38c8909b5639a06f2f2e6c5e"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00057.geojson.gz",
+      "sha256": "751733ee434d623ec5c956edb632bffbe015eac8b9bb8eae87089a62fa3bd048"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00058.geojson.gz",
+      "sha256": "d46d3ba4ba912189e4556ec05b1eb938d3e136a53fbd1f9dc5f82bbbfa043be2"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00059.geojson.gz",
+      "sha256": "9a72f43563ad17e0ae8e5b61272d8df4eb73e2baf5e404caa5e5b169d218837d"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00060.geojson.gz",
+      "sha256": "fc48e499f34d06b0572f5735e9d667d7eb18f2ece8208f6897b00ded65a95d0d"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00061.geojson.gz",
+      "sha256": "df35bdd85afb86d7e8494912c8477cb2d3d834fa01e1c78fd237fd1a392e8db2"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00062.geojson.gz",
+      "sha256": "03d8efe2434605a85188a9376906bf229479ecbc5ea767f741ed5a37d0f96323"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00063.geojson.gz",
+      "sha256": "7d95f792e13654ea76dadf063a899030cbc8af456d3f9737fdeaf2121e61883d"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00064.geojson.gz",
+      "sha256": "6696b81449df4d60915f5a6d120ae209aaa4bca468e3f54237bbafee7691687a"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00065.geojson.gz",
+      "sha256": "7b4af75f46a8eb425e3e58a0474339a25a5e80abc2198bfc8b0b0697a68b4e68"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00066.geojson.gz",
+      "sha256": "f3aa82f6fee030bdaa29c630d614bd8627d3c44779e4b65f653ad19ea40d9300"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00067.geojson.gz",
+      "sha256": "b2e515ff57c7771ccd8306b64b57824ff26ef0a3155d5ea91baedc4d889450b6"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00068.geojson.gz",
+      "sha256": "6d50edd3734337f99e9a22a5beb0dd1ebb17136a9402c10ec8d81c41e89c62d2"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00069.geojson.gz",
+      "sha256": "f9bc8de29675e7505be36b44860020b1347d30cef68b223ea02ba2ec65cae939"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00070.geojson.gz",
+      "sha256": "c91d74e192f1f70e97efb6908404bb54ea7eb5d01c62d8fd0a1a7a7d747ddfad"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00071.geojson.gz",
+      "sha256": "21f4d3ad51fcef575dfce66d5ab13be9f896deff02300e765c256ec0ca2ca441"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00072.geojson.gz",
+      "sha256": "268f48baa9310129b74bf175885e9ee5d556aa2561d70d9ba7fa6f9856dad319"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00073.geojson.gz",
+      "sha256": "599423d4f3f12c07424cfbe83b3865b1e40fc597af42b1e9de977c695f142684"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00074.geojson.gz",
+      "sha256": "39e57755b36918b4957512d74f97f7d0e19327b10b67c512e2efa85022df9449"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00075.geojson.gz",
+      "sha256": "bf16e2443c7ce4c039093c451a8bc923195d3d8c1508de30a5262c7503116eca"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00076.geojson.gz",
+      "sha256": "e0910bc954409956de7c02d41ed47cd24a1b4a2f64fdc68df3fb041b08f103e0"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00077.geojson.gz",
+      "sha256": "4d1191a8db048bfa88218e55b8bc7cefcf8809d0a062f101dc7a1efd492edea1"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00078.geojson.gz",
+      "sha256": "23eb830f813198e700dbf2737eb5a90e141d0469225a717564b708fc15ac7ea8"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00079.geojson.gz",
+      "sha256": "6d1219b97f7ab19adfe058bea9b6d2c5366b72523397a4edf0e135c597a9a6b8"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00080.geojson.gz",
+      "sha256": "256db02079750a675b3d4855bd399f764879ff4a88e99e1c50abcc3af6bf16a7"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00081.geojson.gz",
+      "sha256": "cd57dcb345cb8c1cc35018d1bf519be0b4032cfff5eb118e77e93f1e00a66735"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00082.geojson.gz",
+      "sha256": "5088dc0906b42620bebdd1b009c23403aaacd20d32fc169638535b6372fb649e"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00083.geojson.gz",
+      "sha256": "0cee123d5b523cb9666f330248547f1659a07fbce38cf526d5d5090053a1e481"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00084.geojson.gz",
+      "sha256": "e3272496bb0a7500b821c4fb04d24db149470f2cd51626f604a3c686579a9391"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00085.geojson.gz",
+      "sha256": "5c87e5092443065466daf5b96635e766e92ed44be3435717253287a1ccefc031"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00086.geojson.gz",
+      "sha256": "3dc5944516e0c27ee697c3c4c6cca67ce823b16e406ac331db937384c7a35cb1"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00087.geojson.gz",
+      "sha256": "9ff3ba51f9d4fd89559e75a63fe71657d4af6097a73591566cc33ee6167b2fa2"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00088.geojson.gz",
+      "sha256": "d76aa58a128b153790d70fad806e608a200e1a231719f58bb4c4338738dceac3"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00089.geojson.gz",
+      "sha256": "c1898cd7c456f9a765a530a77aef8453754dcbf7657df0cb75d9f3bae2dc3d27"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00090.geojson.gz",
+      "sha256": "9b421193a50f5697136682705a68b42453321205733c2813ae1eacd30097a989"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00091.geojson.gz",
+      "sha256": "250de614149cf0f325b55feccccfd5c5aa64bcd49707fbf895607fb8d818b4d2"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00092.geojson.gz",
+      "sha256": "c59a89258db7b2a875aa2221821d01537c9153fd5ea797755c77406ba6b6a065"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00093.geojson.gz",
+      "sha256": "2febe841dd908184a05ff98dde31c8bd52cf9b5c3129a9ab521fb0d7f82cf638"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00094.geojson.gz",
+      "sha256": "ab51a85213404ed8af5bd1ff1444a77c5c7b0ce884773a954b2e6d40fa237f28"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00095.geojson.gz",
+      "sha256": "4b19d9e043906a0a7ec04d40dd4df37514ba7388fa6726456a38ef44ac23c9f5"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00096.geojson.gz",
+      "sha256": "5042a1ea558cb4883a9152f076b88f2df9ded54f781e4d587aaca74e2c12c9a8"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00097.geojson.gz",
+      "sha256": "785f6f6ec613a1fcb12425c64708f4d8e2ba214e798229eaabd403de3b87961a"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00098.geojson.gz",
+      "sha256": "463e4394099a83c32824d8d39168e78746c3e19e6e01b702dd922a4ffed2f86c"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00099.geojson.gz",
+      "sha256": "e294214e91949f98ee777a3bd55cc98617cfc761505593ef781b3cde3c24e490"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00100.geojson.gz",
+      "sha256": "2c67b185b699bb48ba5ecf005c3da8e9126b85e7a43af108bdc8552bb1292085"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00101.geojson.gz",
+      "sha256": "9544d5a9a0ac0b50b1cdbb492289b67363a8a91f18e4af6e71471598c6b34a1d"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00102.geojson.gz",
+      "sha256": "66a88352ba217b4b65467352301b265d1ccce7db9623957645be7e8ea3153b83"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00103.geojson.gz",
+      "sha256": "4936fae6c3f7119bbe0c50762fa208b43a9778ba00b0dc917ceac773d0d40a6e"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00104.geojson.gz",
+      "sha256": "6d0ea6aefe72bb7d4ff2b7ac435807de7e60277df4d1b66051864bc4162024e4"
+    },
+    {
+      "repository": "alpha60-results-2021",
+      "path": "data/geojson.day/godzilla-vs-kong-day-00105.geojson.gz",
+      "sha256": "7833d4f926b884ebf4679ef9c8ece7567ffcd8525da88d102ed4b459651f0030"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00001.geojson.gz",
+      "sha256": "9f389045d0cd7bdb6f8b5dc641a2b4adcefd4b72d4ce28af51d23107c90ec60a"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00002.geojson.gz",
+      "sha256": "12db6450693dccbb6bc918fa63708890880de9352943d6a5d5200810af0890c2"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00003.geojson.gz",
+      "sha256": "ebd7ce76635f13eb20c012b8a94265c5448e2a49e76257992c0d2038fe5b1db6"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00004.geojson.gz",
+      "sha256": "c4a6d106dbe266ab215daf2b9dbc4ab35d68d52127d654bfda9d2735c20eef48"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00005.geojson.gz",
+      "sha256": "7367c423a5eb532f8c569cd3aeaccc4227c53d548000af08ca6efae6aee8afd1"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00006.geojson.gz",
+      "sha256": "0eae856b29aaef6bafca7efee76521280b73416a5f5485467b16119c4c178781"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00007.geojson.gz",
+      "sha256": "b1ddd8c9b214ba17de4cd0c03143f1eface2e48d00f6bea97a800055f30f1dba"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00008.geojson.gz",
+      "sha256": "5d81393aaa6a01ee0f0cf305c0a8dbf404ebcc4e7ce26e16e33230c7d9494d1b"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00009.geojson.gz",
+      "sha256": "2580acac39746f07a356deedfd27ccb163d752eed192a0888a25fa2c08b1aef8"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00010.geojson.gz",
+      "sha256": "3f50bdc486b710a190067f0a0d21e9484b2aeb724a559fecbe6eb54b6daa74fb"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00011.geojson.gz",
+      "sha256": "4c4b9ba91b67a2ec9c55da0b50a4f273368f2ca1bfbf289ff23af6a0f156e5c2"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00012.geojson.gz",
+      "sha256": "f26da782928301c0e712a8c0292d8388f8fea3c9d7b0c5ccf4dec76c996e2863"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00013.geojson.gz",
+      "sha256": "96692c25b4cb391e89697d2995195d3afa88305b41df85bd99dc34d62097d04c"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00014.geojson.gz",
+      "sha256": "4b01f19a3c6ba1d7fcf21d8ce6c3a77cf57cf2acda6650c5472a5b8771fbbe61"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00015.geojson.gz",
+      "sha256": "42c563879a9d382efc040736357ca4e14a381b9c1774cf07a4da52397e6bfe0e"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00016.geojson.gz",
+      "sha256": "429f2aa9799f5293eb02243bc5cfc42fce63349d05f94e3460a7441c7aa1e274"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00017.geojson.gz",
+      "sha256": "845e5c081e95c0f9feaa9ad64f2bd8f6b385812c68dc051a88c44f5156bc41c1"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00018.geojson.gz",
+      "sha256": "0e8f9d37297a6a774bd33acc18739d413b59bc94364bee62192944585626d94c"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00019.geojson.gz",
+      "sha256": "c75f5f2027f5a55178c26512d67d45e5c2da1d8f312b238390080e57b869c149"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00020.geojson.gz",
+      "sha256": "e0c20e711f89c14561ce284090b43aebf1874d109f0933527d0d2472ba78f212"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00021.geojson.gz",
+      "sha256": "ad3cba904823055d3f252c4b220c705501c986a87c76e42ba576674174371247"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00022.geojson.gz",
+      "sha256": "e42398c40d5b381a7208563e9a0dd20d1babe69807d12c7e8beac16bd0fec690"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00023.geojson.gz",
+      "sha256": "973fb4ee1fd1aafc81d482ff3f8ffe30a6c14ff861d4b2934957f965f038abd7"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00024.geojson.gz",
+      "sha256": "e64bcfe466afcc5bc82424af494b354ef095ab5a34a1dc3a109c148e8bcd178b"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00025.geojson.gz",
+      "sha256": "a8f7d7c79480c367dffc1438a49836cc8acc61ddca4c059462ed041e0dd8fe6c"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-101-week-00026.geojson.gz",
+      "sha256": "1498d49f989ba12d14e838b385f417f79efb513f4b4fd8a36d39dccf09ce7ac2"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00001.geojson.gz",
+      "sha256": "a8fdfcc8b9b150f6ee1ded93df1e0bf1ad8c80fe5ea60c4b4b0c9f09a8034fc9"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00002.geojson.gz",
+      "sha256": "57effcb4d256bdd6bf2a38faaa0542e75951ec19417dc1ba5969ca98b0e63b37"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00003.geojson.gz",
+      "sha256": "db698f86dd1411ffb7808a8e29607727a2f448722b37647a51e0cbe8d0c75395"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00004.geojson.gz",
+      "sha256": "f72bb6ed32623d27359f98489053b1c6e948a3aa3c5c6917bd4e656d8e0d9f09"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00005.geojson.gz",
+      "sha256": "7f6af266430dcf674011d3695023c5f3628396a509e048530fdd4c4f1cf0488f"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00006.geojson.gz",
+      "sha256": "c4156692a985936a7c9fbb5113208e146863b20a166c7a55395cb9a833eec858"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00007.geojson.gz",
+      "sha256": "14142932404d928ef2d8cac1df2f362cda4dc9fa1abe1dc2e2745f7005b69a3d"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00008.geojson.gz",
+      "sha256": "8e46a8a4ef9bedb58a776b97d680bd2124ef837ff9ee5bb74b150ac0c018f939"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00009.geojson.gz",
+      "sha256": "f3073c0cae6ca255a888312177a10f50fd3d4845d39330019809c301e2d56cf1"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00010.geojson.gz",
+      "sha256": "bdec01d55a4a76b7b454de869865bc906b4fd1738103cb410cf15af53059c9de"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00011.geojson.gz",
+      "sha256": "4602708ad9aec5487ac0068321e84285d8e29ca4fe68d0161fef8b11e3ffd983"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00012.geojson.gz",
+      "sha256": "cc88466d04a2908de3e07d4ffd6c353882ef5e8ef2d5e075e782f8be68e47dfd"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00013.geojson.gz",
+      "sha256": "71c1570cfb9a19f48b37e290c510bc52f017948a8f45d78054436d4f638ee15d"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00014.geojson.gz",
+      "sha256": "5b2bc0efc24b834278a8c0a7fca47a3def942816163e1a4b531606d7ba784bd5"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00015.geojson.gz",
+      "sha256": "93af7a42f9ba6809b6b2cdd697780be76578321145cd484e25ebf7f96b469000"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00016.geojson.gz",
+      "sha256": "2b285cb1c2b55d2d7467e1677f1ae518a048389f831b27b95c94bfa34836341d"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00017.geojson.gz",
+      "sha256": "e1e45e3f72b4568ecd892220ad3b317d0c46316783420bd78cb38c68fd2ec821"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00018.geojson.gz",
+      "sha256": "d1919efe113a2ebf71be5edbfc714ef38dc5c3471b1de1a5a320892de9dd0035"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00019.geojson.gz",
+      "sha256": "876f8827e71f34a44bceb7d669a6e07edebe5e2564ca04bba114b630f5bb54cd"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00020.geojson.gz",
+      "sha256": "eee3371db9b33999b69e8745723ac75c4d3c6ee6a1a105b1d18c60008284df83"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00021.geojson.gz",
+      "sha256": "c1fb1c00de5a8f50ed36653a56974d3e94cfa410365c7d687ab19e5b298e198b"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00022.geojson.gz",
+      "sha256": "c392e2faa2dfaa54098b765933abea87bf9b7c86d8f0106389fb2563812d6d1a"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00023.geojson.gz",
+      "sha256": "b1160ae0e16fed0089fa4b6a9fa4aef7162041ee9b8c6e05788cd5c5d70b2619"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00024.geojson.gz",
+      "sha256": "1dfd2457bd2db066b97594d09ccba4e459e813b04fc48a23ea3617763002dd66"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00025.geojson.gz",
+      "sha256": "8ec22c7bd967402ff0bfa4dfb90aa40b0793a893a113ef8e7de2d92413b6dd29"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00026.geojson.gz",
+      "sha256": "8cb9b2d6165d580ebc52a008c369a8f232cc1f65d956efc397b3718d6275be17"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00027.geojson.gz",
+      "sha256": "8c122211f1eeaf248de538082e94d8d233339cb552ed171ce953ed200eae22f6"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00028.geojson.gz",
+      "sha256": "4390293b27f68a5e9a79ebedaef127ebaad332810838119adb92fa634036c2f1"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00029.geojson.gz",
+      "sha256": "b46e12cdc0803f940dbd285489f31f3a28f57f0996b937cef4ba9857f21bb930"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00030.geojson.gz",
+      "sha256": "62cc570101fa1246d0fccdb8366504a208894b98189017c5c557a88da8d1e26b"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00031.geojson.gz",
+      "sha256": "8aa35e6959c4d93ef9c376447a33962c3ee778c61ebf51edc4ae21a113189656"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00032.geojson.gz",
+      "sha256": "742a2f8b58b086889cc2f43a5303cc984bba3a07ec2197e335f10954b939c0c3"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00033.geojson.gz",
+      "sha256": "274fd3ecd837258b749d0ef8b6aa56c8a7bbf78452fa5ca4f10075a364def47b"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00034.geojson.gz",
+      "sha256": "8a855ba405d4da7e4ac2b74280c7e4c48b7e3d42b3c1a40e322abacbcb2d442a"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00035.geojson.gz",
+      "sha256": "3f110bf4f2a75f4b27480fb1c47a0dd4f3d530f0ae012ad6b15296885005d5a0"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00036.geojson.gz",
+      "sha256": "7e3fffbfc501cfcc3184cc2dc4276eab85914a6dc76a1eb7c3067ba439329f2f"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00037.geojson.gz",
+      "sha256": "869d88cefe41f4e9eaaeb596b63e5383eb6502c5e73483b61a8944b24ba4436e"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00038.geojson.gz",
+      "sha256": "a0a04a7ede561f5289077a93f073e8d20af37874e8de761d8839141b6c2621b1"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00039.geojson.gz",
+      "sha256": "cd5cd35dbfc5f8a91aaaa986698591abee03048e71c278f28294d170ae5dcdde"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00040.geojson.gz",
+      "sha256": "9ff5119a32b1b066445a8190734e77afbc2674cc75ab7978da2cb5df72f7fe46"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00041.geojson.gz",
+      "sha256": "7877704391e1421febe3e317aff35d64e353fe91e2f166d25e5c5671f02a33b4"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00042.geojson.gz",
+      "sha256": "1578ef9786213a148cbdabd9660934cfb088ed3d3da9708c574e28363a9bb12c"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00043.geojson.gz",
+      "sha256": "25b5bf7610fed5f36832cd391fd154964ad0b6d5feb791bccd357f16214f93e0"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00044.geojson.gz",
+      "sha256": "a788e53272e0f2f0a13bc3311caecc2f84b8a1bf6019adfe5e4c94b48242ebc7"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00045.geojson.gz",
+      "sha256": "e015a56f9016127fbd712e407baf4e4ef92b38964928adc7699678c52a45c7b2"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00046.geojson.gz",
+      "sha256": "0661902b4c10ee58a5df69c794709568f0220128ebf438903f93fa3b8c054fe7"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00047.geojson.gz",
+      "sha256": "1fb643d03f88aaaa061aae4a4159df70251e514a480f97cf8bd7bdc2bb030452"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00048.geojson.gz",
+      "sha256": "65a59bcfc09f6264a85b760c08034511a0e61d6bce71705eb31404246d7cde62"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00049.geojson.gz",
+      "sha256": "fb2fb57230de6116c02b9dd444f7a86e277ad4839e9c8729cb032d14f63af3ce"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00050.geojson.gz",
+      "sha256": "a28a343e383930ea472010ca2c896314e5a2d5607f22a6531547dd502ba33392"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00051.geojson.gz",
+      "sha256": "69d9f250f0fe0fba90319652f5f48bd56cfb5ac26de038b8dd7ef6e616acf200"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00052.geojson.gz",
+      "sha256": "3537cf7eef9c4afbdbd334db48d4b7a21f2e2a049248285996686586344214f4"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00053.geojson.gz",
+      "sha256": "8a2cfb678c3a98816b528bc6058874de33806eeddfefc14b4e4f589d61a57b61"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00054.geojson.gz",
+      "sha256": "dc2436d5940a2bc0251a0e39fa1d2d9bb6d3df56fb7a167ecadae4bb1f08dc56"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00055.geojson.gz",
+      "sha256": "18286bf32d4e861d23d6058b06b1c387cafaae6b4c6304827f069193480f37f6"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00056.geojson.gz",
+      "sha256": "9d78de66b8c9c785fd9da58a68fe739d77e127a8cf07e4fcf372bda682b1fb34"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00057.geojson.gz",
+      "sha256": "c5d87c59fb88855f74331575693ea36deca325cf817f0cab7df91b9a34e9d439"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00058.geojson.gz",
+      "sha256": "b6b9a5fcc0815463ce6608a3c736249c17acd4308a97bf0068df0cb27f737fa0"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00059.geojson.gz",
+      "sha256": "3038b6f68c8a3b031a4b225e2d5137c22edc80c1254a87b6ff7867fdd8e4d373"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00060.geojson.gz",
+      "sha256": "7cb6c9733aa5e6c3b65a67c570065fb0447661461c70146fe8cdcbac3a57566a"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00061.geojson.gz",
+      "sha256": "c47043e1ab14db11afb7938d6ffe0891462e85702782e849f2806cca67be744a"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00062.geojson.gz",
+      "sha256": "4c9fbe81dab80254675830a3b2545cc5e7eace360ac19ce2262b41a078b9a64c"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00063.geojson.gz",
+      "sha256": "47a9d33a04a011a6e7c0f6cd97008aac7a5dab8e3876b8eaa1bb4af49caf8bac"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00064.geojson.gz",
+      "sha256": "63ca98bc7508103b2100f3c478605d626fb8f91bade5a78e684c323f3ab0d431"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00065.geojson.gz",
+      "sha256": "b0af2b4b6485779ff1641471bbe65edacd17c99aaa508f5e660ed0554dbd72da"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00066.geojson.gz",
+      "sha256": "12681d255aa3ca005e036a39dbcb73d62ce80182b2b2ffccab250bbdf6fad9b5"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00067.geojson.gz",
+      "sha256": "38a7edf82346e6eb31b4e22401dad158569cdad71818823ff03025121e2a00b5"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00068.geojson.gz",
+      "sha256": "6095c52e4e0639ad3bac3a30a5f58ef7c29476fbcfa623452bc89eeb65ae91c3"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00069.geojson.gz",
+      "sha256": "b755f51ef31e9ba59c31063c43f0459f2ab9038b834cee772ae6856a71d17600"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00070.geojson.gz",
+      "sha256": "93e78f90092283d1f6065ad127fc5a6af4790daa843dabf48b5da65ad2b1c86b"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00071.geojson.gz",
+      "sha256": "f46a2c626e9a30cb34f6923c1134cd2dc53b07e4625e08e6d7396ff910c36cf5"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00072.geojson.gz",
+      "sha256": "f46836090c6adadd601c97ccbc4ac3a3a8620de72a60af64285d78c076054ee5"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00073.geojson.gz",
+      "sha256": "1705fe2ef858b36ad749b3b1064b0d2b630ef09952e351125f48cacc3bddc0e2"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00074.geojson.gz",
+      "sha256": "3e4cc9c40a8b94a93be0f9b896d1c22210d413cac4dd0846b9039822ecd7b2b1"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00075.geojson.gz",
+      "sha256": "4697bb42771690f9867d3e411f814583c3059fcd0bf2c1628ca9d22dec2f2bed"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00076.geojson.gz",
+      "sha256": "05e9caac6a4d0833d44a7165394ba84684409276363409328750e017063d0f81"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00077.geojson.gz",
+      "sha256": "dfabfd6e57a48acb82631449148a56d4adeb1f5adb801daaf2a73a3a544d51d1"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00079.geojson.gz",
+      "sha256": "0a16ff3ddfd97e81b0d9100fdcb313de7b54589269aceade4aa66177c30a1f1c"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00080.geojson.gz",
+      "sha256": "41b16f61ee7db1310067aa4538e9c6e903864f1bd845d94f796e40082098c02f"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00081.geojson.gz",
+      "sha256": "bcb14a8f71443391b7139d6f030d7b18367c5694c84b391c528755d13aef2657"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00082.geojson.gz",
+      "sha256": "4c3d78e3158a3b9c93f90e429f20da7589cbabd4941d90267c7b8ec6b2f0258b"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00083.geojson.gz",
+      "sha256": "762d94592382fd59c09d9af4fbfce0dc7c52677ec19415b0ebd7b664e6bb2a92"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00084.geojson.gz",
+      "sha256": "80793de916df48cf35e08ee8d5fbb37976a865375533c10c6b14e465295887ac"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00085.geojson.gz",
+      "sha256": "180568027bc126477de0763c8a8a8e8030c4218632715b691f94de8a75a33bcd"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00086.geojson.gz",
+      "sha256": "b0b98b4711d0938ebe9a4876040f1598e3d6aed83d258c43a55577db50577ab5"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00087.geojson.gz",
+      "sha256": "fb360ddf1bce42c2c7f3f18abe9c1dd2ec005141f35c8f2af54c59278429f58f"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00088.geojson.gz",
+      "sha256": "5cc086ffc6586af0d240f16b4d6852c8fd445305b2e6660af51d139fda237efe"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00089.geojson.gz",
+      "sha256": "d7f81faac249ed61ac83fb56e44a6c4238a2c41d16c1428ca9b09db53ad46cfa"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00090.geojson.gz",
+      "sha256": "ba500f5f84eea0d66b66fd6b4c21efdd1097a1fee08fa7ab4d7a5a3bb325a95d"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00091.geojson.gz",
+      "sha256": "64a5a6400745ca3c2773f7aed52a6f0bdb266729f4b296ae9ecdee9f7b07905b"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00092.geojson.gz",
+      "sha256": "c8332d57b5aa8fe72bc0270ba550da63bd92164ba695b1b05820b3b7486bc9ea"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00093.geojson.gz",
+      "sha256": "40a5ce33c7792c01083faa152599d69aa779c0f7837a7680cd3345144857fa12"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00094.geojson.gz",
+      "sha256": "ad5e45952bef56e291877aa72261e467a6e37c380bacab647dcf9356322c4891"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00095.geojson.gz",
+      "sha256": "6f5644342e654b8a355a7bb9aa4b9b5a3ef66cd920e5194f8f26fd887e8f8cc7"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00096.geojson.gz",
+      "sha256": "3e0ed62d2d5ca6d08f5391f3d412e6c12e32e1103c0de4bb22e3ae8ab2a21982"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00097.geojson.gz",
+      "sha256": "aadf8c4ba592ef9889b931bacd9985f57bd80d67e9eef038b12089975c03546f"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00098.geojson.gz",
+      "sha256": "b792240f2614592e6ccc8fea2aca89b6f1419bf277971b9d47d1575efbdff2e2"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00099.geojson.gz",
+      "sha256": "52e7717b14e401c5585b5deac1cae6067160013237ecd0b61304f761acdfc462"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00100.geojson.gz",
+      "sha256": "b49522d89f566a3f04fe1d03e2141d992be4a5110c092a3de1296917526df09e"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00101.geojson.gz",
+      "sha256": "78b075448ff9572673fdfb84cac5eebd28e18f0b92283086080abb05055924b8"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00102.geojson.gz",
+      "sha256": "641b9b5e44bbd4ef21fc2af1020024ded00805481decb4305600d352f63db6ec"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00103.geojson.gz",
+      "sha256": "a13c4d4724c04c4c6b6c8a21b987ac01406c5884738cb4b1bf91ad5cf9f0abb5"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00104.geojson.gz",
+      "sha256": "ec1554bd42e483121eee9779492aa6560562a045bee35714cb04fa23f27916a2"
+    },
+    {
+      "repository": "alpha60-results-2023",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-101-day-00105.geojson.gz",
+      "sha256": "7e75cb4d18f1170d2f44ae639e01aebf8e621697bc646bfdb072d594758d6dfe"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00001.geojson.gz",
+      "sha256": "c9dba68fddd64fc9152a32dafcf475c9bc9273c796ddc4f39efae3ce01bcd3cf"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00002.geojson.gz",
+      "sha256": "be7b8c0dab074dcd2289fcef5d94c7d252827f070fba00def44027663ea38abc"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00003.geojson.gz",
+      "sha256": "36406b08fad9f35781b1609947f1b1e502bd1492e18f0d672ad09a2965432853"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00004.geojson.gz",
+      "sha256": "f65c46a600cf9ff4e0bf38b85932d3364d20eb30c2e2fb1150921c14c559da3d"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00005.geojson.gz",
+      "sha256": "aaf3edd5748958008f7fc0cce13857d10103c249a582af7ba419f43010da8d23"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00006.geojson.gz",
+      "sha256": "add0812ac103f804672f0923362657cca61d5fc6d5c6403e483566d4ff116fc9"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00007.geojson.gz",
+      "sha256": "f7d8e1d2b8c4664039a7ba5318469d34721c7720b7be768004e2aaad7779cb65"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00008.geojson.gz",
+      "sha256": "0e473a08d5eafd4d0257549e931ab7282a5a1a58ee5b2cecf1c2b56ea6963354"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00009.geojson.gz",
+      "sha256": "aab66f519831b7892825dba46d03a877ad76dbd1f4a390d2e610a3e56233979f"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00010.geojson.gz",
+      "sha256": "4a76d914509871adff75d64e46eba96f52a6644753678c6f056b37e64a6d0440"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00011.geojson.gz",
+      "sha256": "62efda17ec12bf8faabc7bb0991d4bb816c7133ee5043ad6c9b392a8ca5fd11d"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00012.geojson.gz",
+      "sha256": "8c61f48a83d266c6cb9bbd627431604efbfec9926490cb19d56707055f57ca4e"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00013.geojson.gz",
+      "sha256": "eec222464109f421c45132e89ddc719d0cd7a81af52c3bc1e4c71a09a2b9c061"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00014.geojson.gz",
+      "sha256": "4accba273551eae9e42b313e760c57b328c88e08eac059a979e9ed1d0e7bbf6e"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00015.geojson.gz",
+      "sha256": "03d24ef4f74eccca96b4a0f0cb8c9f49197a509e4ef7618621877faa0bc26e4e"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00016.geojson.gz",
+      "sha256": "bb0e1f21b144b00f8ae319bfc17415452b6c2368136f9ee12e01146d1c9be70e"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00017.geojson.gz",
+      "sha256": "f6727519d2585b926c939d9ba8df2a3b931767be24ecc156c9de65330b441b59"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00018.geojson.gz",
+      "sha256": "2a2480eb292ee4577fb50b1f3c6a1ff0a8a09797214e277d4222e622472f7433"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00019.geojson.gz",
+      "sha256": "fa83bce57c3df4d939c3cde6eba09c1b7d9b599d3e03cf2ee614543f2f2b257b"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00020.geojson.gz",
+      "sha256": "f5ff659c8a752e1a2bb4a8e0be7648736b2e52f8a79e47d78d1031a1b155adce"
+    },
+    {
+      "repository": "alpha60-results-2024",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-110-week-00021.geojson.gz",
+      "sha256": "ce082cffdbe78c8ad910e57f02477f5969ce10d12b6866c6160cda6d071ce1e2"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00001.geojson.gz",
+      "sha256": "e58f319242ecbd97f77cc92172603b268c8aba05d09e3a2ae2384258d05b66b8"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00002.geojson.gz",
+      "sha256": "e04582df30c1c3c88b3303e7655d2065624f309dd282cc7950a329568ea757d0"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00003.geojson.gz",
+      "sha256": "af0a13011e06b8403c00e3b911397550ca9d90695aecffa0eb486067781c37f0"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00004.geojson.gz",
+      "sha256": "44df8bdc754dce727838672d27589c3131ce91346bbc9d5ba6cdfd4faaa073f5"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00005.geojson.gz",
+      "sha256": "fd95325f3d692c19cd00e7ef692f596735ad30e9731f7fe5fd6dca3ca533d684"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00006.geojson.gz",
+      "sha256": "887c4e99bb55a376fafd0294ce7c1aec2f08ab2be4387aaec117830d477bccc2"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00007.geojson.gz",
+      "sha256": "a6376c01a088ac5c7f0be846e53eae6c14a592c90486cc2491e00fbfd022bdfa"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00008.geojson.gz",
+      "sha256": "9283cb2071ea28f71d73ddc745fa28ab2862cb8187fb2dc8e010b0dcc566c6d5"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00009.geojson.gz",
+      "sha256": "ab83a1806e071b9acd8004d65df3065449d8c2cacb8f3a2f44f6a965d7cb1e8f"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00010.geojson.gz",
+      "sha256": "cbb075450c88f6330e52cf87249eebb8a4004c27d686dfd6cc08812c185fa4a6"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00011.geojson.gz",
+      "sha256": "3541e4a4ceb79bec3a2240e6a218bd74c8678b09083c07b4c463fdcdcaa94b41"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00012.geojson.gz",
+      "sha256": "85513f3ed9da37c19881fe356d60c1dabb2f3b2f2dafb91fc8c7e2a0c1f5079b"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00013.geojson.gz",
+      "sha256": "2344b8e6ed348be8e27182d0f37e12dceb4fe6baca4451dbfedd6257f470e9dd"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00014.geojson.gz",
+      "sha256": "f6ab87250d50aa5ea0fa61076b45d9acb9337936bbe614ffbb612189b467ffa7"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00015.geojson.gz",
+      "sha256": "1a4f60e415a29e29e76ec9cf01385dbf3a973e081aba1839a2cf410848597212"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00016.geojson.gz",
+      "sha256": "1d63b96ab9e18ad20c75e6297564a48b2c529dfa65558a23c39ed9e3aad77816"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00017.geojson.gz",
+      "sha256": "79b03c3357c1cfcd4c523b76cb26eadfc83a3c0c1d3cefc535dce9c1d5834581"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00018.geojson.gz",
+      "sha256": "431188fb464447dfbc8d5a8efdc584418e0dfffda90558f046b255e316ebcf2e"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00019.geojson.gz",
+      "sha256": "8701eee3b16dfea678527fbae079495edbf765484e9ce302ef5fa0b40a4dc2d2"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00020.geojson.gz",
+      "sha256": "44bcbd4b54fd7a261cfcb9a33a9e14def18de9f252129c7d43baaf5c3b6eb66f"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00021.geojson.gz",
+      "sha256": "70728219de28eaddf86c70b18c554b4f8034460e0f6ca87ff1bad762eaab75c8"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00022.geojson.gz",
+      "sha256": "d02e2002d2723be00c7e3848e82be223b8b6b49502785bc0c5425d9281306881"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00023.geojson.gz",
+      "sha256": "bdfd819df695ac1baf61f62111c52e3a6e58e0674bafabea0eb9156d09e06f50"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00024.geojson.gz",
+      "sha256": "f1c5a41f073324fb9590bf4cd11dd588202a12e921990f1cd4fd5933fc509c76"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00025.geojson.gz",
+      "sha256": "8019699262649a727940753c12d0281e46dafb20b8863d133b12c34bf981221f"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-201-week-00026.geojson.gz",
+      "sha256": "ab42f60d96c8edf1e020cd3ff617177003f7c520f4f4957ec38f32591a1029a0"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00001.geojson.gz",
+      "sha256": "b13741937825a6accbd798b046fd1a7aafe4cb4e9f8f5654eea7ff57d0ba7983"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00002.geojson.gz",
+      "sha256": "00f8c431cc2daa57da335d32bc41ed60a287573c06428edb584a605871b6f1b7"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00003.geojson.gz",
+      "sha256": "c566257740510daca7d75cbea74cb5f413b40cb6f2f5cd80b831ee7ccf42bc1c"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00004.geojson.gz",
+      "sha256": "b2b0be8115cb08abc6b4ab2e3c80abde42ee7a4eae5fb5659c89be84b0936163"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00005.geojson.gz",
+      "sha256": "9e81a595de2418a9ce149870da2ca1413da0b24461c2c414d729cd5c10210bad"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00006.geojson.gz",
+      "sha256": "cf0c29c3a4db892fae13f1baade4b717fbb1f7648058b23a1cbcd9d82da366ca"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00007.geojson.gz",
+      "sha256": "b0973c7303f248eed1f2313183b8ae8a6ad19670b3569e97877ae2ca48290df5"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00008.geojson.gz",
+      "sha256": "8783ced140bddd3ebc067256dfc5c2c5fb09ae35335abdc222aa9cb6e19f87f2"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00009.geojson.gz",
+      "sha256": "04861536ef3831bf6e2115abe09d4576f7ae4655d1f09f1210c379e4ba537ead"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00010.geojson.gz",
+      "sha256": "3d2513deb5cfa307fe7cf32408863ee9014335ae7458017e894756dffe557570"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00011.geojson.gz",
+      "sha256": "098694992b05c4323fbec03d5afcb336e6bfa048cd28f214ac167cdbc6c9c9f6"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00012.geojson.gz",
+      "sha256": "e0854dec8edcab79e648534c4a50f2bca108656c2e888e1c8389086a0adc9629"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00013.geojson.gz",
+      "sha256": "b27334e68d2e99d10640137e7fbe86df8e4e689489f1161de33c8ed53da25b74"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00014.geojson.gz",
+      "sha256": "b8871e674b19137c8275607796661246e8fd5119ba6c3192695ab123be0e48cd"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00015.geojson.gz",
+      "sha256": "93a9b21237802418b513764ad2f3463421f49cb63b3e0ba3c087d16c69cf4c92"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00016.geojson.gz",
+      "sha256": "40223db0d843d34ad8af9eafde56a64ccd2d12a274c7bc20fa0faaf9868b620e"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00017.geojson.gz",
+      "sha256": "f623d08a020f3c50e7bf7f67b1797b452f08e555c6249c0cfa23726ce1f6a9af"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00018.geojson.gz",
+      "sha256": "90c968644d513d2a874d3a7984783e7411060b28e101f7e162544e60416c05c2"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00019.geojson.gz",
+      "sha256": "c35e77d9c166f96692391d0e6f69fb8ddb5dfad59f2262beaa14b5ae19e7a4f8"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00020.geojson.gz",
+      "sha256": "63f7cc9e933033427557c52101a0f9f7d5f1de5042a218d7433be81cc64eec02"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00021.geojson.gz",
+      "sha256": "22e52c6791f3e7bb5982985124cb854f30f1f5efcb06bbc79c3c0e7755a10494"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00022.geojson.gz",
+      "sha256": "f7e56519c95150b670bc9b952bcd40cfb503664d6101d703d665d18bfa2d3c8d"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00023.geojson.gz",
+      "sha256": "e52dfbd46d1aa02732ee3c1bc70e7ac4b83528164f61f1908611d457b1126c9f"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00024.geojson.gz",
+      "sha256": "a4d85cbec0f4fa057699d919ae4f3725ee6164c442bfcfd001e4d70fde19e2c3"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00025.geojson.gz",
+      "sha256": "02a1ca0f8fc53761b9ce166d819c4a42d4e7df821afdc7a97c243d7cf6734474"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00026.geojson.gz",
+      "sha256": "5380236d2179ddbcf6aecd808d4d5ac0da4e25e0b7387c2b20e06177f0a4c1f3"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00027.geojson.gz",
+      "sha256": "a2d46500dba28f6046bfcaa0a4c2db27091da752dd808804666ad7b646524082"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00028.geojson.gz",
+      "sha256": "d53f9b90a7c90a14bb40ed06f51759b52bed557a34792390db541969db1da242"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00029.geojson.gz",
+      "sha256": "fb78741b4c4b5790f11024dc59f7216a2b7a937a2727efb60df12cd12aca4529"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00030.geojson.gz",
+      "sha256": "3f50dab30229339ec3cb95162e843b25af7876671099ce698585c5a88892d176"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00031.geojson.gz",
+      "sha256": "920f39f53fed77d05a48f0e9cd98c87d27d9b61a7256e9d507dde74a89c59a66"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00032.geojson.gz",
+      "sha256": "9895b558cfcce02708f6f78621ac9c356488bd2dc294d108c5a2188a74993a46"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00033.geojson.gz",
+      "sha256": "4f41fc0b718df5bf09b9542ee584e7944d10395382260a934d9c83aaffb12ad0"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00034.geojson.gz",
+      "sha256": "6cd1b70959380ac513399b20a774c03f83213c7d866f1d2b1badb51fdcf18def"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00035.geojson.gz",
+      "sha256": "0aa232ec9c174aaa63a2a1241ef8e93794290d1a07359b7bc0982cf6cb90d1e8"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00036.geojson.gz",
+      "sha256": "9778e546626130c83913e5c689693befa407dec96ceaa672aba0af0774a04c6b"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00037.geojson.gz",
+      "sha256": "50bf231d908da1f5f9f50fb16eae024c94a0b9f62f667975ca98935e20be1c65"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00038.geojson.gz",
+      "sha256": "85b6a70e7e0289b651fe7180854de1cb058e108eea8c691ea60d1931c5013f94"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00039.geojson.gz",
+      "sha256": "9fdf609f7c5e5fa1b9c1bea7f5d8bf75cbd24e29401d5a655a189964b453b5ad"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00040.geojson.gz",
+      "sha256": "7e11fd8902d9311af03fb151f6188b0fe3a9e61d45939fefe2d0bfd691a6b1c3"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00041.geojson.gz",
+      "sha256": "c09afcd03e9edec731e280c00ee12f7e793c1235d8c9285272ce60e5a986c2aa"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00042.geojson.gz",
+      "sha256": "fc9dfacf3f0a4e06d900c79c92db5511fc8935516f4c13b997483861b52bd3a9"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00043.geojson.gz",
+      "sha256": "6ab709c3a8ce31ae9f4573d6e8dae3a9fca301fa7244f5d4373c0bc74c294d97"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00044.geojson.gz",
+      "sha256": "41952536a393b3599252f19d9c6ec313f5eeea5ba75eda95ee8ebdf5b86ee1d9"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00045.geojson.gz",
+      "sha256": "d021cc2b83b841236638e8142b8466a039fa917b1e8e5aedc6a9387b7e3849e1"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00046.geojson.gz",
+      "sha256": "8e30917ec000f05e32663d60465cd839cb3ad1d4f68f2ba34cca59cafa1f06e8"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00047.geojson.gz",
+      "sha256": "b4d94538fb91e27ceb3b339cd9c94a990bbfe77d5eb822fc56c7c39518425b0d"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00048.geojson.gz",
+      "sha256": "82f48e8b03ebc7fb7eb745fc06a5bfb9fe12f9e1ae9f0b1abbe82da5792277c0"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00049.geojson.gz",
+      "sha256": "e06c0165443f0af5c481e84bbee3284f9c1eaf95c1d386bfd9cbf4c0b4a3890e"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00050.geojson.gz",
+      "sha256": "f77547775288b81166904a7025678ca6e966b9b0adc017729e724b4b64f396d4"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00051.geojson.gz",
+      "sha256": "2bf54562c66cb8f12dfd61b217a14432ced99d4db67a97f1b41f21ed78178ca2"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00052.geojson.gz",
+      "sha256": "8627da14ed42712c860b5d89695f9ae9e559b51f56b1e456e76ae8439eaa588e"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00053.geojson.gz",
+      "sha256": "2871164992c7b8261fe73a96c8ce347b0c6e7b9a7af28c7eca437a7b032fb824"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00054.geojson.gz",
+      "sha256": "48880f6d43710602c769ac67834df97e3031a5654e22ec9c3ef3b2a1a02ed090"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00055.geojson.gz",
+      "sha256": "1e54ea44dc290c4543f34c53a1eb36e56ad3f6b57cd16a86796fae6b61f9635f"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00056.geojson.gz",
+      "sha256": "ba529552117e68903347aeed5e59e574c0fdffa7e37887255c96a13e4545fa58"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00057.geojson.gz",
+      "sha256": "6cdeb07dbfaeba4a176a038211bcd125534dee97f38ebc25991e01f7520d6093"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00058.geojson.gz",
+      "sha256": "975c00f719de71b120b74674fee9c77f3306c6aba6a8a4d2c4a09a8fdf52acc1"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00059.geojson.gz",
+      "sha256": "15967371407cf097238e76dd4e7fb8527c0815f43dd281f6c7e01f86d95be4be"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00060.geojson.gz",
+      "sha256": "f273b8c0c1dc822a4db4726f433479fc0a714e94e7c60b71f5f519d84a7578e4"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00061.geojson.gz",
+      "sha256": "0741dae462c10ab89d478f1082ad087613a2236a08508174660010295ecfdc90"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00062.geojson.gz",
+      "sha256": "55182effc456cd3d03244a07ccb8ddcb24fb625ed67b24bdb99493132631f722"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00063.geojson.gz",
+      "sha256": "6f77e3a7d6dd9b8c612a3a02483a95c84021ba400756411ea7754f4da8cb7308"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00064.geojson.gz",
+      "sha256": "bc56f6e3c02c1036dbbd109ed923aab1d297f7c5dc115545e0f5d62ee8468e3d"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00065.geojson.gz",
+      "sha256": "9eec1cc84bdd651b16774ffaa535716e31dccb11c66b6e1244dc2bf0e25e9720"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00066.geojson.gz",
+      "sha256": "56fe0920c35ad42f7992ae93cf469a0a6045483d6746239eaea5423b75a41e8a"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00067.geojson.gz",
+      "sha256": "e4d6d92d7acd8acd2ae917ae8f06ef69fddd5bc7712c66b7ebe2edeea396ab80"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00068.geojson.gz",
+      "sha256": "3a3a8ffb1706487f735dedb6deac909362a1d8fced51c63b007c2ce18e0f6411"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00069.geojson.gz",
+      "sha256": "19218334979e72a8efda9d141b9e8ed6c9eefee160c00055c2adec5c0c8774cb"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00070.geojson.gz",
+      "sha256": "f779b731435f5b07ea8e4b9c6ffc027635814029571e6bb0771dc74eec29d9eb"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00071.geojson.gz",
+      "sha256": "825d209602345534f88ef9ed0a1a6592de7934b189b0ab63b5fb72c6e5713d14"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00072.geojson.gz",
+      "sha256": "c4eff1f963defc2a862bfe2482159db30095111c8c4ad3fae4c6dd91ebd61e18"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00073.geojson.gz",
+      "sha256": "9d82878c4adbb4df395af2cab1f6d83115532ba1f75f65652a007cba878d15cb"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00074.geojson.gz",
+      "sha256": "6adadac408f2742cdec316309bed2fbf1b12e8e40770f577b1bde7ec4b82d974"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00075.geojson.gz",
+      "sha256": "54513cd733a49c37f5f60704b292042613298f0b50d1cf8f30bb7e9947523f17"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00076.geojson.gz",
+      "sha256": "9aa474129f455eaf0d40245d8bc680ef57af5350f39eef44c8e9fe95c59d3a11"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00077.geojson.gz",
+      "sha256": "089ed42e8a0e9d1fbe034541de5191187b113524cd9fbce55701abf9610ba853"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00078.geojson.gz",
+      "sha256": "baf88b8891e063d68d9f52ad72049c685b1062d463ce44e894f8c7581336afeb"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00079.geojson.gz",
+      "sha256": "a2a152eb07deafd027764d2e3946dbc4b00fc83f8cda6af121b74ef2dda27e07"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00080.geojson.gz",
+      "sha256": "c8176c92ce112c591c740a944eb75d63b38874fc003437798a10e921cbe40bde"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00081.geojson.gz",
+      "sha256": "103153af819698ff455589de930122f0af48bc30f6628f992174f4c11053a559"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00082.geojson.gz",
+      "sha256": "4f2533a7a8403023bd86458e9b11159b815447ddaa7179b3f5e0ed8c48b90748"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00083.geojson.gz",
+      "sha256": "60bbffddf67c184812ddb650a12fc7ec73b4a42b98147dc83aba2a6145988334"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00084.geojson.gz",
+      "sha256": "8b5586382bdbb69e039d0be0df3b63f26a40ca00c79dce5e78d3ef2dad6e38a4"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00085.geojson.gz",
+      "sha256": "51a8de7a9f71d5dff5cd304a4b77167c7b7b405c2826777208fdbb2187ecf774"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00086.geojson.gz",
+      "sha256": "6aba0839915d26ec2da40ed6cc32a2527a43e3ef459b94ec183d5716a8008179"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00087.geojson.gz",
+      "sha256": "9435836f15d6b60c33361f336d6e6951b00664a5290cbd4d72b345a036f6d439"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00088.geojson.gz",
+      "sha256": "ab027956d6000cad22ca081d6eead34ef74b89bb936d3abd016527ea4b62a742"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00089.geojson.gz",
+      "sha256": "7fa9781b0db324dceb169281a0e7382f30a7ce4e32a4c7f563294089d50d4e9d"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00090.geojson.gz",
+      "sha256": "fdcdd88592d1a141349acd9681e3b757fdfa0bc6b524104439d705ffff5e4fce"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00091.geojson.gz",
+      "sha256": "d6e6bf5f695a0598621908e0145f6e1a37d525086d8c9fbc0e73b39596270a16"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00092.geojson.gz",
+      "sha256": "ff9930fcefdc6843516a7482f220eedc67f7a25d11cfc086918748733bd25ff0"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00093.geojson.gz",
+      "sha256": "0069478b42fece11927dd64af6889cc542a216c1b586d4d858e19906b9987577"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00094.geojson.gz",
+      "sha256": "d4d81e8038033aea0a4ddf1550280cf4b8106682db56020974ef76ea687e6b2b"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00095.geojson.gz",
+      "sha256": "dea909a2f6a5097d1bd9507514b829fd3238d74735949fe2f9e484f29995edf3"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00096.geojson.gz",
+      "sha256": "7886090a385a09a9ea03cae65307fd7ff2d822aa4532932238866bc2d1a79d73"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00097.geojson.gz",
+      "sha256": "ed48000f8714aed32d2b4d9d8f6a962de3021d795675bf783d0ae21005fd1fbf"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00098.geojson.gz",
+      "sha256": "e1d719fae0cbc4615b04c7bc2dd22d127f0c3b7ee5acd9ceca72c14999249e85"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00099.geojson.gz",
+      "sha256": "3380c541d3b70aae0f207efdb93729dd5187a42a881b3da8692d114c6e761d57"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00100.geojson.gz",
+      "sha256": "6c86e6a0cfcc2bf8bfe473b68fa3045370ba8b7587fd4cb388b2cb82ededa583"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00101.geojson.gz",
+      "sha256": "91defdce3a7ede72bac20484bf16f39006ac8ecdc24cb7442d1c2fcde9d01657"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00102.geojson.gz",
+      "sha256": "d0de5174d4432c46d7eedf943058767566cb992295efad6db1425acc10ed995b"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00103.geojson.gz",
+      "sha256": "26578e4fc1205ee93962cdb94a2c37034f58d901f2eee98a8920d115a11f39af"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00104.geojson.gz",
+      "sha256": "1c9d6feb5b15760f4bd5077c009f99f6e4b2f3fdf997bca802873b68f034c658"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-201-day-00105.geojson.gz",
+      "sha256": "e766ff4fa34534610e46536451ba0499d2b5d09c53cae3f5838d990961635b78"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00001.geojson.gz",
+      "sha256": "55b13ed0cc9168ee1bc10c056c96466b3d6b6877a0a53670c97d57206dea95a0"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00002.geojson.gz",
+      "sha256": "31852331d5667f536516ab84cf544e73b2f3411f20cf11ae7168f07b599c689a"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00003.geojson.gz",
+      "sha256": "9331504f5aff7a62a22818ebaeb9f97cc1050a5efdc5eaf722f7d0db84d68e8b"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00004.geojson.gz",
+      "sha256": "00f2c6d27d9ea4866d2605b6726ee768e7d2763d95af35437bf29d2112dfe80d"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00005.geojson.gz",
+      "sha256": "e01cf31362afc7f04fadad122bf1dcda7df14cebe135bd6f1d3b78862f6cdc58"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00006.geojson.gz",
+      "sha256": "9771cf9b0c21867b47b59aeb8053ec64f99fa11a3bbf9064ad8ce25789e389af"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00007.geojson.gz",
+      "sha256": "d291ff596562e5a0d005ad95d8939bf224379e32ebe7ce036805fc316170c9ff"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00008.geojson.gz",
+      "sha256": "ac94cb8ce5cb9c07416002e9ff4ea28aaf8957093accf7a301b63419c6663697"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00009.geojson.gz",
+      "sha256": "01d3cc000c9ba77620063a12d16960ff09f72cbd7167f74a03c4167e02f5b547"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00010.geojson.gz",
+      "sha256": "9d485b4993f578f962e2f1d01403fbab7f7a97545a26d78a70af35dc561babca"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00011.geojson.gz",
+      "sha256": "b6a18015680973af5fb8258b6509121dfc33ad8194accf6190985b08704fe037"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00012.geojson.gz",
+      "sha256": "5b4f7d39961070b2054bd3145b26aedaa2f760dc0daa7db8ab3122ba05a17daf"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00013.geojson.gz",
+      "sha256": "68fc881c9951911cc89b0c39bc018ec8f88a758e955770d633fa8d207cb32ea9"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00014.geojson.gz",
+      "sha256": "9d1d3ef2b7de4b516f3f1483df5b2cb3fc750b578641790dc6b5a989115bd630"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00015.geojson.gz",
+      "sha256": "c18e021fbc1f15e5a89e215128510e8eba94183facbe5a7228b692d84833d97e"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00016.geojson.gz",
+      "sha256": "675ae96409a3a3a951f527fba7d084d890bf201162bc2e2480823c0131a5a305"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00017.geojson.gz",
+      "sha256": "b4f1228946131acb397e12514864d6dd4ddc89c739ef72f8f07dba4d0082edda"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00018.geojson.gz",
+      "sha256": "5c48eac1849ed5d051e3cca190efe991ffbb6af33d4c662fcb82f15df614f847"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00019.geojson.gz",
+      "sha256": "f770e3a3e7f9fad709ffc590cb357df65bacf363aa86c00c70652cafccb22085"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00020.geojson.gz",
+      "sha256": "25e7ddefd4cd85f071f3e51cbd25e01a0dcbb6bd422ee15c595289b635eba331"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00021.geojson.gz",
+      "sha256": "6c678fbf5f02f975443f92ab258e53aff390de866ccef6863481ac08c8f0cbd3"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00022.geojson.gz",
+      "sha256": "23d7ee5fccaa75d03a7e624270749b5703c1fa41613640a4e9ac72e3ffd0e254"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00023.geojson.gz",
+      "sha256": "8a4a6f650f2e403f6867ffd8f2f2ad3f290b39144df7b0ceda8bcd8c06ca2e64"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.week/monarch-legacy-of-monsters-208-week-00024.geojson.gz",
+      "sha256": "4e6838e3ba19f626c1d8bbdd69e8da26dc47fb28891a1320057596104ffbdcb3"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00001.geojson.gz",
+      "sha256": "b4fdbb54217b08b48b89ddc2c2b69fa1dea491b07de52900db912baa2c0cd73d"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00002.geojson.gz",
+      "sha256": "66f8d860250f9782b32a0868800c8cc4597a6f055240a3c547c12318a21933ee"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00003.geojson.gz",
+      "sha256": "5d8e7ad3e6cf1ebf4ca6bdebf6e2ced6fd08ecb50ec1778983b8339c0605949d"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00004.geojson.gz",
+      "sha256": "f31611cf5b2346e58bc92bc84c2d340ea0e7ba749ae27e1f44962469dca9013c"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00005.geojson.gz",
+      "sha256": "19b7e58be72dc96cf62aac5800b5ce2e212978b5f5ac38a27745e4b0f7a9eb2a"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00006.geojson.gz",
+      "sha256": "917fddf94b9246664b718b821fda1366a17375e937ff0024688e80af1f5cd6ec"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00007.geojson.gz",
+      "sha256": "92d859a3271028433e860100a41fa1e485cdd7920b01bdf2c68b3f51d41a5d95"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00008.geojson.gz",
+      "sha256": "f09c4d6bdbd5c3bdada1fe26181ceb5ce1c6124365bbc9e74e3ddedcad70d32a"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00009.geojson.gz",
+      "sha256": "2c48ae2c032bc684f5e4bcf390d092c268c52b45b7d514d7dbaaf80a90690744"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00010.geojson.gz",
+      "sha256": "e8282a6928ca03b6eb0056a57026a45061d005c168cb4dd19b14b5410cea628c"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00011.geojson.gz",
+      "sha256": "acea750e904c4fae508c1d5f4c6ab5f795c3e2d82f22db5e4b59f28a8ee4fd2f"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00012.geojson.gz",
+      "sha256": "2dfc8330660cc2ec2b9150b995c72fd8e02737eb321a2474b5a839f39c2bbab8"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00013.geojson.gz",
+      "sha256": "5079ceb38ae12020e8dffbd54130debc561a0c6127039db02873ed64eb2c9b1d"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00014.geojson.gz",
+      "sha256": "3c06e266ae6000eeb6ca247a043038da1d3c7ccecb9782f3ac1b212510a9d3e9"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00015.geojson.gz",
+      "sha256": "ea20cfe34d7605d22734e8e189fc53ee7d79634598e43e7ba527deb66f1b3ae8"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00016.geojson.gz",
+      "sha256": "68ed4539f6d051d71e48cdd95806cc07c6659e9b699b3cb5eebb036d72317657"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00017.geojson.gz",
+      "sha256": "082cd0c32ebfc9839be02105d62faded960cdeebebfe9da706eee2568ca85558"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00018.geojson.gz",
+      "sha256": "9a043dd1d1517e63bc0fb313f609b4d1970a68e51ab4684e57fa45216a1ec771"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00019.geojson.gz",
+      "sha256": "744396fca25602aacaa5c702a31d8d990e686a2f474196ca763f8be5b5f8e41e"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00020.geojson.gz",
+      "sha256": "44f9b81d3774dc30ad0b0ba423b71da77baccc3f619bcf4d484e464567eda7f2"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00021.geojson.gz",
+      "sha256": "b9610eeaedf2774eea937ce7ba5ee81bf786e52376dbc49135575b5698890a8e"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00022.geojson.gz",
+      "sha256": "dc7fe2fb25ba9efe3dc9105466c783d720b0db3ac6dddebc5101cf0c8c9f71fe"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00023.geojson.gz",
+      "sha256": "d5e2d22180189f3d96f9fb46587aa92083c3d59c02bf3ea217a2cbb28c0e30b5"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00024.geojson.gz",
+      "sha256": "24941c2efd2d49862e4b294563eff9b837ebea8b7c34c5e389276e1dc2e3b1d7"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00025.geojson.gz",
+      "sha256": "8d1d53843281b0d3c2063c322bb93fe9ade3e9a673986da35f9186ee57e40a15"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00026.geojson.gz",
+      "sha256": "2c4bbbe070190b0a21c680329214b7eaa2a5afea26820346cedd50e432ed1ec9"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00027.geojson.gz",
+      "sha256": "4c185661203caeea04ba1da138e6d3afacdaf1a323b179059aa841f35c83e82d"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00028.geojson.gz",
+      "sha256": "1573e5ea339100cb9cf9062fcedff377a0052bcb9ce4b66c567ecbb2cf3c01a7"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00029.geojson.gz",
+      "sha256": "740e813d19aed5dfd22c2ef9e09ef199b3b4779a158bd93aa2ffd4e415c52b63"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00030.geojson.gz",
+      "sha256": "fc6c8f7f397cdb57a2539b827067d1c463815262670771c35492523531c6cf6d"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00031.geojson.gz",
+      "sha256": "b650c370f95b3a744d442e4961fea61affdc33184d64afc10cca94b1679ee3ce"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00032.geojson.gz",
+      "sha256": "a8e7be6f2e0d6799a642c7edb6e64749b4c6ea18b223dfa54443317b856092d8"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00033.geojson.gz",
+      "sha256": "2b009bf40716ad1a9775db4a129877b433ae475c54fa48a6bb426ab9530db4af"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00034.geojson.gz",
+      "sha256": "54c527e2f4e4189edb9597f07a4e5ec9a5af336aa0f33d39ceb7b38b5fd441ce"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00035.geojson.gz",
+      "sha256": "29654bdc051c1df03a16bc06b65d0034d7b3c287b3e52ba6465707366a675692"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00036.geojson.gz",
+      "sha256": "52817caa0bd47783b567341b0cdd00fda6c77bf50623026fc213a2c24e3864c2"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00037.geojson.gz",
+      "sha256": "3242e9b2f5a76f9f640f3924aa09053473335b4ebfa3b4f156267d7d5aef5de8"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00038.geojson.gz",
+      "sha256": "843c064d27e54bc4e1142e88024a97a214c7a8d57aca7b4488ac131a4470c3a7"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00039.geojson.gz",
+      "sha256": "0c07cd0388c3383910d1871e4872cd023b58d3b8931c9c9fe42608b30a6aade4"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00040.geojson.gz",
+      "sha256": "4628980f3c210c2b880fb942f510986219689160a405fd1fa882969fd84de365"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00041.geojson.gz",
+      "sha256": "29865e144a9ef8c79d9c08ede8d264cefaa325ab5fb30a81ad7aa34129e1bb06"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00042.geojson.gz",
+      "sha256": "7bcdb040af08e1264eccc753195404d608485f80624d4cda2f93400856758def"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00043.geojson.gz",
+      "sha256": "3e67e40b9f23a4726139ae998bb08fb0af3947db636dab0f27a219878a63772a"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00044.geojson.gz",
+      "sha256": "83a43d7c3e68330fa781c9ac748b6f822bc29bf594588152d07ba8b603c15d46"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00045.geojson.gz",
+      "sha256": "bc656ee28908538d718abc423ec7601c5fe91f8631d313d5efc352befc591052"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00046.geojson.gz",
+      "sha256": "ce5596f4aef68ef3cc87b70e0ad1f58e079d1ab6fb48e78214b52a696ef9607e"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00047.geojson.gz",
+      "sha256": "f1d01108130052283b3445e89dafb760361a7a74a80ef290f55c287eb6bed7a7"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00048.geojson.gz",
+      "sha256": "58ada5f996ac47d11accae94e2ac52dc10f6f1507404d438ab715d5c1eadc67c"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00049.geojson.gz",
+      "sha256": "f7227b66cd06f6625ad0c696774e6908bc258722d248f08fbfe8e3e7ce6aa63e"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00050.geojson.gz",
+      "sha256": "5f050f7abf5e117f991ec39c2bb39c65f642144376de6ab07d41a2b0f9083f27"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00051.geojson.gz",
+      "sha256": "fd4a55ca5bd0aae6c754f615003ac3966945ffa4bd6104b19479d30a009487e2"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00052.geojson.gz",
+      "sha256": "f859ee1a1e9b7d87dff33c61f82e8a90dd33d827d2d3057ca178820347dd9d14"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00053.geojson.gz",
+      "sha256": "51346e3ddc2182e8bd5bed585d5e72642eb873b0f822b2697b76f95510b2b677"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00054.geojson.gz",
+      "sha256": "93a92faacda0577f9c3e8547d7a4719fc5a80fb3977ae74467e1677b6c2f1ed5"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00055.geojson.gz",
+      "sha256": "39e5be48dce5eebe7a61e7dbfec1d9a9fdc6ed40a132cd88cd0c5d0f892dcaa1"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00056.geojson.gz",
+      "sha256": "3ba856ced8fffd2e5582772206fc8c68e36e7da4595a2c2367c3701fde1c0c9a"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00057.geojson.gz",
+      "sha256": "dce274484a29003a236cb46380f755e2b9ff96fcdfb67a5af0c5f460e0c9a081"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00058.geojson.gz",
+      "sha256": "bce93a462afdf53bcdf20103215ce8396422431ab19e21f271721c86af730fe3"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00059.geojson.gz",
+      "sha256": "cb523e0d18e689c752522ab21581eca54df63e8ad2b93d6d76a8d9c3af27212c"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00060.geojson.gz",
+      "sha256": "8320712e5bd4895613aabf4235f3972b270cdeaed568fbf4816798896f8491d5"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00061.geojson.gz",
+      "sha256": "0d445d647f8a494e4547769c6a1e6661c50c7e296fee997a9bb90505b37e59fe"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00062.geojson.gz",
+      "sha256": "c1ad4739d22a34d321bb86b8813e9fa41b1b1f872e857737e20f51cda9229b67"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00063.geojson.gz",
+      "sha256": "d6247801d2f1818b6f829fd2702d29139d8b7ea558aa4a3f29627e78e0681b27"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00064.geojson.gz",
+      "sha256": "e44e34c159e873539561b50c48407ec1799bf2a3836b4d666133b23936b61b49"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00065.geojson.gz",
+      "sha256": "39b5f6af16dfdde3d6f7491fa4caa2c5acb79c531c1d950e300aa2079dcf61b3"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00066.geojson.gz",
+      "sha256": "21c9a56e8f01bc5f8f39ae802dd4e5db5f2f94cfa09595b71cd10b2e4e6a7d37"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00067.geojson.gz",
+      "sha256": "fcf0e76af2ef0c6375ab812cbebe14a5c753a037b86cac0cf0beb432805b299a"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00068.geojson.gz",
+      "sha256": "3b815b05e016e3aff351dca2e6c6349e63c8800eebbc3f2b1fc6eb60e9584f4b"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00069.geojson.gz",
+      "sha256": "c3cbbf7e907e186b0621cc774db83ad4165dd87d75049de00417f7eae3279198"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00070.geojson.gz",
+      "sha256": "39a26a2a86fe2d0a86a91314d4d8a0f47e99d0177662041aff352271c702ca9c"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00072.geojson.gz",
+      "sha256": "e7181564d77c3d3dd8d119a82fa011696061413d952cf4cbf361cd72fe7ded6f"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00073.geojson.gz",
+      "sha256": "b7d2ec02573817099a15b77ee9a16830756140248255f149b518bff96ba3fdb6"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00074.geojson.gz",
+      "sha256": "819eb602696bdb42599f2135789a3b2229eacc1cf2ee2ecfa08660227e2e589f"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00075.geojson.gz",
+      "sha256": "a48d0daafcf97b51ad42e36ff9dea78093ca4400f55dba48da258cd21b0f55fc"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00076.geojson.gz",
+      "sha256": "869d8148aacd2394dbf9466e99b951e22ef098cd5886f19a95816e04040dd167"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00077.geojson.gz",
+      "sha256": "7497a8ee88a9bccfa10888f93ec7643fa3d0c272211def62a82c250e472864e2"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00078.geojson.gz",
+      "sha256": "07b2cf1207ed4de1041a50e6a4a3cea82462bfa443256608cc3e4116872f9bf4"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00079.geojson.gz",
+      "sha256": "c648b316a0353669653d5ed3f1c8497a6234f67c15a53e477feb271166fc254d"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00080.geojson.gz",
+      "sha256": "389453f9d2fcdcde1af1ea0570d4e0bc28712c3c4e7078cc090e1b87b1a6aa33"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00081.geojson.gz",
+      "sha256": "34a5fe552a29e59c46afd22a4d4cf346c1307dbf0aa4793b367775c9ee3fa6f3"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00082.geojson.gz",
+      "sha256": "d7004a55cb6fb45e7bf51622746d1459c6b05504966c15c82ff1d7b96b5429b0"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00083.geojson.gz",
+      "sha256": "e0763f4feb842b54f5c260afb9b3d2f8eb4e11adc131971d41f99e4187c6da17"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00084.geojson.gz",
+      "sha256": "3eb970570eb6f22196235b412347ddb222532b05f9040c4ab5db50abc601f4bc"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00085.geojson.gz",
+      "sha256": "93e4f7f7efb2d4fef14b11169255e5f73e445a0e6db834816db84878bd3fbd6d"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00086.geojson.gz",
+      "sha256": "c60030b5cf05e86ff84e5c48a9d1c48c6c0924ac1129070876160c21ec3a4c73"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00087.geojson.gz",
+      "sha256": "bdbfd835d0141903b207a071d48db0a6c1cbfca6f99057c9cfd28df5d93a0b4a"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00088.geojson.gz",
+      "sha256": "b2ad1e3ba8ecd038cfbf4986a7ad4abbaef777312d41ade8a43fd26a5d6e1326"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00089.geojson.gz",
+      "sha256": "648111a573a467ad6de9dfd2ee41bb5537ddf68d8e44e54b15efcbc41e33c50e"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00090.geojson.gz",
+      "sha256": "a86ad57bae7f4872b6d73384d1b264e7651e7de3350f7e9a1b34540f6aa8a242"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00091.geojson.gz",
+      "sha256": "1df578fa243f61314ae2bf299915275e4f364a95e3feb12280128109a621c391"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00092.geojson.gz",
+      "sha256": "346d4b205d48015140d8580fe733fd3b94f9d244d7525a4574a8593c1dabe863"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00093.geojson.gz",
+      "sha256": "2b63740fe66e90d3414353d37667518932824455fdcac36bdd64f160764d7a4a"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00094.geojson.gz",
+      "sha256": "f117dd2990042fb03e0a1d682de62d67eed47d86589f4c664672239851fb150b"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00095.geojson.gz",
+      "sha256": "15ee68451f533d3f5a027660b9bb0568a13ee306526ac143604b8282c171522a"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00096.geojson.gz",
+      "sha256": "1f34e3b8b258eb883b0e17dede12aea88d5210b1170c0116d31d2b12dd168183"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00097.geojson.gz",
+      "sha256": "946ab6eb5a8806cae22038113b3d04e27d28614e52d919bf246d0df24d6ae4bb"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00098.geojson.gz",
+      "sha256": "ca2e1b53c21741c32c2e67049b5bd65bfa9913f181026dfb77398bff529309f9"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00099.geojson.gz",
+      "sha256": "2f52bc23dc3cc959b8ef367997fc2955081275991dd8f7e310d5e7745c2175ce"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00100.geojson.gz",
+      "sha256": "1dfbe534a08e897ecabf549649fc8eee38177baf85eae5a32dae25962c0156d0"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00101.geojson.gz",
+      "sha256": "c020c17804a4e43c6b95b4da31ee5efbbedbc19d279eb5caa034dfb38eeecb87"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00102.geojson.gz",
+      "sha256": "864fc24e1275406e319892b62de0f53e06b7517c750c8884c0a6892aa1583998"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00103.geojson.gz",
+      "sha256": "824cb60ee808ec726572b63391737339180a01de752772e2b6bbfec82976d44c"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00104.geojson.gz",
+      "sha256": "39ed3c16d5f9eea9a6ff9f21ecfc3e8e1238579fff4fa4c46db90757a5d314d9"
+    },
+    {
+      "repository": "alpha60-results-2026",
+      "path": "data/geojson.day/monarch-legacy-of-monsters-208-day-00105.geojson.gz",
+      "sha256": "a6d39a59b01bba8ec61d8187912061ba2f7bb56a8892d5e1fc146ec1b16e4adc"
+    }
+  ],
+  "geojson_versions": [
+    "20260701"
+  ],
+  "companion_versions": [
+    "2026-08-05"
+  ],
+  "geolocation_versions": [
+    "6:1777968300"
+  ]
+}

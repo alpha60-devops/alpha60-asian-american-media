@@ -1,0 +1,15 @@
+.gojira-portraits {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;align-items:start}
+.gojira-portraits figure {margin:0;min-width:0}
+.gojira-portraits img {width:100%;height:auto;display:block}
+.gojira-portraits figcaption {font-size:.9rem;line-height:1.5}
+.gojira-controls {display:flex;gap:1rem;flex-wrap:wrap;margin:1rem 0}
+.gojira-h3 svg {width:100%;height:auto;min-width:0!important}
+.gojira-h3 [data-detail] {min-height:4em;padding:.7rem;background:#f2f5f7}
+.gojira-h3 circle:focus {stroke:#111;stroke-width:3;outline:none}
+.gojira-table {overflow:auto;max-height:30rem}
+.gojira-legend {display:flex;gap:1.5rem;flex-wrap:wrap}
+.gojira-legend span::before {content:'';display:inline-block;width:.8rem;height:.8rem;border-radius:50%;margin-right:.4rem;background:#d62728}
+.gojira-legend span+span::before {background:#1565c0}
+@media(max-width:700px){.gojira-portraits {grid-template-columns:1fr}.gojira-controls label{width:100%}}
+
+@media(max-width:600px){svg[id^="mellon-7.8-stage5-"][id$="-weekly"]{min-width:960px}}

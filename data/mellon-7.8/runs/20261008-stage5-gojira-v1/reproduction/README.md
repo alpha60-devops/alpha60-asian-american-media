@@ -1,0 +1,14 @@
+# Reproduce this Gojira run
+
+Use the annual repository revisions in `selection-manifest.json` and verify every selected input against `input-manifest.json`. The 2026 source is the latest upstream revision checked at freeze. Embedded GeoJSON version `20260701` is distinct from companion export version `2026-08-05`; the geolocation version is recorded by the companion products, not an embedded interval field.
+
+From an alpha60 checkout with the recorded dependencies, overlay these `reproduction/scripts` and `reproduction/src` files. Keep a historical site checkout (or the preserved dated page) available for the city comparison and original ledger.
+
+1. `python3 scripts/build-mellon-7-8-stage5.py --sources /path/to/pinned-checkouts --site /path/to/site --run /path/to/work/run`
+2. `python3 scripts/check-mellon-7-8-stage5.py --sources /path/to/pinned-checkouts --run /path/to/work/run`
+3. Build `a60-carto-geo.cc` with `scripts/compile-source.sh`. Obtain the original cache archives named in the two cache-input manifests; verify their hashes and extract only `*cumulative*.json`. Use the recorded torrent inventories, geolocation database and boundary file.
+4. Render each film through `--cumulative-maps CACHE_DIR KEY --country JPN --region-definition region-definition.json --country-boundaries map-boundaries.json --country-iso-registry /path/to/slim-3.json --map-style paired-style.json`. Set `a60_PREFIX_DIR`, `a60_DATA_DIR` and `a60_GEOLOCATION_DB` to the pinned inputs. The executable writes beneath `tmp/` in its working directory. The saved style freezes the union frame and shared radius coefficient; do not rescale titles separately.
+5. The map packaging helper expects `final-minus/tmp` and `final-empire/tmp`, extracted inputs under `cache-minus/cache.20241030` and `cache-empire/cache.20241111`, and the executable `a60-carto-geo-final.exe` beneath `--work`. It validates vector geometry, bubble-area conservation, shared frames and accounting before creating WebP previews and 3840-pixel images through Inkscape and ImageMagick.
+6. Run `render-mellon-7-8-stage5.py --work /path/to/work --site /path/to/site`, then `package-mellon-7-8-stage5.py` with the same arguments. The existing Jekyll site supplies its theme and shared interaction assets. Build and run desktop/mobile checks before publication.
+
+The Python reducer uses NumPy and Shapely; H3 uses the installed C library through ctypes. Native rendering uses GCC, Izzi, Cartofreako, RapidJSON, libtorrent, geolite2++, MaxMindDB and H3. Film cache maps and weekly comparisons span matching 26-week date windows with different aggregation grains. Shorter Monarch samples use available common weeks. Daily diagnostics retain their initial 105-day window. Weekly and daily interval grains are separate. No private IP cache documents are published.

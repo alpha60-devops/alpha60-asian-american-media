@@ -1,0 +1,483 @@
+{
+  "native": {
+    "url": "https://github.com/bdekoz/cartofreako/blob/ec201801a0386fc681c7637e26a838117ecf23de/src.projections/cart0freak0-cahill-keyes.h",
+    "sha256": "0c3b945711e655d4dd70208457bca2f400fd6edc0869f1a1c87ad57847f56ba2",
+    "izzi_commit": "3d59c0570c8d159ab2a44bb27375aa48521e593a",
+    "boundary_sha256": "773cfc10d54371daf7703ac4087558e8cdc77ea9723952eebf9ce119f780549d",
+    "source": "Natural Earth 1:10m countries minus 1:10m lakes, v5.1.2",
+    "projection": "Cartofreako native Cahill–Keyes; +1 degree registration; clipped seams; uniform fitting per country; Izzi SVG.",
+    "renderer_sha256": "94c82ec254ef55454bd19d132923c965f0a1899b1d12ebfea5a9903a36365e1e",
+    "geometry_preparer_sha256": "abaf7c574474e8af3d796c6fd9147e786acefbfd87bf7fd55b5b6efb5c1d354f"
+  },
+  "selected": {
+    "films": [
+      {
+        "id": "JPN:1850147",
+        "city": "Tokyo",
+        "country": "JPN",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ],
+        "a": 217821,
+        "b": 227393,
+        "a_share": 0.3662341653041816,
+        "b_share": 0.29507563427480366,
+        "delta": 0.07115853102937797,
+        "tooltip": "Tokyo, Japan: Godzilla Minus One 217,821 (0.366% of world); The New Empire 227,393 (0.295%); difference +0.071 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "JPN:1859642",
+        "city": "Kawasaki",
+        "country": "JPN",
+        "coordinates": [
+          139.71722,
+          35.52056
+        ],
+        "a": 22272,
+        "b": 5952,
+        "a_share": 0.03744711175531621,
+        "b_share": 0.0077235894473604355,
+        "delta": 0.029723522307955774,
+        "tooltip": "Kawasaki, Japan: Godzilla Minus One 22,272 (0.037% of world); The New Empire 5,952 (0.008%); difference +0.030 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "JPN:1865090",
+        "city": "Asagaya-minami",
+        "country": "JPN",
+        "coordinates": [
+          139.63745,
+          35.70206
+        ],
+        "a": 7098,
+        "b": 21149,
+        "a_share": 0.011934249247451262,
+        "b_share": 0.02744391687201375,
+        "delta": -0.01550966762456249,
+        "tooltip": "Asagaya-minami, Japan: Godzilla Minus One 7,098 (0.012% of world); The New Empire 21,149 (0.027%); difference -0.016 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "JPN:1848354",
+        "city": "Yokohama",
+        "country": "JPN",
+        "coordinates": [
+          139.65,
+          35.43333
+        ],
+        "a": 52529,
+        "b": 73704,
+        "a_share": 0.08831983357556597,
+        "b_share": 0.09564170642275766,
+        "delta": -0.007321872847191685,
+        "tooltip": "Yokohama, Japan: Godzilla Minus One 52,529 (0.088% of world); The New Empire 73,704 (0.096%); difference -0.007 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "USA:5128581",
+        "city": "New York City",
+        "country": "USA",
+        "coordinates": [
+          -73.9657,
+          40.7571
+        ],
+        "a": 261759,
+        "b": 262250,
+        "a_share": 0.44010948841414405,
+        "b_share": 0.3403076835635541,
+        "delta": 0.09980180485058993,
+        "tooltip": "New York City, USA: Godzilla Minus One 261,759 (0.440% of world); The New Empire 262,250 (0.340%); difference +0.100 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "USA:5368361",
+        "city": "Los Angeles",
+        "country": "USA",
+        "coordinates": [
+          -118.24368,
+          34.05223
+        ],
+        "a": 239569,
+        "b": 256400,
+        "a_share": 0.4028002476701396,
+        "b_share": 0.33271645401599725,
+        "delta": 0.07008379365414236,
+        "tooltip": "Los Angeles, USA: Godzilla Minus One 239,569 (0.403% of world); The New Empire 256,400 (0.333%); difference +0.070 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "USA:5101798",
+        "city": "Newark",
+        "country": "USA",
+        "coordinates": [
+          -74.17237,
+          40.73566
+        ],
+        "a": 27781,
+        "b": 114762,
+        "a_share": 0.046709689820152646,
+        "b_share": 0.1489204590319184,
+        "delta": -0.10221076921176575,
+        "tooltip": "Newark, USA: Godzilla Minus One 27,781 (0.047% of world); The New Empire 114,762 (0.149%); difference -0.102 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "USA:4744870",
+        "city": "Ashburn",
+        "country": "USA",
+        "coordinates": [
+          -77.48749,
+          39.04372
+        ],
+        "a": 641427,
+        "b": 888203,
+        "a_share": 1.0784657216180502,
+        "b_share": 1.1525731380903697,
+        "delta": -0.07410741647231944,
+        "tooltip": "Ashburn, USA: Godzilla Minus One 641,427 (1.078% of world); The New Empire 888,203 (1.153%); difference -0.074 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "CHN:1796236",
+        "city": "Shanghai",
+        "country": "CHN",
+        "coordinates": [
+          121.45806,
+          31.22222
+        ],
+        "a": 541073,
+        "b": 603995,
+        "a_share": 0.9097351427255841,
+        "b_share": 0.783771741978909,
+        "delta": 0.1259634007466751,
+        "tooltip": "Shanghai, China: Godzilla Minus One 541,073 (0.910% of world); The New Empire 603,995 (0.784%); difference +0.126 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "CHN:1799962",
+        "city": "Nanjing",
+        "country": "CHN",
+        "coordinates": [
+          118.77778,
+          32.06167
+        ],
+        "a": 480329,
+        "b": 531201,
+        "a_share": 0.807602987711893,
+        "b_share": 0.6893108934857712,
+        "delta": 0.11829209422612175,
+        "tooltip": "Nanjing, China: Godzilla Minus One 480,329 (0.808% of world); The New Empire 531,201 (0.689%); difference +0.118 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "CHN:1788245",
+        "city": "Xiuying",
+        "country": "CHN",
+        "coordinates": [
+          110.29359,
+          20.00073
+        ],
+        "a": 1687,
+        "b": 4261,
+        "a_share": 0.002836443854670369,
+        "b_share": 0.0055292699319897205,
+        "delta": -0.0026928260773193516,
+        "tooltip": "Xiuying, China: Godzilla Minus One 1,687 (0.003% of world); The New Empire 4,261 (0.006%); difference -0.003 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "CHN:1806488",
+        "city": "Qionghai",
+        "country": "CHN",
+        "coordinates": [
+          110.46417,
+          19.2425
+        ],
+        "a": 9951,
+        "b": 13085,
+        "a_share": 0.01673115162882326,
+        "b_share": 0.016979698911073808,
+        "delta": -0.0002485472822505476,
+        "tooltip": "Qionghai, China: Godzilla Minus One 9,951 (0.017% of world); The New Empire 13,085 (0.017%); difference -0.000248547 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "KOR:1835848",
+        "city": "Seoul",
+        "country": "KOR",
+        "coordinates": [
+          126.9784,
+          37.566
+        ],
+        "a": 2040517,
+        "b": 2246699,
+        "a_share": 3.430831004742393,
+        "b_share": 2.915420142438717,
+        "delta": 0.5154108623036762,
+        "tooltip": "Seoul, South Korea: Godzilla Minus One 2,040,517 (3.431% of world); The New Empire 2,246,699 (2.915%); difference +0.515 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "KOR:1843564",
+        "city": "Incheon",
+        "country": "KOR",
+        "coordinates": [
+          126.70515,
+          37.45646
+        ],
+        "a": 488330,
+        "b": 535248,
+        "a_share": 0.8210554994375704,
+        "b_share": 0.6945624671573888,
+        "delta": 0.1264930322801816,
+        "tooltip": "Incheon, South Korea: Godzilla Minus One 488,330 (0.821% of world); The New Empire 535,248 (0.695%); difference +0.126 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "KOR:1842030",
+        "city": "Gunpo",
+        "country": "KOR",
+        "coordinates": [
+          126.94694,
+          37.3675
+        ],
+        "a": 14667,
+        "b": 38237,
+        "a_share": 0.024660416133047005,
+        "b_share": 0.04961809302733887,
+        "delta": -0.024957676894291864,
+        "tooltip": "Gunpo, South Korea: Godzilla Minus One 14,667 (0.025% of world); The New Empire 38,237 (0.050%); difference -0.025 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "KOR:6887055",
+        "city": "Seolcheon",
+        "country": "KOR",
+        "coordinates": [
+          127.7577,
+          35.914
+        ],
+        "a": 30,
+        "b": 158,
+        "a_share": 5.044061389455309e-05,
+        "b_share": 0.00020502808008786101,
+        "delta": -0.00015458746619330792,
+        "tooltip": "Seolcheon, South Korea: Godzilla Minus One 30 (0.000% of world); The New Empire 158 (0.000%); difference -0.000154587 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      }
+    ],
+    "historical-film": [
+      {
+        "id": "JPN:1854530",
+        "city": "Ōi",
+        "country": "JPN",
+        "coordinates": [
+          139.7302,
+          35.609
+        ],
+        "a": 23229,
+        "b": 6545,
+        "a_share": 0.03905616733855246,
+        "b_share": 0.00832880371120804,
+        "delta": 0.03072736362734442,
+        "tooltip": "Ōi, Japan: Godzilla Minus One 23,229 (0.039% of world); Godzilla vs. Kong 6,545 (0.008%); difference +0.031 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "JPN:6822179",
+        "city": "Inzai",
+        "country": "JPN",
+        "coordinates": [
+          140.1185,
+          35.8089
+        ],
+        "a": 9374,
+        "b": 3094,
+        "a_share": 0.015761010488251355,
+        "b_share": 0.0039372526634801645,
+        "delta": 0.01182375782477119,
+        "tooltip": "Inzai, Japan: Godzilla Minus One 9,374 (0.016% of world); Godzilla vs. Kong 3,094 (0.004%); difference +0.012 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "JPN:1865090",
+        "city": "Asagaya-minami",
+        "country": "JPN",
+        "coordinates": [
+          139.63745,
+          35.70206
+        ],
+        "a": 7098,
+        "b": 537708,
+        "a_share": 0.011934249247451262,
+        "b_share": 0.6842573546136368,
+        "delta": -0.6723231053661856,
+        "tooltip": "Asagaya-minami, Japan: Godzilla Minus One 7,098 (0.012% of world); Godzilla vs. Kong 537,708 (0.684%); difference -0.672 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "JPN:1850147",
+        "city": "Tokyo",
+        "country": "JPN",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ],
+        "a": 217821,
+        "b": 535730,
+        "a_share": 0.3662341653041816,
+        "b_share": 0.6817402616051158,
+        "delta": -0.3155060963009342,
+        "tooltip": "Tokyo, Japan: Godzilla Minus One 217,821 (0.366% of world); Godzilla vs. Kong 535,730 (0.682%); difference -0.316 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "USA:4164138",
+        "city": "Miami",
+        "country": "USA",
+        "coordinates": [
+          -80.19366,
+          25.77427
+        ],
+        "a": 127109,
+        "b": 104931,
+        "a_share": 0.21371519971742495,
+        "b_share": 0.13352936626749745,
+        "delta": 0.0801858334499275,
+        "tooltip": "Miami, USA: Godzilla Minus One 127,109 (0.214% of world); Godzilla vs. Kong 104,931 (0.134%); difference +0.080 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "USA:4769125",
+        "city": "Leesburg",
+        "country": "USA",
+        "coordinates": [
+          -77.5636,
+          39.11566
+        ],
+        "a": 80464,
+        "b": 92859,
+        "a_share": 0.13528845188037733,
+        "b_share": 0.11816720913965888,
+        "delta": 0.017121242740718454,
+        "tooltip": "Leesburg, USA: Godzilla Minus One 80,464 (0.135% of world); Godzilla vs. Kong 92,859 (0.118%); difference +0.017 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "USA:4509177",
+        "city": "Columbus",
+        "country": "USA",
+        "coordinates": [
+          -82.99879,
+          39.96118
+        ],
+        "a": 72789,
+        "b": 1467608,
+        "a_share": 0.12238406149235416,
+        "b_share": 1.8675964792969608,
+        "delta": -1.7452124178046067,
+        "tooltip": "Columbus, USA: Godzilla Minus One 72,789 (0.122% of world); Godzilla vs. Kong 1,467,608 (1.868%); difference -1.745 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "USA:5809844",
+        "city": "Seattle",
+        "country": "USA",
+        "coordinates": [
+          -122.33207,
+          47.60621
+        ],
+        "a": 96376,
+        "b": 931058,
+        "a_share": 0.16204215349004827,
+        "b_share": 1.1848127312070185,
+        "delta": -1.0227705777169702,
+        "tooltip": "Seattle, USA: Godzilla Minus One 96,376 (0.162% of world); Godzilla vs. Kong 931,058 (1.185%); difference -1.023 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "CHN:1799962",
+        "city": "Nanjing",
+        "country": "CHN",
+        "coordinates": [
+          118.77778,
+          32.06167
+        ],
+        "a": 480329,
+        "b": 255644,
+        "a_share": 0.807602987711893,
+        "b_share": 0.3253183645451594,
+        "delta": 0.4822846231667336,
+        "tooltip": "Nanjing, China: Godzilla Minus One 480,329 (0.808% of world); Godzilla vs. Kong 255,644 (0.325%); difference +0.482 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "CHN:1797929",
+        "city": "Qingdao",
+        "country": "CHN",
+        "coordinates": [
+          120.38042,
+          36.06488
+        ],
+        "a": 287011,
+        "b": 154584,
+        "a_share": 0.4825670344829859,
+        "b_share": 0.19671501801274005,
+        "delta": 0.28585201647024583,
+        "tooltip": "Qingdao, China: Godzilla Minus One 287,011 (0.483% of world); Godzilla vs. Kong 154,584 (0.197%); difference +0.286 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "CHN:1816670",
+        "city": "Beijing",
+        "country": "CHN",
+        "coordinates": [
+          116.39723,
+          39.9075
+        ],
+        "a": 190071,
+        "b": 536398,
+        "a_share": 0.31957659745172,
+        "b_share": 0.6825903213269015,
+        "delta": -0.36301372387518144,
+        "tooltip": "Beijing, China: Godzilla Minus One 190,071 (0.320% of world); Godzilla vs. Kong 536,398 (0.683%); difference -0.363 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "CHN:1795565",
+        "city": "Shenzhen",
+        "country": "CHN",
+        "coordinates": [
+          114.0683,
+          22.54554
+        ],
+        "a": 196902,
+        "b": 513041,
+        "a_share": 0.33106192523550976,
+        "b_share": 0.6528674995877592,
+        "delta": -0.3218055743522495,
+        "tooltip": "Shenzhen, China: Godzilla Minus One 196,902 (0.331% of world); Godzilla vs. Kong 513,041 (0.653%); difference -0.322 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "KOR:1835848",
+        "city": "Seoul",
+        "country": "KOR",
+        "coordinates": [
+          126.9784,
+          37.566
+        ],
+        "a": 2040517,
+        "b": 995327,
+        "a_share": 3.430831004742393,
+        "b_share": 1.2665978932720496,
+        "delta": 2.1642331114703435,
+        "tooltip": "Seoul, South Korea: Godzilla Minus One 2,040,517 (3.431% of world); Godzilla vs. Kong 995,327 (1.267%); difference +2.164 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "KOR:1843564",
+        "city": "Incheon",
+        "country": "KOR",
+        "coordinates": [
+          126.70515,
+          37.45646
+        ],
+        "a": 488330,
+        "b": 165902,
+        "a_share": 0.8210554994375704,
+        "b_share": 0.21111767659233557,
+        "delta": 0.6099378228452348,
+        "tooltip": "Incheon, South Korea: Godzilla Minus One 488,330 (0.821% of world); Godzilla vs. Kong 165,902 (0.211%); difference +0.610 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      },
+      {
+        "id": "KOR:1834946",
+        "city": "Damyang",
+        "country": "KOR",
+        "coordinates": [
+          126.98389,
+          35.31889
+        ],
+        "a": 178,
+        "b": 1264,
+        "a_share": 0.00029928097577434833,
+        "b_share": 0.00160849624002551,
+        "delta": -0.0013092152642511616,
+        "tooltip": "Damyang, South Korea: Godzilla Minus One 178 (0.000% of world); Godzilla vs. Kong 1,264 (0.002%); difference -0.001 percentage points. Weeks 1–26; selected shared city, pooled full-window coverage including flagged intervals."
+      }
+    ]
+  }
+}
