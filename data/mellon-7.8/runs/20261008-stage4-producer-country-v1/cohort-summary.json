@@ -1,0 +1,6082 @@
+[
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 26.219462682051745,
+    "median": 25.96597285000006,
+    "q25": 22.32000526802338,
+    "q75": 28.69251950216097,
+    "volume_weighted": 26.921048796003014,
+    "mean_ci95": [
+      23.80055269229815,
+      29.29696588636203
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 25.318192768648608,
+    "median": 26.605961320169563,
+    "q25": 22.458040687471083,
+    "q75": 28.04343546207687,
+    "volume_weighted": 25.750195934513076,
+    "mean_ci95": [
+      23.109541509187668,
+      28.48396275498421
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 28.475469065950357,
+    "median": 28.58483043566163,
+    "q25": 24.850352627839783,
+    "q75": 30.613913558035982,
+    "volume_weighted": 29.260062832896697,
+    "mean_ci95": [
+      26.098944642948442,
+      32.231415126853896
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 27.412617225569306,
+    "median": 28.678653549195054,
+    "q25": 24.78234347001436,
+    "q75": 29.87447958258065,
+    "volume_weighted": 27.920030524181424,
+    "mean_ci95": [
+      25.194358493447577,
+      30.667459145302733
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 16.226258935768083,
+    "median": 16.181802827660803,
+    "q25": 13.192852449390859,
+    "q75": 17.258028874076835,
+    "volume_weighted": 15.938886625437675,
+    "mean_ci95": [
+      13.768575238641565,
+      18.019387974312174
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 16.49140645310801,
+    "median": 15.844529602325625,
+    "q25": 13.014779996260097,
+    "q75": 17.541420495537682,
+    "volume_weighted": 16.303322451800998,
+    "mean_ci95": [
+      13.559561974060024,
+      18.46399653241063
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 14.12488975042501,
+    "median": 13.87231428796057,
+    "q25": 11.482136033577195,
+    "q75": 15.617148273760865,
+    "volume_weighted": 13.813714309206999,
+    "mean_ci95": [
+      11.77180975629047,
+      15.871704805903255
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 14.369735176763433,
+    "median": 13.159513268901135,
+    "q25": 11.321189605025005,
+    "q75": 15.882908535057666,
+    "volume_weighted": 14.089030832849375,
+    "mean_ci95": [
+      11.727622332382113,
+      16.293575051703613
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 13.28917176146794,
+    "median": 9.391673232410398,
+    "q25": 8.587896218795668,
+    "q75": 17.755317868958635,
+    "volume_weighted": 13.060249415405728,
+    "mean_ci95": [
+      8.711428414347104,
+      16.405634346858495
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 13.938863852016526,
+    "median": 9.355648433384385,
+    "q25": 8.229217320219208,
+    "q75": 21.337634895592313,
+    "volume_weighted": 13.782331815450695,
+    "mean_ci95": [
+      9.433675770890558,
+      17.42566887976612
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 9.932913575065156,
+    "median": 5.772273735252358,
+    "q25": 5.263251458676656,
+    "q75": 14.589365248700403,
+    "volume_weighted": 9.765011501652513,
+    "mean_ci95": [
+      6.098580356920938,
+      13.197877111242088
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 10.715164171132285,
+    "median": 5.826728529827647,
+    "q25": 5.127272499895384,
+    "q75": 18.795533890714953,
+    "volume_weighted": 10.587791641643769,
+    "mean_ci95": [
+      5.297825268893693,
+      14.197305570679369
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 44.23872813024752,
+    "median": 46.03703151268553,
+    "q25": 40.57862939653463,
+    "q75": 49.087704330397436,
+    "volume_weighted": 44.053923488070325,
+    "mean_ci95": [
+      40.997984223489524,
+      48.88940012870978
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 44.22627512252156,
+    "median": 47.26331230246388,
+    "q25": 39.10640511144617,
+    "q75": 49.44525458939868,
+    "volume_weighted": 44.14040138210137,
+    "mean_ci95": [
+      40.74343095788256,
+      48.854182035149854
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 47.43757191995388,
+    "median": 49.747573773430936,
+    "q25": 42.76892581301828,
+    "q75": 53.070447432339655,
+    "volume_weighted": 47.13269538996107,
+    "mean_ci95": [
+      44.08326467869378,
+      51.91928680901339
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 47.474792523005014,
+    "median": 51.586800523033105,
+    "q25": 41.309876023432814,
+    "q75": 53.519118500881554,
+    "volume_weighted": 47.377060728733554,
+    "mean_ci95": [
+      44.082016776938225,
+      52.40919398342865
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 0.026378490464703242,
+    "median": 0.02660519808349818,
+    "q25": 0.022973514687946846,
+    "q75": 0.0305162298527488,
+    "volume_weighted": 0.025891675083263566,
+    "mean_ci95": [
+      0.02250591600525527,
+      0.029961121904650598
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 0.025261803705286023,
+    "median": 0.026253154863425172,
+    "q25": 0.02240604473262269,
+    "q75": 0.030890483689936313,
+    "volume_weighted": 0.02374841613385946,
+    "mean_ci95": [
+      0.021544624588909805,
+      0.029152027306093904
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 0.029155688605601675,
+    "median": 0.029317877539209315,
+    "q25": 0.02559712834329135,
+    "q75": 0.03337105413358972,
+    "volume_weighted": 0.028515966282720174,
+    "mean_ci95": [
+      0.02499173032261031,
+      0.03298991368510511
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 0.02769090352997444,
+    "median": 0.02843135038573036,
+    "q25": 0.025230827520579896,
+    "q75": 0.033184224727378454,
+    "volume_weighted": 0.0260862725918785,
+    "mean_ci95": [
+      0.02364749889302112,
+      0.03119214360566577
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 25.236932927598506,
+    "median": 25.663333820322137,
+    "q25": 24.29292503363549,
+    "q75": 27.021031440133996,
+    "volume_weighted": 25.389211015111584,
+    "mean_ci95": [
+      22.941787380065726,
+      27.25256197338445
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 24.849392089511216,
+    "median": 24.60154763103038,
+    "q25": 24.03469709705599,
+    "q75": 26.633909521555317,
+    "volume_weighted": 24.756776915649777,
+    "mean_ci95": [
+      23.095061534067117,
+      26.495367803127788
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 27.79477683760109,
+    "median": 28.868651607557233,
+    "q25": 26.637293842448646,
+    "q75": 29.97129384319681,
+    "volume_weighted": 27.745124900703697,
+    "mean_ci95": [
+      25.00172716277648,
+      29.966574008958148
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 27.395510216378476,
+    "median": 27.659184673731495,
+    "q25": 26.48956612166226,
+    "q75": 29.23808231294268,
+    "volume_weighted": 27.06135661071407,
+    "mean_ci95": [
+      25.378244457841408,
+      28.936657327849147
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 15.24002439074762,
+    "median": 15.524596394771741,
+    "q25": 13.301921249497632,
+    "q75": 16.75354025898266,
+    "volume_weighted": 15.058198159304208,
+    "mean_ci95": [
+      13.099796574378667,
+      16.762442180813466
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 15.16695893213618,
+    "median": 15.169652312095424,
+    "q25": 13.033364139732035,
+    "q75": 16.915234349508,
+    "volume_weighted": 15.061553791100138,
+    "mean_ci95": [
+      12.755722157409734,
+      16.840273727353615
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 13.363840936967112,
+    "median": 13.495471583755071,
+    "q25": 11.562199657696283,
+    "q75": 15.195780798645677,
+    "volume_weighted": 13.263933887047633,
+    "mean_ci95": [
+      11.261032525362856,
+      14.752274816796843
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 13.236978177604138,
+    "median": 13.26461057911656,
+    "q25": 11.561079905053376,
+    "q75": 15.542098299347023,
+    "volume_weighted": 13.244959680605966,
+    "mean_ci95": [
+      10.761613451336556,
+      14.931130677378421
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 9.908630607912878,
+    "median": 9.536298805253626,
+    "q25": 8.145851148464233,
+    "q75": 11.603745441416272,
+    "volume_weighted": 9.311683047087833,
+    "mean_ci95": [
+      8.209264385242015,
+      11.311207384948853
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 9.97804287597872,
+    "median": 9.686581028803328,
+    "q25": 7.964635411371654,
+    "q75": 11.744039253983756,
+    "volume_weighted": 9.372446843409316,
+    "mean_ci95": [
+      7.893225218778397,
+      11.591968732381865
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 5.44705008827071,
+    "median": 5.2006483984007446,
+    "q25": 4.6769029721275395,
+    "q75": 6.200128652347768,
+    "volume_weighted": 5.238958175799903,
+    "mean_ci95": [
+      4.598233345763012,
+      6.058111381443168
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 5.356005737328737,
+    "median": 5.214268387895862,
+    "q25": 4.729398899727419,
+    "q75": 6.204350820094317,
+    "volume_weighted": 5.178036916240747,
+    "mean_ci95": [
+      4.456562663319039,
+      6.02449110677509
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 49.59154180236101,
+    "median": 49.240157944849514,
+    "q25": 45.63417483630533,
+    "q75": 53.53251765860476,
+    "volume_weighted": 50.2173771162151,
+    "mean_ci95": [
+      46.552075018475676,
+      53.788891071346946
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 49.98383119247896,
+    "median": 50.48638553056253,
+    "q25": 47.12291380612583,
+    "q75": 54.404650070662456,
+    "volume_weighted": 50.786893786065825,
+    "mean_ci95": [
+      46.79013410358599,
+      54.282880823899475
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 53.368536851753454,
+    "median": 52.30905582355645,
+    "q25": 49.78365237795833,
+    "q75": 57.3788979645056,
+    "volume_weighted": 53.725838595616686,
+    "mean_ci95": [
+      50.75507879793967,
+      57.091280729671794
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 53.98699940118446,
+    "median": 53.27140412507048,
+    "q25": 51.59728570478405,
+    "q75": 57.185421386521746,
+    "volume_weighted": 54.49091491435924,
+    "mean_ci95": [
+      51.31578956413642,
+      57.756411796252124
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 0.022870271379999807,
+    "median": 0.02350960304197458,
+    "q25": 0.01733520312357143,
+    "q75": 0.0281002796869996,
+    "volume_weighted": 0.02353066228128167,
+    "mean_ci95": [
+      0.01896909125372143,
+      0.026184534016483484
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 0.021774909894930774,
+    "median": 0.022589145287008967,
+    "q25": 0.014514736597164448,
+    "q75": 0.02609176255815047,
+    "volume_weighted": 0.022328663774941773,
+    "mean_ci95": [
+      0.017471241395356468,
+      0.0255063475771616
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 14,
+    "clusters": 11,
+    "mean": 0.025795285407626926,
+    "median": 0.026215095478288902,
+    "q25": 0.02073953876592793,
+    "q75": 0.031414804825432255,
+    "volume_weighted": 0.02614444083208046,
+    "mean_ci95": [
+      0.02102475401802388,
+      0.029100327515054737
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 13,
+    "clusters": 10,
+    "mean": 0.024506467504188282,
+    "median": 0.02594238534593607,
+    "q25": 0.016028303409933803,
+    "q75": 0.028142046419447123,
+    "volume_weighted": 0.02473187807997597,
+    "mean_ci95": [
+      0.019694019927495792,
+      0.028160929262800845
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 26.721410698515097,
+    "median": 26.605961320169563,
+    "q25": 23.20503274741686,
+    "q75": 28.821345334103174,
+    "volume_weighted": 27.58367009446248,
+    "mean_ci95": [
+      24.26689991329601,
+      30.111556225416297
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 25.8921774464762,
+    "median": 26.626209246849236,
+    "q25": 22.93281304096515,
+    "q75": 28.129467419037468,
+    "volume_weighted": 26.465026137288447,
+    "mean_ci95": [
+      23.670864284220283,
+      29.23593626866201
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 29.01488551152969,
+    "median": 28.92193451579393,
+    "q25": 25.054380101316056,
+    "q75": 30.77753496684351,
+    "volume_weighted": 29.9710554964149,
+    "mean_ci95": [
+      26.58961412280943,
+      32.828514791187054
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 28.03297874977791,
+    "median": 28.994686188689702,
+    "q25": 25.506975279256128,
+    "q75": 30.076123456559387,
+    "volume_weighted": 28.697543689852345,
+    "mean_ci95": [
+      25.931450498361976,
+      31.5245875467006
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 15.781491165090095,
+    "median": 15.789514366045376,
+    "q25": 12.945405361970588,
+    "q75": 17.09010311499857,
+    "volume_weighted": 15.382399468235903,
+    "mean_ci95": [
+      13.236530275348558,
+      17.63793067151649
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 15.967738861382344,
+    "median": 15.68943882512814,
+    "q25": 12.8564397927681,
+    "q75": 17.202932460133347,
+    "volume_weighted": 15.67127828996164,
+    "mean_ci95": [
+      13.048101068337518,
+      17.97470932248126
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 13.765488749133311,
+    "median": 13.159513268901135,
+    "q25": 11.306222541077966,
+    "q75": 15.36416614515188,
+    "volume_weighted": 13.359289633319703,
+    "mean_ci95": [
+      11.409872519165479,
+      15.497381675773662
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 13.926747741306535,
+    "median": 13.114719929559612,
+    "q25": 11.309476863734357,
+    "q75": 15.485738691876064,
+    "volume_weighted": 13.541806232857477,
+    "mean_ci95": [
+      11.192548218537398,
+      15.914293128618356
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 13.672143538274778,
+    "median": 9.755113311570343,
+    "q25": 8.61328989072451,
+    "q75": 20.024621603038582,
+    "volume_weighted": 13.495741121162338,
+    "mean_ci95": [
+      9.410320347973517,
+      16.774845850583546
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 14.440267869284883,
+    "median": 9.687763399455807,
+    "q25": 8.489136502987055,
+    "q75": 21.641735068796674,
+    "volume_weighted": 14.354631598413055,
+    "mean_ci95": [
+      9.222168468227743,
+      17.891255671038618
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 10.297098467700135,
+    "median": 5.826728529827647,
+    "q25": 5.4574759222754015,
+    "q75": 17.373834994108016,
+    "volume_weighted": 10.181421138504382,
+    "mean_ci95": [
+      5.336487148191828,
+      13.451045516300228
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 11.19368956940204,
+    "median": 5.831933526700259,
+    "q25": 5.214747808687886,
+    "q75": 19.105338323530564,
+    "volume_weighted": 11.136813287956969,
+    "mean_ci95": [
+      5.266492405231681,
+      14.797624824171773
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 43.79829709488338,
+    "median": 45.49400752875043,
+    "q25": 39.656197451951805,
+    "q75": 47.39962957040075,
+    "volume_weighted": 43.512009708435656,
+    "mean_ci95": [
+      40.62501687283489,
+      48.293188655180984
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 43.67449579152369,
+    "median": 46.56205379922031,
+    "q25": 38.68392214422087,
+    "q75": 49.147257192670054,
+    "volume_weighted": 43.48539511491316,
+    "mean_ci95": [
+      40.29912449986353,
+      48.806716863118226
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 46.89307307264209,
+    "median": 49.129154275299854,
+    "q25": 41.839429992519506,
+    "q75": 51.821245945981815,
+    "volume_weighted": 46.45942223348592,
+    "mean_ci95": [
+      43.453653285849356,
+      51.720260569423594
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 46.81885077547374,
+    "median": 50.97639689729756,
+    "q25": 40.82346704451034,
+    "q75": 52.873223404540354,
+    "volume_weighted": 46.59785782950604,
+    "mean_ci95": [
+      43.21938003066344,
+      51.73086483436666
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 0.0266575032366461,
+    "median": 0.027407757495849117,
+    "q25": 0.023640085463449236,
+    "q75": 0.030890483689936313,
+    "volume_weighted": 0.026179607703624957,
+    "mean_ci95": [
+      0.022344379941109903,
+      0.030707162671243054
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 0.025320031332881947,
+    "median": 0.02665192531885019,
+    "q25": 0.021307895298474364,
+    "q75": 0.03135121591926912,
+    "volume_weighted": 0.02366885942369879,
+    "mean_ci95": [
+      0.021230409793027354,
+      0.03002612570853185
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 0.029454198994776994,
+    "median": 0.029785031561448242,
+    "q25": 0.026563352734197736,
+    "q75": 0.03346960242893686,
+    "volume_weighted": 0.028811498275103643,
+    "mean_ci95": [
+      0.024650769964371867,
+      0.033032573385836934
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 0.027733164039776537,
+    "median": 0.02941313227378157,
+    "q25": 0.024135538210007915,
+    "q75": 0.033288484109721454,
+    "volume_weighted": 0.025978959827169985,
+    "mean_ci95": [
+      0.023371921429554326,
+      0.03176259656257372
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 25.215980161046573,
+    "median": 25.817348747870692,
+    "q25": 24.03469709705599,
+    "q75": 27.150072079660223,
+    "volume_weighted": 25.383127457133043,
+    "mean_ci95": [
+      22.969077693802618,
+      27.518171099978915
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 24.87004579438462,
+    "median": 24.630881869159225,
+    "q25": 24.003249779200658,
+    "q75": 26.791586714469403,
+    "volume_weighted": 24.76510069326248,
+    "mean_ci95": [
+      22.95324891530607,
+      26.850041277551348
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 27.664730358720075,
+    "median": 28.49922090217179,
+    "q25": 26.410172670395962,
+    "q75": 30.079233430388093,
+    "volume_weighted": 27.662444389664348,
+    "mean_ci95": [
+      24.827240539266057,
+      29.719830748818502
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 27.314421334010472,
+    "median": 27.332655604413524,
+    "q25": 26.35364928656269,
+    "q75": 29.517378070530455,
+    "volume_weighted": 26.995443728682716,
+    "mean_ci95": [
+      25.037601483329393,
+      29.097012280172493
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 15.1898717238513,
+    "median": 15.157183729143737,
+    "q25": 13.033364139732035,
+    "q75": 16.814690618445542,
+    "volume_weighted": 15.015964984772321,
+    "mean_ci95": [
+      12.68182219822955,
+      16.813485302780883
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 15.054761543887382,
+    "median": 15.115502598825348,
+    "q25": 12.816114065393428,
+    "q75": 17.154964574568307,
+    "volume_weighted": 14.983706094481827,
+    "mean_ci95": [
+      12.017109599089906,
+      16.959175630589044
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 13.445569256587227,
+    "median": 13.567576651976314,
+    "q25": 11.547231358516367,
+    "q75": 15.212291946414037,
+    "volume_weighted": 13.309665685504388,
+    "mean_ci95": [
+      10.958820130806522,
+      14.996484045075126
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 13.267305156989238,
+    "median": 13.461422608549704,
+    "q25": 11.31399314050606,
+    "q75": 15.587130375703946,
+    "volume_weighted": 13.263711951533026,
+    "mean_ci95": [
+      10.658744851995731,
+      15.057468685199149
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 9.743687217459556,
+    "median": 9.250206753469199,
+    "q25": 8.13676829386718,
+    "q75": 10.25629771424688,
+    "volume_weighted": 9.172838532905722,
+    "mean_ci95": [
+      7.946552262766684,
+      11.31768616952113
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 9.830876511144966,
+    "median": 9.207681567475749,
+    "q25": 7.852019616640799,
+    "q75": 11.188583170714878,
+    "volume_weighted": 9.245276201207382,
+    "mean_ci95": [
+      7.698011086604261,
+      11.478153057706065
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 5.398724199873024,
+    "median": 5.187028408905628,
+    "q25": 4.560234156581014,
+    "q75": 6.241742657316814,
+    "volume_weighted": 5.199223758476071,
+    "mean_ci95": [
+      4.509238230403891,
+      6.054060595955834
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 5.313123200615992,
+    "median": 5.060314770854971,
+    "q25": 4.566185201517946,
+    "q75": 6.240291842307127,
+    "volume_weighted": 5.1431165737315245,
+    "mean_ci95": [
+      4.274635065237704,
+      5.992671236424054
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 49.82713732049687,
+    "median": 49.63615383182122,
+    "q25": 45.335966426208834,
+    "q75": 53.58678993311286,
+    "volume_weighted": 50.40420642979956,
+    "mean_ci95": [
+      46.34859040126283,
+      54.51062521144121
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 50.22224097467506,
+    "median": 50.5300919205511,
+    "q25": 46.86888479009079,
+    "q75": 54.51218296482059,
+    "volume_weighted": 50.98336544156043,
+    "mean_ci95": [
+      46.82793315531846,
+      55.145351460082814
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 53.46475983390266,
+    "median": 52.50047356329915,
+    "q25": 49.46759292553013,
+    "q75": 57.95261942166241,
+    "volume_weighted": 53.80224507131047,
+    "mean_ci95": [
+      50.619432940834216,
+      57.58385928163813
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 54.08040916988805,
+    "median": 53.59796028279299,
+    "q25": 51.308352689492246,
+    "q75": 57.468975843201534,
+    "volume_weighted": 54.57284251082712,
+    "mean_ci95": [
+      51.115498506617904,
+      58.44955342880607
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 0.023323577145708544,
+    "median": 0.02472485189960013,
+    "q25": 0.018408923216927078,
+    "q75": 0.02885067795438565,
+    "volume_weighted": 0.023862595389355448,
+    "mean_ci95": [
+      0.019149091316186164,
+      0.026651557775201968
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 0.022075175907984527,
+    "median": 0.02350650195387939,
+    "q25": 0.014440305514482882,
+    "q75": 0.026840436419486614,
+    "volume_weighted": 0.02255156948788099,
+    "mean_ci95": [
+      0.017896463775148534,
+      0.026105280498613555
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 13,
+    "clusters": 10,
+    "mean": 0.026216350917008528,
+    "median": 0.02811106340613943,
+    "q25": 0.02199385370671346,
+    "q75": 0.03198336957959922,
+    "volume_weighted": 0.02642109504471831,
+    "mean_ci95": [
+      0.02121780566383628,
+      0.029636075680473686
+    ]
+  },
+  {
+    "group": "usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 12,
+    "clusters": 9,
+    "mean": 0.02474113849625269,
+    "median": 0.026962846182091375,
+    "q25": 0.015917272744436727,
+    "q75": 0.029161262094199145,
+    "volume_weighted": 0.024885235225613554,
+    "mean_ci95": [
+      0.019350227314486577,
+      0.02867390782017094
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 25.7699790844756,
+    "median": 25.7699790844756,
+    "q25": 25.559627715744295,
+    "q75": 25.980330453206903,
+    "volume_weighted": 26.073767320848358,
+    "mean_ci95": [
+      25.349276347012992,
+      26.190681821938206
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 23.965853532372616,
+    "median": 23.965853532372616,
+    "q25": 23.233499372691117,
+    "q75": 24.698207692054115,
+    "volume_weighted": 24.91083138518515,
+    "mean_ci95": [
+      22.501145213009618,
+      25.430561851735614
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 28.919725467389682,
+    "median": 28.919725467389682,
+    "q25": 28.484420531570777,
+    "q75": 29.355030403208588,
+    "volume_weighted": 28.27072922032806,
+    "mean_ci95": [
+      28.049115595751875,
+      29.79033533902749
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 26.874488608770314,
+    "median": 26.874488608770314,
+    "q25": 26.757591922005776,
+    "q75": 26.991385295534855,
+    "volume_weighted": 27.0330000313247,
+    "mean_ci95": [
+      26.640695235241235,
+      27.108281982299395
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 11.321992998430451,
+    "median": 11.321992998430451,
+    "q25": 10.78300074950115,
+    "q75": 11.860985247359752,
+    "volume_weighted": 10.543583493855396,
+    "mean_ci95": [
+      10.24400850057185,
+      12.399977496289052
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 10.901450540272855,
+    "median": 10.901450540272855,
+    "q25": 10.516709237156068,
+    "q75": 11.28619184338964,
+    "volume_weighted": 10.405007657138668,
+    "mean_ci95": [
+      10.131967934039281,
+      11.670933146506426
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 9.094366105169502,
+    "median": 9.094366105169502,
+    "q25": 8.389089441988077,
+    "q75": 9.79964276835093,
+    "volume_weighted": 8.04286893644613,
+    "mean_ci95": [
+      7.683812778806651,
+      10.504919431532356
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 8.95751066979015,
+    "median": 8.95751066979015,
+    "q25": 8.221218974329064,
+    "q75": 9.693802365251235,
+    "volume_weighted": 7.959102183691641,
+    "mean_ci95": [
+      7.484927278867978,
+      10.430094060712321
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 25.779443257374496,
+    "median": 25.779443257374496,
+    "q25": 16.191852521570873,
+    "q75": 35.367033993178126,
+    "volume_weighted": 11.933099883141274,
+    "mean_ci95": [
+      6.604261785767245,
+      44.95462472898175
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 27.623830655311586,
+    "median": 27.623830655311586,
+    "q25": 16.814205199911143,
+    "q75": 38.43345611071203,
+    "volume_weighted": 13.675856826645886,
+    "mean_ci95": [
+      6.0045797445107,
+      49.24308156611247
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 21.85186894383564,
+    "median": 21.85186894383564,
+    "q25": 12.771670791078979,
+    "q75": 30.932067096592302,
+    "volume_weighted": 8.314199051283495,
+    "mean_ci95": [
+      3.6914726383223178,
+      40.012265249348964
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 23.530670356101812,
+    "median": 23.530670356101812,
+    "q25": 13.43896618788138,
+    "q75": 33.62237452432225,
+    "volume_weighted": 9.846361348056663,
+    "mean_ci95": [
+      3.347262019660948,
+      43.71407869254268
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 37.115403715827966,
+    "median": 37.115403715827966,
+    "q25": 27.197540062002446,
+    "q75": 47.03326736965348,
+    "volume_weighted": 51.438725337898106,
+    "mean_ci95": [
+      17.279676408176925,
+      56.951131023479
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 37.49947289565489,
+    "median": 37.49947289565489,
+    "q25": 27.03667742669265,
+    "q75": 47.96226836461713,
+    "volume_weighted": 50.99992191471493,
+    "mean_ci95": [
+      16.57388195773041,
+      58.425063833579365
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 40.11843747421374,
+    "median": 40.11843747421374,
+    "q25": 29.8953265646468,
+    "q75": 50.34154838378069,
+    "volume_weighted": 55.36007630636299,
+    "mean_ci95": [
+      19.672215655079857,
+      60.56465929334763
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 40.62617512375215,
+    "median": 40.62617512375215,
+    "q25": 29.913832712359792,
+    "q75": 51.3385175351445,
+    "volume_weighted": 55.1520670161351,
+    "mean_ci95": [
+      19.201490300967443,
+      62.050859946536846
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.013180943891488411,
+    "median": 0.013180943891488411,
+    "q25": 0.011548906067592719,
+    "q75": 0.014812981715384104,
+    "volume_weighted": 0.010823964256864698,
+    "mean_ci95": [
+      0.009916868243697027,
+      0.016445019539279796
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.009392376388052192,
+    "median": 0.009392376388052192,
+    "q25": 0.008609506261544393,
+    "q75": 0.01017524651455999,
+    "volume_weighted": 0.008382216315362564,
+    "mean_ci95": [
+      0.007826636135036596,
+      0.010958116641067788
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.015602009391430723,
+    "median": 0.015602009391430723,
+    "q25": 0.013270851581480073,
+    "q75": 0.017933167201381373,
+    "volume_weighted": 0.012126485579323618,
+    "mean_ci95": [
+      0.01093969377152942,
+      0.020264325011332025
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.011155241585575511,
+    "median": 0.011155241585575511,
+    "q25": 0.00991200711020302,
+    "q75": 0.012398476060948002,
+    "volume_weighted": 0.009469420791895616,
+    "mean_ci95": [
+      0.008668772634830528,
+      0.013641710536320495
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 30.619582027722096,
+    "median": 30.619582027722096,
+    "q25": 27.7696160006411,
+    "q75": 33.469548054803084,
+    "volume_weighted": 26.158359816296237,
+    "mean_ci95": [
+      24.91964997356011,
+      36.31951408188408
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 28.6651096335926,
+    "median": 28.6651096335926,
+    "q25": 26.653015948206153,
+    "q75": 30.67720331897905,
+    "volume_weighted": 25.720969318907212,
+    "mean_ci95": [
+      24.640922262819704,
+      32.6892970043655
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 43.94120068742629,
+    "median": 43.94120068742629,
+    "q25": 35.097259621492356,
+    "q75": 52.78514175336022,
+    "volume_weighted": 28.720412302501856,
+    "mean_ci95": [
+      26.25331855555842,
+      61.62908281929416
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 45.00516338773632,
+    "median": 45.00516338773632,
+    "q25": 35.44789324800675,
+    "q75": 54.56243352746589,
+    "volume_weighted": 28.78400195837292,
+    "mean_ci95": [
+      25.890623108277172,
+      64.11970366719547
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 10.090235913521074,
+    "median": 10.090235913521074,
+    "q25": 9.684533023936023,
+    "q75": 10.495938803106123,
+    "volume_weighted": 9.455164924934499,
+    "mean_ci95": [
+      9.278830134350972,
+      10.901641692691173
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 8.955156863168758,
+    "median": 8.955156863168758,
+    "q25": 8.865898022436413,
+    "q75": 9.044415703901103,
+    "volume_weighted": 8.824551338510146,
+    "mean_ci95": [
+      8.776639181704068,
+      9.133674544633449
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 9.645809921776678,
+    "median": 9.645809921776678,
+    "q25": 8.798272977517884,
+    "q75": 10.493346866035473,
+    "volume_weighted": 8.18716378417871,
+    "mean_ci95": [
+      7.950736033259091,
+      11.340883810294267
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 9.17859327111639,
+    "median": 9.17859327111639,
+    "q25": 8.351807229206042,
+    "q75": 10.005379313026737,
+    "volume_weighted": 7.775323335528731,
+    "mean_ci95": [
+      7.525021187295694,
+      10.832165354937084
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 22.878298943702283,
+    "median": 22.878298943702283,
+    "q25": 14.287078533308346,
+    "q75": 31.46951935409622,
+    "volume_weighted": 9.429947997091025,
+    "mean_ci95": [
+      5.69585812291441,
+      40.06073976449016
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 26.517901789281197,
+    "median": 26.517901789281197,
+    "q25": 15.873872102859023,
+    "q75": 37.16193147570337,
+    "volume_weighted": 10.943320377837214,
+    "mean_ci95": [
+      5.229842416436847,
+      47.80596116212555
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 4.971016025342061,
+    "median": 4.971016025342061,
+    "q25": 3.9607206200739684,
+    "q75": 5.981311430610155,
+    "volume_weighted": 3.2322558441961426,
+    "mean_ci95": [
+      2.950425214805875,
+      6.991606835878248
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 4.319185969449627,
+    "median": 4.319185969449627,
+    "q25": 3.3960860837199305,
+    "q75": 5.242285855179324,
+    "volume_weighted": 2.752446509025418,
+    "mean_ci95": [
+      2.4729861979902337,
+      6.165385740909021
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 36.39204576545463,
+    "median": 36.39204576545463,
+    "q25": 24.539603663749006,
+    "q75": 48.24448786716027,
+    "volume_weighted": 54.945382002211616,
+    "mean_ci95": [
+      12.687161562043377,
+      60.096929968865894
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 35.84936381116833,
+    "median": 35.84936381116833,
+    "q25": 23.100430814209787,
+    "q75": 48.598296808126875,
+    "volume_weighted": 54.50388664883602,
+    "mean_ci95": [
+      10.351497817251241,
+      61.34722980508542
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 41.40993221526738,
+    "median": 41.40993221526738,
+    "q25": 30.696876310889834,
+    "q75": 52.12298811964493,
+    "volume_weighted": 59.84754454903709,
+    "mean_ci95": [
+      19.983820406512287,
+      62.83604402402248
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 41.47413424323242,
+    "median": 41.47413424323242,
+    "q25": 30.158417253302567,
+    "q75": 52.78985123316228,
+    "volume_weighted": 60.67983517027936,
+    "mean_ci95": [
+      18.84270026337271,
+      64.10556822309213
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.01983734959991477,
+    "median": 0.01983734959991477,
+    "q25": 0.01428457495426576,
+    "q75": 0.02539012424556378,
+    "volume_weighted": 0.011145259466621505,
+    "mean_ci95": [
+      0.00873180030861675,
+      0.03094289889121279
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.012467902789113833,
+    "median": 0.012467902789113833,
+    "q25": 0.008917118371537677,
+    "q75": 0.016018687206689988,
+    "volume_weighted": 0.007272315909403105,
+    "mean_ci95": [
+      0.005366333953961521,
+      0.019569471624266144
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.032041150187586215,
+    "median": 0.032041150187586215,
+    "q25": 0.02075866127086259,
+    "q75": 0.04332363910430984,
+    "volume_weighted": 0.012623520086206654,
+    "mean_ci95": [
+      0.009476172354138964,
+      0.05460612802103347
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.022923128465243546,
+    "median": 0.022923128465243546,
+    "q25": 0.014362205905005646,
+    "q75": 0.03148405102548145,
+    "volume_weighted": 0.008393026793572341,
+    "mean_ci95": [
+      0.005801283344767747,
+      0.040044973585719346
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 25.7699790844756,
+    "median": 25.7699790844756,
+    "q25": 25.559627715744295,
+    "q75": 25.980330453206903,
+    "volume_weighted": 26.073767320848358,
+    "mean_ci95": [
+      25.349276347012992,
+      26.190681821938206
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 23.965853532372616,
+    "median": 23.965853532372616,
+    "q25": 23.233499372691117,
+    "q75": 24.698207692054115,
+    "volume_weighted": 24.91083138518515,
+    "mean_ci95": [
+      22.501145213009618,
+      25.430561851735614
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 28.919725467389682,
+    "median": 28.919725467389682,
+    "q25": 28.484420531570777,
+    "q75": 29.355030403208588,
+    "volume_weighted": 28.27072922032806,
+    "mean_ci95": [
+      28.049115595751875,
+      29.79033533902749
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 26.874488608770314,
+    "median": 26.874488608770314,
+    "q25": 26.757591922005776,
+    "q75": 26.991385295534855,
+    "volume_weighted": 27.0330000313247,
+    "mean_ci95": [
+      26.640695235241235,
+      27.108281982299395
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 11.321992998430451,
+    "median": 11.321992998430451,
+    "q25": 10.78300074950115,
+    "q75": 11.860985247359752,
+    "volume_weighted": 10.543583493855396,
+    "mean_ci95": [
+      10.24400850057185,
+      12.399977496289052
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 10.901450540272855,
+    "median": 10.901450540272855,
+    "q25": 10.516709237156068,
+    "q75": 11.28619184338964,
+    "volume_weighted": 10.405007657138668,
+    "mean_ci95": [
+      10.131967934039281,
+      11.670933146506426
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 9.094366105169502,
+    "median": 9.094366105169502,
+    "q25": 8.389089441988077,
+    "q75": 9.79964276835093,
+    "volume_weighted": 8.04286893644613,
+    "mean_ci95": [
+      7.683812778806651,
+      10.504919431532356
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 8.95751066979015,
+    "median": 8.95751066979015,
+    "q25": 8.221218974329064,
+    "q75": 9.693802365251235,
+    "volume_weighted": 7.959102183691641,
+    "mean_ci95": [
+      7.484927278867978,
+      10.430094060712321
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 25.779443257374496,
+    "median": 25.779443257374496,
+    "q25": 16.191852521570873,
+    "q75": 35.367033993178126,
+    "volume_weighted": 11.933099883141274,
+    "mean_ci95": [
+      6.604261785767245,
+      44.95462472898175
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 27.623830655311586,
+    "median": 27.623830655311586,
+    "q25": 16.814205199911143,
+    "q75": 38.43345611071203,
+    "volume_weighted": 13.675856826645886,
+    "mean_ci95": [
+      6.0045797445107,
+      49.24308156611247
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 21.85186894383564,
+    "median": 21.85186894383564,
+    "q25": 12.771670791078979,
+    "q75": 30.932067096592302,
+    "volume_weighted": 8.314199051283495,
+    "mean_ci95": [
+      3.6914726383223178,
+      40.012265249348964
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 23.530670356101812,
+    "median": 23.530670356101812,
+    "q25": 13.43896618788138,
+    "q75": 33.62237452432225,
+    "volume_weighted": 9.846361348056663,
+    "mean_ci95": [
+      3.347262019660948,
+      43.71407869254268
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 37.115403715827966,
+    "median": 37.115403715827966,
+    "q25": 27.197540062002446,
+    "q75": 47.03326736965348,
+    "volume_weighted": 51.438725337898106,
+    "mean_ci95": [
+      17.279676408176925,
+      56.951131023479
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 37.49947289565489,
+    "median": 37.49947289565489,
+    "q25": 27.03667742669265,
+    "q75": 47.96226836461713,
+    "volume_weighted": 50.99992191471493,
+    "mean_ci95": [
+      16.57388195773041,
+      58.425063833579365
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 40.11843747421374,
+    "median": 40.11843747421374,
+    "q25": 29.8953265646468,
+    "q75": 50.34154838378069,
+    "volume_weighted": 55.36007630636299,
+    "mean_ci95": [
+      19.672215655079857,
+      60.56465929334763
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 40.62617512375215,
+    "median": 40.62617512375215,
+    "q25": 29.913832712359792,
+    "q75": 51.3385175351445,
+    "volume_weighted": 55.1520670161351,
+    "mean_ci95": [
+      19.201490300967443,
+      62.050859946536846
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.013180943891488411,
+    "median": 0.013180943891488411,
+    "q25": 0.011548906067592719,
+    "q75": 0.014812981715384104,
+    "volume_weighted": 0.010823964256864698,
+    "mean_ci95": [
+      0.009916868243697027,
+      0.016445019539279796
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.009392376388052192,
+    "median": 0.009392376388052192,
+    "q25": 0.008609506261544393,
+    "q75": 0.01017524651455999,
+    "volume_weighted": 0.008382216315362564,
+    "mean_ci95": [
+      0.007826636135036596,
+      0.010958116641067788
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.015602009391430723,
+    "median": 0.015602009391430723,
+    "q25": 0.013270851581480073,
+    "q75": 0.017933167201381373,
+    "volume_weighted": 0.012126485579323618,
+    "mean_ci95": [
+      0.01093969377152942,
+      0.020264325011332025
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.011155241585575511,
+    "median": 0.011155241585575511,
+    "q25": 0.00991200711020302,
+    "q75": 0.012398476060948002,
+    "volume_weighted": 0.009469420791895616,
+    "mean_ci95": [
+      0.008668772634830528,
+      0.013641710536320495
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 30.619582027722096,
+    "median": 30.619582027722096,
+    "q25": 27.7696160006411,
+    "q75": 33.469548054803084,
+    "volume_weighted": 26.158359816296237,
+    "mean_ci95": [
+      24.91964997356011,
+      36.31951408188408
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 28.6651096335926,
+    "median": 28.6651096335926,
+    "q25": 26.653015948206153,
+    "q75": 30.67720331897905,
+    "volume_weighted": 25.720969318907212,
+    "mean_ci95": [
+      24.640922262819704,
+      32.6892970043655
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 43.94120068742629,
+    "median": 43.94120068742629,
+    "q25": 35.097259621492356,
+    "q75": 52.78514175336022,
+    "volume_weighted": 28.720412302501856,
+    "mean_ci95": [
+      26.25331855555842,
+      61.62908281929416
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 45.00516338773632,
+    "median": 45.00516338773632,
+    "q25": 35.44789324800675,
+    "q75": 54.56243352746589,
+    "volume_weighted": 28.78400195837292,
+    "mean_ci95": [
+      25.890623108277172,
+      64.11970366719547
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 10.090235913521074,
+    "median": 10.090235913521074,
+    "q25": 9.684533023936023,
+    "q75": 10.495938803106123,
+    "volume_weighted": 9.455164924934499,
+    "mean_ci95": [
+      9.278830134350972,
+      10.901641692691173
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 8.955156863168758,
+    "median": 8.955156863168758,
+    "q25": 8.865898022436413,
+    "q75": 9.044415703901103,
+    "volume_weighted": 8.824551338510146,
+    "mean_ci95": [
+      8.776639181704068,
+      9.133674544633449
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 9.645809921776678,
+    "median": 9.645809921776678,
+    "q25": 8.798272977517884,
+    "q75": 10.493346866035473,
+    "volume_weighted": 8.18716378417871,
+    "mean_ci95": [
+      7.950736033259091,
+      11.340883810294267
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 9.17859327111639,
+    "median": 9.17859327111639,
+    "q25": 8.351807229206042,
+    "q75": 10.005379313026737,
+    "volume_weighted": 7.775323335528731,
+    "mean_ci95": [
+      7.525021187295694,
+      10.832165354937084
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 22.878298943702283,
+    "median": 22.878298943702283,
+    "q25": 14.287078533308346,
+    "q75": 31.46951935409622,
+    "volume_weighted": 9.429947997091025,
+    "mean_ci95": [
+      5.69585812291441,
+      40.06073976449016
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 26.517901789281197,
+    "median": 26.517901789281197,
+    "q25": 15.873872102859023,
+    "q75": 37.16193147570337,
+    "volume_weighted": 10.943320377837214,
+    "mean_ci95": [
+      5.229842416436847,
+      47.80596116212555
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 4.971016025342061,
+    "median": 4.971016025342061,
+    "q25": 3.9607206200739684,
+    "q75": 5.981311430610155,
+    "volume_weighted": 3.2322558441961426,
+    "mean_ci95": [
+      2.950425214805875,
+      6.991606835878248
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 4.319185969449627,
+    "median": 4.319185969449627,
+    "q25": 3.3960860837199305,
+    "q75": 5.242285855179324,
+    "volume_weighted": 2.752446509025418,
+    "mean_ci95": [
+      2.4729861979902337,
+      6.165385740909021
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 36.39204576545463,
+    "median": 36.39204576545463,
+    "q25": 24.539603663749006,
+    "q75": 48.24448786716027,
+    "volume_weighted": 54.945382002211616,
+    "mean_ci95": [
+      12.687161562043377,
+      60.096929968865894
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 35.84936381116833,
+    "median": 35.84936381116833,
+    "q25": 23.100430814209787,
+    "q75": 48.598296808126875,
+    "volume_weighted": 54.50388664883602,
+    "mean_ci95": [
+      10.351497817251241,
+      61.34722980508542
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 41.40993221526738,
+    "median": 41.40993221526738,
+    "q25": 30.696876310889834,
+    "q75": 52.12298811964493,
+    "volume_weighted": 59.84754454903709,
+    "mean_ci95": [
+      19.983820406512287,
+      62.83604402402248
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 41.47413424323242,
+    "median": 41.47413424323242,
+    "q25": 30.158417253302567,
+    "q75": 52.78985123316228,
+    "volume_weighted": 60.67983517027936,
+    "mean_ci95": [
+      18.84270026337271,
+      64.10556822309213
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.01983734959991477,
+    "median": 0.01983734959991477,
+    "q25": 0.01428457495426576,
+    "q75": 0.02539012424556378,
+    "volume_weighted": 0.011145259466621505,
+    "mean_ci95": [
+      0.00873180030861675,
+      0.03094289889121279
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.012467902789113833,
+    "median": 0.012467902789113833,
+    "q25": 0.008917118371537677,
+    "q75": 0.016018687206689988,
+    "volume_weighted": 0.007272315909403105,
+    "mean_ci95": [
+      0.005366333953961521,
+      0.019569471624266144
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.032041150187586215,
+    "median": 0.032041150187586215,
+    "q25": 0.02075866127086259,
+    "q75": 0.04332363910430984,
+    "volume_weighted": 0.012623520086206654,
+    "mean_ci95": [
+      0.009476172354138964,
+      0.05460612802103347
+    ]
+  },
+  {
+    "group": "non-usa-only",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 2,
+    "clusters": 2,
+    "mean": 0.022923128465243546,
+    "median": 0.022923128465243546,
+    "q25": 0.014362205905005646,
+    "q75": 0.03148405102548145,
+    "volume_weighted": 0.008393026793572341,
+    "mean_ci95": [
+      0.005801283344767747,
+      0.040044973585719346
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 18.84503110367329,
+    "median": 15.281433614150611,
+    "q25": 15.029468630390223,
+    "q75": 19.09699608743368,
+    "volume_weighted": 20.006797590391752,
+    "mean_ci95": [
+      15.093391591314266,
+      30.099949640750367
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 18.14260813095865,
+    "median": 15.050232825751706,
+    "q25": 14.706904914577223,
+    "q75": 18.485936042133133,
+    "volume_weighted": 18.70972350742767,
+    "mean_ci95": [
+      14.890759015089737,
+      27.89815547856539
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 20.68573571859247,
+    "median": 16.903580257700824,
+    "q25": 16.447924737858884,
+    "q75": 21.141391238434412,
+    "volume_weighted": 22.07715938798498,
+    "mean_ci95": [
+      16.621926487631608,
+      32.87716341147505
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 19.818640885925703,
+    "median": 16.548470176415137,
+    "q25": 15.991264291152193,
+    "q75": 20.375846771188648,
+    "volume_weighted": 20.5166436452329,
+    "mean_ci95": [
+      16.307138113164537,
+      30.353149204209213
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 22.875106792385814,
+    "median": 25.45830648742012,
+    "q25": 22.664659149153334,
+    "q75": 25.6687541306526,
+    "volume_weighted": 21.991291827876637,
+    "mean_ci95": [
+      14.65116731796783,
+      25.61641995052514
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 22.902039550849008,
+    "median": 25.57378425108724,
+    "q25": 22.826386493356065,
+    "q75": 25.649437308580186,
+    "volume_weighted": 22.389572767714704,
+    "mean_ci95": [
+      14.609370019230914,
+      25.66626272805504
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 19.986524503354737,
+    "median": 22.11883858185822,
+    "q25": 19.694891764681557,
+    "q75": 22.410471320531403,
+    "volume_weighted": 19.126140558467704,
+    "mean_ci95": [
+      12.879622279375893,
+      22.355491911347684
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 20.0083722094514,
+    "median": 22.278954594272662,
+    "q25": 19.901419004721,
+    "q75": 22.385907799003064,
+    "volume_weighted": 19.497435912164732,
+    "mean_ci95": [
+      12.863888187880132,
+      22.38986688330849
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 9.668245109738297,
+    "median": 9.75504036886871,
+    "q25": 9.070526048956854,
+    "q75": 10.352759429650153,
+    "volume_weighted": 9.697201210487114,
+    "mean_ci95": [
+      9.445878081066745,
+      10.335346195752951
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 9.32411663440565,
+    "median": 9.266285829904895,
+    "q25": 8.556055329942257,
+    "q75": 10.03434713436829,
+    "volume_weighted": 9.339618897086423,
+    "mean_ci95": [
+      8.999153669266574,
+      10.299005529822882
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 5.733715118651263,
+    "median": 5.460432431839559,
+    "q25": 5.257141347156076,
+    "q75": 5.937006203334746,
+    "volume_weighted": 5.853284457491703,
+    "mean_ci95": [
+      5.351632720597611,
+      6.879962312812218
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 5.615304714475077,
+    "median": 5.256966466714038,
+    "q25": 5.0415985103686385,
+    "q75": 5.830672670820477,
+    "volume_weighted": 5.692962252302468,
+    "mean_ci95": [
+      5.18009209101934,
+      6.92094258484229
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 48.57745034481207,
+    "median": 49.13957646672107,
+    "q25": 47.369140270842365,
+    "q75": 50.34788654069078,
+    "volume_weighted": 48.27010291542019,
+    "mean_ci95": [
+      44.87605745083877,
+      49.811247976136514
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 49.59810744953849,
+    "median": 49.93518601258606,
+    "q25": 48.406393199232944,
+    "q75": 51.1269002628916,
+    "volume_weighted": 49.52768998330028,
+    "mean_ci95": [
+      47.15756927244293,
+      50.411620175237005
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 53.55501767913525,
+    "median": 55.048473920889876,
+    "q25": 52.54069779408592,
+    "q75": 56.0627938059392,
+    "volume_weighted": 52.90401709114676,
+    "mean_ci95": [
+      47.32152791448061,
+      55.632847600686794
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 54.52015439596816,
+    "median": 55.72868500076683,
+    "q25": 53.58120802236644,
+    "q75": 56.667631374368554,
+    "volume_weighted": 54.25521439064935,
+    "mean_ci95": [
+      49.82244135097278,
+      56.086058744299955
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.03416664939052415,
+    "median": 0.0336095040266235,
+    "q25": 0.03262295726822481,
+    "q75": 0.03515319614892284,
+    "volume_weighted": 0.03460645582430598,
+    "mean_ci95": [
+      0.03306240095733945,
+      0.037479394690078244
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.033128234248205456,
+    "median": 0.03257899654049659,
+    "q25": 0.031668226073536435,
+    "q75": 0.03403900471516561,
+    "volume_weighted": 0.03339484447092627,
+    "mean_ci95": [
+      0.03220441235164315,
+      0.03589969993789238
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.03900698026628431,
+    "median": 0.038865097892477024,
+    "q25": 0.03811265694792114,
+    "q75": 0.039759421210840196,
+    "volume_weighted": 0.039398504908850315,
+    "mean_ci95": [
+      0.03810127973630257,
+      0.041724081856229514
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.037527794179655856,
+    "median": 0.037289748461842256,
+    "q25": 0.036625476520240965,
+    "q75": 0.03819206612125715,
+    "volume_weighted": 0.03774379965054469,
+    "mean_ci95": [
+      0.03684416820768128,
+      0.03957867209557958
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 18.091224738471652,
+    "median": 15.606164566940373,
+    "q25": 15.242644263585753,
+    "q75": 18.45474504182627,
+    "volume_weighted": 21.04765624679433,
+    "mean_ci95": [
+      15.253807164359523,
+      26.603477460808037
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 17.869854204003204,
+    "median": 15.553312961296612,
+    "q25": 15.215575797219351,
+    "q75": 18.207591368080465,
+    "volume_weighted": 20.505503798439456,
+    "mean_ci95": [
+      15.43229335757149,
+      25.18253674329834
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 21.065401229415365,
+    "median": 18.787169762946455,
+    "q25": 18.224490676018274,
+    "q75": 21.628080316343546,
+    "volume_weighted": 24.25719535546755,
+    "mean_ci95": [
+      18.38000631297639,
+      29.12158597873228
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 20.964221526317054,
+    "median": 19.135503363718005,
+    "q25": 18.481793755019503,
+    "q75": 21.61793113501556,
+    "volume_weighted": 23.6377863869634,
+    "mean_ci95": [
+      18.79265272287918,
+      27.478927936630683
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 23.631218873553024,
+    "median": 25.898484858866112,
+    "q25": 21.83332461500915,
+    "q75": 27.696379117409982,
+    "volume_weighted": 20.4281876294766,
+    "mean_ci95": [
+      14.55555753238039,
+      26.65643932061057
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 23.596153898965753,
+    "median": 25.98150072808182,
+    "q25": 22.064835783643233,
+    "q75": 27.51281884340434,
+    "volume_weighted": 20.204848913658434,
+    "mean_ci95": [
+      14.455132857607266,
+      26.64316091275192
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 22.11503022915789,
+    "median": 24.16148544150346,
+    "q25": 19.456276740201567,
+    "q75": 26.820238930459784,
+    "volume_weighted": 18.392545612446366,
+    "mean_ci95": [
+      12.963424015906423,
+      25.165565633575046
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 22.13007232333117,
+    "median": 24.346014166805787,
+    "q25": 19.794301944855366,
+    "q75": 26.68178454528159,
+    "volume_weighted": 18.147627779474124,
+    "mean_ci95": [
+      12.915074787746024,
+      25.20173816852622
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 14.454079270091983,
+    "median": 15.77062453778115,
+    "q25": 13.731992489024861,
+    "q75": 16.492711318848272,
+    "volume_weighted": 12.723495003759043,
+    "mean_ci95": [
+      9.574289359712084,
+      16.080675906885283
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 14.831104397344053,
+    "median": 16.08141586185673,
+    "q25": 13.743748541958208,
+    "q75": 17.168771717242574,
+    "volume_weighted": 12.757845372706061,
+    "mean_ci95": [
+      9.341270809335917,
+      16.6610489266801
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 6.7975083620496,
+    "median": 6.9361616939095265,
+    "q25": 6.644874835366162,
+    "q75": 7.088795220592965,
+    "volume_weighted": 6.4587007669838945,
+    "mean_ci95": [
+      5.941045271793582,
+      7.082996058801606
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 6.787375980837939,
+    "median": 6.987700366276526,
+    "q25": 6.6014346706432,
+    "q75": 7.173641676471265,
+    "volume_weighted": 6.3634097514718695,
+    "mean_ci95": [
+      5.785052728334388,
+      7.121483731672456
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 43.77868152586025,
+    "median": 42.95780326989477,
+    "q25": 40.60329664416151,
+    "q75": 46.13318815159351,
+    "volume_weighted": 45.760924622254144,
+    "mean_ci95": [
+      41.95988521646796,
+      49.23507045403713
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 43.654774876449,
+    "median": 42.38074776806502,
+    "q25": 39.57908374242003,
+    "q75": 46.45643890209399,
+    "volume_weighted": 46.49030773217265,
+    "mean_ci95": [
+      41.20991301419099,
+      50.989360463223036
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 49.96476711984211,
+    "median": 49.88558984940093,
+    "q25": 47.64840619503842,
+    "q75": 52.20195077420461,
+    "volume_weighted": 50.84365385406623,
+    "mean_ci95": [
+      49.30678134759995,
+      51.93872443656858
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 50.05593258628877,
+    "median": 49.950012551965216,
+    "q25": 46.91038440976626,
+    "q75": 53.095560728487726,
+    "volume_weighted": 51.801181233428984,
+    "mean_ci95": [
+      48.8125944350495,
+      53.78594704000656
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.04479559202309229,
+    "median": 0.0443142868751982,
+    "q25": 0.037019821459806104,
+    "q75": 0.05209005743848438,
+    "volume_weighted": 0.039736497715884105,
+    "mean_ci95": [
+      0.03160519306236148,
+      0.04919239167666922
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.04811262323799226,
+    "median": 0.04675876801793562,
+    "q25": 0.03933574140557942,
+    "q75": 0.05553564985034845,
+    "volume_weighted": 0.0414941830233966,
+    "mean_ci95": [
+      0.03169912653544369,
+      0.05358378880550845
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.057293059535040367,
+    "median": 0.05785231472226478,
+    "q25": 0.04741096306964461,
+    "q75": 0.06773441118766053,
+    "volume_weighted": 0.047904411035956974,
+    "mean_ci95": [
+      0.035220296999138805,
+      0.06465064704700756
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.0623975832250732,
+    "median": 0.06155298941993419,
+    "q25": 0.051071146816180094,
+    "q75": 0.07287942582882728,
+    "volume_weighted": 0.04999484866162155,
+    "mean_ci95": [
+      0.03499750728234099,
+      0.07153094187265059
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 18.84503110367329,
+    "median": 15.281433614150611,
+    "q25": 15.029468630390223,
+    "q75": 19.09699608743368,
+    "volume_weighted": 20.006797590391752,
+    "mean_ci95": [
+      15.093391591314266,
+      30.099949640750367
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 18.14260813095865,
+    "median": 15.050232825751706,
+    "q25": 14.706904914577223,
+    "q75": 18.485936042133133,
+    "volume_weighted": 18.70972350742767,
+    "mean_ci95": [
+      14.890759015089737,
+      27.89815547856539
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 20.68573571859247,
+    "median": 16.903580257700824,
+    "q25": 16.447924737858884,
+    "q75": 21.141391238434412,
+    "volume_weighted": 22.07715938798498,
+    "mean_ci95": [
+      16.621926487631608,
+      32.87716341147505
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 19.818640885925703,
+    "median": 16.548470176415137,
+    "q25": 15.991264291152193,
+    "q75": 20.375846771188648,
+    "volume_weighted": 20.5166436452329,
+    "mean_ci95": [
+      16.307138113164537,
+      30.353149204209213
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 22.875106792385814,
+    "median": 25.45830648742012,
+    "q25": 22.664659149153334,
+    "q75": 25.6687541306526,
+    "volume_weighted": 21.991291827876637,
+    "mean_ci95": [
+      14.65116731796783,
+      25.61641995052514
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 22.902039550849008,
+    "median": 25.57378425108724,
+    "q25": 22.826386493356065,
+    "q75": 25.649437308580186,
+    "volume_weighted": 22.389572767714704,
+    "mean_ci95": [
+      14.609370019230914,
+      25.66626272805504
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 19.986524503354737,
+    "median": 22.11883858185822,
+    "q25": 19.694891764681557,
+    "q75": 22.410471320531403,
+    "volume_weighted": 19.126140558467704,
+    "mean_ci95": [
+      12.879622279375893,
+      22.355491911347684
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 20.0083722094514,
+    "median": 22.278954594272662,
+    "q25": 19.901419004721,
+    "q75": 22.385907799003064,
+    "volume_weighted": 19.497435912164732,
+    "mean_ci95": [
+      12.863888187880132,
+      22.38986688330849
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 9.668245109738297,
+    "median": 9.75504036886871,
+    "q25": 9.070526048956854,
+    "q75": 10.352759429650153,
+    "volume_weighted": 9.697201210487114,
+    "mean_ci95": [
+      9.445878081066745,
+      10.335346195752951
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 9.32411663440565,
+    "median": 9.266285829904895,
+    "q25": 8.556055329942257,
+    "q75": 10.03434713436829,
+    "volume_weighted": 9.339618897086423,
+    "mean_ci95": [
+      8.999153669266574,
+      10.299005529822882
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 5.733715118651263,
+    "median": 5.460432431839559,
+    "q25": 5.257141347156076,
+    "q75": 5.937006203334746,
+    "volume_weighted": 5.853284457491703,
+    "mean_ci95": [
+      5.351632720597611,
+      6.879962312812218
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 5.615304714475077,
+    "median": 5.256966466714038,
+    "q25": 5.0415985103686385,
+    "q75": 5.830672670820477,
+    "volume_weighted": 5.692962252302468,
+    "mean_ci95": [
+      5.18009209101934,
+      6.92094258484229
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 48.57745034481207,
+    "median": 49.13957646672107,
+    "q25": 47.369140270842365,
+    "q75": 50.34788654069078,
+    "volume_weighted": 48.27010291542019,
+    "mean_ci95": [
+      44.87605745083877,
+      49.811247976136514
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 49.59810744953849,
+    "median": 49.93518601258606,
+    "q25": 48.406393199232944,
+    "q75": 51.1269002628916,
+    "volume_weighted": 49.52768998330028,
+    "mean_ci95": [
+      47.15756927244293,
+      50.411620175237005
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 53.55501767913525,
+    "median": 55.048473920889876,
+    "q25": 52.54069779408592,
+    "q75": 56.0627938059392,
+    "volume_weighted": 52.90401709114676,
+    "mean_ci95": [
+      47.32152791448061,
+      55.632847600686794
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 54.52015439596816,
+    "median": 55.72868500076683,
+    "q25": 53.58120802236644,
+    "q75": 56.667631374368554,
+    "volume_weighted": 54.25521439064935,
+    "mean_ci95": [
+      49.82244135097278,
+      56.086058744299955
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.03416664939052415,
+    "median": 0.0336095040266235,
+    "q25": 0.03262295726822481,
+    "q75": 0.03515319614892284,
+    "volume_weighted": 0.03460645582430598,
+    "mean_ci95": [
+      0.03306240095733945,
+      0.037479394690078244
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.033128234248205456,
+    "median": 0.03257899654049659,
+    "q25": 0.031668226073536435,
+    "q75": 0.03403900471516561,
+    "volume_weighted": 0.03339484447092627,
+    "mean_ci95": [
+      0.03220441235164315,
+      0.03589969993789238
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.03900698026628431,
+    "median": 0.038865097892477024,
+    "q25": 0.03811265694792114,
+    "q75": 0.039759421210840196,
+    "volume_weighted": 0.039398504908850315,
+    "mean_ci95": [
+      0.03810127973630257,
+      0.041724081856229514
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.037527794179655856,
+    "median": 0.037289748461842256,
+    "q25": 0.036625476520240965,
+    "q75": 0.03819206612125715,
+    "volume_weighted": 0.03774379965054469,
+    "mean_ci95": [
+      0.03684416820768128,
+      0.03957867209557958
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 18.091224738471652,
+    "median": 15.606164566940373,
+    "q25": 15.242644263585753,
+    "q75": 18.45474504182627,
+    "volume_weighted": 21.04765624679433,
+    "mean_ci95": [
+      15.253807164359523,
+      26.603477460808037
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 17.869854204003204,
+    "median": 15.553312961296612,
+    "q25": 15.215575797219351,
+    "q75": 18.207591368080465,
+    "volume_weighted": 20.505503798439456,
+    "mean_ci95": [
+      15.43229335757149,
+      25.18253674329834
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 21.065401229415365,
+    "median": 18.787169762946455,
+    "q25": 18.224490676018274,
+    "q75": 21.628080316343546,
+    "volume_weighted": 24.25719535546755,
+    "mean_ci95": [
+      18.38000631297639,
+      29.12158597873228
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 20.964221526317054,
+    "median": 19.135503363718005,
+    "q25": 18.481793755019503,
+    "q75": 21.61793113501556,
+    "volume_weighted": 23.6377863869634,
+    "mean_ci95": [
+      18.79265272287918,
+      27.478927936630683
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 23.631218873553024,
+    "median": 25.898484858866112,
+    "q25": 21.83332461500915,
+    "q75": 27.696379117409982,
+    "volume_weighted": 20.4281876294766,
+    "mean_ci95": [
+      14.55555753238039,
+      26.65643932061057
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 23.596153898965753,
+    "median": 25.98150072808182,
+    "q25": 22.064835783643233,
+    "q75": 27.51281884340434,
+    "volume_weighted": 20.204848913658434,
+    "mean_ci95": [
+      14.455132857607266,
+      26.64316091275192
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 22.11503022915789,
+    "median": 24.16148544150346,
+    "q25": 19.456276740201567,
+    "q75": 26.820238930459784,
+    "volume_weighted": 18.392545612446366,
+    "mean_ci95": [
+      12.963424015906423,
+      25.165565633575046
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 22.13007232333117,
+    "median": 24.346014166805787,
+    "q25": 19.794301944855366,
+    "q75": 26.68178454528159,
+    "volume_weighted": 18.147627779474124,
+    "mean_ci95": [
+      12.915074787746024,
+      25.20173816852622
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 14.454079270091983,
+    "median": 15.77062453778115,
+    "q25": 13.731992489024861,
+    "q75": 16.492711318848272,
+    "volume_weighted": 12.723495003759043,
+    "mean_ci95": [
+      9.574289359712084,
+      16.080675906885283
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 14.831104397344053,
+    "median": 16.08141586185673,
+    "q25": 13.743748541958208,
+    "q75": 17.168771717242574,
+    "volume_weighted": 12.757845372706061,
+    "mean_ci95": [
+      9.341270809335917,
+      16.6610489266801
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 6.7975083620496,
+    "median": 6.9361616939095265,
+    "q25": 6.644874835366162,
+    "q75": 7.088795220592965,
+    "volume_weighted": 6.4587007669838945,
+    "mean_ci95": [
+      5.941045271793582,
+      7.082996058801606
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 6.787375980837939,
+    "median": 6.987700366276526,
+    "q25": 6.6014346706432,
+    "q75": 7.173641676471265,
+    "volume_weighted": 6.3634097514718695,
+    "mean_ci95": [
+      5.785052728334388,
+      7.121483731672456
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 43.77868152586025,
+    "median": 42.95780326989477,
+    "q25": 40.60329664416151,
+    "q75": 46.13318815159351,
+    "volume_weighted": 45.760924622254144,
+    "mean_ci95": [
+      41.95988521646796,
+      49.23507045403713
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 43.654774876449,
+    "median": 42.38074776806502,
+    "q25": 39.57908374242003,
+    "q75": 46.45643890209399,
+    "volume_weighted": 46.49030773217265,
+    "mean_ci95": [
+      41.20991301419099,
+      50.989360463223036
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 49.96476711984211,
+    "median": 49.88558984940093,
+    "q25": 47.64840619503842,
+    "q75": 52.20195077420461,
+    "volume_weighted": 50.84365385406623,
+    "mean_ci95": [
+      49.30678134759995,
+      51.93872443656858
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 50.05593258628877,
+    "median": 49.950012551965216,
+    "q25": 46.91038440976626,
+    "q75": 53.095560728487726,
+    "volume_weighted": 51.801181233428984,
+    "mean_ci95": [
+      48.8125944350495,
+      53.78594704000656
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.04479559202309229,
+    "median": 0.0443142868751982,
+    "q25": 0.037019821459806104,
+    "q75": 0.05209005743848438,
+    "volume_weighted": 0.039736497715884105,
+    "mean_ci95": [
+      0.03160519306236148,
+      0.04919239167666922
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.04811262323799226,
+    "median": 0.04675876801793562,
+    "q25": 0.03933574140557942,
+    "q75": 0.05553564985034845,
+    "volume_weighted": 0.0414941830233966,
+    "mean_ci95": [
+      0.03169912653544369,
+      0.05358378880550845
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.057293059535040367,
+    "median": 0.05785231472226478,
+    "q25": 0.04741096306964461,
+    "q75": 0.06773441118766053,
+    "volume_weighted": 0.047904411035956974,
+    "mean_ci95": [
+      0.035220296999138805,
+      0.06465064704700756
+    ]
+  },
+  {
+    "group": "mixed",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 4,
+    "clusters": 2,
+    "mean": 0.0623975832250732,
+    "median": 0.06155298941993419,
+    "q25": 0.051071146816180094,
+    "q75": 0.07287942582882728,
+    "volume_weighted": 0.04999484866162155,
+    "mean_ci95": [
+      0.03499750728234099,
+      0.07153094187265059
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 19.865494317590933,
+    "median": 19.341937021288704,
+    "q25": 14.772733187794293,
+    "q75": 23.85569144180331,
+    "volume_weighted": 22.262033357405755,
+    "mean_ci95": [
+      18.71954097746914,
+      21.116862984932087
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 19.838909772201344,
+    "median": 19.591092360850737,
+    "q25": 14.86879428928323,
+    "q75": 23.78321910857313,
+    "volume_weighted": 22.04765944023218,
+    "mean_ci95": [
+      18.76928822215197,
+      20.932413180962843
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 22.488069381381273,
+    "median": 22.06507659271671,
+    "q25": 16.35280299317823,
+    "q75": 27.12646383570333,
+    "volume_weighted": 25.12380452337079,
+    "mean_ci95": [
+      21.258216057150253,
+      23.930299332541765
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 22.405576562013753,
+    "median": 22.288805713302356,
+    "q25": 16.7701422479178,
+    "q75": 26.516184001714862,
+    "volume_weighted": 24.828485282526657,
+    "mean_ci95": [
+      21.21007391550219,
+      23.739943068607396
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 23.42823385048216,
+    "median": 24.01629606588891,
+    "q25": 21.408742275724297,
+    "q75": 26.36544528262114,
+    "volume_weighted": 23.67698411875377,
+    "mean_ci95": [
+      22.523303302856885,
+      24.147531996302224
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 23.39519039942714,
+    "median": 24.126341248731833,
+    "q25": 21.233817358997143,
+    "q75": 26.099034371932103,
+    "volume_weighted": 23.924808904970174,
+    "mean_ci95": [
+      22.579486685435455,
+      24.122807093706438
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 20.070044479708535,
+    "median": 20.38574261574292,
+    "q25": 17.20725133718038,
+    "q75": 22.9821427056558,
+    "volume_weighted": 20.033477788241278,
+    "mean_ci95": [
+      19.23514183271196,
+      20.83811220549292
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 19.9469583032989,
+    "median": 20.260411710597264,
+    "q25": 17.070997648611336,
+    "q75": 22.704992336838238,
+    "volume_weighted": 20.178102088746535,
+    "mean_ci95": [
+      19.25169601087045,
+      20.675460434769967
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 14.832296231091338,
+    "median": 11.135207108035246,
+    "q25": 9.910117883708539,
+    "q75": 15.137243010143758,
+    "volume_weighted": 12.404211241604619,
+    "mean_ci95": [
+      13.07124473472817,
+      16.75112227203384
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 14.782800875016068,
+    "median": 10.841404398361421,
+    "q25": 9.75938115447164,
+    "q75": 14.988456811227612,
+    "volume_weighted": 12.497225847719214,
+    "mean_ci95": [
+      12.792313244556597,
+      16.652870729511264
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 10.235001618518963,
+    "median": 6.601488494824152,
+    "q25": 5.955223875329225,
+    "q75": 8.120541070690676,
+    "volume_weighted": 8.42165876049651,
+    "mean_ci95": [
+      8.4285843010687,
+      12.101350455201047
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 10.277220064314976,
+    "median": 6.495524917067139,
+    "q25": 5.853001939953326,
+    "q75": 8.058153558383768,
+    "volume_weighted": 8.639584320941761,
+    "mean_ci95": [
+      8.535684562480283,
+      12.281221923542123
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 41.84706377116817,
+    "median": 43.658384629896936,
+    "q25": 37.047123425591984,
+    "q75": 47.88326208880233,
+    "volume_weighted": 41.629489948998625,
+    "mean_ci95": [
+      40.18977660518276,
+      43.42823233848517
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 41.957325039271716,
+    "median": 44.38281283028983,
+    "q25": 37.70955497638085,
+    "q75": 48.07444787643384,
+    "volume_weighted": 41.50471732443358,
+    "mean_ci95": [
+      40.12621472847655,
+      43.45353608983608
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 47.174793828955885,
+    "median": 49.63056377852411,
+    "q25": 42.090750568554746,
+    "q75": 53.833710232284005,
+    "volume_weighted": 46.38916991235488,
+    "mean_ci95": [
+      45.19683945093537,
+      48.95573003418795
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 47.33957508210447,
+    "median": 49.88210012079632,
+    "q25": 42.98102082007538,
+    "q75": 54.32053859008477,
+    "volume_weighted": 46.32397899176208,
+    "mean_ci95": [
+      45.547134669022675,
+      49.20108258770081
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 0.026911829667385645,
+    "median": 0.026048310872806273,
+    "q25": 0.01896097835735159,
+    "q75": 0.03401519628894208,
+    "volume_weighted": 0.027281333237229675,
+    "mean_ci95": [
+      0.024342078169177838,
+      0.029475471945032677
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 0.025773914083729966,
+    "median": 0.02450527007710135,
+    "q25": 0.017845521633601973,
+    "q75": 0.03280785153389802,
+    "volume_weighted": 0.025588482644850148,
+    "mean_ci95": [
+      0.023361089552400967,
+      0.028091161565874226
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 0.032090691435339797,
+    "median": 0.029618247712663505,
+    "q25": 0.02298743155123767,
+    "q75": 0.039580662585611014,
+    "volume_weighted": 0.03188901553653874,
+    "mean_ci95": [
+      0.02898454372714269,
+      0.035385846403848946
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 0.030669988267900093,
+    "median": 0.028635933253391352,
+    "q25": 0.02155980701059238,
+    "q75": 0.03836816159821324,
+    "volume_weighted": 0.029849316022961273,
+    "mean_ci95": [
+      0.027897920079107283,
+      0.03341933626594973
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 15.69195552442425,
+    "median": 13.927172960134953,
+    "q25": 10.043411321247861,
+    "q75": 18.17091543474704,
+    "volume_weighted": 17.7933769678374,
+    "mean_ci95": [
+      13.977760895341001,
+      17.79864405122542
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 15.442633790524004,
+    "median": 13.908259147111233,
+    "q25": 9.897455981699773,
+    "q75": 18.11334814371174,
+    "volume_weighted": 17.18560154968173,
+    "mean_ci95": [
+      13.8887286957154,
+      17.56620556202931
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 19.325277238381112,
+    "median": 17.032474990121607,
+    "q25": 12.502467189219233,
+    "q75": 22.51555985446913,
+    "volume_weighted": 21.016859985782464,
+    "mean_ci95": [
+      17.229559351395988,
+      21.65956611548601
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 19.157328689086444,
+    "median": 16.775288582751774,
+    "q25": 12.449446376168282,
+    "q75": 22.40517711661701,
+    "volume_weighted": 20.411656284853166,
+    "mean_ci95": [
+      17.307838356769025,
+      21.576588706363136
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 24.3888649602184,
+    "median": 25.00973355763368,
+    "q25": 21.661633014852324,
+    "q75": 28.127279361193136,
+    "volume_weighted": 22.75532967254815,
+    "mean_ci95": [
+      22.999730640955608,
+      25.711072839095632
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 24.249803014107577,
+    "median": 25.088881609214784,
+    "q25": 21.359106253013984,
+    "q75": 28.13453574404474,
+    "volume_weighted": 22.928374104312905,
+    "mean_ci95": [
+      22.984759025073746,
+      25.555981844622742
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 22.39851844823579,
+    "median": 22.328167149583226,
+    "q25": 18.555426610827993,
+    "q75": 26.674866112209013,
+    "volume_weighted": 20.7650898102362,
+    "mean_ci95": [
+      20.793344048544114,
+      23.88180485530373
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 22.35069209521027,
+    "median": 22.529114275808947,
+    "q25": 18.008358553105634,
+    "q75": 26.642425280148828,
+    "volume_weighted": 20.937697064238705,
+    "mean_ci95": [
+      20.786796405588298,
+      23.888105364835685
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 19.185123492680464,
+    "median": 18.118396632887393,
+    "q25": 13.792878843321738,
+    "q75": 22.658818462421937,
+    "volume_weighted": 14.876792598862002,
+    "mean_ci95": [
+      17.10275760816236,
+      21.57098644030351
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 19.831697676984962,
+    "median": 18.503609310548025,
+    "q25": 13.945399187384737,
+    "q75": 23.715361416605855,
+    "volume_weighted": 15.295861812414383,
+    "mean_ci95": [
+      17.765033144708063,
+      22.123871977611255
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 9.448875566027398,
+    "median": 8.412333415966422,
+    "q25": 6.58084584044865,
+    "q75": 11.019944622870286,
+    "volume_weighted": 7.339106418066484,
+    "mean_ci95": [
+      8.205366004861553,
+      10.926394874557054
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 9.346273787255136,
+    "median": 8.399078912408113,
+    "q25": 6.217056671612641,
+    "q75": 10.889380410626345,
+    "volume_weighted": 7.285830716589444,
+    "mean_ci95": [
+      8.08731454100204,
+      10.992824303442292
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 40.70106587502645,
+    "median": 41.43837955260424,
+    "q25": 34.714054527285754,
+    "q75": 46.879640570069874,
+    "volume_weighted": 44.53718523814628,
+    "mean_ci95": [
+      38.43202657549903,
+      42.837602187539815
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 40.44441443386949,
+    "median": 40.56154197268994,
+    "q25": 34.73044632842911,
+    "q75": 47.54827481957504,
+    "volume_weighted": 44.55498455718128,
+    "mean_ci95": [
+      38.076968717632305,
+      42.684917001922706
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 48.78325072626699,
+    "median": 49.75989497022509,
+    "q25": 43.03485650942234,
+    "q75": 55.14275987847775,
+    "volume_weighted": 50.83239177026054,
+    "mean_ci95": [
+      46.831492863048105,
+      50.52042906863286
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 49.10321106672404,
+    "median": 50.09450661655404,
+    "q25": 43.16031043433346,
+    "q75": 56.175531298338456,
+    "volume_weighted": 51.320567219258365,
+    "mean_ci95": [
+      47.35325413354027,
+      51.02064371861782
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 0.03299014765042959,
+    "median": 0.027930899515085955,
+    "q25": 0.018643525410417153,
+    "q75": 0.045477478696736864,
+    "volume_weighted": 0.03731552260617341,
+    "mean_ci95": [
+      0.02820257971168956,
+      0.0382455990381914
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 0.03145108451395922,
+    "median": 0.02829325122742781,
+    "q25": 0.015700078112734314,
+    "q75": 0.04268312489848952,
+    "volume_weighted": 0.03517797640970732,
+    "mean_ci95": [
+      0.026273625145769294,
+      0.0366288940926553
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 129,
+    "clusters": 73,
+    "mean": 0.044078021088709195,
+    "median": 0.03683797176267137,
+    "q25": 0.024699934390799275,
+    "q75": 0.05790211495093558,
+    "volume_weighted": 0.046552015654307756,
+    "mean_ci95": [
+      0.03770030175178525,
+      0.05090527974006863
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "expanded-aapi",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 129,
+    "clusters": 73,
+    "mean": 0.04249436172411064,
+    "median": 0.036685947904852294,
+    "q25": 0.022432925552597734,
+    "q75": 0.05693965022786288,
+    "volume_weighted": 0.044248715060318945,
+    "mean_ci95": [
+      0.03603915515493688,
+      0.04916588745759636
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 19.940852831415846,
+    "median": 19.341937021288704,
+    "q25": 14.792597390389211,
+    "q75": 24.174754992597496,
+    "volume_weighted": 22.23624692926164,
+    "mean_ci95": [
+      18.811743825842253,
+      21.22926151683417
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 19.903204547544455,
+    "median": 19.591092360850737,
+    "q25": 14.88447378013936,
+    "q75": 24.194131702775582,
+    "volume_weighted": 22.015545511178484,
+    "mean_ci95": [
+      18.77523092077942,
+      21.051656737780228
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 22.546237988410073,
+    "median": 22.05846538756002,
+    "q25": 16.64740446699122,
+    "q75": 27.31615687098152,
+    "volume_weighted": 25.08636829425973,
+    "mean_ci95": [
+      21.289567076059924,
+      23.993643051817465
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 22.452706895822217,
+    "median": 22.05846538756002,
+    "q25": 16.77053663918706,
+    "q75": 26.616903670382378,
+    "volume_weighted": 24.785296167088138,
+    "mean_ci95": [
+      21.190198887279642,
+      23.81110654497572
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 23.429745731011877,
+    "median": 24.01629606588891,
+    "q25": 21.408742275724297,
+    "q75": 26.539911091499892,
+    "volume_weighted": 23.70765683784647,
+    "mean_ci95": [
+      22.508137821221794,
+      24.265834991035444
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 23.392979268461094,
+    "median": 24.126341248731833,
+    "q25": 21.233817358997143,
+    "q75": 26.40543127541852,
+    "volume_weighted": 23.96432604277761,
+    "mean_ci95": [
+      22.585730513537605,
+      24.1898418246409
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 20.117368728688085,
+    "median": 20.393436634632103,
+    "q25": 17.48592207007859,
+    "q75": 23.001481989899037,
+    "volume_weighted": 20.091307955351194,
+    "mean_ci95": [
+      19.28118062602139,
+      20.8712270283981
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 19.988815564579518,
+    "median": 20.260411710597264,
+    "q25": 17.31501746384291,
+    "q75": 22.90832874073969,
+    "volume_weighted": 20.24369790803858,
+    "mean_ci95": [
+      19.071016080324032,
+      20.737914819298993
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 14.651069603898405,
+    "median": 11.102583274155581,
+    "q25": 9.876367715363134,
+    "q75": 14.988456811227612,
+    "volume_weighted": 12.414940105647652,
+    "mean_ci95": [
+      12.809460185454538,
+      16.55026348959482
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 14.626807513625172,
+    "median": 10.783164698639824,
+    "q25": 9.75938115447164,
+    "q75": 14.67799307721197,
+    "volume_weighted": 12.51183472958723,
+    "mean_ci95": [
+      12.766660360485515,
+      16.628476497265392
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 10.122549934627344,
+    "median": 6.522420672529869,
+    "q25": 5.938941150826384,
+    "q75": 8.058153558383768,
+    "volume_weighted": 8.440032085829856,
+    "mean_ci95": [
+      8.252078611175035,
+      12.222100030897382
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 10.185637352925593,
+    "median": 6.4687276569397385,
+    "q25": 5.848335716737008,
+    "q75": 8.040332521663094,
+    "volume_weighted": 8.661587510083324,
+    "mean_ci95": [
+      8.34703356419968,
+      12.315531874838422
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 41.950822674001,
+    "median": 44.509446952324545,
+    "q25": 36.77149395040161,
+    "q75": 48.04546531074102,
+    "volume_weighted": 41.61350991552886,
+    "mean_ci95": [
+      40.29696098678698,
+      43.56421869375236
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 42.05066828040394,
+    "median": 44.509446952324545,
+    "q25": 37.05682290285253,
+    "q75": 48.49160061869841,
+    "volume_weighted": 41.48237822903681,
+    "mean_ci95": [
+      40.22847438957286,
+      43.711617189644215
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 47.18109771221232,
+    "median": 49.94338361968779,
+    "q25": 41.895906704419524,
+    "q75": 53.833710232284005,
+    "volume_weighted": 46.34999310523603,
+    "mean_ci95": [
+      45.27223207528072,
+      49.09295974718176
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 47.341542808709775,
+    "median": 49.96559758817488,
+    "q25": 42.42692675048886,
+    "q75": 54.32053859008477,
+    "volume_weighted": 46.279200033043736,
+    "mean_ci95": [
+      45.31877681973756,
+      49.288973404660304
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 0.02750915967286314,
+    "median": 0.027177874446349032,
+    "q25": 0.020040712779756872,
+    "q75": 0.03420141306200365,
+    "volume_weighted": 0.027646211715379742,
+    "mean_ci95": [
+      0.02486617301206487,
+      0.029911483515409155
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 0.026340389965338492,
+    "median": 0.025358872459838616,
+    "q25": 0.019060672159922524,
+    "q75": 0.033564675977494074,
+    "volume_weighted": 0.025915487419865994,
+    "mean_ci95": [
+      0.023863362206822086,
+      0.028733773728550502
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 0.0327456360621762,
+    "median": 0.03181350533375456,
+    "q25": 0.024279677482917296,
+    "q75": 0.04007795667988142,
+    "volume_weighted": 0.03229855932318599,
+    "mean_ci95": [
+      0.02941398321597586,
+      0.03580881885413942
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "downloaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 0.031297377962899775,
+    "median": 0.028979511485379836,
+    "q25": 0.022830980912449866,
+    "q75": 0.038641560152991174,
+    "volume_weighted": 0.030218381746223648,
+    "mean_ci95": [
+      0.02846973545282174,
+      0.03403770195765285
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 16.12257859367161,
+    "median": 14.334328776231978,
+    "q25": 10.385641934905829,
+    "q75": 18.993924998617523,
+    "volume_weighted": 18.019381892184022,
+    "mean_ci95": [
+      14.433802894105629,
+      18.12446111461664
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 15.877720106930415,
+    "median": 14.05070653769883,
+    "q25": 10.4296721219279,
+    "q75": 18.185251628741383,
+    "volume_weighted": 17.407734493714994,
+    "mean_ci95": [
+      14.171525012689884,
+      17.84112149934757
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 19.79560728937103,
+    "median": 17.5383485320893,
+    "q25": 12.832331289442418,
+    "q75": 23.58550088911327,
+    "volume_weighted": 21.24663966828998,
+    "mean_ci95": [
+      17.71215981754054,
+      22.310686525431297
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "asia-28",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 19.62584055341248,
+    "median": 17.032474990121607,
+    "q25": 13.182605739243005,
+    "q75": 22.599075973835095,
+    "volume_weighted": 20.630960953220093,
+    "mean_ci95": [
+      17.589070145056784,
+      22.039567888876462
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 24.28490226575718,
+    "median": 24.875522254771433,
+    "q25": 21.628224263123677,
+    "q75": 27.215096843382813,
+    "volume_weighted": 22.683551846858997,
+    "mean_ci95": [
+      22.771430514894398,
+      25.614695707876102
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 24.1237304638812,
+    "median": 25.028369372362903,
+    "q25": 21.011993502592286,
+    "q75": 27.08177044261065,
+    "volume_weighted": 22.85525254857845,
+    "mean_ci95": [
+      22.812227199024495,
+      25.42437522005936
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 22.51409378361369,
+    "median": 22.364245721555832,
+    "q25": 18.562988579311533,
+    "q75": 26.679471505409825,
+    "volume_weighted": 20.733577109829913,
+    "mean_ci95": [
+      20.891024701666595,
+      24.133206757348297
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "eur-27",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 22.471574258734538,
+    "median": 22.913027291732295,
+    "q25": 18.065706002999644,
+    "q75": 26.703585170268617,
+    "volume_weighted": 20.917305362971206,
+    "mean_ci95": [
+      20.74339971552432,
+      24.031842660621212
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 18.453744432557116,
+    "median": 17.931896691810515,
+    "q25": 13.792878843321738,
+    "q75": 22.275187239247355,
+    "volume_weighted": 14.785101647134564,
+    "mean_ci95": [
+      17.01356564037116,
+      20.083856186403057
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 19.079004104566096,
+    "median": 18.387496389835956,
+    "q25": 13.945399187384737,
+    "q75": 23.389076176957655,
+    "volume_weighted": 15.18492604701552,
+    "mean_ci95": [
+      17.42228922676912,
+      20.69305846137685
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 8.893453282288379,
+    "median": 8.41090817702964,
+    "q25": 6.576741341043558,
+    "q75": 10.687126954793072,
+    "volume_weighted": 7.333212846730067,
+    "mean_ci95": [
+      8.05601604851874,
+      9.760209969187056
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "usa-can",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 8.770452099921837,
+    "median": 8.37850200456221,
+    "q25": 6.199008546676885,
+    "q75": 10.682664460074472,
+    "volume_weighted": 7.278279209652402,
+    "mean_ci95": [
+      7.941578029545033,
+      9.548798553011387
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 41.10490379307445,
+    "median": 41.43837955260424,
+    "q25": 35.23616552557333,
+    "q75": 46.879640570069874,
+    "volume_weighted": 44.47431956402004,
+    "mean_ci95": [
+      38.99253734815203,
+      43.04221196433114
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 40.887131588007634,
+    "median": 40.817449318560094,
+    "q25": 34.824151443895644,
+    "q75": 47.54827481957504,
+    "volume_weighted": 44.51656438494099,
+    "mean_ci95": [
+      38.85890951606586,
+      42.954054483426475
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 48.7517457190401,
+    "median": 49.75989497022509,
+    "q25": 43.03485650942234,
+    "q75": 54.89603507665675,
+    "volume_weighted": 50.639703181464846,
+    "mean_ci95": [
+      46.862055171705634,
+      50.641233467860246
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "other",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 49.08849129209596,
+    "median": 50.09450661655404,
+    "q25": 43.16031043433346,
+    "q75": 55.63758203417052,
+    "volume_weighted": 51.12888286029202,
+    "mean_ci95": [
+      47.17708566616805,
+      50.93805883506277
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 0.03387091493964498,
+    "median": 0.028756834477931023,
+    "q25": 0.020056540342298288,
+    "q75": 0.045477478696736864,
+    "volume_weighted": 0.037645049802378545,
+    "mean_ci95": [
+      0.029135876646866867,
+      0.03930713101408869
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 0.03241373661465745,
+    "median": 0.028422845223155465,
+    "q25": 0.01700375872561303,
+    "q75": 0.043244439864274294,
+    "volume_weighted": 0.035522525750044116,
+    "mean_ci95": [
+      0.0273392178890955,
+      0.03757458317081342
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "n": 121,
+    "clusters": 69,
+    "mean": 0.04509992568680079,
+    "median": 0.03717348533158447,
+    "q25": 0.025856078602478953,
+    "q75": 0.05790211495093558,
+    "volume_weighted": 0.04686719368519512,
+    "mean_ci95": [
+      0.03914571485942863,
+      0.05175910222486023
+    ]
+  },
+  {
+    "group": "unknown",
+    "population": "asian-global",
+    "role": "uploaders",
+    "region": "unclassified",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "n": 121,
+    "clusters": 69,
+    "mean": 0.04364179583518292,
+    "median": 0.03757592895893771,
+    "q25": 0.02333481891339629,
+    "q75": 0.057445255986584995,
+    "volume_weighted": 0.04457161386427609,
+    "mean_ci95": [
+      0.03675657590949472,
+      0.050361951834006255
+    ]
+  }
+]

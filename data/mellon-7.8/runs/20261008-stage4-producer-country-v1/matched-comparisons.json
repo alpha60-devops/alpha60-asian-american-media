@@ -1,0 +1,1342 @@
+[
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "asia-28",
+    "role": "downloaders",
+    "mode": "all",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 32.90817560945282,
+    "right_share": 26.190681821938206,
+    "difference_pp": 6.717493787514613,
+    "country_js_divergence_bits": 0.05276787003755164,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "eur-27",
+    "role": "downloaders",
+    "mode": "all",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 13.935193711651674,
+    "right_share": 10.24400850057185,
+    "difference_pp": 3.6911852110798247,
+    "country_js_divergence_bits": 0.05276787003755164,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "usa-can",
+    "role": "downloaders",
+    "mode": "all",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 7.624425123362764,
+    "right_share": 6.604261785767245,
+    "difference_pp": 1.0201633375955188,
+    "country_js_divergence_bits": 0.05276787003755164,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "other",
+    "role": "downloaders",
+    "mode": "all",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 45.49400752875043,
+    "right_share": 56.951131023479,
+    "difference_pp": -11.45712349472857,
+    "country_js_divergence_bits": 0.05276787003755164,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "unclassified",
+    "role": "downloaders",
+    "mode": "all",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 0.03819802678231553,
+    "right_share": 0.009916868243697027,
+    "difference_pp": 0.0282811585386185,
+    "country_js_divergence_bits": 0.05276787003755164,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "asia-28",
+    "role": "downloaders",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 35.39993077820026,
+    "right_share": 28.049115595751875,
+    "difference_pp": 7.3508151824483825,
+    "country_js_divergence_bits": 0.059736625130522095,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "eur-27",
+    "role": "downloaders",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 12.009876511074879,
+    "right_share": 7.683812778806651,
+    "difference_pp": 4.326063732268228,
+    "country_js_divergence_bits": 0.059736625130522095,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "usa-can",
+    "role": "downloaders",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 4.670071902009262,
+    "right_share": 3.6914726383223178,
+    "difference_pp": 0.9785992636869443,
+    "country_js_divergence_bits": 0.059736625130522095,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "other",
+    "role": "downloaders",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 47.88019829483362,
+    "right_share": 60.56465929334763,
+    "difference_pp": -12.684460998514012,
+    "country_js_divergence_bits": 0.059736625130522095,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "unclassified",
+    "role": "downloaders",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 0.03992251388198049,
+    "right_share": 0.01093969377152942,
+    "difference_pp": 0.028982820110451068,
+    "country_js_divergence_bits": 0.059736625130522095,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "asia-28",
+    "role": "uploaders",
+    "mode": "all",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 27.896532678157516,
+    "right_share": 24.91964997356011,
+    "difference_pp": 2.976882704597408,
+    "country_js_divergence_bits": 0.09010703174714413,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "eur-27",
+    "role": "uploaders",
+    "mode": "all",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 15.157183729143737,
+    "right_share": 9.278830134350972,
+    "difference_pp": 5.878353594792765,
+    "country_js_divergence_bits": 0.09010703174714413,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "usa-can",
+    "role": "uploaders",
+    "mode": "all",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 7.279311311527406,
+    "right_share": 5.69585812291441,
+    "difference_pp": 1.5834531886129968,
+    "country_js_divergence_bits": 0.09010703174714413,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "other",
+    "role": "uploaders",
+    "mode": "all",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 49.63615383182122,
+    "right_share": 60.096929968865894,
+    "difference_pp": -10.460776137044675,
+    "country_js_divergence_bits": 0.09010703174714413,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "unclassified",
+    "role": "uploaders",
+    "mode": "all",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 0.030818449350124785,
+    "right_share": 0.00873180030861675,
+    "difference_pp": 0.022086649041508033,
+    "country_js_divergence_bits": 0.09010703174714413,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "asia-28",
+    "role": "uploaders",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 30.079233430388093,
+    "right_share": 26.25331855555842,
+    "difference_pp": 3.8259148748296745,
+    "country_js_divergence_bits": 0.09777539222456363,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "eur-27",
+    "role": "uploaders",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 13.567576651976314,
+    "right_share": 7.950736033259091,
+    "difference_pp": 5.616840618717223,
+    "country_js_divergence_bits": 0.09777539222456363,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "usa-can",
+    "role": "uploaders",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 3.8195194483782773,
+    "right_share": 2.950425214805875,
+    "difference_pp": 0.8690942335724023,
+    "country_js_divergence_bits": 0.09777539222456363,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "other",
+    "role": "uploaders",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 52.50047356329915,
+    "right_share": 62.83604402402248,
+    "difference_pp": -10.335570460723325,
+    "country_js_divergence_bits": 0.09777539222456363,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "unclassified",
+    "role": "uploaders",
+    "mode": "without-hosting",
+    "coverage": "full",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "left_share": 0.033196905958162166,
+    "right_share": 0.009476172354138964,
+    "difference_pp": 0.0237207336040232,
+    "country_js_divergence_bits": 0.09777539222456363,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "asia-28",
+    "role": "downloaders",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 28.709511132502808,
+    "right_share": 24.28172367120079,
+    "difference_pp": 4.427787461302017,
+    "country_js_divergence_bits": 0.049977753521096756,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "eur-27",
+    "role": "downloaders",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 14.4057882891382,
+    "right_share": 10.54850326638602,
+    "difference_pp": 3.8572850227521815,
+    "country_js_divergence_bits": 0.049977753521096756,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "usa-can",
+    "role": "downloaders",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 7.498956324153495,
+    "right_share": 6.157361017065547,
+    "difference_pp": 1.3415953070879478,
+    "country_js_divergence_bits": 0.049977753521096756,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "other",
+    "role": "downloaders",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 49.353075242205186,
+    "right_share": 59.00140963737097,
+    "difference_pp": -9.648334395165783,
+    "country_js_divergence_bits": 0.049977753521096756,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "unclassified",
+    "role": "downloaders",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 0.03266901200031423,
+    "right_share": 0.011002407976671942,
+    "difference_pp": 0.02166660402364229,
+    "country_js_divergence_bits": 0.049977753521096756,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "asia-28",
+    "role": "downloaders",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 30.936904892225503,
+    "right_share": 25.897157877443732,
+    "difference_pp": 5.039747014781771,
+    "country_js_divergence_bits": 0.056487854538721856,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "eur-27",
+    "role": "downloaders",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 12.168702956573428,
+    "right_share": 7.788812222769837,
+    "difference_pp": 4.379890733803591,
+    "country_js_divergence_bits": 0.056487854538721856,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "usa-can",
+    "role": "downloaders",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 4.4952666373690535,
+    "right_share": 3.36356168884508,
+    "difference_pp": 1.1317049485239736,
+    "country_js_divergence_bits": 0.056487854538721856,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "other",
+    "role": "downloaders",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 52.36527989533243,
+    "right_share": 62.93822901264991,
+    "difference_pp": -10.572949117317485,
+    "country_js_divergence_bits": 0.056487854538721856,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "unclassified",
+    "role": "downloaders",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 0.033845618499592,
+    "right_share": 0.012239198291440776,
+    "difference_pp": 0.021606420208151227,
+    "country_js_divergence_bits": 0.056487854538721856,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "asia-28",
+    "role": "uploaders",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 24.02457228229826,
+    "right_share": 23.63994573684286,
+    "difference_pp": 0.3846265454553972,
+    "country_js_divergence_bits": 0.10117034039281209,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "eur-27",
+    "role": "uploaders",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 15.238174286875742,
+    "right_share": 9.003993039743449,
+    "difference_pp": 6.234181247132293,
+    "country_js_divergence_bits": 0.10117034039281209,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "usa-can",
+    "role": "uploaders",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 7.1895394935487795,
+    "right_share": 5.454837426239017,
+    "difference_pp": 1.7347020673097626,
+    "country_js_divergence_bits": 0.10117034039281209,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "other",
+    "role": "uploaders",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 53.52294428200024,
+    "right_share": 61.893314414729666,
+    "difference_pp": -8.370370132729427,
+    "country_js_divergence_bits": 0.10117034039281209,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "unclassified",
+    "role": "uploaders",
+    "mode": "all",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 0.024769655276982258,
+    "right_share": 0.007909382445005823,
+    "difference_pp": 0.016860272831976435,
+    "country_js_divergence_bits": 0.10117034039281209,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "asia-28",
+    "role": "uploaders",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 26.001343640888315,
+    "right_share": 24.90385717710081,
+    "difference_pp": 1.0974864637875044,
+    "country_js_divergence_bits": 0.11009357648348352,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "eur-27",
+    "role": "uploaders",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 13.487905412339806,
+    "right_share": 7.745880709945702,
+    "difference_pp": 5.7420247023941045,
+    "country_js_divergence_bits": 0.11009357648348352,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "usa-can",
+    "role": "uploaders",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 3.4510681071622757,
+    "right_share": 2.2792883867807525,
+    "difference_pp": 1.1717797203815232,
+    "country_js_divergence_bits": 0.11009357648348352,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "other",
+    "role": "uploaders",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 57.03311572562067,
+    "right_share": 65.06237558753948,
+    "difference_pp": -8.02925986191881,
+    "country_js_divergence_bits": 0.11009357648348352,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "region": "unclassified",
+    "role": "uploaders",
+    "mode": "without-hosting",
+    "coverage": "audit-filtered",
+    "weeks": [
+      3,
+      5,
+      8
+    ],
+    "left_share": 0.026567113988932068,
+    "right_share": 0.008598138633260727,
+    "difference_pp": 0.01796897535567134,
+    "country_js_divergence_bits": 0.11009357648348352,
+    "ci95": null,
+    "ci_reason": "Fewer than two independent works on at least one side"
+  }
+]

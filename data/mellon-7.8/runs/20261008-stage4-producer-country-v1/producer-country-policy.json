@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "run_id": "20261008-stage4-producer-country-v1",
+  "as_of": "2026-10-08",
+  "population": {
+    "slice": "aapi-led",
+    "disposition": "confirmed",
+    "minimum_qualifying_credits": 2,
+    "citizenship_filter": null,
+    "usa_production_filter": null
+  },
+  "country_definition": "Principal base of the credited production company at the source-supported period. Do not substitute platform, commissioner, title origin, filming location, or ultimate parent country.",
+  "group_rule": "Resolve every listed production tag using exact reviewed mappings; unresolved tags, absent tags or relevant disputed relationships make group unknown. Complete listed sets containing USA and another country are mixed. Listed-credit coverage is not a financing census.",
+  "companies": {
+    "marvel studios": {
+      "country_codes": [
+        "USA"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Studios",
+      "reviewed_on": "2026-10-08",
+      "notes": "Burbank headquarters; historical U.S. studio."
+    },
+    "pixar animation studios": {
+      "country_codes": [
+        "USA"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://en.wikipedia.org/wiki/Pixar",
+      "reviewed_on": "2026-10-08",
+      "notes": "Emeryville headquarters; animation company, not Pixar Canada."
+    },
+    "legendary pictures": {
+      "country_codes": [
+        "USA"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://en.wikipedia.org/wiki/Legendary_Entertainment",
+      "reviewed_on": "2026-10-08",
+      "notes": "U.S. division; do not transfer former Wanda ownership country to credited company."
+    },
+    "the stone quarry": {
+      "country_codes": [
+        "USA"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://en.wikipedia.org/wiki/The_Stone_Quarry",
+      "reviewed_on": "2026-10-08",
+      "notes": "U.S. production company, previously Cruel and Unusual Films."
+    },
+    "t street": {
+      "country_codes": [
+        "USA"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://en.wikipedia.org/wiki/T-Street_Productions",
+      "reviewed_on": "2026-10-08",
+      "notes": "Los Angeles company founded in 2019."
+    },
+    "metro goldwyn mayer": {
+      "country_codes": [
+        "USA"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer",
+      "reviewed_on": "2026-10-08",
+      "notes": "Historical Beverly Hills/Culver City studio; preserve credited name."
+    },
+    "eon productions": {
+      "country_codes": [
+        "GBR"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://en.wikipedia.org/wiki/Eon_Productions",
+      "reviewed_on": "2026-10-08",
+      "notes": "London company; no inference from later Bond ownership changes."
+    },
+    "walt disney animation studios": {
+      "country_codes": [
+        "USA"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios",
+      "reviewed_on": "2026-10-08",
+      "notes": "Burbank headquarters. Satellite production offices do not redefine the credited studio base."
+    },
+    "living films": {
+      "country_codes": [
+        "THA"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://www.livingfilms.com/contact/",
+      "reviewed_on": "2026-10-08",
+      "notes": "Thai producer with Chiang Mai and Bangkok offices; film also listed at https://www.livingfilms.com/projects/feature-films/."
+    },
+    "science saru": {
+      "country_codes": [
+        "JPN"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://sciencesaru.wixsite.com/sciencesaru/about",
+      "reviewed_on": "2026-10-08",
+      "notes": "Tokyo company address; current site https://sciencesaru.com/about/."
+    },
+    "fortiche": {
+      "country_codes": [
+        "FRA"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://careers.forticheprod.com/mentions-legales/",
+      "reviewed_on": "2026-10-08",
+      "notes": "French company registered in Paris; satellite offices are not independent title credits."
+    },
+    "riot games": {
+      "country_codes": [
+        "USA"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://www.riotgames.com/en/work-with-us/offices/los-angeles",
+      "reviewed_on": "2026-10-08",
+      "notes": "Los Angeles headquarters, independent of Tencent parent country."
+    },
+    "a24": {
+      "country_codes": [
+        "USA"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://a24films.com/privacy-policy",
+      "reviewed_on": "2026-10-08",
+      "notes": "New York company address; Beef Season 2 credit verified in prior pair review."
+    },
+    "china film corporation": {
+      "country_codes": [
+        "CHN"
+      ],
+      "country_basis": "credited company principal base, not ultimate-parent nationality or filming location",
+      "source": "https://lei.bloomberg.com/leis/view/3003009UJKOPLIVUPE53",
+      "reviewed_on": "2026-10-08",
+      "notes": "Historical 2022 entity record; LEI renewal lapsed. No claim of current registration status."
+    }
+  },
+  "cohort_weeks": 8,
+  "pair_weeks": 15,
+  "daily_keys": [
+    "beef-02",
+    "no-more-bets"
+  ],
+  "daily_days": 105,
+  "pair_home_countries": {
+    "beef-02": [
+      "USA"
+    ],
+    "no-more-bets": [
+      "CHN"
+    ]
+  },
+  "matching": {
+    "exact": [
+      "sample_year",
+      "media_object_type",
+      "language_set",
+      "genre_family"
+    ],
+    "unknown_strata": "Do not match missing language or genre. Retain as unmatched.",
+    "tie_break": "lexicographically first key per canonical work per stratum; all eligible works per common stratum; equal stratum weight",
+    "bootstrap_unit": "canonical work; sample clusters with replacement, preserve every sampled object in cluster",
+    "bootstrap_replicates": 1000,
+    "bootstrap_seed": 7804,
+    "minimum_clusters_per_side": 2
+  },
+  "genre_overrides": {
+    "eternals": {
+      "value": "action",
+      "source": "https://en.wikipedia.org/wiki/Eternals_(film)",
+      "notes": "Superhero film, action-family stratum."
+    },
+    "fistful-of-vengeance": {
+      "value": "action",
+      "source": "https://en.wikipedia.org/wiki/Fistful_of_Vengeance",
+      "notes": "Supernatural action thriller."
+    }
+  },
+  "daily_average": "trailing seven consecutive eligible daily shares, no partial-window average",
+  "timezone": "Use source calendar labels as supplied; export does not certify UTC. Do not align to local audience time.",
+  "h3": {
+    "resolution": 5,
+    "min_swarm": 3,
+    "cell_difference": "For each elapsed interval, subtract shares only where both cells are observed. Average over common intervals; retain support count and one-sided coverage; missing cells stay null.",
+    "cohort_map": "Only common matched strata with identical export/geolocation versions; compare equal-work means and retain observed-cell support.",
+    "finer_resolution": "Not justified: source inputs are resolution 5; no subcell coordinates are inferred."
+  },
+  "cohort_daily_days": 56,
+  "cohort_daily_rule": "Use the first 56 source calendar days for every selected object. Daily cohorts require all 56 exports; audit-filtered windows and hosting exclusions are separate sensitivities. Home-country shares use the union of fully mapped listed producer countries; unresolved home country stays unavailable."
+}

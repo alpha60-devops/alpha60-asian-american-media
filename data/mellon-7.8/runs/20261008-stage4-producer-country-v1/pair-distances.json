@@ -1,0 +1,22 @@
+[
+  {
+    "role": "downloaders",
+    "mode": "all",
+    "country_js_divergence_bits": 0.06518968109882198
+  },
+  {
+    "role": "downloaders",
+    "mode": "without-hosting",
+    "country_js_divergence_bits": 0.06976607901392944
+  },
+  {
+    "role": "uploaders",
+    "mode": "all",
+    "country_js_divergence_bits": 0.39023072253372926
+  },
+  {
+    "role": "uploaders",
+    "mode": "without-hosting",
+    "country_js_divergence_bits": 0.4938726152112012
+  }
+]

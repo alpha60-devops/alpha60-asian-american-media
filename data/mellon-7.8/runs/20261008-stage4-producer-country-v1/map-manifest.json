@@ -1,0 +1,227 @@
+[
+  {
+    "left": [
+      "beef-02"
+    ],
+    "right": [
+      "no-more-bets"
+    ],
+    "export_versions": [
+      "2026-08-05",
+      "2026-08-05"
+    ],
+    "geolocation_versions": [
+      "6:1777968300",
+      "6:1777968300"
+    ],
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "resolution": 5,
+    "threshold": 3,
+    "sign": "left minus right; percentage points",
+    "missing_policy": "Null if either side lacks a cell in any selected interval. Observed-common value is diagnostic only.",
+    "full_comparable_cells": 62,
+    "union_cells": 19702,
+    "weight_coverage": [
+      {
+        "side": "left",
+        "role": "downloaders",
+        "mode": "all",
+        "world_weight": 28296690,
+        "full_mask_weight": 9934614,
+        "full_mask_share": 35.10874946857742,
+        "outside_full_mask_weight": 18362076
+      },
+      {
+        "side": "left",
+        "role": "downloaders",
+        "mode": "without-hosting",
+        "world_weight": 23535014,
+        "full_mask_weight": 7432253,
+        "full_mask_share": 31.57955631553905,
+        "outside_full_mask_weight": 16102761
+      },
+      {
+        "side": "left",
+        "role": "uploaders",
+        "mode": "all",
+        "world_weight": 865699,
+        "full_mask_weight": 230524,
+        "full_mask_share": 26.628654994403366,
+        "outside_full_mask_weight": 635175
+      },
+      {
+        "side": "left",
+        "role": "uploaders",
+        "mode": "without-hosting",
+        "world_weight": 503100,
+        "full_mask_weight": 113307,
+        "full_mask_share": 22.52176505664878,
+        "outside_full_mask_weight": 389793
+      },
+      {
+        "side": "right",
+        "role": "downloaders",
+        "mode": "all",
+        "world_weight": 94199,
+        "full_mask_weight": 39866,
+        "full_mask_share": 42.321043747810485,
+        "outside_full_mask_weight": 54333
+      },
+      {
+        "side": "right",
+        "role": "downloaders",
+        "mode": "without-hosting",
+        "world_weight": 81587,
+        "full_mask_weight": 32506,
+        "full_mask_share": 39.842131712160025,
+        "outside_full_mask_weight": 49081
+      },
+      {
+        "side": "right",
+        "role": "uploaders",
+        "mode": "all",
+        "world_weight": 4218,
+        "full_mask_weight": 1864,
+        "full_mask_share": 44.19155998103366,
+        "outside_full_mask_weight": 2354
+      },
+      {
+        "side": "right",
+        "role": "uploaders",
+        "mode": "without-hosting",
+        "world_weight": 3096,
+        "full_mask_weight": 1402,
+        "full_mask_share": 45.28423772609819,
+        "outside_full_mask_weight": 1694
+      }
+    ]
+  },
+  {
+    "left": [
+      "eternals"
+    ],
+    "right": [
+      "fistful-of-vengeance"
+    ],
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "export_geolocation_versions": [
+      [
+        "2026-08-05",
+        "6:1777968300"
+      ]
+    ],
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "resolution": 5,
+    "threshold": 3,
+    "sign": "left minus right; percentage points",
+    "missing_policy": "Null if either side lacks a cell in any selected interval. Observed-common value is diagnostic only.",
+    "full_comparable_cells": 2722,
+    "union_cells": 23191,
+    "weight_coverage": [
+      {
+        "side": "left",
+        "role": "downloaders",
+        "mode": "all",
+        "world_weight": 27278896,
+        "full_mask_weight": 25063519,
+        "full_mask_share": 91.87878790989195,
+        "outside_full_mask_weight": 2215377
+      },
+      {
+        "side": "left",
+        "role": "downloaders",
+        "mode": "without-hosting",
+        "world_weight": 24587630,
+        "full_mask_weight": 22401878,
+        "full_mask_share": 91.11035915214276,
+        "outside_full_mask_weight": 2185752
+      },
+      {
+        "side": "left",
+        "role": "uploaders",
+        "mode": "all",
+        "world_weight": 9338562,
+        "full_mask_weight": 8578343,
+        "full_mask_share": 91.8593569331124,
+        "outside_full_mask_weight": 760219
+      },
+      {
+        "side": "left",
+        "role": "uploaders",
+        "mode": "without-hosting",
+        "world_weight": 8425484,
+        "full_mask_weight": 7674066,
+        "full_mask_share": 91.08160433276,
+        "outside_full_mask_weight": 751418
+      },
+      {
+        "side": "right",
+        "role": "downloaders",
+        "mode": "all",
+        "world_weight": 4295711,
+        "full_mask_weight": 4116970,
+        "full_mask_share": 95.83908228463227,
+        "outside_full_mask_weight": 178741
+      },
+      {
+        "side": "right",
+        "role": "downloaders",
+        "mode": "without-hosting",
+        "world_weight": 3857512,
+        "full_mask_weight": 3682794,
+        "full_mask_share": 95.47070754413726,
+        "outside_full_mask_weight": 174718
+      },
+      {
+        "side": "right",
+        "role": "uploaders",
+        "mode": "all",
+        "world_weight": 1431549,
+        "full_mask_weight": 1375669,
+        "full_mask_share": 96.09653599003597,
+        "outside_full_mask_weight": 55880
+      },
+      {
+        "side": "right",
+        "role": "uploaders",
+        "mode": "without-hosting",
+        "world_weight": 1319098,
+        "full_mask_weight": 1264198,
+        "full_mask_share": 95.83806510206216,
+        "outside_full_mask_weight": 54900
+      }
+    ]
+  }
+]

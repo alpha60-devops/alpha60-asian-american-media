@@ -1,0 +1,11 @@
+{
+  "python": "3.14.8",
+  "packages": {
+    "numpy": "2.4.6",
+    "shapely": "2.1.2"
+  },
+  "h3_library_sha256": "ce5d24b093f46ca76c973cfd59f85434fa14897e4fcc05114076f33822e523f1",
+  "map_library": "Leaflet 1.9.4",
+  "map_outlines": "Natural Earth v5.1.2 ne_110m_admin_0_countries; public domain",
+  "outlines_url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_110m_admin_0_countries.geojson"
+}

@@ -1,0 +1,84 @@
+{
+  "status": "PASS",
+  "population_checked": 200,
+  "input_hashes": 9712,
+  "interval_rollups": 9110,
+  "independent_raw_samples": [
+    {
+      "key": "beef-02",
+      "mode": "day",
+      "index": 7,
+      "features": 4843
+    },
+    {
+      "key": "no-more-bets",
+      "mode": "day",
+      "index": 70,
+      "features": 116
+    },
+    {
+      "key": "beef-02",
+      "mode": "week",
+      "index": 15,
+      "features": 11799
+    },
+    {
+      "key": "no-more-bets",
+      "mode": "week",
+      "index": 15,
+      "features": 1512
+    },
+    {
+      "key": "eternals",
+      "mode": "week",
+      "index": 8,
+      "features": 11625
+    },
+    {
+      "key": "fistful-of-vengeance",
+      "mode": "week",
+      "index": 8,
+      "features": 4599
+    },
+    {
+      "key": "arcane-02.1",
+      "mode": "week",
+      "index": 8,
+      "features": 12835
+    },
+    {
+      "key": "japan-sinks",
+      "mode": "week",
+      "index": 8,
+      "features": 3124
+    }
+  ],
+  "weekly_rows": 26900,
+  "per_work_rows": 5960,
+  "daily_rows": 840,
+  "cohort_summaries": 320,
+  "map_checks": [
+    {
+      "file": "beef-no-more-bets-h3.geojson",
+      "cells": 19702,
+      "complete_mask": 62
+    },
+    {
+      "file": "matched-stratum-1-h3.geojson",
+      "cells": 23191,
+      "complete_mask": 2722
+    }
+  ],
+  "limits": [
+    "Independent raw reduction samples eight source intervals; all inputs hashed and every saved rollup reconciled.",
+    "Producer-country completeness is limited to listed metadata credits and the saved reviewed company mapping.",
+    "Single-work matched stratum has no population uncertainty interval."
+  ],
+  "evidence_objects": 200,
+  "evidence_summaries": 80,
+  "matching_strata": 3,
+  "matched_values": 40,
+  "daily_group_observations": 184008,
+  "daily_group_summaries": 20868,
+  "daily_complete_objects": 107
+}

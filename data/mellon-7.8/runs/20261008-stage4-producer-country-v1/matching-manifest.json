@@ -1,0 +1,53 @@
+[
+  {
+    "stratum": [
+      2021,
+      "television_episode",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "groups": {
+      "usa-only": [
+        "loki-101"
+      ]
+    },
+    "status": "unmatched-no-opposite-group"
+  },
+  {
+    "stratum": [
+      2022,
+      "film",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "groups": {
+      "usa-only": [
+        "eternals"
+      ],
+      "non-usa-only": [
+        "fistful-of-vengeance"
+      ]
+    },
+    "status": "matched"
+  },
+  {
+    "stratum": [
+      2023,
+      "television_episode",
+      [
+        "English"
+      ],
+      "action"
+    ],
+    "groups": {
+      "usa-only": [
+        "loki-201"
+      ]
+    },
+    "status": "unmatched-no-opposite-group"
+  }
+]

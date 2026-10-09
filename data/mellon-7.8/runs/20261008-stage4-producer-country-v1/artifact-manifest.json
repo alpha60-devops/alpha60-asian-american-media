@@ -1,0 +1,1295 @@
+{
+  "run_id": "20261008-stage4-producer-country-v1",
+  "artifacts": [
+    {
+      "path": "_includes/mellon-7.8-stage4-study.md",
+      "bytes": 16840,
+      "sha256": "3445570585b73d2b4331b54e881188e5c211213b27ab1bec628b42883ea004e5"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/analysis-receipt.json",
+      "bytes": 1146,
+      "sha256": "dcbc78c0c547347a47995b143d2fa200f21ffe05a8f35cc0431c83502567ae80"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/beef-no-more-bets-h3-coverage.csv",
+      "bytes": 1166981,
+      "sha256": "c1aacb0bfd7605cb9d760dd52a65aeb219446d08a3647ad98667d689e8c41d90"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/beef-no-more-bets-h3.geojson",
+      "bytes": 23932721,
+      "sha256": "d730b49db080bc675c207464d316c5873928a7edc7e4e0906d3575dbaea2e8f6"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/cohort-summary.csv",
+      "bytes": 65671,
+      "sha256": "b427c703c5dead797ea01c371f55eaf31b44aac6a1b506a11e2de92fcc5cd86d"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/cohort-summary.json",
+      "bytes": 144613,
+      "sha256": "39c3320a8391edc288025883de89f0615e1792d070f8adcc5aeb26dd9c79b74e"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/daily-group-coverage.csv",
+      "bytes": 18658,
+      "sha256": "421a3738e881a101caf4d9dc1aee6753f53013b9e0f70d1345bbde5e48c79329"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/daily-group-observations.csv",
+      "bytes": 19557195,
+      "sha256": "b1f16e8f95d634c06c431179d3e3d56b4b78af7265faf8e66a34be3f218ccb54"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/daily-group-summary.csv",
+      "bytes": 2859637,
+      "sha256": "874de68a19aa34c5dbdfa54ac87e3902f42fee9504dfd5a75cb6b56e7163994c"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/daily-home-country.csv",
+      "bytes": 82827,
+      "sha256": "e001c7bbb5a775c76389ac7579fc9c0639834363779e8c4e3049839a69224003"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/daily-weekly-grain-check.csv",
+      "bytes": 2365,
+      "sha256": "1c92be954a3c38fa7dbe61c9f6453d37a2c1c374d93bc7b51189b5c3eaefe891"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/evidence-branch-regions.csv",
+      "bytes": 7871,
+      "sha256": "811575f5131a1b28115e1212190b92024a5bec5856fc6b2e0bd2277b2377d571"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/evidence-branches.csv",
+      "bytes": 10718,
+      "sha256": "d8c4c4b1d92a5c489cc7a48d3681cf83f32f902aa482bcf69e7628ecf16816ea"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/exclusions.csv",
+      "bytes": 30297,
+      "sha256": "a84fc30edfbb8698cc97919e63a8903f5d1dbb0e29487081f20acd7531e0bae7"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/figure-manifest.json",
+      "bytes": 607929,
+      "sha256": "b4ece3f7024905c26bfab554224b3bb5df81a4bf7aa1f70f4cdb77aec955ff03"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/input-manifest.json",
+      "bytes": 2048819,
+      "sha256": "8ce7b324440e2c2ade42f1bb1a0d30178d3018038dfca409cf51295b40c0c564"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/map-manifest.json",
+      "bytes": 5548,
+      "sha256": "5ded7ef26169cefeb16d824e4d1ee351e474ca8502c458076e6775576fbac508"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/matched-comparisons.json",
+      "bytes": 25517,
+      "sha256": "0ab84b02232a7ed941ded8339cea0ec4dfcc3866fd3e6c9aff4c22bc87dbd46f"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/matched-stratum-1-h3-coverage.csv",
+      "bytes": 2690827,
+      "sha256": "28554a244305678277453a2cc477ea63dea5261762fe2b8f70d99d89e4604e2b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/matched-stratum-1-h3.geojson",
+      "bytes": 29234132,
+      "sha256": "a0156fa4c6ff537761ad9cf62b0c6c5bc544323f0948166fb9e8a34ca7504965"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/matching-manifest.json",
+      "bytes": 744,
+      "sha256": "32051ac98717b600c89c62852f07ecc2ebdba4cca7e34f6e89cde214e706d399"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/3-body-problem-01.json.gz",
+      "bytes": 26557,
+      "sha256": "8fa07557a91888304fd5030ab27046b60094f03a33ce43a38d1e82bcc9d40dd9"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/ahsoka-101.json.gz",
+      "bytes": 173542,
+      "sha256": "502b64e4c6b13126e03bc7022f66bdcb0ae2f6f4a6eeb9994a86ba2a90d35298"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/ahsoka-108.json.gz",
+      "bytes": 162544,
+      "sha256": "5c6b9cb83b2ebca9d361f8c92f9ba93b8ad9fd7fe9a3c1f857cb2a4c9f7fcdf4"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/american-born-chinese-01.json.gz",
+      "bytes": 104693,
+      "sha256": "ec3dc7fa80af05da015f28e0d510f4e7875735c36e04ca237f800a9ea05fe846"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/and-just-like-that-201.json.gz",
+      "bytes": 92858,
+      "sha256": "d870ebc27be57d8e1085c19d0a9bd14695f1a57aba2fe47a09c5c332564a8a32"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/and-just-like-that-211.json.gz",
+      "bytes": 84137,
+      "sha256": "739fb00673fcc99c92a778e05ffa87b3d42d21f11e138c39c8d6d3406170d088"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/arcane-02.1.json.gz",
+      "bytes": 850836,
+      "sha256": "7a92d7102beb8ae5e4769da944dda79200936d7fed4677bfc0ee6e38aefc6c0a"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/arcane-02.2.json.gz",
+      "bytes": 843776,
+      "sha256": "2b5ee5d4de887cf615aee128de9e2426f5d54778160cca314285f97ac3e113f9"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/arcane-02.3.json.gz",
+      "bytes": 931823,
+      "sha256": "23d9d199dd0cd9f24eb4abd7c85788066c15dc6dbe1b84b04ce0d91224ea2545"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/army-of-the-dead.json.gz",
+      "bytes": 808665,
+      "sha256": "d20f90ab37024002cd2dbcd48331e3033d53a159b72df0a6cd55ceb7ddec00a3"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/avatar-the-last-airbender-2024-01.json.gz",
+      "bytes": 27519,
+      "sha256": "513ed4a2b85be7269dd90c3a228d0ea390ea8273e5100b190805c1c495b615c5"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/avatar-the-last-airbender-2024-02.json.gz",
+      "bytes": 171544,
+      "sha256": "43779d45648b1033b56ff8ff92ece1d3ef05ac34ceb7fc7d810492bf74d42756"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/ballard-01.json.gz",
+      "bytes": 165608,
+      "sha256": "e3837d9e0706939b3298334a690bfc0b343f0cfa26948d2439e00563a44e26d2"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/beacon-23-101.json.gz",
+      "bytes": 135599,
+      "sha256": "862125a527ba42b42f74d11c76d29e0ee85c42e9b61c9960e393c6b694875a55"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/beacon-23-108.json.gz",
+      "bytes": 109966,
+      "sha256": "71aa3bf53d87f1a69517c1d7ab98c435808667dadcb84b9a5d06876a16e2b202"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/beef-02.json.gz",
+      "bytes": 1630088,
+      "sha256": "22a5e56ceaf172a6935f9f4dd7e993aba84307f3229054540289cf85ac09ecf6"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/blade-runner-black-lotus-101.json.gz",
+      "bytes": 85675,
+      "sha256": "cba0be2790030bba354907d7a03b02b5ebb416dfbe1db126d029d2a586f1e0e6"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/blue-eye-samurai-01.json.gz",
+      "bytes": 147266,
+      "sha256": "fe1d8678caa7b49b6155b5a89862660651f6a4c86ee1fadf37daf84983bef665"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/bluff.json.gz",
+      "bytes": 174022,
+      "sha256": "648c17dd2ed6c27fd2843d767b8e5ba0a0cbfa481d11e289f4109ef492ccc6de"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/book-of-boba-fett-107.json.gz",
+      "bytes": 166992,
+      "sha256": "ae513c506ce2f8315f7880002741c1ca817ecde5bad1289c3cddef3755d16bcd"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/bridgerton-02.json.gz",
+      "bytes": 146357,
+      "sha256": "18c1647cc01c74d8d61a61b2bb37ae36aaa1e1a170699e9250f44d85add75a9e"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/bridgerton-04.1.json.gz",
+      "bytes": 165651,
+      "sha256": "66c67e5b99234d9f0cfa9b722da13b5a3e8241adf18863c92775ce7412322156"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/bridgerton-04.2.json.gz",
+      "bytes": 165830,
+      "sha256": "2b76b1831deee5b1485cf10ac8341b62777098455cf14240d176bfe3a4fae0e9"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/brothers-01.json.gz",
+      "bytes": 17887,
+      "sha256": "9e9a2b31603c003c77bbee9e422eb1daa7fdd8b2eae90438a352b4409c1f45cd"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/brothers-sun-01.json.gz",
+      "bytes": 23088,
+      "sha256": "1541f89852693c4cf15d7038c815797cbf550fcd9e9e9d5d05bdaef1e111c56d"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/chief-of-war-101.json.gz",
+      "bytes": 178355,
+      "sha256": "0003fae76929f30c92c5685b3a9ccb10f3f6b2ac6a108a25b3a411e329f69558"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/chief-of-war-107.json.gz",
+      "bytes": 170293,
+      "sha256": "7c7286e7caaf579abe16a0dc50f5e5b9cbcd28adcd3210fb1c54d5c8851147b8"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/chilling-adventures-of-sabrina-01.json.gz",
+      "bytes": 19877,
+      "sha256": "c758b43986088b7fe76b67f8d067ebd8389e2cd147ffbbb00ae8845d887db3a0"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/citadel-101.json.gz",
+      "bytes": 158217,
+      "sha256": "311a6ae854b1d11731796366a1d2e557970b057da8bd6586d503e78465d5a961"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/citadel-106.json.gz",
+      "bytes": 147318,
+      "sha256": "7b9dcbaecb5d3478cfdad83cb2535276deb20bae23930eeaee9d2a222305cb5c"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/coyote-vs-acme.json.gz",
+      "bytes": 81962,
+      "sha256": "e776a257596ce01f1090e6d6b57d33d329a8bc6153c708358e39fa78bfe0583e"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/crew-girl-01.json.gz",
+      "bytes": 31859,
+      "sha256": "36adbed868575f8cf26fbdae952ec2a95ed01dbdd819596ad0fc9d85c609319c"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/dang-01.json.gz",
+      "bytes": 34984,
+      "sha256": "719cb00466dbb9828ad9142154d1b950915b85860a6367ef1b6c51cdd78512ea"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/devs-108.json.gz",
+      "bytes": 99373,
+      "sha256": "6f52ad8be6debbafc90c0bb646f53ac28d7eaf984f008bf72c6c6f6b619b5de7"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/dune-2021.json.gz",
+      "bytes": 1247862,
+      "sha256": "8deb38be155cea7694997581231fb7ba042778cac2f2e17f3a11434d0c737eea"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/eternals.json.gz",
+      "bytes": 1177443,
+      "sha256": "4cceffcadc20e8054a5c3fac661a92471173c67c68429c8e099716506f87d1df"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/everything-everywhere-all-at-once.json.gz",
+      "bytes": 184177,
+      "sha256": "31ddd3e3119daf37fa00738c926780c9dc21024adf8a03c698fc68374f4b1ec6"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/expanse-04.json.gz",
+      "bytes": 159423,
+      "sha256": "d791cbb00762648726373e0d1b24951f0139d6d7942a47ccd03cff5897974f9b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/expanse-201.json.gz",
+      "bytes": 26433,
+      "sha256": "231574079a30d4b8f880ee26c537cfbcbb13832a5996bbe3dd378784b1ef1605"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/expanse-203.json.gz",
+      "bytes": 27017,
+      "sha256": "b525d15cb405910bf8ebe43abd0b6351d40c784c317b6742d16f6b5356fcc5ac"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/expanse-204.json.gz",
+      "bytes": 9914,
+      "sha256": "fd932820051a0be7805154847a04f90feb68c18e37ab501b9c5069550455e6ce"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/expanse-210.json.gz",
+      "bytes": 35682,
+      "sha256": "a2a76b16ac6bbacef7db5ff23510b50db2a337c554f9e9531042af4c8cd3dd35"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/expanse-213.json.gz",
+      "bytes": 35473,
+      "sha256": "0378037f49dadf0d8a380011f99d7ae2b38a2b9000ec5f8969414b6c8011dd5f"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/expanse-301.json.gz",
+      "bytes": 28734,
+      "sha256": "0adca144e24b63eabb0bac6cafd1d42432782c06431d5df9f257e828bfd187a4"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/expanse-313.json.gz",
+      "bytes": 7927,
+      "sha256": "a40375899025926ce55b2556ec80639638103fbf86b754716c7003e57944dc22"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/expanse-501.json.gz",
+      "bytes": 152486,
+      "sha256": "17f2764ff0dcb583f645e4a432c64bb5ab11d0d8cfccd405fb52d9fc44145ba0"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/expanse-510.json.gz",
+      "bytes": 137689,
+      "sha256": "2b1ef2130fb04548371993ee40d5503a380cd57efcc02a87f3c9b996ca4ac549"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/expanse-601.json.gz",
+      "bytes": 122124,
+      "sha256": "18aede1eae1b102eada18f81bdf8c10358fa80ef9de0f68b7a4e9e7a2e1ac2b6"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/expanse-606.json.gz",
+      "bytes": 111314,
+      "sha256": "8f912509320886b30b78615a27fa6314ac3833d786a3a22685ec3302a72719b2"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/fargo-501.json.gz",
+      "bytes": 147387,
+      "sha256": "5d47b988f05c9c427b07ba04050f23f90904cbddb9a7a07c6649ecc7155aae51"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/fargo-510.json.gz",
+      "bytes": 22357,
+      "sha256": "fc9f0129c8ecb5d5f1605b534a5494b1f4a0b8358c4b2ccf033bcec5e41d4fd6"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/fistful-of-vengeance.json.gz",
+      "bytes": 571898,
+      "sha256": "536d9dcd6f26c18a626406852804a21d31ac6ffbc79384afcb10a1ab7f182ff7"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/for-all-mankind-201.json.gz",
+      "bytes": 89127,
+      "sha256": "135069f91515ad679c6ddf9fcd60911ee4801d0086ea90818a06107036b42534"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/for-all-mankind-210.json.gz",
+      "bytes": 91891,
+      "sha256": "aa230de7ebe2b7b84ba39b8b8bce0e9f19e7607d148a88305c4e75d91d6136dc"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/for-all-mankind-301.json.gz",
+      "bytes": 87659,
+      "sha256": "cf71231ad07678f6ea0f0984a12a61928df2090f96aa8cd38b04cee734e6ff04"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/for-all-mankind-401.json.gz",
+      "bytes": 133856,
+      "sha256": "68cc90446f9284caaabeb6ef27a3dbb9297cec5fd62123656130cc115bd8fd2b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/for-all-mankind-410.json.gz",
+      "bytes": 20629,
+      "sha256": "e460aedc77df7993151b1bc8870291042a27d2355e67b290aebf7d9bf4a442be"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/for-all-mankind-501.json.gz",
+      "bytes": 137592,
+      "sha256": "50549055f828127a3d59d503e04eccfd3bb548f2f5b8762d134b6357914d76c9"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/furious-2025.json.gz",
+      "bytes": 171349,
+      "sha256": "91171855341e06a28610cd98703597420918806b9916ac689b8ceac63cb30479"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/gen-v-101.json.gz",
+      "bytes": 179171,
+      "sha256": "343368fa5c7ce20f5af4f3e90aa44c3636ec94fc3bb3dd945f58686d92e26037"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/gen-v-108.json.gz",
+      "bytes": 164422,
+      "sha256": "080691e1afea467978e20f6214873a60e38f58ae9a41338ed6a14a270aa0569c"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/gen-v-201.json.gz",
+      "bytes": 176187,
+      "sha256": "1501a2e0c8750e4fb45547a4e0f868b12babd76af8ad0d1bc7c918a587721024"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/gen-v-206.json.gz",
+      "bytes": 163293,
+      "sha256": "bebbe5af79482fa7caa14d8478bf230c6f0d3e763abbe841384b47aeb35056cd"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/glass-onion.json.gz",
+      "bytes": 831422,
+      "sha256": "da4bb2e59de5b8d76945a37001afb967ccae1b5a2801a320f40a1933c97bf00e"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/goat-2026.json.gz",
+      "bytes": 176152,
+      "sha256": "6c28014afcd109a32cadec56379588f1228939519471919ba064cbb91bc0d52d"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/godzilla-x-kong-the-new-empire.json.gz",
+      "bytes": 1113910,
+      "sha256": "a674e20f03f39b53eba7de9346ede75038a950967ed332ce93279f94ded6bde4"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/gray-man.json.gz",
+      "bytes": 185600,
+      "sha256": "6bf7de44500e4112e879c9a926bad805ec901113068574ed7add48734fe5e7ae"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/guardians-of-the-galaxy-3.json.gz",
+      "bytes": 1208276,
+      "sha256": "406f23fb237b6264fc81e79937f604e9e1aad19fc789a018b36a09da5dcee08e"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/his-and-hers-2026-01.json.gz",
+      "bytes": 163281,
+      "sha256": "8cce492e00d4af2cdde6042f588ea69d3c40bc13c6dcc3bb562dce069c01d8cb"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/hit-monkey-02.json.gz",
+      "bytes": 19469,
+      "sha256": "03f41bf4f78db540c3e49b4978b59623efcfbbc1a5274c1bb9a3462cf1152678"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/house-of-the-dragon-101.json.gz",
+      "bytes": 192129,
+      "sha256": "9d541bffc08687cba25ef7477915ced8bc6e45173352a8d1cbe400d42168f703"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/house-of-the-dragon-103.json.gz",
+      "bytes": 191296,
+      "sha256": "90fd8269852abe868d9b8dbff9950e6fd7675dd790cb1d121987210ec6d10764"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/house-of-the-dragon-110.json.gz",
+      "bytes": 181436,
+      "sha256": "63f7a80eb8fc24aa8e087509abc8dfe31a3e4fa4351fa45e4aef7f97562d917b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/house-of-the-dragon-201.json.gz",
+      "bytes": 28317,
+      "sha256": "8aa6a718399e6dd83389833e4d117f3612aab8da11cde8ec5a400c91c3270447"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/house-of-the-dragon-207.json.gz",
+      "bytes": 28590,
+      "sha256": "159e9f1ae2c5476fd5ff339db025567fdfa782388c5821bee904d1b17042ad18"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/house-of-the-dragon-301.json.gz",
+      "bytes": 187032,
+      "sha256": "288a14e06757612f9dc02ff7a6d3d7f3d43e2715b774dd9e864d24a39a26a554"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/house-of-the-dragon-308.json.gz",
+      "bytes": 101368,
+      "sha256": "ecf9e9fe87c4f70dbad2ce53a642c363ee9301084178bec6685f56f32247d242"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/human-flow.json.gz",
+      "bytes": 16315,
+      "sha256": "5721a722c8cf5504a20430792752ae131363d2633951a84aa40fff93b168e305"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/interior-chinatown-01.json.gz",
+      "bytes": 23588,
+      "sha256": "d5da679d882c3833d645249bde806d6a42e550ef4a128bd1524f5049bf0235c8"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/into-the-badlands-203.json.gz",
+      "bytes": 37902,
+      "sha256": "94ec39248e7a5b4762a04c7a12035bb9a887ef7aa92d35b717102a415593f192"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/into-the-badlands-308.json.gz",
+      "bytes": 23280,
+      "sha256": "bb9ff01c99a70119ec89f18029b578a5f636c1e55fba05cbdf0e623e6e031796"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/invincible-101.json.gz",
+      "bytes": 150328,
+      "sha256": "3c84b2acacfc53a1a3c2b53190286d2b1556d1153652e1622f696245781b51ae"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/invincible-201.json.gz",
+      "bytes": 164146,
+      "sha256": "4e4bbef3c0e95a79bff3b87b443eed7d068a1654deaa891997cafa94330d276b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/invincible-301.json.gz",
+      "bytes": 170376,
+      "sha256": "649977f63d7811fdbf5572fef6fc5ebf439079c0717109dfe73d2b906d36d62e"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/invincible-401.json.gz",
+      "bytes": 174979,
+      "sha256": "817eab939b42ffdb3861442f812233963e174ac174a79e987381bce9218191f3"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/japan-sinks.json.gz",
+      "bytes": 262267,
+      "sha256": "b42ce626e936c572c6c1a8d9cd51ec835a2a97de08de25bece47c35b8a11d4bd"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/killing-eve-201.json.gz",
+      "bytes": 85104,
+      "sha256": "ba898ca6f922f2314296548a03dce3c71cf45ded4226b8b14e5e1d40cad26b0a"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/killing-eve-208.json.gz",
+      "bytes": 317,
+      "sha256": "0350eff6a74df3b75a1ef2b69650efe3e65936c3fc7edf7054f85ce2f68155c6"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/kung-fu-101.json.gz",
+      "bytes": 120844,
+      "sha256": "f5a907d121f966782c3c97b6bb98335cb4b1c59e5eb42cd4c4c575564d782253"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/kung-fu-113.json.gz",
+      "bytes": 118873,
+      "sha256": "72191fd643ff2a2b21e56d020c6d2e9d1545f1aa5d93f4849efb0b8657afc631"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/laid-01.json.gz",
+      "bytes": 21257,
+      "sha256": "fe30b8acb231430f20b74d177404144ef362134397a7fd297a75a0818512c86d"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/lazarus-101.json.gz",
+      "bytes": 142951,
+      "sha256": "abcf95cfbcc91e2fccfd97fdadaaee9a9523e181fe28822fe1632f105dd6d5f3"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/lazarus-108.json.gz",
+      "bytes": 100651,
+      "sha256": "73476f6431365e0afb50422478cf2929fee834c085a34f1a9dabcdd2e6d81144"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/lazarus-111.json.gz",
+      "bytes": 134906,
+      "sha256": "6d791e64610fcea29debfd22b817daa25879a9825b7cd244ad5ecfcef300eebd"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/legend-of-aang-the-last-airbender.json.gz",
+      "bytes": 6516,
+      "sha256": "fc40b5e6c88b5f60c8f5a1cd058afc8953e1fb8c6c035d7e4270a87fb7b74db6"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/lego-star-wars-holiday-special-2020.json.gz",
+      "bytes": 102616,
+      "sha256": "283b06f06915f26792ce264aac480ddf79b2bb4a37ef981958b8de8dda41ae18"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/lego-star-wars-the-mandalorian-2026.json.gz",
+      "bytes": 56765,
+      "sha256": "ea7b41afaef5b7f4be047522948438fd5c430e539a65ad6562f14de3d60c6dcc"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/loki-101.json.gz",
+      "bytes": 1092369,
+      "sha256": "6a5c0e289c2101b2644cf36899256aee21c87ef689895a4b79769ac28d6d8b66"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/loki-106.json.gz",
+      "bytes": 1029349,
+      "sha256": "27ee155b8db40af77412639b1db862be1b2007be835e49020ccde198a374078b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/loki-201.json.gz",
+      "bytes": 921095,
+      "sha256": "e20479ba184c483fd6e3be3187f78a18205fdc98a042bd8ad042ca4897cefdb0"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/loki-206.json.gz",
+      "bytes": 927805,
+      "sha256": "babb703e4017bc9f8888157c0d8208b9bf502d600c14811f77f3c56d4e438a12"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/maniac-01.json.gz",
+      "bytes": 151402,
+      "sha256": "67752e444ec654d427882b9bd7f0c7b76a9bc974aab07e5a1c4e955d8034dcf5"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/masters-of-the-air-101.json.gz",
+      "bytes": 25260,
+      "sha256": "c5e6a9135b063a897dca34a8acf31ceef73d7f3e21204bcdbf5fd34ac7b917e9"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/masters-of-the-air-108.json.gz",
+      "bytes": 24904,
+      "sha256": "730633c1e6e0c918b641f65bf43f8ecb4c32fa85a92a42e83259cbd936551bb7"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/matrix-resurrections.json.gz",
+      "bytes": 205952,
+      "sha256": "600dc3fe9a8e576be4480b0c6bdf3aeb9affbc75d70969de268178e57e773f45"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/moana-2.json.gz",
+      "bytes": 1319135,
+      "sha256": "c49c4d2b1cc12d01b42c4e5b35f743b233decb7ff8e09acecad896e565412e57"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/monarch-legacy-of-monsters-101.json.gz",
+      "bytes": 176132,
+      "sha256": "4ac404eafdbe943c2f1f6c6ea1fb9b06ac1042e7bd93486912a874e18fc33828"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/monarch-legacy-of-monsters-110.json.gz",
+      "bytes": 23417,
+      "sha256": "3e9ed5ebf2a2d221176bc1aba7d4792bf8a6432cb3b87d69188505c1bc2e6433"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/monarch-legacy-of-monsters-201.json.gz",
+      "bytes": 174457,
+      "sha256": "4eb7432f676d46147ce58b092cc06a3a34e0dfbb924ec4438a1521e59e42f7aa"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/monarch-legacy-of-monsters-208.json.gz",
+      "bytes": 169034,
+      "sha256": "697497d4e05737327cd246a95ab0ad262394b71210fa76c554cd7cbf52593fb7"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/mr-and-mrs-smith-2024-01.json.gz",
+      "bytes": 25541,
+      "sha256": "35373443b28253cf572f482a7248fb8f2aaad6ba5942909d82acd9ba289b41bc"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/mulan.json.gz",
+      "bytes": 198782,
+      "sha256": "d4ff77e8fe339ee2089114860e6c7b1deb49e4ec6fbfdd74f295b4ab5bb28af7"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/murder-at-the-end-of-the-world-101.json.gz",
+      "bytes": 141989,
+      "sha256": "4cf6ed8584fcbffea3a8d22111ac44173d1432fbdd31d9e82ce37b52710e58de"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/murder-at-the-end-of-the-world-107.json.gz",
+      "bytes": 111465,
+      "sha256": "1132205c637c9d6de6f6fba710676f12869748e52933f663ebb1563d6ba26cde"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/night-agent-02.json.gz",
+      "bytes": 170611,
+      "sha256": "b4d16c87df50b17592a21259160a2bb0808109516146301d08861c31d52ced92"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/night-agent-03.json.gz",
+      "bytes": 150307,
+      "sha256": "c5c165a2716983a6b776e446b1abff5230c2f588ee0e8d75d24c45c5f57fc734"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/no-more-bets.json.gz",
+      "bytes": 115534,
+      "sha256": "fef071f39f5377922ee6e9c5d000abdc0b3bc3f363b62f27282b7faaa1162678"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/no-time-to-die.json.gz",
+      "bytes": 1178384,
+      "sha256": "547bf296bfa7fcb6fef6b0190e2e66a5f60efa0b82c11b441eb4ecad1d913331"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/oa-02.json.gz",
+      "bytes": 307,
+      "sha256": "f725538986d5f76ec3f0a159becb2998ffe7c231e60d316c9a1d66c6fcbb0cd1"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/old-man-107.json.gz",
+      "bytes": 133362,
+      "sha256": "ffbc54c5c3ff91e0fe76ebc3d1276b05385a75962e13d0063b66f34bbb2aedb1"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/old-man-201.json.gz",
+      "bytes": 20202,
+      "sha256": "6ca83fa59d17126d21abe2069dfab27fcee173bce82bfc8008e2baf6a6193c3c"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/one-piece-2023-02.json.gz",
+      "bytes": 178735,
+      "sha256": "728c8925ea578fe1d27bbcf8a7646218b1d941f5d4c2ba16ff03cd240bf43057"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/pantheon-108.json.gz",
+      "bytes": 64631,
+      "sha256": "61b1a5ac3ee20f280777184a9abb332049b09e9b6f42d7c4ce64a64a757f7e91"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/pitt-201.json.gz",
+      "bytes": 167691,
+      "sha256": "ef21fab471bba962ab68d218164d2ffc804dba247efd84807258825768cabd65"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/pitt-213.json.gz",
+      "bytes": 169590,
+      "sha256": "54d6231827150fa781ebe74f4b0810af9c15b3ecd87cdecfdd3f41adfe7aa3a7"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/prisoners-of-the-ghostland.json.gz",
+      "bytes": 161592,
+      "sha256": "68b53e25ad12874ab5062625c330953f858c0fe5817ea3049f1c1c51666d102f"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/raya-and-the-last-dragon.json.gz",
+      "bytes": 1113829,
+      "sha256": "5ca17c97b617904920463e1a2f4ed9372fa3800af2bc58f231819bb3f8649d79"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/reacher-201.json.gz",
+      "bytes": 184203,
+      "sha256": "7d7ce1e85819a333fa9ac1da185935104d71ebad4a098721dfceb1f197de3d51"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/reacher-208.json.gz",
+      "bytes": 25541,
+      "sha256": "6934b858ac5591b535f52b709d94d057e6c14113d591a707c5dd8d408a577fee"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/reacher-301.json.gz",
+      "bytes": 173645,
+      "sha256": "e5812335d61cf4c4f7f570ab9c9090a866c86bac9b870318ec813b034d85febc"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/reacher-307.json.gz",
+      "bytes": 169833,
+      "sha256": "9b442d4d1f8be6b375b6ab48604974d085ec351d924df5686dae9599cae1f19e"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/reacher-401.json.gz",
+      "bytes": 93137,
+      "sha256": "cd37e693b20a62443e2edb379414a145dff3508ef219e9819addefe4f3534c39"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/reservation-dogs-101.json.gz",
+      "bytes": 114769,
+      "sha256": "ac44b7adc0571a0835622a35f28aa9dd4fa36bd6baadfbd6521753488f77d25b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/reservation-dogs-201.json.gz",
+      "bytes": 71003,
+      "sha256": "1ede45e9c56b427fbbe4277f160b6f2060fb52dab1a941bcaa71a3bfabb27052"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/reservation-dogs-301.json.gz",
+      "bytes": 74235,
+      "sha256": "17cf46c68ef6303bd9d9cebbaf80e92398b2bea200c8db5cfac21807210f0734"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/reservation-dogs-310.json.gz",
+      "bytes": 78912,
+      "sha256": "3b4c4c2f586b1821198ade2fee9e2a5ddb9c983c0d8f75d042b413d9aa39b5c4"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/season-2026-01.json.gz",
+      "bytes": 110163,
+      "sha256": "6dbb081d3c97ff3f1080862f2325d09bebb04228abdded7da811704006bb2758"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/shadow-and-bone-01.json.gz",
+      "bytes": 163099,
+      "sha256": "b9d7f3b4b8fbb194e29f2e4e425c68a53fb7a1a17229a2ff6b6e9eccb3512861"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/shang-chi-and-the-legend-of-the-ten-rings.json.gz",
+      "bytes": 1269580,
+      "sha256": "e316d92222936a652ee30b2720809b36a3eb6cc27eb7632e873384009b2087fd"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/she-ra-04.json.gz",
+      "bytes": 313,
+      "sha256": "9f5540a0a9bc0202b04f1c7eb1312976ae162d5572a760677b13e0d5345cb53b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/shogun-2024-101.json.gz",
+      "bytes": 28000,
+      "sha256": "8544b7f15ff9e4a8eba74f8247ae4c4aa7cc907f970aa0caab2834592f11be80"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/shogun-2024-110.json.gz",
+      "bytes": 27186,
+      "sha256": "674628b12da9757badc9c830553ad5cc9f16d5fdc598c98d281cee8a5230f160"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/silo-201.json.gz",
+      "bytes": 26906,
+      "sha256": "250890a45cbb53b4d64450d258cedfb0c551374bb969ad7f004e0ffea88bf177"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/silo-301.json.gz",
+      "bytes": 176735,
+      "sha256": "5e2016f7c3c9365fcd7d89f13b85764a5d643876e99c118452a20566c9332bb1"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/snowpiercer-209.json.gz",
+      "bytes": 127373,
+      "sha256": "22eb86adef2c4af9c51ff560d6b822819b1da9292fb5d27eef57a7e95a00f66d"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/snowpiercer-401.json.gz",
+      "bytes": 22795,
+      "sha256": "597c491fce5f3620f0237be5daf1254157137bd6cbfa04e0ac52a3ad93b8f51f"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/spider-man-across-the-spider-verse.json.gz",
+      "bytes": 190180,
+      "sha256": "3238552aff16efd545c96e65c9892c9afa581011cb7ddaa6f78c53b3b3758c1f"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/spider-man-no-way-home.json.gz",
+      "bytes": 201901,
+      "sha256": "cfdc415a41bf2bdf25bc71eda18b804138fd1c3a0a62c273a62ee4a9de4d1900"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/spider-noir-01.json.gz",
+      "bytes": 193763,
+      "sha256": "23d64a38b7f13882a08f1182e14b793f3f38d49705a8440a681b8ed8107acce2"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/station-eleven-110.json.gz",
+      "bytes": 8124,
+      "sha256": "1c066106c68bc978638f7a87ab480edca9ed63630f97a1becc5c26c70b46ca1f"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/succession-210.json.gz",
+      "bytes": 58040,
+      "sha256": "e070aacca882d37bac8540b0e03078dbc84b0a5b9ec314c6debabef70007cc5b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/succession-301.json.gz",
+      "bytes": 118222,
+      "sha256": "342a96a676708c56081a4a7c8086c3de14aaed81740214a6f36e6134bfce0f28"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/sugar-107.json.gz",
+      "bytes": 22884,
+      "sha256": "725751d6af4eb027fef3e95a26a9f0f40ef38121ab59aae2ff2b90fa15496385"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/sugar-201.json.gz",
+      "bytes": 145084,
+      "sha256": "bab012ac1fbc3579b8f6a8968c77e922d3de702e8edb2f8326869336dbd1715c"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/summer-i-turned-pretty-311.json.gz",
+      "bytes": 130024,
+      "sha256": "25ac686a707f6007befea0a0ee75eec49f824b7328c311fb3060a0c90042b60c"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/tokyo-vice-01.json.gz",
+      "bytes": 154006,
+      "sha256": "bb805ddee3e860886e768835b83f9f0b05fbfbdfcef0e97cc896fbd0b99fa216"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/tokyo-vice-201.json.gz",
+      "bytes": 22141,
+      "sha256": "9d074886ed6283288b41dd86bc3a024bcce3bbaa985e5e2bf952cd407a01f374"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/tokyo-vice-209.json.gz",
+      "bytes": 22336,
+      "sha256": "eb540076351f052db38247575b839cb898a97e3ee4c8406f600b095e65fd0754"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/toy-story-5.json.gz",
+      "bytes": 381652,
+      "sha256": "7a760ac95a75eeb10151cd57a7c172b6de7e8fde926f491b306feaa607d47991"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/trese-01.json.gz",
+      "bytes": 125927,
+      "sha256": "808d4b6d647d15375762c64c666c291c826ec231cd9e58405b3a4c321d5ef683"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/tron-ares.json.gz",
+      "bytes": 174193,
+      "sha256": "5fa8834b7408112e23a76e0611f0b2311b05123d1e17d5f6308e73dca1087a6c"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/true-detective-301.json.gz",
+      "bytes": 79546,
+      "sha256": "7794f2350da327e9bcd8c3f1fc1e95179d29a8aaf49d7ebc5c12ce0998bbf5ee"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/true-detective-308.json.gz",
+      "bytes": 322,
+      "sha256": "de18412ac6938cb762cff6fa3b7973ca31265b3a42e47ac537c77ae691d1e7bc"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/turning-red.json.gz",
+      "bytes": 902233,
+      "sha256": "843fbbb5f6c44529e6f2897795307f611d2d878a723099ea4f2ae8dd4cd2ca14"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/twisted-metal-01.json.gz",
+      "bytes": 154339,
+      "sha256": "f057869243d6ee21eec06a6cef935c51a81f6eaaaa229157b16d1a7a30af6311"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/umbrella-academy-01.json.gz",
+      "bytes": 323,
+      "sha256": "7e9a02316106379ad7283a6d11bac707d99d8ea124893d56707f343af7b3b3f5"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/umbrella-academy-02.json.gz",
+      "bytes": 151750,
+      "sha256": "749474a4e617625220b1e56d7d239495915e191357feb5f953ebb7d4d3d05105"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/vanguard.json.gz",
+      "bytes": 77484,
+      "sha256": "bc1d65d0ab2881fe5b59758ee32172c9a9cc2d000572decc97830531651804b2"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/walking-dead-1008.json.gz",
+      "bytes": 318,
+      "sha256": "72944af27da15e76fa9126b37153e54c36d949dcc3146f0ead1b7f5b687fe929"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/walking-dead-1124.json.gz",
+      "bytes": 142735,
+      "sha256": "acb0e48e7a1ca0142d64ed757d02d72503f122edcf189b2d41dff74ac0599a04"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/walking-dead-709.json.gz",
+      "bytes": 74714,
+      "sha256": "498e8b31b6c94fcd2612a1fb92aebb9aa0d330a2888e4e675c916eec053f978b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/walking-dead-710.json.gz",
+      "bytes": 46083,
+      "sha256": "8702cc0a61ed2a177cca41ac503ea1ceb448e7dfc5a0581135c593bd31ac40ef"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/walking-dead-713.json.gz",
+      "bytes": 41284,
+      "sha256": "ddb428d29ecd9b26588feb943c626a735033bd3b5337b190cee93b5dfeb6014d"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/walking-dead-716.json.gz",
+      "bytes": 58298,
+      "sha256": "c79609e0741f6eddd3991fb3e21b1d2778d36b4204f8f744ab14f1e62e365c69"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/walking-dead-801.json.gz",
+      "bytes": 53195,
+      "sha256": "25d2c3283c5dfb57f579a6a5a93dbef531341dffaad049ab47cec08eaa968138"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/walking-dead-807.json.gz",
+      "bytes": 317,
+      "sha256": "3ce5488d5ac27c4d21c8cdb482edae823342b5f7944f5769a8f2b2649cfa8eea"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/walking-dead-811.json.gz",
+      "bytes": 62119,
+      "sha256": "d6f33d6a70c35b0132d293636e432e6288728f5527c4bc3ea1b373f9639d1970"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/walking-dead-816.json.gz",
+      "bytes": 50827,
+      "sha256": "6b32c5b5a24db3309e03ed7591cfae57c94beef02df46caa5480536d62a59ec6"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/walking-dead-908.json.gz",
+      "bytes": 91820,
+      "sha256": "733b53e21a772aad1251fed1d7d7347c740aa689a0fb3adc74b4f36946597be8"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/walking-dead-916.json.gz",
+      "bytes": 317,
+      "sha256": "935425ce8182fdb1f5387c8faab82860a9c6b9048b8bb5abd9143fb17000ea88"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/warrior-310.json.gz",
+      "bytes": 121369,
+      "sha256": "97e1362edb533d10df5eefda7678eef21f371f1a9c380e248aaacd991966d5af"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/westworld-201.json.gz",
+      "bytes": 44087,
+      "sha256": "ed067d4963c29d6815b02c58fc1d9abc99e40485169d5159f713ddae3421f3db"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/westworld-203.json.gz",
+      "bytes": 46766,
+      "sha256": "e88be0693e5ec73d2c665d6e4c63521a325460866296f986c972d26de460cc0b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/westworld-205.json.gz",
+      "bytes": 46749,
+      "sha256": "2190da7d6d9d0c89b82e2e5cfc830f9581709c30afe504718dc5ce86dc62854f"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/westworld-207.json.gz",
+      "bytes": 43557,
+      "sha256": "40abc78435dc84dae6bb6711871fd9a9781016869960345ecc39be0f2037e4fd"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/westworld-210.json.gz",
+      "bytes": 112828,
+      "sha256": "9d95aeea77d728c37bcc9907a84606a1ce444b0d8dcc49cf2f5416ec0ffd54fc"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/westworld-301.json.gz",
+      "bytes": 161709,
+      "sha256": "98b5f8e5fdc29c6e4dc6c0b8a62fb80d23cae2240a94104212ab5af7285d4a15"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/westworld-308.json.gz",
+      "bytes": 152596,
+      "sha256": "459fab574ca03b0707fa63b6e7b925d663af2c778741246f83a624956d901c9c"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/westworld-401.json.gz",
+      "bytes": 141370,
+      "sha256": "1b5c650838f8f07a95dd1e17de7eea91605548a65939a8e5ccc6617fcceef000"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/westworld-408.json.gz",
+      "bytes": 139701,
+      "sha256": "f17406718654046dd969c73689c9fcd17b394c7760abe8bc91e4714ff2b3aa8a"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/wicked-2024.json.gz",
+      "bytes": 184870,
+      "sha256": "24e5ec21e90bef5bf94b562f2f0a47e72f1ab3f1c8c3c5bb1278c0d011c371a8"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/wicked-for-good-2025.json.gz",
+      "bytes": 161836,
+      "sha256": "bfe121020645003912e69dbd35f3473fe7fb89db442f3b7f570126753600b9af"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/witcher-02.json.gz",
+      "bytes": 180151,
+      "sha256": "51687079a0591d5d8801c6b6527b169655d64295f6a1ef95fdbec717e341dded"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/witcher-03.1.json.gz",
+      "bytes": 179175,
+      "sha256": "4b88693ff89b33b794188daf9041ffb8d86a119ee1e72ae5e7d76c6d180d78e6"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/witcher-03.2.json.gz",
+      "bytes": 170074,
+      "sha256": "324adf756fb4c68c49a86c3ef298c8482e95acc649fe7ac0c48d1280d7a34d11"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/witcher-04.json.gz",
+      "bytes": 169911,
+      "sha256": "18d4d69cfe907cf34587817cc7afe4a7010eacd6b04030c1ca9eb1f01402807a"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/wu-assassins-01.json.gz",
+      "bytes": 316,
+      "sha256": "2ff10cb3243cfe834d4efbaa04914f047bd296efe94b11331a03afc550ff4515"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/yellowstone-210.json.gz",
+      "bytes": 8602,
+      "sha256": "8c4526affd4a72df50fbee7a2dccda55afbf466c169dd7050f15ced96249c699"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/yellowstone-505.json.gz",
+      "bytes": 11958,
+      "sha256": "580e654fd52ecc70e48849e1cba43337a3c4815afd6947dad44043f0a86c91ed"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/objects/you-04.2.json.gz",
+      "bytes": 124835,
+      "sha256": "5c38a363b4e9140092a76c58de7168110fd0a596dd73e0f8cf1dc2d7b3a2b8de"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/pair-distances.json",
+      "bytes": 458,
+      "sha256": "63dc42b204758d3ee16adde56161ec016cee9579a102e6c301cbc1c47bb813a0"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/per-work.csv",
+      "bytes": 870039,
+      "sha256": "af43388f833c9635bf7371e8c0dfcef64218898ae0fef7a3b68e8552b1f2fe09"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/producer-country-policy.json",
+      "bytes": 8455,
+      "sha256": "aa4733648e65416bdc5bd22234dcb2a045bff8e51ffc47e66a6011c09c9d1d1b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/region-definitions.json",
+      "bytes": 2454,
+      "sha256": "51ebc24815349014fa002270fec525d56a7d7f5bcf62cba8d3689112ff0ed50b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/README.md",
+      "bytes": 1535,
+      "sha256": "bb9b3065e0d4bc82bd6db2956d140969e6359126c3522c82faf778897675b53b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/config/mellon-7.8/stage-4/producer-country-policy.json",
+      "bytes": 8455,
+      "sha256": "aa4733648e65416bdc5bd22234dcb2a045bff8e51ffc47e66a6011c09c9d1d1b"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/environment.json",
+      "bytes": 432,
+      "sha256": "39763d78ac3fedc7751711b67e28a67f5cc7097f9333991081d2715176f5661f"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/scripts/analyze-mellon-7-8-stage4.py",
+      "bytes": 24513,
+      "sha256": "98d0f7555134498d176a130d07717b9ae7e3028195e1b2f5bc3c89aad9c4ecf5"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/scripts/check-mellon-7-8-stage4.py",
+      "bytes": 16868,
+      "sha256": "072cbea480d89abb569de1eea66ac7b81bfdaa08f2c515b8815b344ec16b3c2e"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/scripts/izzi-weekly-graph-hover.js",
+      "bytes": 3884,
+      "sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/scripts/izzi-weekly-graphs.cc",
+      "bytes": 15958,
+      "sha256": "6e6d1a5e0ad6420106cf18766ee4ecfaef65dc9c7ba1277211aba6894eadb5eb"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/scripts/izzi_weekly_graphs.py",
+      "bytes": 7094,
+      "sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/scripts/mellon-7.8-stage4-map.html",
+      "bytes": 2941,
+      "sha256": "829de04af6a3a7505ce51acc24208ed31f637b37437e5bba8da3ca1c94a7bb8f"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/scripts/mellon-7.8-stage4-map.js",
+      "bytes": 4378,
+      "sha256": "3ff7c8244c43370b05c45ada24fc858cea40cdb18f13df4256c30193943c725c"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/scripts/mellon_7_8_stage4.py",
+      "bytes": 14552,
+      "sha256": "25647cf089a6ba3aa1e6066290f871a5616f54c039a62d41d3686f0725ad1d26"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/scripts/package-mellon-7-8-stage4.py",
+      "bytes": 4159,
+      "sha256": "bd43b44ebcc6d4135e11e92dad6510d58368cc2d46ec06067bd3d43324fceaf1"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/scripts/render-mellon-7-8-stage4.py",
+      "bytes": 24063,
+      "sha256": "45bc7a82266f8106b2986088fdd8805a96250c61aadd1231f842f13ba5d820e9"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/reproduction/scripts/test-mellon-7-8-stage4.py",
+      "bytes": 4434,
+      "sha256": "ee4f9976a919350d1c0b3c8f2ac5f10b63d9dbdc86883808c80e0f9d4fbf7b27"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/selection-manifest.json",
+      "bytes": 1262776,
+      "sha256": "bbd1c66b504ada5e88af7692ec9c30d7db919256381ffecdb3a4aba373591425"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/validation.json",
+      "bytes": 1843,
+      "sha256": "6c47656facf4fab422f43e7819094a86e4b60f32883395a4fcf02535aebcc886"
+    },
+    {
+      "path": "data/mellon-7.8/runs/20261008-stage4-producer-country-v1/weekly-regions.csv",
+      "bytes": 3389603,
+      "sha256": "a115ccb88023f66d4d381c04860ad22739a23252dcda9bd71b8c05b41ab73cd1"
+    },
+    {
+      "path": "data/mellon-7.8-stage4-current.json",
+      "bytes": 151,
+      "sha256": "960a9bfcb96ad2a92cb150650296b091f836b47cdce197690b7e441692852855"
+    },
+    {
+      "path": "docs/asia-asian-where.md",
+      "bytes": 27875,
+      "sha256": "ab6b467c30505413e706e9746fd8e3e15416791dd4e86d6fec0c48ddc2ac7b38"
+    },
+    {
+      "path": "resources/mellon-7.8-stage4-cohorts.svg",
+      "bytes": 338231,
+      "sha256": "58d24ef71d041c5fbeb874d185f2099a9affd41f173c5ef6b9ed590e160572fa"
+    },
+    {
+      "path": "resources/mellon-7.8-stage4-daily-evidence.svg",
+      "bytes": 1731804,
+      "sha256": "528ee7617367eaca9839e55aaf25bd5e0958d7cf5f859cca4542ec2c2095093f"
+    },
+    {
+      "path": "resources/mellon-7.8-stage4-daily-groups.svg",
+      "bytes": 568158,
+      "sha256": "85c4897609523f9d5eb2fb96c420b8b0bc52b1da2ffbf4eee0a8a6bbbc57eb2c"
+    },
+    {
+      "path": "resources/mellon-7.8-stage4-daily.svg",
+      "bytes": 1035203,
+      "sha256": "e628fda08e888b3361e574dfba3682368d3a6a388314f8368854281fa1c05d37"
+    },
+    {
+      "path": "resources/mellon-7.8-stage4-map.html",
+      "bytes": 2941,
+      "sha256": "829de04af6a3a7505ce51acc24208ed31f637b37437e5bba8da3ca1c94a7bb8f"
+    },
+    {
+      "path": "resources/mellon-7.8-stage4-map.js",
+      "bytes": 4378,
+      "sha256": "3ff7c8244c43370b05c45ada24fc858cea40cdb18f13df4256c30193943c725c"
+    },
+    {
+      "path": "resources/mellon-7.8-stage4-regional.svg",
+      "bytes": 473330,
+      "sha256": "2064c3e2e5e53e03d39ad060bac0f1acb8913fe0c271c950b0461c142980ffb0"
+    },
+    {
+      "path": "resources/stage4-vendor/LICENSE",
+      "bytes": 1395,
+      "sha256": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb"
+    },
+    {
+      "path": "resources/stage4-vendor/leaflet.css",
+      "bytes": 14806,
+      "sha256": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6"
+    },
+    {
+      "path": "resources/stage4-vendor/leaflet.js",
+      "bytes": 147552,
+      "sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+    },
+    {
+      "path": "resources/stage4-vendor/world.geojson",
+      "bytes": 838726,
+      "sha256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f"
+    }
+  ],
+  "tables": [
+    "daily-group-observations.csv",
+    "daily-group-summary.csv",
+    "daily-group-coverage.csv",
+    "evidence-branches.csv",
+    "evidence-branch-regions.csv",
+    "beef-no-more-bets-h3-coverage.csv",
+    "matched-stratum-1-h3-coverage.csv",
+    "per-work.csv",
+    "weekly-regions.csv",
+    "daily-home-country.csv",
+    "exclusions.csv",
+    "daily-weekly-grain-check.csv",
+    "cohort-summary.csv"
+  ]
+}

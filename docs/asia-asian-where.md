@@ -18,7 +18,9 @@ description: "Beef and No More Bets by documented producer country, with 15-week
 
 # Asian American Media: producer country and geographic comparisons
 
-## Definition and scope
+{% include mellon-7.8-stage4-study.md %}
+
+## Selected-pair definition and scope
 
 This page compares observed downloader and uploader geography for selected media
 objects. **Beef S02 / No More Bets compares documented producer countries:

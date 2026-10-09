@@ -1,0 +1,64 @@
+{
+  "daily_groups": {
+    "days": 56,
+    "complete_objects": 107,
+    "complete_producer_groups": {
+      "unknown": 94,
+      "usa-only": 11,
+      "non-usa-only": 1,
+      "mixed": 1
+    },
+    "observation_rows": 184008,
+    "summary_rows": 20868
+  },
+  "population": 200,
+  "producer_groups": {
+    "unknown": 179,
+    "mixed": 4,
+    "usa-only": 15,
+    "non-usa-only": 2
+  },
+  "eight_week_eligible": 149,
+  "eligible_groups": {
+    "unknown": 129,
+    "mixed": 4,
+    "usa-only": 14,
+    "non-usa-only": 2
+  },
+  "matched_strata": 1,
+  "matching": [
+    {
+      "stratum": [
+        2022,
+        "film",
+        [
+          "English"
+        ],
+        "action"
+      ],
+      "groups": {
+        "usa-only": [
+          "eternals"
+        ],
+        "non-usa-only": [
+          "fistful-of-vengeance"
+        ]
+      },
+      "status": "matched"
+    }
+  ],
+  "daily_rows": 840,
+  "weekly_region_rows": 26900,
+  "maps": [
+    {
+      "union_cells": 19702,
+      "full_comparable_cells": 62
+    },
+    {
+      "union_cells": 23191,
+      "full_comparable_cells": 2722
+    }
+  ],
+  "bootstrap_seed": 7804,
+  "bootstrap_replicates": 1000
+}
