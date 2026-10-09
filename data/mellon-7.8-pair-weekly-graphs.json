@@ -1,0 +1,2103 @@
+{
+  "renderer": {
+    "library": "Izzi",
+    "default_layout": "izzi-standard",
+    "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+    "interaction": "izzi-weekly-graph-hover.js",
+    "commit": "3d59c0570c8d159ab2a44bb27375aa48521e593a",
+    "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+    "renderer_sha256": "6e6d1a5e0ad6420106cf18766ee4ecfaef65dc9c7ba1277211aba6894eadb5eb",
+    "wrapper_sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a",
+    "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+    "functions": [
+      "svg::make_line_graph",
+      "svg::make_line_graph_annotations",
+      "svg::transform_to_graph_points",
+      "svg::make_marker_instance"
+    ]
+  },
+  "charts": {
+    "mellon-7.8-pair-original-weekly": {
+      "title": "American Born Chinese versus No More Bets",
+      "subtitle": "Weekly geography · weeks 1–15 · Asia-28",
+      "accessible_title": "American Born Chinese versus No More Bets weekly geography",
+      "description": "Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes. Media-object names appear directly on their lines; no separate legend.",
+      "columns": 1,
+      "xmin": 1,
+      "xmax": 15,
+      "ticks": [
+        [
+          1,
+          "1"
+        ],
+        [
+          2,
+          "2"
+        ],
+        [
+          3,
+          "3"
+        ],
+        [
+          4,
+          "4"
+        ],
+        [
+          5,
+          "5"
+        ],
+        [
+          6,
+          "6"
+        ],
+        [
+          7,
+          "7"
+        ],
+        [
+          8,
+          "8"
+        ],
+        [
+          9,
+          "9"
+        ],
+        [
+          10,
+          "10"
+        ],
+        [
+          11,
+          "11"
+        ],
+        [
+          12,
+          "12"
+        ],
+        [
+          13,
+          "13"
+        ],
+        [
+          14,
+          "14"
+        ],
+        [
+          15,
+          "15"
+        ]
+      ],
+      "xlabel": "Elapsed sampling week",
+      "panels": [
+        {
+          "title": "USA · downloaders",
+          "unit": "percent",
+          "ylabel": "World share (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "American Born Chinese",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 18.02620764739578,
+                  "tooltip": "American Born Chinese · USA downloaders · week 1 · 2023-05-24-to-2023-05-30-partial · 18.026% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 19.579676757173463,
+                  "tooltip": "American Born Chinese · USA downloaders · week 2 · 2023-05-31-to-2023-06-06 · 19.580% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 19.996848483690904,
+                  "tooltip": "American Born Chinese · USA downloaders · week 3 · 2023-06-07-to-2023-06-13 · 19.997% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 20.822808357320486,
+                  "tooltip": "American Born Chinese · USA downloaders · week 4 · 2023-06-14-to-2023-06-20 · 20.823% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 18.76213298477477,
+                  "tooltip": "American Born Chinese · USA downloaders · week 5 · 2023-06-21-to-2023-06-27 · 18.762% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 20.181931396702492,
+                  "tooltip": "American Born Chinese · USA downloaders · week 6 · 2023-06-28-to-2023-07-04 · 20.182% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 20.013855250226893,
+                  "tooltip": "American Born Chinese · USA downloaders · week 7 · 2023-07-05-to-2023-07-11 · 20.014% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 20.09508699781853,
+                  "tooltip": "American Born Chinese · USA downloaders · week 8 · 2023-07-12-to-2023-07-18 · 20.095% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 18.97106820822039,
+                  "tooltip": "American Born Chinese · USA downloaders · week 9 · 2023-07-19-to-2023-07-25 · 18.971% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 18.282086322742284,
+                  "tooltip": "American Born Chinese · USA downloaders · week 10 · 2023-07-26-to-2023-08-01 · 18.282% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 18.196314145312066,
+                  "tooltip": "American Born Chinese · USA downloaders · week 11 · 2023-08-02-to-2023-08-08 · 18.196% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 20.65492702930889,
+                  "tooltip": "American Born Chinese · USA downloaders · week 12 · 2023-08-09-to-2023-08-15 · 20.655% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 17.101696463923492,
+                  "tooltip": "American Born Chinese · USA downloaders · week 13 · 2023-08-16-to-2023-08-22 · 17.102% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 17.390955740859525,
+                  "tooltip": "American Born Chinese · USA downloaders · week 14 · 2023-08-23-to-2023-08-29 · 17.391% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 20.482858155669216,
+                  "tooltip": "American Born Chinese · USA downloaders · week 15 · 2023-08-30-to-2023-09-05 · 20.483% of world"
+                }
+              ],
+              "collection_key": "american-born-chinese-01",
+              "line_label": "american-born-chinese-01"
+            },
+            {
+              "name": "No More Bets",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 3.2457496136012365,
+                  "tooltip": "No More Bets · USA downloaders · week 1 · 2023-09-19-to-2023-09-25 · 3.246% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 3.857566765578635,
+                  "tooltip": "No More Bets · USA downloaders · week 2 · 2023-09-26-to-2023-10-02-partial · 3.858% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 4.581742450538008,
+                  "tooltip": "No More Bets · USA downloaders · week 3 · 2023-10-03-to-2023-10-09 · 4.582% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 3.9032815198618307,
+                  "tooltip": "No More Bets · USA downloaders · week 4 · 2023-10-10-to-2023-10-16 · 3.903% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 3.533123028391167,
+                  "tooltip": "No More Bets · USA downloaders · week 5 · 2023-10-17-to-2023-10-23 · 3.533% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 4.2063492063492065,
+                  "tooltip": "No More Bets · USA downloaders · week 6 · 2023-10-24-to-2023-10-30 · 4.206% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 4.245356641173716,
+                  "tooltip": "No More Bets · USA downloaders · week 7 · 2023-10-31-to-2023-11-06 · 4.245% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 3.567532184158848,
+                  "tooltip": "No More Bets · USA downloaders · week 8 · 2023-11-07-to-2023-11-13 · 3.568% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 3.5423746267119762,
+                  "tooltip": "No More Bets · USA downloaders · week 9 · 2023-11-14-to-2023-11-20 · 3.542% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 4.206619239096814,
+                  "tooltip": "No More Bets · USA downloaders · week 10 · 2023-11-21-to-2023-11-27 · 4.207% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 4.418863720757519,
+                  "tooltip": "No More Bets · USA downloaders · week 11 · 2023-11-28-to-2023-12-04 · 4.419% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 4.24860853432282,
+                  "tooltip": "No More Bets · USA downloaders · week 12 · 2023-12-05-to-2023-12-11 · 4.249% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 4.282603435760948,
+                  "tooltip": "No More Bets · USA downloaders · week 13 · 2023-12-12-to-2023-12-18 · 4.283% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 4.296946425306272,
+                  "tooltip": "No More Bets · USA downloaders · week 14 · 2023-12-19-to-2023-12-25 · 4.297% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 3.8904289808767563,
+                  "tooltip": "No More Bets · USA downloaders · week 15 · 2023-12-26-to-2024-01-01 · 3.890% of world"
+                }
+              ],
+              "collection_key": "no-more-bets",
+              "line_label": "no-more-bets"
+            }
+          ]
+        },
+        {
+          "title": "Asia-28 · downloaders",
+          "unit": "percent",
+          "ylabel": "World share (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "American Born Chinese",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 26.12474783233652,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 1 · 2023-05-24-to-2023-05-30-partial · 26.125% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 21.3316959043359,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 2 · 2023-05-31-to-2023-06-06 · 21.332% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 17.965552971736628,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 3 · 2023-06-07-to-2023-06-13 · 17.966% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 19.50400438622256,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 4 · 2023-06-14-to-2023-06-20 · 19.504% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 15.998354028998136,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 5 · 2023-06-21-to-2023-06-27 · 15.998% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 18.15036413352465,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 6 · 2023-06-28-to-2023-07-04 · 18.150% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 18.774401082642807,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 7 · 2023-07-05-to-2023-07-11 · 18.774% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 13.711941716158528,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 8 · 2023-07-12-to-2023-07-18 · 13.712% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 10.356253803175306,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 9 · 2023-07-19-to-2023-07-25 · 10.356% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 9.316706525452682,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 10 · 2023-07-26-to-2023-08-01 · 9.317% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 9.461822535996063,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 11 · 2023-08-02-to-2023-08-08 · 9.462% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 12.161982872994814,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 12 · 2023-08-09-to-2023-08-15 · 12.162% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 10.301830475436299,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 13 · 2023-08-16-to-2023-08-22 · 10.302% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 9.281097350372526,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 14 · 2023-08-23-to-2023-08-29 · 9.281% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 13.213399503722083,
+                  "tooltip": "American Born Chinese · Asia-28 downloaders · week 15 · 2023-08-30-to-2023-09-05 · 13.213% of world"
+                }
+              ],
+              "collection_key": "american-born-chinese-01",
+              "line_label": "american-born-chinese-01"
+            },
+            {
+              "name": "No More Bets",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 24.57496136012365,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 1 · 2023-09-19-to-2023-09-25 · 24.575% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 29.27794263105836,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 2 · 2023-09-26-to-2023-10-02-partial · 29.278% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 27.351614022908713,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 3 · 2023-10-03-to-2023-10-09 · 27.352% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 30.328151986183073,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 4 · 2023-10-10-to-2023-10-16 · 30.328% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 26.561514195583594,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 5 · 2023-10-17-to-2023-10-23 · 26.562% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 28.452380952380953,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 6 · 2023-10-24-to-2023-10-30 · 28.452% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 23.48993288590604,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 7 · 2023-10-31-to-2023-11-06 · 23.490% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 14.43377700196378,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 8 · 2023-11-07-to-2023-11-13 · 14.434% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 20.554010915456697,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 9 · 2023-11-14-to-2023-11-20 · 20.554% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 15.72842561088772,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 10 · 2023-11-21-to-2023-11-27 · 15.728% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 20.423319717786853,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 11 · 2023-11-28-to-2023-12-04 · 20.423% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 19.27643784786642,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 12 · 2023-12-05-to-2023-12-11 · 19.276% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 20.287926445681105,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 13 · 2023-12-12-to-2023-12-18 · 20.288% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 12.83598464070214,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 14 · 2023-12-19-to-2023-12-25 · 12.836% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 12.305596015599304,
+                  "tooltip": "No More Bets · Asia-28 downloaders · week 15 · 2023-12-26-to-2024-01-01 · 12.306% of world"
+                }
+              ],
+              "collection_key": "no-more-bets",
+              "line_label": "no-more-bets"
+            }
+          ]
+        },
+        {
+          "title": "USA · uploaders",
+          "unit": "percent",
+          "ylabel": "World share (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "American Born Chinese",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 20.0532930548035,
+                  "tooltip": "American Born Chinese · USA uploaders · week 1 · 2023-05-24-to-2023-05-30-partial · 20.053% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 28.639377632666225,
+                  "tooltip": "American Born Chinese · USA uploaders · week 2 · 2023-05-31-to-2023-06-06 · 28.639% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 31.23259699276035,
+                  "tooltip": "American Born Chinese · USA uploaders · week 3 · 2023-06-07-to-2023-06-13 · 31.233% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 32.05207687538748,
+                  "tooltip": "American Born Chinese · USA uploaders · week 4 · 2023-06-14-to-2023-06-20 · 32.052% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 35.339574973993166,
+                  "tooltip": "American Born Chinese · USA uploaders · week 5 · 2023-06-21-to-2023-06-27 · 35.340% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 38.608995638872614,
+                  "tooltip": "American Born Chinese · USA uploaders · week 6 · 2023-06-28-to-2023-07-04 · 38.609% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 39.64321110009911,
+                  "tooltip": "American Born Chinese · USA uploaders · week 7 · 2023-07-05-to-2023-07-11 · 39.643% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 42.56836298812687,
+                  "tooltip": "American Born Chinese · USA uploaders · week 8 · 2023-07-12-to-2023-07-18 · 42.568% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 43.63335340156532,
+                  "tooltip": "American Born Chinese · USA uploaders · week 9 · 2023-07-19-to-2023-07-25 · 43.633% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 42.20957455396787,
+                  "tooltip": "American Born Chinese · USA uploaders · week 10 · 2023-07-26-to-2023-08-01 · 42.210% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 43.39783843820753,
+                  "tooltip": "American Born Chinese · USA uploaders · week 11 · 2023-08-02-to-2023-08-08 · 43.398% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 48.07603927303113,
+                  "tooltip": "American Born Chinese · USA uploaders · week 12 · 2023-08-09-to-2023-08-15 · 48.076% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 46.96032034947215,
+                  "tooltip": "American Born Chinese · USA uploaders · week 13 · 2023-08-16-to-2023-08-22 · 46.960% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 47.2433422236376,
+                  "tooltip": "American Born Chinese · USA uploaders · week 14 · 2023-08-23-to-2023-08-29 · 47.243% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 47.11820390382843,
+                  "tooltip": "American Born Chinese · USA uploaders · week 15 · 2023-08-30-to-2023-09-05 · 47.118% of world"
+                }
+              ],
+              "collection_key": "american-born-chinese-01",
+              "line_label": "american-born-chinese-01"
+            },
+            {
+              "name": "No More Bets",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 1.2121212121212122,
+                  "tooltip": "No More Bets · USA uploaders · week 1 · 2023-09-19-to-2023-09-25 · 1.212% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 3.8793103448275863,
+                  "tooltip": "No More Bets · USA uploaders · week 2 · 2023-09-26-to-2023-10-02-partial · 3.879% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 5.2631578947368425,
+                  "tooltip": "No More Bets · USA uploaders · week 3 · 2023-10-03-to-2023-10-09 · 5.263% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 5.538461538461538,
+                  "tooltip": "No More Bets · USA uploaders · week 4 · 2023-10-10-to-2023-10-16 · 5.538% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 4.129793510324483,
+                  "tooltip": "No More Bets · USA uploaders · week 5 · 2023-10-17-to-2023-10-23 · 4.130% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 8.962264150943396,
+                  "tooltip": "No More Bets · USA uploaders · week 6 · 2023-10-24-to-2023-10-30 · 8.962% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 14.0,
+                  "tooltip": "No More Bets · USA uploaders · week 7 · 2023-10-31-to-2023-11-06 · 14.000% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 20.614035087719298,
+                  "tooltip": "No More Bets · USA uploaders · week 8 · 2023-11-07-to-2023-11-13 · 20.614% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 16.53846153846154,
+                  "tooltip": "No More Bets · USA uploaders · week 9 · 2023-11-14-to-2023-11-20 · 16.538% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 17.35159817351598,
+                  "tooltip": "No More Bets · USA uploaders · week 10 · 2023-11-21-to-2023-11-27 · 17.352% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 14.146341463414634,
+                  "tooltip": "No More Bets · USA uploaders · week 11 · 2023-11-28-to-2023-12-04 · 14.146% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 13.777777777777779,
+                  "tooltip": "No More Bets · USA uploaders · week 12 · 2023-12-05-to-2023-12-11 · 13.778% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 12.565445026178011,
+                  "tooltip": "No More Bets · USA uploaders · week 13 · 2023-12-12-to-2023-12-18 · 12.565% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 9.278350515463918,
+                  "tooltip": "No More Bets · USA uploaders · week 14 · 2023-12-19-to-2023-12-25 · 9.278% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 5.755395683453237,
+                  "tooltip": "No More Bets · USA uploaders · week 15 · 2023-12-26-to-2024-01-01 · 5.755% of world"
+                }
+              ],
+              "collection_key": "no-more-bets",
+              "line_label": "no-more-bets"
+            }
+          ]
+        },
+        {
+          "title": "Asia-28 · uploaders",
+          "unit": "percent",
+          "ylabel": "World share (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "American Born Chinese",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 25.09760893727379,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 1 · 2023-05-24-to-2023-05-30-partial · 25.098% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 20.172521514803393,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 2 · 2023-05-31-to-2023-06-06 · 20.173% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 17.42621124930388,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 3 · 2023-06-07-to-2023-06-13 · 17.426% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 19.806463786085878,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 4 · 2023-06-14-to-2023-06-20 · 19.806% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 18.198840838163175,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 5 · 2023-06-21-to-2023-06-27 · 18.199% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 16.819631582373233,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 6 · 2023-06-28-to-2023-07-04 · 16.820% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 17.49256689791873,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 7 · 2023-07-05-to-2023-07-11 · 17.493% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 16.04722343681679,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 8 · 2023-07-12-to-2023-07-18 · 16.047% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 14.050270921131848,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 9 · 2023-07-19-to-2023-07-25 · 14.050% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 12.66650520707193,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 10 · 2023-07-26-to-2023-08-01 · 12.667% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 11.786065188602674,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 11 · 2023-08-02-to-2023-08-08 · 11.786% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 10.741591811155212,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 12 · 2023-08-09-to-2023-08-15 · 10.742% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 11.996925939408648,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 13 · 2023-08-16-to-2023-08-22 · 11.997% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 10.389713785279248,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 14 · 2023-08-23-to-2023-08-29 · 10.390% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 8.720784116612213,
+                  "tooltip": "American Born Chinese · Asia-28 uploaders · week 15 · 2023-08-30-to-2023-09-05 · 8.721% of world"
+                }
+              ],
+              "collection_key": "american-born-chinese-01",
+              "line_label": "american-born-chinese-01"
+            },
+            {
+              "name": "No More Bets",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 40.60606060606061,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 1 · 2023-09-19-to-2023-09-25 · 40.606% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 55.172413793103445,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 2 · 2023-09-26-to-2023-10-02-partial · 55.172% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 65.78947368421052,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 3 · 2023-10-03-to-2023-10-09 · 65.789% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 68.92307692307692,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 4 · 2023-10-10-to-2023-10-16 · 68.923% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 74.92625368731564,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 5 · 2023-10-17-to-2023-10-23 · 74.926% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 70.75471698113208,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 6 · 2023-10-24-to-2023-10-30 · 70.755% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 60.8,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 7 · 2023-10-31-to-2023-11-06 · 60.800% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 43.85964912280702,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 8 · 2023-11-07-to-2023-11-13 · 43.860% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 61.53846153846154,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 9 · 2023-11-14-to-2023-11-20 · 61.538% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 60.273972602739725,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 10 · 2023-11-21-to-2023-11-27 · 60.274% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 52.68292682926829,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 11 · 2023-11-28-to-2023-12-04 · 52.683% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 60.44444444444444,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 12 · 2023-12-05-to-2023-12-11 · 60.444% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 54.973821989528794,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 13 · 2023-12-12-to-2023-12-18 · 54.974% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 63.91752577319588,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 14 · 2023-12-19-to-2023-12-25 · 63.918% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 74.82014388489209,
+                  "tooltip": "No More Bets · Asia-28 uploaders · week 15 · 2023-12-26-to-2024-01-01 · 74.820% of world"
+                }
+              ],
+              "collection_key": "no-more-bets",
+              "line_label": "no-more-bets"
+            }
+          ]
+        }
+      ],
+      "layout": "izzi-standard"
+    },
+    "mellon-7.8-pair-action-films-weekly": {
+      "title": "Shang-Chi versus Vanguard",
+      "subtitle": "Weekly geography · weeks 1–15 · Asia-28",
+      "accessible_title": "Shang-Chi versus Vanguard weekly geography",
+      "description": "Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes. Media-object names appear directly on their lines; no separate legend.",
+      "columns": 1,
+      "xmin": 1,
+      "xmax": 15,
+      "ticks": [
+        [
+          1,
+          "1"
+        ],
+        [
+          2,
+          "2"
+        ],
+        [
+          3,
+          "3"
+        ],
+        [
+          4,
+          "4"
+        ],
+        [
+          5,
+          "5"
+        ],
+        [
+          6,
+          "6"
+        ],
+        [
+          7,
+          "7"
+        ],
+        [
+          8,
+          "8"
+        ],
+        [
+          9,
+          "9"
+        ],
+        [
+          10,
+          "10"
+        ],
+        [
+          11,
+          "11"
+        ],
+        [
+          12,
+          "12"
+        ],
+        [
+          13,
+          "13"
+        ],
+        [
+          14,
+          "14"
+        ],
+        [
+          15,
+          "15"
+        ]
+      ],
+      "xlabel": "Elapsed sampling week",
+      "panels": [
+        {
+          "title": "USA · downloaders",
+          "unit": "percent",
+          "ylabel": "World share (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "Shang-Chi",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 7.279271788107469,
+                  "tooltip": "Shang-Chi · USA downloaders · week 1 · 2021-11-10-to-2021-11-16-partial · 7.279% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 6.192640843121244,
+                  "tooltip": "Shang-Chi · USA downloaders · week 2 · 2021-11-17-to-2021-11-23 · 6.193% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 6.314441973381249,
+                  "tooltip": "Shang-Chi · USA downloaders · week 3 · 2021-11-24-to-2021-11-30 · 6.314% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 6.454606056777768,
+                  "tooltip": "Shang-Chi · USA downloaders · week 4 · 2021-12-01-to-2021-12-07 · 6.455% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 7.0248309810444605,
+                  "tooltip": "Shang-Chi · USA downloaders · week 5 · 2021-12-08-to-2021-12-14 · 7.025% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 6.493159803751174,
+                  "tooltip": "Shang-Chi · USA downloaders · week 6 · 2021-12-15-to-2021-12-21 · 6.493% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 6.483603455348558,
+                  "tooltip": "Shang-Chi · USA downloaders · week 7 · 2021-12-22-to-2021-12-28 · 6.484% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 6.438299381391789,
+                  "tooltip": "Shang-Chi · USA downloaders · week 8 · 2021-12-29-to-2022-01-04 · 6.438% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 6.305283788993521,
+                  "tooltip": "Shang-Chi · USA downloaders · week 9 · 2022-01-05-to-2022-01-11 · 6.305% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 6.605201347783053,
+                  "tooltip": "Shang-Chi · USA downloaders · week 10 · 2022-01-12-to-2022-01-18 · 6.605% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 6.345572132274079,
+                  "tooltip": "Shang-Chi · USA downloaders · week 11 · 2022-01-19-to-2022-01-25 · 6.346% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 6.510618075421415,
+                  "tooltip": "Shang-Chi · USA downloaders · week 12 · 2022-01-26-to-2022-02-01 · 6.511% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 6.76976541693584,
+                  "tooltip": "Shang-Chi · USA downloaders · week 13 · 2022-02-02-to-2022-02-08 · 6.770% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 7.064122413153056,
+                  "tooltip": "Shang-Chi · USA downloaders · week 14 · 2022-02-09-to-2022-02-15 · 7.064% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 7.018137455448793,
+                  "tooltip": "Shang-Chi · USA downloaders · week 15 · 2022-02-16-to-2022-02-22 · 7.018% of world"
+                }
+              ],
+              "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+              "line_label": "Shang-Chi"
+            },
+            {
+              "name": "Vanguard",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 20.843725126028126,
+                  "tooltip": "Vanguard · USA downloaders · week 1 · 2020-10-02-to-2020-10-08 · 20.844% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 13.044404973357016,
+                  "tooltip": "Vanguard · USA downloaders · week 2 · 2020-10-09-to-2020-10-15 · 13.044% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 30.20652231178547,
+                  "tooltip": "Vanguard · USA downloaders · week 3 · 2020-10-16-to-2020-10-22 · 30.207% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 25.379527433557797,
+                  "tooltip": "Vanguard · USA downloaders · week 4 · 2020-10-23-to-2020-10-29 · 25.380% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 26.095788111122175,
+                  "tooltip": "Vanguard · USA downloaders · week 5 · 2020-10-30-to-2020-11-05-partial · 26.096% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 31.91945774406493,
+                  "tooltip": "Vanguard · USA downloaders · week 6 · 2020-11-06-to-2020-11-12-partial · 31.919% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 17.39932665199569,
+                  "tooltip": "Vanguard · USA downloaders · week 7 · 2020-11-13-to-2020-11-19-partial · 17.399% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 17.4577278318704,
+                  "tooltip": "Vanguard · USA downloaders · week 8 · 2020-11-20-to-2020-11-26 · 17.458% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 19.273659633898017,
+                  "tooltip": "Vanguard · USA downloaders · week 9 · 2020-11-27-to-2020-12-03 · 19.274% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 21.813614502052044,
+                  "tooltip": "Vanguard · USA downloaders · week 10 · 2020-12-04-to-2020-12-10 · 21.814% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 25.769591033212677,
+                  "tooltip": "Vanguard · USA downloaders · week 11 · 2020-12-11-to-2020-12-17 · 25.770% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 24.28805346177096,
+                  "tooltip": "Vanguard · USA downloaders · week 12 · 2020-12-18-to-2020-12-24-partial · 24.288% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 24.128258521577095,
+                  "tooltip": "Vanguard · USA downloaders · week 13 · 2020-12-25-to-2020-12-31 · 24.128% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 23.061584371218913,
+                  "tooltip": "Vanguard · USA downloaders · week 14 · 2021-01-01-to-2021-01-07 · 23.062% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 23.306057783948418,
+                  "tooltip": "Vanguard · USA downloaders · week 15 · 2021-01-08-to-2021-01-14 · 23.306% of world"
+                }
+              ],
+              "collection_key": "vanguard",
+              "line_label": "vanguard"
+            }
+          ]
+        },
+        {
+          "title": "Asia-28 · downloaders",
+          "unit": "percent",
+          "ylabel": "World share (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "Shang-Chi",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 41.64963909610804,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 1 · 2021-11-10-to-2021-11-16-partial · 41.650% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 35.56597163911849,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 2 · 2021-11-17-to-2021-11-23 · 35.566% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 34.16272687551242,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 3 · 2021-11-24-to-2021-11-30 · 34.163% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 32.68796880663166,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 4 · 2021-12-01-to-2021-12-07 · 32.688% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 31.329188641756275,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 5 · 2021-12-08-to-2021-12-14 · 31.329% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 31.444834079471157,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 6 · 2021-12-15-to-2021-12-21 · 31.445% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 31.026259807170486,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 7 · 2021-12-22-to-2021-12-28 · 31.026% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 30.13145157116048,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 8 · 2021-12-29-to-2022-01-04 · 30.131% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 30.820125433486012,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 9 · 2022-01-05-to-2022-01-11 · 30.820% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 32.89390841404557,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 10 · 2022-01-12-to-2022-01-18 · 32.894% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 32.69698857469478,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 11 · 2022-01-19-to-2022-01-25 · 32.697% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 31.726625324971813,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 12 · 2022-01-26-to-2022-02-01 · 31.727% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 30.94577548764015,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 13 · 2022-02-02-to-2022-02-08 · 30.946% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 30.822092644293924,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 14 · 2022-02-09-to-2022-02-15 · 30.822% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 30.60265298525341,
+                  "tooltip": "Shang-Chi · Asia-28 downloaders · week 15 · 2022-02-16-to-2022-02-22 · 30.603% of world"
+                }
+              ],
+              "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+              "line_label": "Shang-Chi"
+            },
+            {
+              "name": "Vanguard",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 40.72167683735739,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 1 · 2020-10-02-to-2020-10-08 · 40.722% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 45.00177619893428,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 2 · 2020-10-09-to-2020-10-15 · 45.002% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 34.9770823455034,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 3 · 2020-10-16-to-2020-10-22 · 34.977% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 43.37968681515719,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 4 · 2020-10-23-to-2020-10-29 · 43.380% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 38.392910484914864,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 5 · 2020-10-30-to-2020-11-05-partial · 38.393% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 30.491944668664374,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 6 · 2020-11-06-to-2020-11-12-partial · 30.492% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 48.783956257265864,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 7 · 2020-11-13-to-2020-11-19-partial · 48.784% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 46.42875758397098,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 8 · 2020-11-20-to-2020-11-26 · 46.429% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 31.25406454226591,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 9 · 2020-11-27-to-2020-12-03 · 31.254% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 34.5381832395098,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 10 · 2020-12-04-to-2020-12-10 · 34.538% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 30.181344065536294,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 11 · 2020-12-11-to-2020-12-17 · 30.181% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 26.292478612748425,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 12 · 2020-12-18-to-2020-12-24-partial · 26.292% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 25.161121009230087,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 13 · 2020-12-25-to-2020-12-31 · 25.161% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 26.683434777327996,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 14 · 2021-01-01-to-2021-01-07 · 26.683% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 25.704886122119625,
+                  "tooltip": "Vanguard · Asia-28 downloaders · week 15 · 2021-01-08-to-2021-01-14 · 25.705% of world"
+                }
+              ],
+              "collection_key": "vanguard",
+              "line_label": "vanguard"
+            }
+          ]
+        },
+        {
+          "title": "USA · uploaders",
+          "unit": "percent",
+          "ylabel": "World share (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "Shang-Chi",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 6.915635291465553,
+                  "tooltip": "Shang-Chi · USA uploaders · week 1 · 2021-11-10-to-2021-11-16-partial · 6.916% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 6.145388388821826,
+                  "tooltip": "Shang-Chi · USA uploaders · week 2 · 2021-11-17-to-2021-11-23 · 6.145% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 6.3375231254320195,
+                  "tooltip": "Shang-Chi · USA uploaders · week 3 · 2021-11-24-to-2021-11-30 · 6.338% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 6.637818157037787,
+                  "tooltip": "Shang-Chi · USA uploaders · week 4 · 2021-12-01-to-2021-12-07 · 6.638% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 6.772536998723941,
+                  "tooltip": "Shang-Chi · USA uploaders · week 5 · 2021-12-08-to-2021-12-14 · 6.773% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 7.003054618910035,
+                  "tooltip": "Shang-Chi · USA uploaders · week 6 · 2021-12-15-to-2021-12-21 · 7.003% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 7.094927239152449,
+                  "tooltip": "Shang-Chi · USA uploaders · week 7 · 2021-12-22-to-2021-12-28 · 7.095% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 7.051088471694421,
+                  "tooltip": "Shang-Chi · USA uploaders · week 8 · 2021-12-29-to-2022-01-04 · 7.051% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 6.874286260482853,
+                  "tooltip": "Shang-Chi · USA uploaders · week 9 · 2022-01-05-to-2022-01-11 · 6.874% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 6.803938428119808,
+                  "tooltip": "Shang-Chi · USA uploaders · week 10 · 2022-01-12-to-2022-01-18 · 6.804% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 6.700782695156808,
+                  "tooltip": "Shang-Chi · USA uploaders · week 11 · 2022-01-19-to-2022-01-25 · 6.701% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 6.8078014142219105,
+                  "tooltip": "Shang-Chi · USA uploaders · week 12 · 2022-01-26-to-2022-02-01 · 6.808% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 7.022943701739778,
+                  "tooltip": "Shang-Chi · USA uploaders · week 13 · 2022-02-02-to-2022-02-08 · 7.023% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 7.027708609981262,
+                  "tooltip": "Shang-Chi · USA uploaders · week 14 · 2022-02-09-to-2022-02-15 · 7.028% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 7.444304149635115,
+                  "tooltip": "Shang-Chi · USA uploaders · week 15 · 2022-02-16-to-2022-02-22 · 7.444% of world"
+                }
+              ],
+              "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+              "line_label": "Shang-Chi"
+            },
+            {
+              "name": "Vanguard",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 4.819277108433735,
+                  "tooltip": "Vanguard · USA uploaders · week 1 · 2020-10-02-to-2020-10-08 · 4.819% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 3.1703703703703705,
+                  "tooltip": "Vanguard · USA uploaders · week 2 · 2020-10-09-to-2020-10-15 · 3.170% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 5.921638468388246,
+                  "tooltip": "Vanguard · USA uploaders · week 3 · 2020-10-16-to-2020-10-22 · 5.922% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 3.3217027215631543,
+                  "tooltip": "Vanguard · USA uploaders · week 4 · 2020-10-23-to-2020-10-29 · 3.322% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 3.0578512396694215,
+                  "tooltip": "Vanguard · USA uploaders · week 5 · 2020-10-30-to-2020-11-05-partial · 3.058% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 2.6936026936026938,
+                  "tooltip": "Vanguard · USA uploaders · week 6 · 2020-11-06-to-2020-11-12-partial · 2.694% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 5.142332415059688,
+                  "tooltip": "Vanguard · USA uploaders · week 7 · 2020-11-13-to-2020-11-19-partial · 5.142% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 4.511042805100182,
+                  "tooltip": "Vanguard · USA uploaders · week 8 · 2020-11-20-to-2020-11-26 · 4.511% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 3.1256436158214256,
+                  "tooltip": "Vanguard · USA uploaders · week 9 · 2020-11-27-to-2020-12-03 · 3.126% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 2.7478224802986313,
+                  "tooltip": "Vanguard · USA uploaders · week 10 · 2020-12-04-to-2020-12-10 · 2.748% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 3.597281027074162,
+                  "tooltip": "Vanguard · USA uploaders · week 11 · 2020-12-11-to-2020-12-17 · 3.597% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 3.4469161002992275,
+                  "tooltip": "Vanguard · USA uploaders · week 12 · 2020-12-18-to-2020-12-24-partial · 3.447% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 3.06854975217229,
+                  "tooltip": "Vanguard · USA uploaders · week 13 · 2020-12-25-to-2020-12-31 · 3.069% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 3.0194228916273644,
+                  "tooltip": "Vanguard · USA uploaders · week 14 · 2021-01-01-to-2021-01-07 · 3.019% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 4.012059369202226,
+                  "tooltip": "Vanguard · USA uploaders · week 15 · 2021-01-08-to-2021-01-14 · 4.012% of world"
+                }
+              ],
+              "collection_key": "vanguard",
+              "line_label": "vanguard"
+            }
+          ]
+        },
+        {
+          "title": "Asia-28 · uploaders",
+          "unit": "percent",
+          "ylabel": "World share (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "Shang-Chi",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 38.57298105348796,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 1 · 2021-11-10-to-2021-11-16-partial · 38.573% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 31.812381627292368,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 2 · 2021-11-17-to-2021-11-23 · 31.812% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 29.696903886531214,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 3 · 2021-11-24-to-2021-11-30 · 29.697% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 28.29308657960193,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 4 · 2021-12-01-to-2021-12-07 · 28.293% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 27.353180984911226,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 5 · 2021-12-08-to-2021-12-14 · 27.353% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 27.689885792558528,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 6 · 2021-12-15-to-2021-12-21 · 27.690% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 27.041409267649424,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 7 · 2021-12-22-to-2021-12-28 · 27.041% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 26.836124069586813,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 8 · 2021-12-29-to-2022-01-04 · 26.836% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 27.243971888095704,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 9 · 2022-01-05-to-2022-01-11 · 27.244% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 29.56717373174469,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 10 · 2022-01-12-to-2022-01-18 · 29.567% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 29.508145638521178,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 11 · 2022-01-19-to-2022-01-25 · 29.508% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 29.25574936514639,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 12 · 2022-01-26-to-2022-02-01 · 29.256% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 28.816853295243934,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 13 · 2022-02-02-to-2022-02-08 · 28.817% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 28.920976792552988,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 14 · 2022-02-09-to-2022-02-15 · 28.921% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 28.692547492170835,
+                  "tooltip": "Shang-Chi · Asia-28 uploaders · week 15 · 2022-02-16-to-2022-02-22 · 28.693% of world"
+                }
+              ],
+              "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+              "line_label": "Shang-Chi"
+            },
+            {
+              "name": "Vanguard",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 51.870640456563095,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 1 · 2020-10-02-to-2020-10-08 · 51.871% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 52.91851851851852,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 2 · 2020-10-09-to-2020-10-15 · 52.919% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 56.94568121104185,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 3 · 2020-10-16-to-2020-10-22 · 56.946% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 69.54640614096301,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 4 · 2020-10-23-to-2020-10-29 · 69.546% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 53.95316804407714,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 5 · 2020-10-30-to-2020-11-05-partial · 53.953% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 52.44398003018693,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 6 · 2020-11-06-to-2020-11-12-partial · 52.444% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 61.715335169880625,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 7 · 2020-11-13-to-2020-11-19-partial · 61.715% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 56.19687310261081,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 8 · 2020-11-20-to-2020-11-26 · 56.197% of world"
+                },
+                {
+                  "x": 9,
+                  "y": 31.745829369477164,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 9 · 2020-11-27-to-2020-12-03 · 31.746% of world"
+                },
+                {
+                  "x": 10,
+                  "y": 45.27355680404208,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 10 · 2020-12-04-to-2020-12-10 · 45.274% of world"
+                },
+                {
+                  "x": 11,
+                  "y": 40.5765735477974,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 11 · 2020-12-11-to-2020-12-17 · 40.577% of world"
+                },
+                {
+                  "x": 12,
+                  "y": 27.46050891883742,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 12 · 2020-12-18-to-2020-12-24-partial · 27.461% of world"
+                },
+                {
+                  "x": 13,
+                  "y": 21.03974791885487,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 13 · 2020-12-25-to-2020-12-31 · 21.040% of world"
+                },
+                {
+                  "x": 14,
+                  "y": 23.039707895937926,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 14 · 2021-01-01-to-2021-01-07 · 23.040% of world"
+                },
+                {
+                  "x": 15,
+                  "y": 21.79660401710091,
+                  "tooltip": "Vanguard · Asia-28 uploaders · week 15 · 2021-01-08-to-2021-01-14 · 21.797% of world"
+                }
+              ],
+              "collection_key": "vanguard",
+              "line_label": "vanguard"
+            }
+          ]
+        }
+      ],
+      "layout": "izzi-standard"
+    },
+    "mellon-7.8-pair-beef-furious-weekly": {
+      "title": "Beef S02 versus The Furious (2025)",
+      "subtitle": "Weekly geography · weeks 1–8 · Asia-28",
+      "accessible_title": "Beef S02 versus The Furious (2025) weekly geography",
+      "description": "Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes. Media-object names appear directly on their lines; no separate legend.",
+      "columns": 1,
+      "xmin": 1,
+      "xmax": 8,
+      "ticks": [
+        [
+          1,
+          "1"
+        ],
+        [
+          2,
+          "2"
+        ],
+        [
+          3,
+          "3"
+        ],
+        [
+          4,
+          "4"
+        ],
+        [
+          5,
+          "5"
+        ],
+        [
+          6,
+          "6"
+        ],
+        [
+          7,
+          "7"
+        ],
+        [
+          8,
+          "8"
+        ]
+      ],
+      "xlabel": "Elapsed sampling week",
+      "panels": [
+        {
+          "title": "USA · downloaders",
+          "unit": "percent",
+          "ylabel": "World share (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "Beef S02",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 9.297019267496259,
+                  "tooltip": "Beef S02 · USA downloaders · week 1 · 2026-04-17-to-2026-04-23-partial · 9.297% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 7.471833052851232,
+                  "tooltip": "Beef S02 · USA downloaders · week 2 · 2026-04-24-to-2026-04-30 · 7.472% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 6.841656792510752,
+                  "tooltip": "Beef S02 · USA downloaders · week 3 · 2026-05-01-to-2026-05-07 · 6.842% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 6.7068220277732795,
+                  "tooltip": "Beef S02 · USA downloaders · week 4 · 2026-05-08-to-2026-05-14 · 6.707% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 6.575638431249108,
+                  "tooltip": "Beef S02 · USA downloaders · week 5 · 2026-05-15-to-2026-05-21 · 6.576% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 6.410908705978998,
+                  "tooltip": "Beef S02 · USA downloaders · week 6 · 2026-05-22-to-2026-05-28 · 6.411% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 6.425680460141372,
+                  "tooltip": "Beef S02 · USA downloaders · week 7 · 2026-05-29-to-2026-06-04 · 6.426% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 5.79867199850312,
+                  "tooltip": "Beef S02 · USA downloaders · week 8 · 2026-06-05-to-2026-06-11 · 5.799% of world"
+                }
+              ],
+              "collection_key": "beef-02",
+              "line_label": "beef-02"
+            },
+            {
+              "name": "The Furious (2025)",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 7.771307945844866,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 1 · 2026-07-07-to-2026-07-13-partial · 7.771% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 6.332521456180294,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 2 · 2026-07-14-to-2026-07-20 · 6.333% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 6.203024830006805,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 3 · 2026-07-21-to-2026-07-27 · 6.203% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 6.233485389120642,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 4 · 2026-07-28-to-2026-08-03 · 6.233% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 6.1818657684517175,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 5 · 2026-08-04-to-2026-08-10 · 6.182% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 6.131386439458411,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 6 · 2026-08-11-to-2026-08-17 · 6.131% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 6.104307016386822,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 7 · 2026-08-18-to-2026-08-24 · 6.104% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 6.949254712385801,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 8 · 2026-08-25-to-2026-08-31 · 6.949% of world"
+                }
+              ],
+              "collection_key": "furious-2025",
+              "line_label": "furious-2025"
+            }
+          ]
+        },
+        {
+          "title": "Asia-28 · downloaders",
+          "unit": "percent",
+          "ylabel": "World share (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "Beef S02",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 21.537221103781416,
+                  "tooltip": "Beef S02 · Asia-28 downloaders · week 1 · 2026-04-17-to-2026-04-23-partial · 21.537% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 23.63850179878435,
+                  "tooltip": "Beef S02 · Asia-28 downloaders · week 2 · 2026-04-24-to-2026-04-30 · 23.639% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 26.890028202310695,
+                  "tooltip": "Beef S02 · Asia-28 downloaders · week 3 · 2026-05-01-to-2026-05-07 · 26.890% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 27.066394375351187,
+                  "tooltip": "Beef S02 · Asia-28 downloaders · week 4 · 2026-05-08-to-2026-05-14 · 27.066% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 29.72907389279218,
+                  "tooltip": "Beef S02 · Asia-28 downloaders · week 5 · 2026-05-15-to-2026-05-21 · 29.729% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 28.92584680961912,
+                  "tooltip": "Beef S02 · Asia-28 downloaders · week 6 · 2026-05-22-to-2026-05-28 · 28.926% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 29.08823931326633,
+                  "tooltip": "Beef S02 · Asia-28 downloaders · week 7 · 2026-05-29-to-2026-06-04 · 29.088% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 22.10932983421571,
+                  "tooltip": "Beef S02 · Asia-28 downloaders · week 8 · 2026-06-05-to-2026-06-11 · 22.109% of world"
+                }
+              ],
+              "collection_key": "beef-02",
+              "line_label": "beef-02"
+            },
+            {
+              "name": "The Furious (2025)",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 45.44949652494104,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 1 · 2026-07-07-to-2026-07-13-partial · 45.449% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 40.18466996231029,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 2 · 2026-07-14-to-2026-07-20 · 40.185% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 36.72038485743084,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 3 · 2026-07-21-to-2026-07-27 · 36.720% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 34.441806152277714,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 4 · 2026-07-28-to-2026-08-03 · 34.442% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 34.48843851703498,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 5 · 2026-08-04-to-2026-08-10 · 34.488% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 33.2659067692899,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 6 · 2026-08-11-to-2026-08-17 · 33.266% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 35.485457367067745,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 7 · 2026-08-18-to-2026-08-24 · 35.485% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 36.36277510750268,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 8 · 2026-08-25-to-2026-08-31 · 36.363% of world"
+                }
+              ],
+              "collection_key": "furious-2025",
+              "line_label": "furious-2025"
+            }
+          ]
+        },
+        {
+          "title": "USA · uploaders",
+          "unit": "percent",
+          "ylabel": "World share (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "Beef S02",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 18.612611105801395,
+                  "tooltip": "Beef S02 · USA uploaders · week 1 · 2026-04-17-to-2026-04-23-partial · 18.613% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 18.712115399370827,
+                  "tooltip": "Beef S02 · USA uploaders · week 2 · 2026-04-24-to-2026-04-30 · 18.712% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 18.452077526274117,
+                  "tooltip": "Beef S02 · USA uploaders · week 3 · 2026-05-01-to-2026-05-07 · 18.452% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 20.187162508857234,
+                  "tooltip": "Beef S02 · USA uploaders · week 4 · 2026-05-08-to-2026-05-14 · 20.187% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 21.460733472036768,
+                  "tooltip": "Beef S02 · USA uploaders · week 5 · 2026-05-15-to-2026-05-21 · 21.461% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 22.93901515850889,
+                  "tooltip": "Beef S02 · USA uploaders · week 6 · 2026-05-22-to-2026-05-28 · 22.939% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 22.58491982861434,
+                  "tooltip": "Beef S02 · USA uploaders · week 7 · 2026-05-29-to-2026-06-04 · 22.585% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 22.410172655156323,
+                  "tooltip": "Beef S02 · USA uploaders · week 8 · 2026-06-05-to-2026-06-11 · 22.410% of world"
+                }
+              ],
+              "collection_key": "beef-02",
+              "line_label": "beef-02"
+            },
+            {
+              "name": "The Furious (2025)",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 7.731844640059637,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 1 · 2026-07-07-to-2026-07-13-partial · 7.732% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 6.288418213591303,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 2 · 2026-07-14-to-2026-07-20 · 6.288% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 6.263211244996592,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 3 · 2026-07-21-to-2026-07-27 · 6.263% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 6.507052791409018,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 4 · 2026-07-28-to-2026-08-03 · 6.507% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 6.597823759562416,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 5 · 2026-08-04-to-2026-08-10 · 6.598% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 6.75836370112612,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 6 · 2026-08-11-to-2026-08-17 · 6.758% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 6.331062398449303,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 7 · 2026-08-18-to-2026-08-24 · 6.331% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 6.169524154960032,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 8 · 2026-08-25-to-2026-08-31 · 6.170% of world"
+                }
+              ],
+              "collection_key": "furious-2025",
+              "line_label": "furious-2025"
+            }
+          ]
+        },
+        {
+          "title": "Asia-28 · uploaders",
+          "unit": "percent",
+          "ylabel": "World share (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "Beef S02",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 17.70405237503584,
+                  "tooltip": "Beef S02 · Asia-28 uploaders · week 1 · 2026-04-17-to-2026-04-23-partial · 17.704% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 13.425535179927875,
+                  "tooltip": "Beef S02 · Asia-28 uploaders · week 2 · 2026-04-24-to-2026-04-30 · 13.426% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 10.727649374735632,
+                  "tooltip": "Beef S02 · Asia-28 uploaders · week 3 · 2026-05-01-to-2026-05-07 · 10.728% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 10.871796124807585,
+                  "tooltip": "Beef S02 · Asia-28 uploaders · week 4 · 2026-05-08-to-2026-05-14 · 10.872% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 11.846722355060088,
+                  "tooltip": "Beef S02 · Asia-28 uploaders · week 5 · 2026-05-15-to-2026-05-21 · 11.847% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 11.408578128173408,
+                  "tooltip": "Beef S02 · Asia-28 uploaders · week 6 · 2026-05-22-to-2026-05-28 · 11.409% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 10.221299527364282,
+                  "tooltip": "Beef S02 · Asia-28 uploaders · week 7 · 2026-05-29-to-2026-06-04 · 10.221% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 13.362109192720485,
+                  "tooltip": "Beef S02 · Asia-28 uploaders · week 8 · 2026-06-05-to-2026-06-11 · 13.362% of world"
+                }
+              ],
+              "collection_key": "beef-02",
+              "line_label": "beef-02"
+            },
+            {
+              "name": "The Furious (2025)",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 49.43851713594695,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 1 · 2026-07-07-to-2026-07-13-partial · 49.439% of world"
+                },
+                {
+                  "x": 2,
+                  "y": 48.36379305300284,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 2 · 2026-07-14-to-2026-07-20 · 48.364% of world"
+                },
+                {
+                  "x": 3,
+                  "y": 50.313264349444566,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 3 · 2026-07-21-to-2026-07-27 · 50.313% of world"
+                },
+                {
+                  "x": 4,
+                  "y": 51.58770327663226,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 4 · 2026-07-28-to-2026-08-03 · 51.588% of world"
+                },
+                {
+                  "x": 5,
+                  "y": 52.32807116578748,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 5 · 2026-08-04-to-2026-08-10 · 52.328% of world"
+                },
+                {
+                  "x": 6,
+                  "y": 52.77255664849166,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 6 · 2026-08-11-to-2026-08-17 · 52.773% of world"
+                },
+                {
+                  "x": 7,
+                  "y": 54.32784128160543,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 7 · 2026-08-18-to-2026-08-24 · 54.328% of world"
+                },
+                {
+                  "x": 8,
+                  "y": 60.40832554441081,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 8 · 2026-08-25-to-2026-08-31 · 60.408% of world"
+                }
+              ],
+              "collection_key": "furious-2025",
+              "line_label": "furious-2025"
+            }
+          ]
+        }
+      ],
+      "layout": "izzi-standard"
+    }
+  },
+  "chart_renderers": {
+    "mellon-7.8-pair-original-weekly": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "3d59c0570c8d159ab2a44bb27375aa48521e593a",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "6e6d1a5e0ad6420106cf18766ee4ecfaef65dc9c7ba1277211aba6894eadb5eb",
+      "wrapper_sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.8-pair-action-films-weekly": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "3d59c0570c8d159ab2a44bb27375aa48521e593a",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "6e6d1a5e0ad6420106cf18766ee4ecfaef65dc9c7ba1277211aba6894eadb5eb",
+      "wrapper_sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.8-pair-beef-furious-weekly": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "3d59c0570c8d159ab2a44bb27375aa48521e593a",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "6e6d1a5e0ad6420106cf18766ee4ecfaef65dc9c7ba1277211aba6894eadb5eb",
+      "wrapper_sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    }
+  }
+}

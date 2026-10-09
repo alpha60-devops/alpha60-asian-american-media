@@ -6,3 +6,6 @@ sass:
 include:
   - _includes
 
+
+url: "https://alpha60-devops.github.io"
+baseurl: "/alpha60-asian-american-media"
