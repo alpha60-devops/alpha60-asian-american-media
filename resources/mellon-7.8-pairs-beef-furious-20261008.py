@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Compare selected works by documented producer country and sampling week.
+"""Compare reviewed AAPI / non-USA Asian-global pairs in an exact week prefix.
 
 Raw interval geography is reduced independently of the identity/citizenship
 metadata. The latter selects and describes the objects; it does not classify
@@ -23,9 +23,9 @@ analysis = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(analysis)
 
 PAIRS = [
-    {'production_contrast_status': 'pending-company-evidence-review', 'weeks': list(range(1,16)), 'id': 'original', 'aapi': 'american-born-chinese-01', 'global': 'no-more-bets'},
-    {'production_contrast_status': 'pending-company-evidence-review', 'weeks': list(range(1,16)), 'id': 'action-films', 'aapi': 'shang-chi-and-the-legend-of-the-ten-rings', 'global': 'vanguard'},
-    {'comparison_basis': 'documented-producer-country', 'production_contrast_status': 'separate-platform-review', 'weeks': list(range(1,16)), 'id': 'beef-no-more-bets', 'aapi': 'beef-02', 'global': 'no-more-bets'},
+    {'weeks': list(range(1,16)), 'id': 'original', 'aapi': 'american-born-chinese-01', 'global': 'no-more-bets'},
+    {'weeks': list(range(1,16)), 'id': 'action-films', 'aapi': 'shang-chi-and-the-legend-of-the-ten-rings', 'global': 'vanguard'},
+    {'weeks': list(range(1,9)), 'id': 'beef-furious', 'aapi': 'beef-02', 'global': 'furious-2025'},
 ]
 OBJECTS = {
     'american-born-chinese-01': (2023, 'American Born Chinese'),
@@ -34,25 +34,6 @@ OBJECTS = {
     'vanguard': (2020, 'Vanguard'),
     'beef-02': (2026, 'Beef S02'),
     'furious-2025': (2026, 'The Furious (2025)'),
-}
-
-
-# Country of a documented producer, not an exhaustive ownership/financing census.
-# This separate analytical annotation does not overwrite canonical AAM metadata.
-PRODUCER_COUNTRY_EVIDENCE = {
-    'beef-02': {
-        'producer': 'A24', 'country_code': 'USA', 'country_label': 'United States',
-        'reviewed_on': '2026-10-08', 'basis': 'credited studio and company location',
-        'title_source': 'https://www.netflix.com/tudum/articles/beef-season-2-renewal',
-        'company_source': 'https://a24films.com/privacy-policy',
-        'scope': 'Season 2 studio credit; company location in New York.'},
-    'no-more-bets': {
-        'producer': 'China Film Corporation (China Film Co., Ltd.)',
-        'country_code': 'CHN', 'country_label': 'China',
-        'reviewed_on': '2026-10-08', 'basis': 'credited producer and company location',
-        'title_source': 'https://en.wikipedia.org/wiki/No_More_Bets',
-        'company_source': 'https://lei.bloomberg.com/leis/view/3003009UJKOPLIVUPE53',
-        'scope': 'One documented Chinese producer; not a claim that every financing or distribution relationship is non-U.S.'},
 }
 
 
@@ -78,8 +59,6 @@ def main():
     result = {
         'schema_version': 2, 'weeks': list(range(1, 16)), 'publication_prefix': 'mellon-7.8',
         'as_of': '2026-10-08',
-        'comparison_basis': 'documented-producer-country; platform and commissioner country do not select this contrast',
-        'producer_country_evidence': PRODUCER_COUNTRY_EVIDENCE,
         'production_rule': json.loads((args.metadata_root/'config/usa-production-v2.json').read_text()),
         'pairs': PAIRS, 'objects': {}, 'asia_country_codes': sorted(asia),
         'metadata_source': {
@@ -92,7 +71,7 @@ def main():
             'unit': 'Summed top-level weekly aggregate GeoJSON swarm weights; repeated peers may recur. Not unique people or completed downloads.',
             'geography': 'USA and Asia-28 (including TWN); worldwide denominators retain other and unclassified countries.',
             'shares': 'Each role and field divides by its corresponding worldwide role/field total. Mobile, hosting and VPN rates divide by country/region size.',
-            'selection': 'Selected descriptive cases: confirmed identity and at least two qualifying actor/primary-creator credits, without a citizenship threshold. Beef/No More Bets compares documented producer countries, USA (A24) and China (China Film Corporation). Platform/commissioner country does not select that pair. USA Production values remain separately pinned AAM annotations, not producer-country predicates. Other pairs remain descriptive geographic cases with company/platform review pending.',
+            'selection': 'AAM side: confirmed expanded aapi-led, at least 2 qualifying actor/primary-creator credits, USA Production under approved company OR commissioner OR platform rule. Partner: confirmed asian-led-global, at least 2 qualifying credits, USA Production false in reviewed evidence. No citizenship minimum or maximum. These identity slices overlap.',
             'adjustment': 'Geographic shares and raw weights; no Internet-user multiplier is applied to this paired geography analysis.',
         },
     }
@@ -102,11 +81,9 @@ def main():
             candidate = groups[skey][key]
             assert candidate['disposition'] == 'confirmed'
             citizens = candidate['usa_citizen_actors_creators']['count']
+            assert candidate['usa_production']['value'] is (side == 'aapi')
             assert candidate['reviewed_counts']['actors'] + candidate['reviewed_counts']['creators'] >= 2
             assert candidate['usa_production']['rule_id'] == result['production_rule']['rule_id']
-            if key in result['objects']:
-                assert [w['week'] for w in result['objects'][key]['weeks']] == pair['weeks']
-                continue
             year, label = OBJECTS[key]
             repo = args.source_root / f'alpha60-results-{year}'
             commit = subprocess.check_output(['git', '-C', str(repo), 'rev-parse', 'HEAD'], text=True).strip()

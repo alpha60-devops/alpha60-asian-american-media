@@ -1575,14 +1575,14 @@
       ],
       "layout": "izzi-standard"
     },
-    "mellon-7.8-pair-beef-no-more-bets-weekly": {
-      "title": "Beef S02 versus No More Bets",
-      "subtitle": "Weekly geography · weeks 1–15 · Asia-28",
-      "accessible_title": "Beef S02 versus No More Bets weekly geography",
+    "mellon-7.8-pair-beef-furious-weekly": {
+      "title": "Beef S02 versus The Furious (2025)",
+      "subtitle": "Weekly geography · weeks 1–8 · Asia-28",
+      "accessible_title": "Beef S02 versus The Furious (2025) weekly geography",
       "description": "Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
-      "xmax": 15,
+      "xmax": 8,
       "ticks": [
         [
           1,
@@ -1615,34 +1615,6 @@
         [
           8,
           "8"
-        ],
-        [
-          9,
-          "9"
-        ],
-        [
-          10,
-          "10"
-        ],
-        [
-          11,
-          "11"
-        ],
-        [
-          12,
-          "12"
-        ],
-        [
-          13,
-          "13"
-        ],
-        [
-          14,
-          "14"
-        ],
-        [
-          15,
-          "15"
         ]
       ],
       "xlabel": "Elapsed sampling week",
@@ -1697,129 +1669,59 @@
                   "x": 8,
                   "y": 5.79867199850312,
                   "tooltip": "Beef S02 · USA downloaders · week 8 · 2026-06-05-to-2026-06-11 · 5.799% of world"
-                },
-                {
-                  "x": 9,
-                  "y": 6.471971911130115,
-                  "tooltip": "Beef S02 · USA downloaders · week 9 · 2026-06-12-to-2026-06-18 · 6.472% of world"
-                },
-                {
-                  "x": 10,
-                  "y": 6.249061629848783,
-                  "tooltip": "Beef S02 · USA downloaders · week 10 · 2026-06-19-to-2026-06-25 · 6.249% of world"
-                },
-                {
-                  "x": 11,
-                  "y": 6.566549438953899,
-                  "tooltip": "Beef S02 · USA downloaders · week 11 · 2026-06-26-to-2026-07-02 · 6.567% of world"
-                },
-                {
-                  "x": 12,
-                  "y": 6.5110885564528385,
-                  "tooltip": "Beef S02 · USA downloaders · week 12 · 2026-07-03-to-2026-07-09 · 6.511% of world"
-                },
-                {
-                  "x": 13,
-                  "y": 6.6332683208948335,
-                  "tooltip": "Beef S02 · USA downloaders · week 13 · 2026-07-10-to-2026-07-16 · 6.633% of world"
-                },
-                {
-                  "x": 14,
-                  "y": 6.280593500847888,
-                  "tooltip": "Beef S02 · USA downloaders · week 14 · 2026-07-17-to-2026-07-23 · 6.281% of world"
-                },
-                {
-                  "x": 15,
-                  "y": 6.252490646474318,
-                  "tooltip": "Beef S02 · USA downloaders · week 15 · 2026-07-24-to-2026-07-30 · 6.252% of world"
                 }
               ],
               "collection_key": "beef-02",
               "line_label": "beef-02"
             },
             {
-              "name": "No More Bets",
+              "name": "The Furious (2025)",
               "color": "#9b4318",
               "dash": "8 4",
               "points": [
                 {
                   "x": 1,
-                  "y": 3.2457496136012365,
-                  "tooltip": "No More Bets · USA downloaders · week 1 · 2023-09-19-to-2023-09-25 · 3.246% of world"
+                  "y": 7.771307945844866,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 1 · 2026-07-07-to-2026-07-13-partial · 7.771% of world"
                 },
                 {
                   "x": 2,
-                  "y": 3.857566765578635,
-                  "tooltip": "No More Bets · USA downloaders · week 2 · 2023-09-26-to-2023-10-02-partial · 3.858% of world"
+                  "y": 6.332521456180294,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 2 · 2026-07-14-to-2026-07-20 · 6.333% of world"
                 },
                 {
                   "x": 3,
-                  "y": 4.581742450538008,
-                  "tooltip": "No More Bets · USA downloaders · week 3 · 2023-10-03-to-2023-10-09 · 4.582% of world"
+                  "y": 6.203024830006805,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 3 · 2026-07-21-to-2026-07-27 · 6.203% of world"
                 },
                 {
                   "x": 4,
-                  "y": 3.9032815198618307,
-                  "tooltip": "No More Bets · USA downloaders · week 4 · 2023-10-10-to-2023-10-16 · 3.903% of world"
+                  "y": 6.233485389120642,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 4 · 2026-07-28-to-2026-08-03 · 6.233% of world"
                 },
                 {
                   "x": 5,
-                  "y": 3.533123028391167,
-                  "tooltip": "No More Bets · USA downloaders · week 5 · 2023-10-17-to-2023-10-23 · 3.533% of world"
+                  "y": 6.1818657684517175,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 5 · 2026-08-04-to-2026-08-10 · 6.182% of world"
                 },
                 {
                   "x": 6,
-                  "y": 4.2063492063492065,
-                  "tooltip": "No More Bets · USA downloaders · week 6 · 2023-10-24-to-2023-10-30 · 4.206% of world"
+                  "y": 6.131386439458411,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 6 · 2026-08-11-to-2026-08-17 · 6.131% of world"
                 },
                 {
                   "x": 7,
-                  "y": 4.245356641173716,
-                  "tooltip": "No More Bets · USA downloaders · week 7 · 2023-10-31-to-2023-11-06 · 4.245% of world"
+                  "y": 6.104307016386822,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 7 · 2026-08-18-to-2026-08-24 · 6.104% of world"
                 },
                 {
                   "x": 8,
-                  "y": 3.567532184158848,
-                  "tooltip": "No More Bets · USA downloaders · week 8 · 2023-11-07-to-2023-11-13 · 3.568% of world"
-                },
-                {
-                  "x": 9,
-                  "y": 3.5423746267119762,
-                  "tooltip": "No More Bets · USA downloaders · week 9 · 2023-11-14-to-2023-11-20 · 3.542% of world"
-                },
-                {
-                  "x": 10,
-                  "y": 4.206619239096814,
-                  "tooltip": "No More Bets · USA downloaders · week 10 · 2023-11-21-to-2023-11-27 · 4.207% of world"
-                },
-                {
-                  "x": 11,
-                  "y": 4.418863720757519,
-                  "tooltip": "No More Bets · USA downloaders · week 11 · 2023-11-28-to-2023-12-04 · 4.419% of world"
-                },
-                {
-                  "x": 12,
-                  "y": 4.24860853432282,
-                  "tooltip": "No More Bets · USA downloaders · week 12 · 2023-12-05-to-2023-12-11 · 4.249% of world"
-                },
-                {
-                  "x": 13,
-                  "y": 4.282603435760948,
-                  "tooltip": "No More Bets · USA downloaders · week 13 · 2023-12-12-to-2023-12-18 · 4.283% of world"
-                },
-                {
-                  "x": 14,
-                  "y": 4.296946425306272,
-                  "tooltip": "No More Bets · USA downloaders · week 14 · 2023-12-19-to-2023-12-25 · 4.297% of world"
-                },
-                {
-                  "x": 15,
-                  "y": 3.8904289808767563,
-                  "tooltip": "No More Bets · USA downloaders · week 15 · 2023-12-26-to-2024-01-01 · 3.890% of world"
+                  "y": 6.949254712385801,
+                  "tooltip": "The Furious (2025) · USA downloaders · week 8 · 2026-08-25-to-2026-08-31 · 6.949% of world"
                 }
               ],
-              "collection_key": "no-more-bets",
-              "line_label": "no-more-bets"
+              "collection_key": "furious-2025",
+              "line_label": "furious-2025"
             }
           ]
         },
@@ -1873,129 +1775,59 @@
                   "x": 8,
                   "y": 22.10932983421571,
                   "tooltip": "Beef S02 · Asia-28 downloaders · week 8 · 2026-06-05-to-2026-06-11 · 22.109% of world"
-                },
-                {
-                  "x": 9,
-                  "y": 30.911663190875565,
-                  "tooltip": "Beef S02 · Asia-28 downloaders · week 9 · 2026-06-12-to-2026-06-18 · 30.912% of world"
-                },
-                {
-                  "x": 10,
-                  "y": 31.919322733933953,
-                  "tooltip": "Beef S02 · Asia-28 downloaders · week 10 · 2026-06-19-to-2026-06-25 · 31.919% of world"
-                },
-                {
-                  "x": 11,
-                  "y": 33.80326440071765,
-                  "tooltip": "Beef S02 · Asia-28 downloaders · week 11 · 2026-06-26-to-2026-07-02 · 33.803% of world"
-                },
-                {
-                  "x": 12,
-                  "y": 32.41957548210582,
-                  "tooltip": "Beef S02 · Asia-28 downloaders · week 12 · 2026-07-03-to-2026-07-09 · 32.420% of world"
-                },
-                {
-                  "x": 13,
-                  "y": 30.90023769531931,
-                  "tooltip": "Beef S02 · Asia-28 downloaders · week 13 · 2026-07-10-to-2026-07-16 · 30.900% of world"
-                },
-                {
-                  "x": 14,
-                  "y": 29.53599290743068,
-                  "tooltip": "Beef S02 · Asia-28 downloaders · week 14 · 2026-07-17-to-2026-07-23 · 29.536% of world"
-                },
-                {
-                  "x": 15,
-                  "y": 26.537332988905778,
-                  "tooltip": "Beef S02 · Asia-28 downloaders · week 15 · 2026-07-24-to-2026-07-30 · 26.537% of world"
                 }
               ],
               "collection_key": "beef-02",
               "line_label": "beef-02"
             },
             {
-              "name": "No More Bets",
+              "name": "The Furious (2025)",
               "color": "#9b4318",
               "dash": "8 4",
               "points": [
                 {
                   "x": 1,
-                  "y": 24.57496136012365,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 1 · 2023-09-19-to-2023-09-25 · 24.575% of world"
+                  "y": 45.44949652494104,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 1 · 2026-07-07-to-2026-07-13-partial · 45.449% of world"
                 },
                 {
                   "x": 2,
-                  "y": 29.27794263105836,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 2 · 2023-09-26-to-2023-10-02-partial · 29.278% of world"
+                  "y": 40.18466996231029,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 2 · 2026-07-14-to-2026-07-20 · 40.185% of world"
                 },
                 {
                   "x": 3,
-                  "y": 27.351614022908713,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 3 · 2023-10-03-to-2023-10-09 · 27.352% of world"
+                  "y": 36.72038485743084,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 3 · 2026-07-21-to-2026-07-27 · 36.720% of world"
                 },
                 {
                   "x": 4,
-                  "y": 30.328151986183073,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 4 · 2023-10-10-to-2023-10-16 · 30.328% of world"
+                  "y": 34.441806152277714,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 4 · 2026-07-28-to-2026-08-03 · 34.442% of world"
                 },
                 {
                   "x": 5,
-                  "y": 26.561514195583594,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 5 · 2023-10-17-to-2023-10-23 · 26.562% of world"
+                  "y": 34.48843851703498,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 5 · 2026-08-04-to-2026-08-10 · 34.488% of world"
                 },
                 {
                   "x": 6,
-                  "y": 28.452380952380953,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 6 · 2023-10-24-to-2023-10-30 · 28.452% of world"
+                  "y": 33.2659067692899,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 6 · 2026-08-11-to-2026-08-17 · 33.266% of world"
                 },
                 {
                   "x": 7,
-                  "y": 23.48993288590604,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 7 · 2023-10-31-to-2023-11-06 · 23.490% of world"
+                  "y": 35.485457367067745,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 7 · 2026-08-18-to-2026-08-24 · 35.485% of world"
                 },
                 {
                   "x": 8,
-                  "y": 14.43377700196378,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 8 · 2023-11-07-to-2023-11-13 · 14.434% of world"
-                },
-                {
-                  "x": 9,
-                  "y": 20.554010915456697,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 9 · 2023-11-14-to-2023-11-20 · 20.554% of world"
-                },
-                {
-                  "x": 10,
-                  "y": 15.72842561088772,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 10 · 2023-11-21-to-2023-11-27 · 15.728% of world"
-                },
-                {
-                  "x": 11,
-                  "y": 20.423319717786853,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 11 · 2023-11-28-to-2023-12-04 · 20.423% of world"
-                },
-                {
-                  "x": 12,
-                  "y": 19.27643784786642,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 12 · 2023-12-05-to-2023-12-11 · 19.276% of world"
-                },
-                {
-                  "x": 13,
-                  "y": 20.287926445681105,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 13 · 2023-12-12-to-2023-12-18 · 20.288% of world"
-                },
-                {
-                  "x": 14,
-                  "y": 12.83598464070214,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 14 · 2023-12-19-to-2023-12-25 · 12.836% of world"
-                },
-                {
-                  "x": 15,
-                  "y": 12.305596015599304,
-                  "tooltip": "No More Bets · Asia-28 downloaders · week 15 · 2023-12-26-to-2024-01-01 · 12.306% of world"
+                  "y": 36.36277510750268,
+                  "tooltip": "The Furious (2025) · Asia-28 downloaders · week 8 · 2026-08-25-to-2026-08-31 · 36.363% of world"
                 }
               ],
-              "collection_key": "no-more-bets",
-              "line_label": "no-more-bets"
+              "collection_key": "furious-2025",
+              "line_label": "furious-2025"
             }
           ]
         },
@@ -2049,129 +1881,59 @@
                   "x": 8,
                   "y": 22.410172655156323,
                   "tooltip": "Beef S02 · USA uploaders · week 8 · 2026-06-05-to-2026-06-11 · 22.410% of world"
-                },
-                {
-                  "x": 9,
-                  "y": 22.502690789810877,
-                  "tooltip": "Beef S02 · USA uploaders · week 9 · 2026-06-12-to-2026-06-18 · 22.503% of world"
-                },
-                {
-                  "x": 10,
-                  "y": 21.090716061799792,
-                  "tooltip": "Beef S02 · USA uploaders · week 10 · 2026-06-19-to-2026-06-25 · 21.091% of world"
-                },
-                {
-                  "x": 11,
-                  "y": 21.949092318625233,
-                  "tooltip": "Beef S02 · USA uploaders · week 11 · 2026-06-26-to-2026-07-02 · 21.949% of world"
-                },
-                {
-                  "x": 12,
-                  "y": 21.556249356709095,
-                  "tooltip": "Beef S02 · USA uploaders · week 12 · 2026-07-03-to-2026-07-09 · 21.556% of world"
-                },
-                {
-                  "x": 13,
-                  "y": 23.805370834696028,
-                  "tooltip": "Beef S02 · USA uploaders · week 13 · 2026-07-10-to-2026-07-16 · 23.805% of world"
-                },
-                {
-                  "x": 14,
-                  "y": 23.259863084167623,
-                  "tooltip": "Beef S02 · USA uploaders · week 14 · 2026-07-17-to-2026-07-23 · 23.260% of world"
-                },
-                {
-                  "x": 15,
-                  "y": 21.090112298000548,
-                  "tooltip": "Beef S02 · USA uploaders · week 15 · 2026-07-24-to-2026-07-30 · 21.090% of world"
                 }
               ],
               "collection_key": "beef-02",
               "line_label": "beef-02"
             },
             {
-              "name": "No More Bets",
+              "name": "The Furious (2025)",
               "color": "#9b4318",
               "dash": "8 4",
               "points": [
                 {
                   "x": 1,
-                  "y": 1.2121212121212122,
-                  "tooltip": "No More Bets · USA uploaders · week 1 · 2023-09-19-to-2023-09-25 · 1.212% of world"
+                  "y": 7.731844640059637,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 1 · 2026-07-07-to-2026-07-13-partial · 7.732% of world"
                 },
                 {
                   "x": 2,
-                  "y": 3.8793103448275863,
-                  "tooltip": "No More Bets · USA uploaders · week 2 · 2023-09-26-to-2023-10-02-partial · 3.879% of world"
+                  "y": 6.288418213591303,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 2 · 2026-07-14-to-2026-07-20 · 6.288% of world"
                 },
                 {
                   "x": 3,
-                  "y": 5.2631578947368425,
-                  "tooltip": "No More Bets · USA uploaders · week 3 · 2023-10-03-to-2023-10-09 · 5.263% of world"
+                  "y": 6.263211244996592,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 3 · 2026-07-21-to-2026-07-27 · 6.263% of world"
                 },
                 {
                   "x": 4,
-                  "y": 5.538461538461538,
-                  "tooltip": "No More Bets · USA uploaders · week 4 · 2023-10-10-to-2023-10-16 · 5.538% of world"
+                  "y": 6.507052791409018,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 4 · 2026-07-28-to-2026-08-03 · 6.507% of world"
                 },
                 {
                   "x": 5,
-                  "y": 4.129793510324483,
-                  "tooltip": "No More Bets · USA uploaders · week 5 · 2023-10-17-to-2023-10-23 · 4.130% of world"
+                  "y": 6.597823759562416,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 5 · 2026-08-04-to-2026-08-10 · 6.598% of world"
                 },
                 {
                   "x": 6,
-                  "y": 8.962264150943396,
-                  "tooltip": "No More Bets · USA uploaders · week 6 · 2023-10-24-to-2023-10-30 · 8.962% of world"
+                  "y": 6.75836370112612,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 6 · 2026-08-11-to-2026-08-17 · 6.758% of world"
                 },
                 {
                   "x": 7,
-                  "y": 14.0,
-                  "tooltip": "No More Bets · USA uploaders · week 7 · 2023-10-31-to-2023-11-06 · 14.000% of world"
+                  "y": 6.331062398449303,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 7 · 2026-08-18-to-2026-08-24 · 6.331% of world"
                 },
                 {
                   "x": 8,
-                  "y": 20.614035087719298,
-                  "tooltip": "No More Bets · USA uploaders · week 8 · 2023-11-07-to-2023-11-13 · 20.614% of world"
-                },
-                {
-                  "x": 9,
-                  "y": 16.53846153846154,
-                  "tooltip": "No More Bets · USA uploaders · week 9 · 2023-11-14-to-2023-11-20 · 16.538% of world"
-                },
-                {
-                  "x": 10,
-                  "y": 17.35159817351598,
-                  "tooltip": "No More Bets · USA uploaders · week 10 · 2023-11-21-to-2023-11-27 · 17.352% of world"
-                },
-                {
-                  "x": 11,
-                  "y": 14.146341463414634,
-                  "tooltip": "No More Bets · USA uploaders · week 11 · 2023-11-28-to-2023-12-04 · 14.146% of world"
-                },
-                {
-                  "x": 12,
-                  "y": 13.777777777777779,
-                  "tooltip": "No More Bets · USA uploaders · week 12 · 2023-12-05-to-2023-12-11 · 13.778% of world"
-                },
-                {
-                  "x": 13,
-                  "y": 12.565445026178011,
-                  "tooltip": "No More Bets · USA uploaders · week 13 · 2023-12-12-to-2023-12-18 · 12.565% of world"
-                },
-                {
-                  "x": 14,
-                  "y": 9.278350515463918,
-                  "tooltip": "No More Bets · USA uploaders · week 14 · 2023-12-19-to-2023-12-25 · 9.278% of world"
-                },
-                {
-                  "x": 15,
-                  "y": 5.755395683453237,
-                  "tooltip": "No More Bets · USA uploaders · week 15 · 2023-12-26-to-2024-01-01 · 5.755% of world"
+                  "y": 6.169524154960032,
+                  "tooltip": "The Furious (2025) · USA uploaders · week 8 · 2026-08-25-to-2026-08-31 · 6.170% of world"
                 }
               ],
-              "collection_key": "no-more-bets",
-              "line_label": "no-more-bets"
+              "collection_key": "furious-2025",
+              "line_label": "furious-2025"
             }
           ]
         },
@@ -2225,129 +1987,59 @@
                   "x": 8,
                   "y": 13.362109192720485,
                   "tooltip": "Beef S02 · Asia-28 uploaders · week 8 · 2026-06-05-to-2026-06-11 · 13.362% of world"
-                },
-                {
-                  "x": 9,
-                  "y": 14.604582030649377,
-                  "tooltip": "Beef S02 · Asia-28 uploaders · week 9 · 2026-06-12-to-2026-06-18 · 14.605% of world"
-                },
-                {
-                  "x": 10,
-                  "y": 13.770849048696672,
-                  "tooltip": "Beef S02 · Asia-28 uploaders · week 10 · 2026-06-19-to-2026-06-25 · 13.771% of world"
-                },
-                {
-                  "x": 11,
-                  "y": 12.171328897215583,
-                  "tooltip": "Beef S02 · Asia-28 uploaders · week 11 · 2026-06-26-to-2026-07-02 · 12.171% of world"
-                },
-                {
-                  "x": 12,
-                  "y": 11.27388753559543,
-                  "tooltip": "Beef S02 · Asia-28 uploaders · week 12 · 2026-07-03-to-2026-07-09 · 11.274% of world"
-                },
-                {
-                  "x": 13,
-                  "y": 9.953123296631418,
-                  "tooltip": "Beef S02 · Asia-28 uploaders · week 13 · 2026-07-10-to-2026-07-16 · 9.953% of world"
-                },
-                {
-                  "x": 14,
-                  "y": 8.321791777135848,
-                  "tooltip": "Beef S02 · Asia-28 uploaders · week 14 · 2026-07-17-to-2026-07-23 · 8.322% of world"
-                },
-                {
-                  "x": 15,
-                  "y": 11.883241382008842,
-                  "tooltip": "Beef S02 · Asia-28 uploaders · week 15 · 2026-07-24-to-2026-07-30 · 11.883% of world"
                 }
               ],
               "collection_key": "beef-02",
               "line_label": "beef-02"
             },
             {
-              "name": "No More Bets",
+              "name": "The Furious (2025)",
               "color": "#9b4318",
               "dash": "8 4",
               "points": [
                 {
                   "x": 1,
-                  "y": 40.60606060606061,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 1 · 2023-09-19-to-2023-09-25 · 40.606% of world"
+                  "y": 49.43851713594695,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 1 · 2026-07-07-to-2026-07-13-partial · 49.439% of world"
                 },
                 {
                   "x": 2,
-                  "y": 55.172413793103445,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 2 · 2023-09-26-to-2023-10-02-partial · 55.172% of world"
+                  "y": 48.36379305300284,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 2 · 2026-07-14-to-2026-07-20 · 48.364% of world"
                 },
                 {
                   "x": 3,
-                  "y": 65.78947368421052,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 3 · 2023-10-03-to-2023-10-09 · 65.789% of world"
+                  "y": 50.313264349444566,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 3 · 2026-07-21-to-2026-07-27 · 50.313% of world"
                 },
                 {
                   "x": 4,
-                  "y": 68.92307692307692,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 4 · 2023-10-10-to-2023-10-16 · 68.923% of world"
+                  "y": 51.58770327663226,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 4 · 2026-07-28-to-2026-08-03 · 51.588% of world"
                 },
                 {
                   "x": 5,
-                  "y": 74.92625368731564,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 5 · 2023-10-17-to-2023-10-23 · 74.926% of world"
+                  "y": 52.32807116578748,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 5 · 2026-08-04-to-2026-08-10 · 52.328% of world"
                 },
                 {
                   "x": 6,
-                  "y": 70.75471698113208,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 6 · 2023-10-24-to-2023-10-30 · 70.755% of world"
+                  "y": 52.77255664849166,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 6 · 2026-08-11-to-2026-08-17 · 52.773% of world"
                 },
                 {
                   "x": 7,
-                  "y": 60.8,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 7 · 2023-10-31-to-2023-11-06 · 60.800% of world"
+                  "y": 54.32784128160543,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 7 · 2026-08-18-to-2026-08-24 · 54.328% of world"
                 },
                 {
                   "x": 8,
-                  "y": 43.85964912280702,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 8 · 2023-11-07-to-2023-11-13 · 43.860% of world"
-                },
-                {
-                  "x": 9,
-                  "y": 61.53846153846154,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 9 · 2023-11-14-to-2023-11-20 · 61.538% of world"
-                },
-                {
-                  "x": 10,
-                  "y": 60.273972602739725,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 10 · 2023-11-21-to-2023-11-27 · 60.274% of world"
-                },
-                {
-                  "x": 11,
-                  "y": 52.68292682926829,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 11 · 2023-11-28-to-2023-12-04 · 52.683% of world"
-                },
-                {
-                  "x": 12,
-                  "y": 60.44444444444444,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 12 · 2023-12-05-to-2023-12-11 · 60.444% of world"
-                },
-                {
-                  "x": 13,
-                  "y": 54.973821989528794,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 13 · 2023-12-12-to-2023-12-18 · 54.974% of world"
-                },
-                {
-                  "x": 14,
-                  "y": 63.91752577319588,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 14 · 2023-12-19-to-2023-12-25 · 63.918% of world"
-                },
-                {
-                  "x": 15,
-                  "y": 74.82014388489209,
-                  "tooltip": "No More Bets · Asia-28 uploaders · week 15 · 2023-12-26-to-2024-01-01 · 74.820% of world"
+                  "y": 60.40832554441081,
+                  "tooltip": "The Furious (2025) · Asia-28 uploaders · week 8 · 2026-08-25-to-2026-08-31 · 60.408% of world"
                 }
               ],
-              "collection_key": "no-more-bets",
-              "line_label": "no-more-bets"
+              "collection_key": "furious-2025",
+              "line_label": "furious-2025"
             }
           ]
         }
@@ -2390,7 +2082,7 @@
         "svg::make_marker_instance"
       ]
     },
-    "mellon-7.8-pair-beef-no-more-bets-weekly": {
+    "mellon-7.8-pair-beef-furious-weekly": {
       "library": "Izzi",
       "default_layout": "izzi-standard",
       "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",

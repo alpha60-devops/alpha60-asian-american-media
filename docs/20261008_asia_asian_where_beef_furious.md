@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Asian American Media: producer country and geographic comparisons"
+title: "Asian American Media and Asian-global: geographic comparisons"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "Beef and No More Bets by documented producer country, with 15-week geographic comparisons"
+description: "Reviewed USA Production rule; two 15-week pairs and Beef versus The Furious over eight weeks"
 ---
 
 {::nomarkdown}
@@ -16,91 +16,91 @@ description: "Beef and No More Bets by documented producer country, with 15-week
 
 [Asian American Media results](../index.html)
 
-# Asian American Media: producer country and geographic comparisons
+# Asian American Media and Asian-global: geographic comparisons
+
+> Historical eight-week Beef/Furious comparison. Production classifications are under review. See the [current producer-country comparison](asia-asian-where.html).
 
 ## Definition and scope
 
-This page compares observed downloader and uploader geography for selected media
-objects. **Beef S02 / No More Bets compares documented producer countries:
-United States and China.** Commissioner, platform and distributor countries are
-recorded separately. Netflix availability does not change a producer's country.
-
-All current pairs use **weeks 1–15** from the start of each object's sample.
-They match elapsed sampling time, not calendar dates. Beef is a television
-season sampled in 2026; No More Bets is a film sampled from 2023. These examples
-describe geographic differences; they do not isolate a production-country effect.
-
-### Producer-country evidence
-
-
-| Object | Documented producer country | Producer used for this comparison | Evidence |
-| --- | --- | --- | --- |
-| Beef S02 | United States | A24 | [Producer credit](https://www.netflix.com/tudum/articles/beef-season-2-renewal); [company country](https://a24films.com/privacy-policy) |
-| No More Bets | China | China Film Corporation (China Film Co., Ltd.) | [Producer credit](https://en.wikipedia.org/wiki/No_More_Bets); [company country](https://lei.bloomberg.com/leis/view/3003009UJKOPLIVUPE53) |
-
-
-These are documented producer relationships, not an exhaustive census of every
-coproducer, investor or distributor. The Chinese company record is dated 2022
-and its LEI renewal is lapsed; it supplies historical location evidence, not a
-current registration-status claim. The ledger retains the review date and scope.
-[No More Bets also has a Netflix listing](https://www.netflix.com/sg/title/81718925);
-that platform relationship belongs in the separate USA Production review.
-
-### AAM qualification is a separate measure
-
 [Asian American Media (AAM)](aam.html) requires confirmed membership in the
 expanded AAPI boundary, **Threshold 2** qualifying actor/primary-creator credits,
-and **USA Production**, with **no U.S.-citizenship minimum**. USA Production is
-true for a confirmed U.S. production company, commissioner or platform; retained
-U.S. production-country evidence also qualifies. See the [definition and Crew
-Girl example](https://alpha60-devops.github.io/alpha60-results/docs/platforms-distributors-ott-vendors.html#24-what-counts-as-a-usa-production-company).
+and **USA Production**. There is **no U.S.-citizenship minimum**.
+
+USA Production is true when a work has a confirmed U.S. production company,
+commissioner, or platform. Existing confirmed U.S. production-country evidence
+also qualifies. Provider country is separate from the work's origin and the
+location of its audience. See the [USA Production definition and Crew Girl
+example](https://alpha60-devops.github.io/alpha60-results/docs/platforms-distributors-ott-vendors.html#24-what-counts-as-a-usa-production-company).
 
 The expanded AAPI boundary includes reviewed Asian diaspora and Native
-Hawaiian/Pacific Islander qualifications. Geographic tables use **Asia-28**,
-including Macau and Taiwan. Neither identity qualifications nor producer country
-identify swarm participants or their citizenship.
+Hawaiian/Pacific Islander qualifications. The geographic tables use **Asia-28**,
+including Macau and Taiwan. Identity qualifications do not identify swarm
+participants or their citizenship.
 
-### Selected cases and review status
+## Selected geographic comparisons
 
-American Born Chinese / No More Bets and Shang-Chi / Vanguard remain descriptive
-geographic comparisons. New Netflix/Tubi evidence requires review of the frozen
-negative USA Production annotations. They are not cleared binary USA/non-USA
-controls. Both sides have confirmed identity qualifications and at least two
-qualifying credits; citizenship does not select these cases.
+The pairs compare AAM works with confirmed Asian-global works whose frozen
+USA Production values are No. Fresh company/platform evidence requires review
+for all three partners, so these remain geographic case comparisons, not
+verified USA versus non-USA Production contrasts. Both sides require at least two qualifying
+credits. The identity slices overlap; the production contrast is
+provisional pending the evidence review below. Citizenship counts are descriptive and do not select either side.
+A No value reflects available reviewed evidence, not an exhaustive audit of
+every distributor or territory.
+
+American Born Chinese / No More Bets and Shang-Chi / Vanguard use **weeks 1–15**.
+**Beef S02 / The Furious (2025) uses weeks 1–8**, the full eight-week prefix
+available for The Furious. Each pair matches elapsed sampling weeks, not
+calendar dates. The film's 2025 identifier is distinct from its 2026 sample year.
+The season-versus-film comparison also has different work scopes.
 
 
-| Object | USA Production (separate AAM rule) | Qualifying credits | Counted U.S. citizens (information only) | Credit scope alignment | Weeks |
+| Object | USA Production | Qualifying credits | Counted U.S. citizens (information only) | Selection | Weeks |
 | --- | --- | --- | --- | --- | --- |
-| American Born Chinese | Yes | 8 | 4 | broader_than_media_object | 1–15 |
-| No More Bets | Under review (snapshot: No) | 8 | 0 | exact | 1–15 |
-| Shang-Chi | Yes | 12 | 4 | exact | 1–15 |
-| Vanguard | Under review (snapshot: No) | 5 | 1 | exact | 1–15 |
-| Beef S02 | Yes | 11 | 9 | broader_than_media_object | 1–15 |
+| American Born Chinese | Yes | 8 | 4 | AAM | 1–15 |
+| No More Bets | Under review (snapshot: No) | 8 | 0 | Geographic case; production review pending | 1–15 |
+| Shang-Chi | Yes | 12 | 4 | AAM | 1–15 |
+| Vanguard | Under review (snapshot: No) | 5 | 1 | Geographic case; production review pending | 1–15 |
+| Beef S02 | Yes | 11 | 9 | AAM | 1–8 |
+| The Furious (2025) | Under review (snapshot: No) | 6 | 0 | Geographic case; production review pending | 1–8 |
 
 
 Qualifying credits count distinct actors plus person/primary-creator-role pairs;
-they need not equal distinct people. Beef's reviewed credits cover the wider
-series. The ledger retains that scope limitation and unresolved evidence.
-No More Bets appears in two pairs; it is one work, not two independent controls.
+they need not equal distinct people. Credit scope and unresolved evidence are
+retained in the ledger. These selected cases do not establish a causal production
+or citizenship effect, or describe the complete AAM and Asian-global populations.
+
+**Other comparator reviews:** [No More Bets has a Netflix title page](https://www.netflix.com/sg/title/81718925).
+[Vanguard has Netflix](https://www.netflix.com/title/81446009) and
+[Tubi](https://tubitv.com/movies/100002856/vanguard) listings, currently reporting
+regional unavailability. These establish evidence to review, not availability
+throughout the historical sample. Their platform relationship and applicable
+dates must be reconciled before treating either work as a non-USA control.
+
+Beef/Furious replaces Beef/Lazarus: Lazarus qualifies as USA Production through
+Adult Swim, so Beef and Lazarus are both in the current AAM roster. The
+[earlier comparison](20261008_asia_asian_where_before_usa_production.html)
+retains the historical country-of-origin proxy and citizenship thresholds.
 The published AAM roster remains **197 works**.
 
-The [earlier Beef/Furious comparison](20261008_asia_asian_where_beef_furious.html)
-retains its eight-week window. XYZ Films producer evidence requires review;
-Furious is not a verified non-U.S. producer control. The [September study](20261008_asia_asian_where_before_usa_production.html)
-retains Beef/Lazarus and its historical selection. Lazarus now qualifies for AAM
-through Adult Swim.
+**The Furious production review:** its frozen metadata says No, but the
+canonical production tags include XYZ Films and [Leitz's production credits](https://www.leitz-cine.com/production/the-furious-2025)
+name XYZ Films as a producer. The [company's title page](https://www.xyzfilms.com/the-furious)
+also lists the film. Until the company-country relationship is reconciled,
+Furious must not be used as a confirmed non-USA Production control. The numeric
+Beef/Furious comparison below remains a description of observed geography.
 
 ### What the comparisons show
 
 - **American Born Chinese / No More Bets (weeks 1–15):** USA downloader shares **19.24% versus 4.00%**; Asia-28 downloader shares **15.73% versus 18.76%**.
 - **Shang-Chi / Vanguard (weeks 1–15):** USA downloader shares **6.64% versus 22.73%**; Asia-28 downloader shares **34.07% versus 31.11%**.
-- **Beef S02 / No More Bets (weeks 1–15):** USA downloader shares **6.64% versus 4.00%**; Asia-28 downloader shares **28.71% versus 18.76%**.
+- **Beef S02 / The Furious (2025) (weeks 1–8):** USA downloader shares **6.85% versus 6.45%**; Asia-28 downloader shares **26.50% versus 36.99%**.
 
-Year, genre, work scope, torrent inventories and network classifications remain confounded. These selected cases do not represent complete producer-country populations.
+Compare shares within each pair; the shorter Beef/Furious window is not equivalent to the other 15-week totals. Country, year, genre, work scope, torrent inventories and network classifications remain confounded.
 
 **Asia-28:** `AFG BGD BRN BTN CHN HKG IDN IND IRN JPN KHM KOR LAO LKA MAC MDV MMR MNG MYS NPL PAK PHL PRK SGP THA TLS TWN VNM`.
 
-Reviewed metadata: [pinned report](https://github.com/alpha60-devops/alpha60-swarm-metadata/blob/d6e875b9fc5c4222c3e3db7b242ad63331a3c861/reports/candidates/h15-v3.generated.json), definition `h15-round3-20261008-v7`. The [pair ledger](../data/mellon-7.8-pairs.json) retains producer evidence, separate AAM qualification, sampling windows and source hashes.
+Reviewed metadata: [pinned report](https://github.com/alpha60-devops/alpha60-swarm-metadata/blob/d6e875b9fc5c4222c3e3db7b242ad63331a3c861/reports/candidates/h15-v3.generated.json), definition `h15-round3-20261008-v7`. The [pair ledger](../data/mellon-7.8-pairs-beef-furious-20261008.json) includes the approved production rule, qualifying evidence, per-pair windows and source hashes.
 
 ## American Born Chinese versus No More Bets
 
@@ -280,31 +280,31 @@ Sources for **Shang-Chi**: [metadata](https://github.com/alpha60-devops/alpha60-
 
 Sources for **Vanguard**: [metadata](https://github.com/alpha60-devops/alpha60-results-2020/blob/8045ba9fc6f91e4af4ca0b3cee43a183656e116a/data/json/vanguard-cumulative.json), [audit](https://github.com/alpha60-devops/alpha60-results-2020/blob/8045ba9fc6f91e4af4ca0b3cee43a183656e116a/docs/itemized/vanguard-sample-cache-audit.md), [first weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2020/blob/8045ba9fc6f91e4af4ca0b3cee43a183656e116a/data/geojson.week/vanguard-week-00001.geojson.gz). Every interval filename and SHA-256 is in the pair ledger.
 
-## Beef S02 versus No More Bets
+## Beef S02 versus The Furious (2025)
 
 
 | Object | Compared calendar period | World downloaders | World uploaders | Export / geolocation version |
 | --- | --- | --- | --- | --- |
-| Beef S02 | 2026-04-17 to 2026-07-30 | 28,296,690 | 865,699 | `2026-08-05` / `6:1777968300` |
-| No More Bets | 2023-09-19 to 2024-01-01 | 94,199 | 4,218 | `2026-08-05` / `6:1777968300` |
+| Beef S02 | 2026-04-17 to 2026-06-11 | 14,280,845 | 652,432 | `2026-08-05` / `6:1777968300` |
+| The Furious (2025) | 2026-07-07 to 2026-08-31 | 11,186,607 | 1,920,719 | `2026-08-05` / `6:1777968300` |
 
 
 | Object | Region / role | Weight | World share | World share excluding hosting | Mobile rate | Hosting rate | VPN rate |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Beef S02 | USA / downloaders | 1,878,917 | 6.64% | 4.14% | 2.60% | 48.19% | 30.09% |
-| No More Bets | USA / downloaders | 3,767 | 4.00% | 2.06% | 0.53% | 55.32% | 7.46% |
-| Beef S02 | Asia-28 / downloaders | 8,124,571 | 28.71% | 32.82% | 3.00% | 4.94% | 2.84% |
-| No More Bets | Asia-28 / downloaders | 17,671 | 18.76% | 19.82% | 3.88% | 8.47% | 2.35% |
-| Beef S02 | USA / uploaders | 177,510 | 20.50% | 8.93% | 2.58% | 74.68% | 53.25% |
-| No More Bets | USA / uploaders | 400 | 9.48% | 1.42% | 0.00% | 89.00% | 8.50% |
-| Beef S02 | Asia-28 / uploaders | 112,151 | 12.95% | 19.13% | 8.27% | 14.17% | 9.44% |
-| No More Bets | Asia-28 / uploaders | 2,685 | 63.66% | 77.91% | 5.81% | 10.17% | 3.05% |
+| Beef S02 | USA / downloaders | 978,309 | 6.85% | 4.01% | 2.64% | 51.31% | 34.61% |
+| The Furious (2025) | USA / downloaders | 721,932 | 6.45% | 3.51% | 4.27% | 53.74% | 34.35% |
+| Beef S02 | Asia-28 / downloaders | 3,783,813 | 26.50% | 30.21% | 3.15% | 5.24% | 3.15% |
+| The Furious (2025) | Asia-28 / downloaders | 4,137,441 | 36.99% | 42.10% | 9.91% | 3.10% | 1.97% |
+| Beef S02 | USA / uploaders | 130,283 | 19.97% | 8.27% | 2.78% | 75.54% | 54.22% |
+| The Furious (2025) | USA / uploaders | 127,740 | 6.65% | 2.92% | 6.34% | 60.92% | 41.67% |
+| Beef S02 | Asia-28 / uploaders | 86,590 | 13.27% | 19.53% | 8.52% | 13.12% | 9.38% |
+| The Furious (2025) | Asia-28 / uploaders | 987,556 | 51.42% | 56.78% | 10.93% | 1.58% | 1.54% |
 
 
 {::nomarkdown}
 <figure class="analysis-figure">
-{% include mellon-7.8-pair-beef-no-more-bets-weekly.svg %}
-<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Weeks 1–15. Each point uses that interval’s worldwide total for the same role. Asia includes TWN; no ITU multiplier is needed for within-object shares. <a href="../resources/mellon-7.8-pair-beef-no-more-bets-weekly.svg">Download SVG</a>.</figcaption>
+{% include mellon-7.8-pair-beef-furious-weekly.svg %}
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Weeks 1–8. Each point uses that interval’s worldwide total for the same role. Asia includes TWN; no ITU multiplier is needed for within-object shares. <a href="../resources/mellon-7.8-pair-beef-furious-weekly.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -312,53 +312,53 @@ Sources for **Vanguard**: [metadata](https://github.com/alpha60-devops/alpha60-r
 
 ### Coverage check
 
-Drop flagged or audit-gap-affected indices from both partners. Excluded: **1, 2, 11**. Retained: **3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15**. This is a diagnostic subset of the approved window; absent sampling hours are not imputed.
+Drop flagged or audit-gap-affected indices from both partners. Excluded: **1, 7, 8**. Retained: **2, 3, 4, 5, 6**. This is a diagnostic subset of the approved window; absent sampling hours are not imputed.
 
 | Object | Region | Full-window downloader share | Retained-week downloader share |
 | --- | --- | --- | --- |
-| Beef S02 | USA | 6.64% | 6.43% |
-| Beef S02 | Asia-28 | 28.71% | 29.02% |
-| No More Bets | USA | 4.00% | 3.98% |
-| No More Bets | Asia-28 | 18.76% | 18.36% |
+| Beef S02 | USA | 6.85% | 6.76% |
+| Beef S02 | Asia-28 | 26.50% | 27.47% |
+| The Furious (2025) | USA | 6.45% | 6.22% |
+| The Furious (2025) | Asia-28 | 36.99% | 35.97% |
 
 
 **Beef S02 audit:** Hourly discontinuities: 0 (0 missing hours); Missing days: 0 Full-sample notes can include dates beyond the comparison; the sensitivity uses only overlapping dates.
 
-**No More Bets audit:** Hourly discontinuities: 2 (25 missing hours); Missing days: 0; hourly gap: last `2023-12-01 22:00`, resumed `2023-12-02 23:00` — missing 24 hour(s); hourly gap: last `2024-03-31 01:00`, resumed `2024-03-31 03:00` — missing 1 hour(s) Full-sample notes can include dates beyond the comparison; the sensitivity uses only overlapping dates.
+**The Furious (2025) audit:** Hourly discontinuities: 2 (2 missing hours); Missing days: 0; hourly gap: last `2026-08-24 22:06`, resumed `2026-08-25 00:06` — missing 1 hour(s); hourly gap: last `2026-08-30 22:06`, resumed `2026-08-31 00:06` — missing 1 hour(s) Full-sample notes can include dates beyond the comparison; the sensitivity uses only overlapping dates.
 
 <details markdown="1"><summary>All ten fields, both roles: world, USA and Asia-28</summary>
 
 
 ### Downloaders
 
-| Field | Beef S02 / World | Beef S02 / USA | Beef S02 / Asia-28 | No More Bets / World | No More Bets / USA | No More Bets / Asia-28 |
+| Field | Beef S02 / World | Beef S02 / USA | Beef S02 / Asia-28 | The Furious (2025) / World | The Furious (2025) / USA | The Furious (2025) / Asia-28 |
 | --- | --- | --- | --- | --- | --- | --- |
-| size | 28,296,690 | 1,878,917 (6.64%) | 8,124,571 (28.71%) | 94,199 | 3,767 (4.00%) | 17,671 (18.76%) |
-| mobile | 1,109,169 | 48,814 (4.40%) | 243,803 (21.98%) | 3,802 | 20 (0.53%) | 685 (18.02%) |
-| satellite | 24,096 | 4,197 (17.42%) | 842 (3.49%) | 21 | 4 (19.05%) | 1 (4.76%) |
-| tor | 11,193 | 1,778 (15.88%) | 203 (1.81%) | 5 | 0 (0.00%) | 0 (0.00%) |
-| tor_exit_nodes | 3,600 | 7 (0.19%) | 39 (1.08%) | 6 | 0 (0.00%) | 0 (0.00%) |
-| vpn | 2,579,344 | 565,409 (21.92%) | 230,909 (8.95%) | 3,011 | 281 (9.33%) | 415 (13.78%) |
-| relay | 27,968 | 4,124 (14.75%) | 6,815 (24.37%) | 28 | 5 (17.86%) | 15 (53.57%) |
-| proxy | 25,193 | 443 (1.76%) | 2,908 (11.54%) | 170 | 1 (0.59%) | 10 (5.88%) |
-| hosting | 4,761,676 | 905,438 (19.02%) | 401,072 (8.42%) | 12,612 | 2,084 (16.52%) | 1,497 (11.87%) |
-| service | 2,000,723 | 536,024 (26.79%) | 93,408 (4.67%) | 1,746 | 266 (15.23%) | 250 (14.32%) |
+| size | 14,280,845 | 978,309 (6.85%) | 3,783,813 (26.50%) | 11,186,607 | 721,932 (6.45%) | 4,137,441 (36.99%) |
+| mobile | 571,061 | 25,797 (4.52%) | 119,348 (20.90%) | 1,031,690 | 30,829 (2.99%) | 409,944 (39.74%) |
+| satellite | 13,431 | 2,187 (16.28%) | 453 (3.37%) | 46,150 | 2,385 (5.17%) | 4,360 (9.45%) |
+| tor | 5,562 | 878 (15.79%) | 118 (2.12%) | 5,320 | 479 (9.00%) | 92 (1.73%) |
+| tor_exit_nodes | 1,999 | 7 (0.35%) | 26 (1.30%) | 1,858 | 43 (2.31%) | 11 (0.59%) |
+| vpn | 1,388,681 | 338,565 (24.38%) | 119,312 (8.59%) | 963,220 | 247,962 (25.74%) | 81,493 (8.46%) |
+| relay | 18,164 | 2,554 (14.06%) | 5,416 (29.82%) | 32,391 | 2,537 (7.83%) | 11,688 (36.08%) |
+| proxy | 12,841 | 211 (1.64%) | 1,314 (10.23%) | 9,434 | 296 (3.14%) | 1,253 (13.28%) |
+| hosting | 2,413,645 | 502,015 (20.80%) | 198,433 (8.22%) | 1,662,619 | 387,944 (23.33%) | 128,263 (7.71%) |
+| service | 1,106,812 | 322,543 (29.14%) | 53,339 (4.82%) | 802,735 | 236,681 (29.48%) | 45,409 (5.66%) |
 
 
 ### Uploaders
 
-| Field | Beef S02 / World | Beef S02 / USA | Beef S02 / Asia-28 | No More Bets / World | No More Bets / USA | No More Bets / Asia-28 |
+| Field | Beef S02 / World | Beef S02 / USA | Beef S02 / Asia-28 | The Furious (2025) / World | The Furious (2025) / USA | The Furious (2025) / Asia-28 |
 | --- | --- | --- | --- | --- | --- | --- |
-| size | 865,699 | 177,510 (20.50%) | 112,151 (12.95%) | 4,218 | 400 (9.48%) | 2,685 (63.66%) |
-| mobile | 71,028 | 4,575 (6.44%) | 9,273 (13.06%) | 271 | 0 (0.00%) | 156 (57.56%) |
-| satellite | 3,431 | 567 (16.53%) | 134 (3.91%) | 8 | 0 (0.00%) | 0 (0.00%) |
-| tor | 790 | 125 (15.82%) | 9 (1.14%) | 0 | 0 (—) | 0 (—) |
-| tor_exit_nodes | 355 | 1 (0.28%) | 0 (0.00%) | 0 | 0 (—) | 0 (—) |
-| vpn | 285,494 | 94,526 (33.11%) | 10,592 (3.71%) | 257 | 34 (13.23%) | 82 (31.91%) |
-| relay | 5,130 | 1,315 (25.63%) | 1,711 (33.35%) | 10 | 1 (10.00%) | 9 (90.00%) |
-| proxy | 1,911 | 4 (0.21%) | 42 (2.20%) | 81 | 0 (0.00%) | 0 (0.00%) |
-| hosting | 362,599 | 132,569 (36.56%) | 15,889 (4.38%) | 1,122 | 356 (31.73%) | 273 (24.33%) |
-| service | 277,925 | 93,305 (33.57%) | 11,279 (4.06%) | 221 | 32 (14.48%) | 64 (28.96%) |
+| size | 652,432 | 130,283 (19.97%) | 86,590 (13.27%) | 1,920,719 | 127,740 (6.65%) | 987,556 (51.42%) |
+| mobile | 54,110 | 3,621 (6.69%) | 7,374 (13.63%) | 274,564 | 8,097 (2.95%) | 107,956 (39.32%) |
+| satellite | 2,505 | 370 (14.77%) | 76 (3.03%) | 18,477 | 518 (2.80%) | 1,788 (9.68%) |
+| tor | 620 | 79 (12.74%) | 9 (1.45%) | 328 | 45 (13.72%) | 0 (0.00%) |
+| tor_exit_nodes | 236 | 1 (0.42%) | 0 (0.00%) | 166 | 8 (4.82%) | 0 (0.00%) |
+| vpn | 213,810 | 70,639 (33.04%) | 8,118 (3.80%) | 161,999 | 53,231 (32.86%) | 15,191 (9.38%) |
+| relay | 3,798 | 832 (21.91%) | 1,559 (41.05%) | 7,956 | 517 (6.50%) | 3,378 (42.46%) |
+| proxy | 1,634 | 4 (0.24%) | 22 (1.35%) | 1,335 | 37 (2.77%) | 119 (8.91%) |
+| hosting | 267,201 | 98,414 (36.83%) | 11,362 (4.25%) | 209,016 | 77,815 (37.23%) | 15,605 (7.47%) |
+| service | 208,379 | 69,587 (33.39%) | 8,905 (4.27%) | 148,925 | 51,972 (34.90%) | 10,659 (7.16%) |
 
 
 Each parenthesized percentage divides by the worldwide total of that **same field and role**, not worldwide size. Flag rates in the earlier table use regional size. A zero denominator is shown as an em dash.
@@ -367,7 +367,7 @@ Each parenthesized percentage divides by the worldwide total of that **same fiel
 
 Sources for **Beef S02**: [metadata](https://github.com/alpha60-devops/alpha60-results-2026/blob/1829a056d827cdf54c716a681e8d3a16a0944e7c/data/json/beef-02-cumulative.json), [audit](https://github.com/alpha60-devops/alpha60-results-2026/blob/1829a056d827cdf54c716a681e8d3a16a0944e7c/docs/itemized/beef-02-sample-cache-audit.md), [first weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2026/blob/1829a056d827cdf54c716a681e8d3a16a0944e7c/data/geojson.week/beef-02-week-00001.geojson.gz). Every interval filename and SHA-256 is in the pair ledger.
 
-Sources for **No More Bets**: [metadata](https://github.com/alpha60-devops/alpha60-results-2023/blob/188eac9b11645cc48caa174c7785c554bf972402/data/json/no-more-bets-cumulative.json), [audit](https://github.com/alpha60-devops/alpha60-results-2023/blob/188eac9b11645cc48caa174c7785c554bf972402/docs/itemized/no-more-bets-sample-cache-audit.md), [first weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2023/blob/188eac9b11645cc48caa174c7785c554bf972402/data/geojson.week/no-more-bets-week-00001.geojson.gz). Every interval filename and SHA-256 is in the pair ledger.
+Sources for **The Furious (2025)**: [metadata](https://github.com/alpha60-devops/alpha60-results-2026/blob/1829a056d827cdf54c716a681e8d3a16a0944e7c/data/json/furious-2025-cumulative.json), [audit](https://github.com/alpha60-devops/alpha60-results-2026/blob/1829a056d827cdf54c716a681e8d3a16a0944e7c/docs/itemized/furious-2025-sample-cache-audit.md), [first weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2026/blob/1829a056d827cdf54c716a681e8d3a16a0944e7c/data/geojson.week/furious-2025-week-00001.geojson.gz). Every interval filename and SHA-256 is in the pair ledger.
 
 ## Matched-pair methods and reproduction
 
@@ -387,10 +387,10 @@ Year and geolocation-pipeline differences remain limitations even with matched
 week prefixes. The linked historical pilot uses cumulative products and a
 different Asia boundary; its numbers are not interchangeable with these results.
 
-The weekly graphs use native Izzi line and marker APIs; [series and renderer provenance](../data/mellon-7.8-pair-weekly-graphs.json), the [C++ renderer](../resources/mellon-7.8-pair-weekly-graphs.cc) and [Python wrapper](../resources/izzi_weekly_graphs.py) are retained.
+The weekly graphs use native Izzi line and marker APIs; [series and renderer provenance](../data/mellon-7.8-pair-weekly-graphs-beef-furious-20261008.json), the [C++ renderer](../resources/mellon-7.8-pair-weekly-graphs.cc) and [Python wrapper](../resources/izzi_weekly_graphs.py) are retained.
 
-Download the [pair ledger](../data/mellon-7.8-pairs.json),
-[pair reduction script](../resources/mellon-7.8-pairs.py) and
+Download the [pair ledger](../data/mellon-7.8-pairs-beef-furious-20261008.json),
+[pair reduction script](../resources/mellon-7.8-pairs-beef-furious-20261008.py) and
 [shared aggregation helper](../resources/mellon-7.6-analyze.py).
 Place both scripts in one directory and run the pair script with
 `--source-root /path/to/checkouts --metadata-root /path/to/alpha60-swarm-metadata
